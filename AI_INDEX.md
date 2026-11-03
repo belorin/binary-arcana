@@ -62,8 +62,8 @@
 
 ## 대국 기록
 
-- **[대국 기준 상태 — 큰 건넘의 계승](wiki/rival-gc-state.md)** · 별칭: 대국 기준 상태, S2 · 수정: 2026-11-03 · 상태: S2 · 셋째 물때
-  - T06 판정으로 갱신한 셋째 물때 시작의 공통 기준 상태 S2. 여전히 열리지 않은 맞섬 셋과 한 물때의 기한, 회맹 공개 상황, 개인별 실제 인식, 제3세력의 독립 진상 및 위험을 기록.
+- **[대국 기준 상태 — 큰 건넘의 계승](wiki/rival-gc-state.md)** · 별칭: 대국 기준 상태, S3, 큰 건넘 최종 상태 · 수정: 2026-11-03 · 상태: S3 · 최종 종료
+  - 마지막 물때의 최종 세계 상태 S3. 큰 건넘 한 번 협소 개방·건넌 한 사람과 두 꾸러미·재폐쇄, 정식 지기 없음, 세오·윤다 손상과 제3세력 결과, 여섯 목표 결산.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-state/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-state.md)
 - **[T02 — 윤다의 첫째 물때 행동 선언](wiki/rival-gc-t02-yunda.md)** · 별칭: 윤다 첫 턴, T02 윤다 선언 · 수정: 2026-11-03 · 상태: 선언 확정 · 미판정
   - 기준 상태 S0에서 세오의 비공개 선언을 보지 않고 확정한 윤다의 첫째 물때 행동. 오린 협상, 젊은 여울의 대리인 점검, 회맹에 승계·왕래 분리 문구 제안을 선언하며 결과는 T03에 맡긴다.
@@ -89,6 +89,9 @@
 - **[셋째 물때 선언 — 세오 쪽 (T07)](wiki/rival-gc-t07-seo.md)** · 별칭: T07 · 수정: 2026-11-03 · 상태: 확정 선언
   - Claude가 세오 쪽으로 낸 마지막 물때의 비공개 선언. 윤다에게 섬의 일을 털어놓기, 회맹에 이번 철의 길 열기 제안, 두 태양이 가까워지는 날 섬으로 가기.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t07-seo/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t07-seo.md)
+- **[T09 — 마지막 물때의 세계 판정과 결말: 한 사람의 폭](wiki/rival-gc-t09-world.md)** · 별칭: T09, 큰 건넘의 계승 결말, 마지막 물때의 세계 판정 · 수정: 2026-11-03 · 상태: 최종 판정 · 대국 종료
+  - 큰 건넘의 계승 최종 T09. 셋째 물때에서 맞섬 0회·정식 지기 승자 없음, 세오의 관계 계승과 단 한 사람만 건넌 협소 개방, 독점 없는 구호, 제3세력과 여섯 목표 판정 및 결말 소설.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t09-world/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t09-world.md)
 
 ## 운영 원칙
 

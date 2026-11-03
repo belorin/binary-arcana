@@ -50,7 +50,7 @@
 
 ### 대국 기록
 
-- [대국 기준 상태 — 큰 건넘의 계승](https://belorin.github.io/binary-arcana/notes/rival-gc-state/): T06 판정으로 갱신한 셋째 물때 시작의 공통 기준 상태 S2. 여전히 열리지 않은 맞섬 셋과 한 물때의 기한, 회맹 공개 상황, 개인별 실제 인식, 제3세력의 독립 진상 및 위험을 기록.
+- [대국 기준 상태 — 큰 건넘의 계승](https://belorin.github.io/binary-arcana/notes/rival-gc-state/): 마지막 물때의 최종 세계 상태 S3. 큰 건넘 한 번 협소 개방·건넌 한 사람과 두 꾸러미·재폐쇄, 정식 지기 없음, 세오·윤다 손상과 제3세력 결과, 여섯 목표 결산.
 - [T02 — 윤다의 첫째 물때 행동 선언](https://belorin.github.io/binary-arcana/notes/rival-gc-t02-yunda/): 기준 상태 S0에서 세오의 비공개 선언을 보지 않고 확정한 윤다의 첫째 물때 행동. 오린 협상, 젊은 여울의 대리인 점검, 회맹에 승계·왕래 분리 문구 제안을 선언하며 결과는 T03에 맡긴다.
 - [첫째 물때 선언 — 세오 쪽 (T01)](https://belorin.github.io/binary-arcana/notes/rival-gc-t01-seo/): Claude가 세오 쪽으로 낸 첫째 물때의 비공개 선언. 섬의 호수 밑 돌 찾기, 회맹의 장소·문구 협상, 오린에게 사람 보내기와 세오 쪽 목표.
 - [T03 — 첫째 물때의 세계 판정과 제3세력](https://belorin.github.io/binary-arcana/notes/rival-gc-t03-world/): 큰 건넘의 계승 첫째 물때에 대한 중립 판정. 세오·윤다의 행동 결과, 테살·가뮌·오린·비엘라·일족의 독립 행동, 진영별 인식, 장면과 S1로 이어지는 조건.
@@ -59,6 +59,7 @@
 - [T06 — 둘째 물때의 세계 판정과 제3세력](https://belorin.github.io/binary-arcana/notes/rival-gc-t06-world/): 큰 건넘 둘째 물때의 중립 판정. 첫 맞섬 불성립의 근거표, 회맹과 서신 증언, 세오 섬 조사, 윤다 후보지 조사, 오린·테살·가뮌·비엘라·일족의 움직임, 필요한 장면과 인식 장부.
 - [T08 — 윤다의 셋째 물때 최종 행동 선언](https://belorin.github.io/binary-arcana/notes/rival-gc-t08-yunda/): S2의 셋째 물때에 세오의 T07을 보지 않고 윤다가 스스로 첫 맞섬 대리인 출전을 청원하고 호숫가에서 개인 관계를 시험하며, 승패와 무관하게 젊은 여울의 자발적 구호 물자를 모으게 하는 최종 선언. 결과는 T09 판정에 맡긴다.
 - [셋째 물때 선언 — 세오 쪽 (T07)](https://belorin.github.io/binary-arcana/notes/rival-gc-t07-seo/): Claude가 세오 쪽으로 낸 마지막 물때의 비공개 선언. 윤다에게 섬의 일을 털어놓기, 회맹에 이번 철의 길 열기 제안, 두 태양이 가까워지는 날 섬으로 가기.
+- [T09 — 마지막 물때의 세계 판정과 결말: 한 사람의 폭](https://belorin.github.io/binary-arcana/notes/rival-gc-t09-world/): 큰 건넘의 계승 최종 T09. 셋째 물때에서 맞섬 0회·정식 지기 승자 없음, 세오의 관계 계승과 단 한 사람만 건넌 협소 개방, 독점 없는 구호, 제3세력과 여섯 목표 판정 및 결말 소설.
 
 ### 운영 원칙
 
