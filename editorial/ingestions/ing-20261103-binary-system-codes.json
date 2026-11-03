@@ -32,12 +32,16 @@
     {
       "id": "k03",
       "kind": "fact",
-      "title": "여섯 행성의 궤도·환경과 사람의 자리, 인류의 기원은 대의문으로 남김",
+      "title": "여섯 행성의 궤도와 물리 조건, 행성마다 사람이 아는 곳은 한 귀퉁이뿐임",
       "status": "integrated",
       "targets": [
         {
           "doc_id": "binary-system",
           "section": "여섯 행성"
+        },
+        {
+          "doc_id": "binary-system",
+          "section": "행성은 하나의 그림이 아니다"
         }
       ]
     },
@@ -56,12 +60,12 @@
     {
       "id": "k05",
       "kind": "fact",
-      "title": "P3의 큰 땅 넷과 바다 둘, 기존 장소의 코드 대응",
+      "title": "P3의 알려진 큰 땅 넷과 바다 둘, 기존 장소의 코드 대응",
       "status": "integrated",
       "targets": [
         {
           "doc_id": "space-codes",
-          "section": "P3 물마루"
+          "section": "P3 누리"
         },
         {
           "doc_id": "space-codes",
