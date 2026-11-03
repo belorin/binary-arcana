@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 166,
+  "edge_count": 194,
   "edges": [
     {
       "from": "grand-questions",
@@ -134,6 +134,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "causal-roleplay",
+      "to": "multi-ai-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "causal-roleplay",
+      "to": "scene-fiction-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "start-here",
       "to": "grand-questions",
       "type": "related_to",
@@ -520,6 +532,12 @@
     {
       "from": "knowledge-horizons",
       "to": "rival-gc-retrospective",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-horizons",
+      "to": "multi-ai-roleplay",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -622,6 +640,18 @@
     {
       "from": "rival-play",
       "to": "rival-gc-retrospective",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-play",
+      "to": "multi-ai-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-play",
+      "to": "scene-fiction-principles",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -916,6 +946,18 @@
     {
       "from": "rival-gc-t09-world",
       "to": "rival-gc-retrospective",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-t09-world",
+      "to": "rival-gc-finale-fiction",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-t09-world",
+      "to": "scene-fiction-principles",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -974,6 +1016,24 @@
       "basis": "manifest.related"
     },
     {
+      "from": "rival-gc-retrospective",
+      "to": "multi-ai-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-retrospective",
+      "to": "scene-fiction-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-retrospective",
+      "to": "rival-gc-finale-fiction",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "rival-character-principles",
       "to": "rival-gc-retrospective",
       "type": "related_to",
@@ -994,6 +1054,114 @@
     {
       "from": "rival-character-principles",
       "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-character-principles",
+      "to": "multi-ai-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "multi-ai-roleplay",
+      "to": "rival-play",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "multi-ai-roleplay",
+      "to": "rival-character-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "multi-ai-roleplay",
+      "to": "rival-gc-retrospective",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "multi-ai-roleplay",
+      "to": "scene-fiction-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "multi-ai-roleplay",
+      "to": "rival-gc-finale-fiction",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "multi-ai-roleplay",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "multi-ai-roleplay",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "scene-fiction-principles",
+      "to": "multi-ai-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "scene-fiction-principles",
+      "to": "rival-gc-finale-fiction",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "scene-fiction-principles",
+      "to": "rival-gc-t09-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "scene-fiction-principles",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "scene-fiction-principles",
+      "to": "rival-gc-retrospective",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-finale-fiction",
+      "to": "rival-gc-t09-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-finale-fiction",
+      "to": "rival-gc-state",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-finale-fiction",
+      "to": "scene-fiction-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-finale-fiction",
+      "to": "multi-ai-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-finale-fiction",
+      "to": "scenario-great-crossing",
       "type": "related_to",
       "basis": "manifest.related"
     },

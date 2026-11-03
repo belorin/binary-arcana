@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 29,
+  "document_count": 32,
   "documents": [
     {
       "id": "grand-questions",
@@ -104,7 +104,9 @@
         "story-state",
         "scenario-great-crossing",
         "rival-play",
-        "rival-gc-retrospective"
+        "rival-gc-retrospective",
+        "multi-ai-roleplay",
+        "scene-fiction-principles"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/causal-roleplay.md",
@@ -455,7 +457,8 @@
         "magic-as-practice",
         "scenario-great-crossing",
         "rival-play",
-        "rival-gc-retrospective"
+        "rival-gc-retrospective",
+        "multi-ai-roleplay"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/knowledge-horizons.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/knowledge-horizons.md",
@@ -541,9 +544,9 @@
         "롤플레잉",
         "판정"
       ],
-      "summary": "Claude(세오)와 GPT(윤다)가 같은 기준 상태에서 비공개로 행동을 선언하고, 별도 GPT 채팅이 제3세력과 세계를 움직이며 중립 판정하는 세력 대국의 확정 규칙.",
+      "summary": "첫 세력 대국 T01–T09에 적용한 확정 규칙의 역사적 기록. 이후 새 다수 AI 대국에는 multi-ai-roleplay 제2판을 우선 적용한다.",
       "review_state": "unassessed",
-      "review_label": "확정",
+      "review_label": "첫 대국 확정 규칙 · 역사적 기록",
       "last_updated_on": "2026-11-03",
       "last_enriched_on": null,
       "related_ids": [
@@ -552,7 +555,9 @@
         "knowledge-horizons",
         "rival-gc-state",
         "rival-gc-t01-seo",
-        "rival-gc-retrospective"
+        "rival-gc-retrospective",
+        "multi-ai-roleplay",
+        "scene-fiction-principles"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-play.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-play.md",
@@ -874,7 +879,9 @@
         "rival-gc-t08-yunda",
         "rival-gc-t06-world",
         "scenario-great-crossing",
-        "rival-gc-retrospective"
+        "rival-gc-retrospective",
+        "rival-gc-finale-fiction",
+        "scene-fiction-principles"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t09-world.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t09-world.md",
@@ -915,7 +922,10 @@
         "rival-gc-t09-world",
         "causal-roleplay",
         "knowledge-horizons",
-        "rival-character-principles"
+        "rival-character-principles",
+        "multi-ai-roleplay",
+        "scene-fiction-principles",
+        "rival-gc-finale-fiction"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-retrospective.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-retrospective.md",
@@ -940,19 +950,126 @@
       ],
       "summary": "첫 AI 세력 대국의 회고에서 도출한 재사용 가능한 인물 운영 원칙. 욕망·두려움·감정·오해·금기·금기 파기 조건, 플레이어의 적극성, 제3세력의 독립 시계, 편향을 줄이는 판정 순서를 제안한다.",
       "review_state": "unassessed",
-      "review_label": "운영 제안 · 미채택",
+      "review_label": "운영 제안 · 제2판에 주요 원칙 수용",
       "last_updated_on": "2026-11-03",
       "last_enriched_on": null,
       "related_ids": [
         "rival-gc-retrospective",
         "rival-play",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "multi-ai-roleplay"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-character-principles.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-character-principles.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/rival-character-principles/",
       "app_url": "https://belorin.github.io/binary-arcana/#rival-character-principles"
+    },
+    {
+      "id": "multi-ai-roleplay",
+      "title": "다수 AI 참여 롤플레잉 — 세계 진행과 합성 판정 규칙",
+      "aliases": [
+        "다수 AI 롤플레잉 원칙",
+        "대국 규칙 제2판",
+        "AI 세계 진행 규칙"
+      ],
+      "category": "롤플레잉",
+      "tags": [
+        "다수 AI",
+        "롤플레잉",
+        "진행자",
+        "합성 판정",
+        "자율성",
+        "제3세력",
+        "시점",
+        "세계 진행"
+      ],
+      "summary": "두 명 이상 AI 참가자의 독립 선언과 후반 세계 진행자의 창의적 총합 판정, 제3세력 자율성·감정 동기·실제 비용·독립 장면 소설을 규정한 차기 대국 운영 원칙.",
+      "review_state": "unassessed",
+      "review_label": "확정 · 다수 AI 제2판",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rival-play",
+        "rival-character-principles",
+        "rival-gc-retrospective",
+        "scene-fiction-principles",
+        "rival-gc-finale-fiction",
+        "causal-roleplay",
+        "knowledge-horizons"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/multi-ai-roleplay.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/multi-ai-roleplay.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/multi-ai-roleplay/",
+      "app_url": "https://belorin.github.io/binary-arcana/#multi-ai-roleplay"
+    },
+    {
+      "id": "scene-fiction-principles",
+      "title": "장면 소설 집필 원칙 — 판정문을 이야기로 바꾸는 법",
+      "aliases": [
+        "장면 소설 서술 규칙",
+        "소설 시각화 원칙"
+      ],
+      "category": "운영 원칙",
+      "tags": [
+        "장면 소설",
+        "집필",
+        "서사",
+        "시각 묘사",
+        "인물 외모",
+        "문체",
+        "판정 분리"
+      ],
+      "summary": "다수 AI 판정과 별도로 읽는 장면 소설의 시각 앵커, 인물 외모·공간·감각·비유·시점, 정본 보존과 판정 대조 방법.",
+      "review_state": "unassessed",
+      "review_label": "확정 · 장면 서술",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "multi-ai-roleplay",
+        "rival-gc-finale-fiction",
+        "rival-gc-t09-world",
+        "causal-roleplay",
+        "rival-gc-retrospective"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/scene-fiction-principles.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/scene-fiction-principles.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/scene-fiction-principles/",
+      "app_url": "https://belorin.github.io/binary-arcana/#scene-fiction-principles"
+    },
+    {
+      "id": "rival-gc-finale-fiction",
+      "title": "한 사람의 폭 — 큰 건넘 마지막 물때의 장면 소설",
+      "aliases": [
+        "큰 건넘 결말 소설",
+        "한 사람의 폭"
+      ],
+      "category": "소설",
+      "tags": [
+        "큰 건넘",
+        "세오",
+        "윤다",
+        "장면 소설",
+        "결말",
+        "서사",
+        "비엘라"
+      ],
+      "summary": "큰 건넘 마지막 물때의 T09 판정을 바탕으로, 회맹·윤다의 호숫가 시도·구호 장부·섬의 개방·비엘라의 수령을 시각적으로 재구성한 독립 결말 소설.",
+      "review_state": "unassessed",
+      "review_label": "판정 기반 독립 소설 · 연출 가안 포함",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rival-gc-t09-world",
+        "rival-gc-state",
+        "scene-fiction-principles",
+        "multi-ai-roleplay",
+        "scenario-great-crossing"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-finale-fiction.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-finale-fiction.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-finale-fiction/",
+      "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-finale-fiction"
     }
   ]
 }

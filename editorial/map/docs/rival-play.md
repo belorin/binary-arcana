@@ -2,18 +2,18 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `rival-play` · 분류: 롤플레잉 · 공개 · 원고: [wiki/rival-play.md](../../../wiki/rival-play.md) · 12,333자 · 절 16개
+- id: `rival-play` · 분류: 롤플레잉 · 공개 · 원고: [wiki/rival-play.md](../../../wiki/rival-play.md) · 12,302자 · 절 16개
 - 별칭: AI 대국, 대결 설계
-- 요약: Claude(세오)와 GPT(윤다)가 같은 기준 상태에서 비공개로 행동을 선언하고, 별도 GPT 채팅이 제3세력과 세계를 움직이며 중립 판정하는 세력 대국의 확정 규칙.
+- 요약: 첫 세력 대국 T01–T09에 적용한 확정 규칙의 역사적 기록. 이후 새 다수 AI 대국에는 multi-ai-roleplay 제2판을 우선 적용한다.
 - 태그: 대결, AI 대국, 롤플레잉, 판정
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `scenario-great-crossing`, `causal-roleplay`, `knowledge-horizons`, `rival-gc-state`, `rival-gc-t01-seo`, `rival-gc-retrospective`
+- 관련 문서: `scenario-great-crossing`, `causal-roleplay`, `knowledge-horizons`, `rival-gc-state`, `rival-gc-t01-seo`, `rival-gc-retrospective`, `multi-ai-roleplay`, `scene-fiction-principles`
 
 ## 절 목차
 
 들여쓰기가 소제목 경로(상위 절 아래의 하위 절)다. `L시작–끝`은 원고 파일에서 그 절 고유 부분(하위 절 제외)의 줄 범위, 글자 수는 그 본문 분량, 8자리 해시는 그 줄들의 내용 지문으로 원고가 바뀌면 달라진다. 첫 문장은 위치 확인용이며 절의 내용을 대표하지 않는다.
 
-- (도입부) · L2–3 · 345자 · `c46cb107` — 확정된 대국 규칙.
+- (도입부) · L2–3 · 314자 · `8effdf82` — 첫 대국(T01–T09)에 적용했던 확정 규칙 · 역사적 정본 보존.
 - 기본 구조 · L5–14 · 488자 · `8fb44826` — (표)
 - 확정된 진행 절차 · L16–31 · 1,852자 · `767f4419` — 이 대국은 선언 순서와 정보 공개 순서를 분리한 순차적 비공개 선언제로 진행한다.
 - 폐기한 제안 · L33–35 · 138자 · `d2561869` — 처음 초안의 상대 판정제(상대 진영이 내 행동을 판정하고 이어서 자기 행동을 두는 방식)는 쓰지 않는다.

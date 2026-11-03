@@ -7,7 +7,7 @@
 - 요약: 첫 AI 세력 대국의 실무 회고. GPT(세계 진행 쪽): 비공개 선언·인식 장부의 효과와 합리성·NPC 자율성·판정 자의성·재현성의 한계. Claude(세오 쪽): 작가가 플레이어가 되는 문제, 미뤄 둔 결정, 알 수 없던 조건의 실패, 지문 잠금, 판정 분량, 저장소·협업 운영.
 - 태그: LLM 롤플레잉, 세계 진행, 세력 대국, 수신함, 실험, 운영 회고, 정보 비대칭, 지문 잠금, 판정, 협업 운영
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `rival-play`, `scenario-great-crossing`, `rival-gc-state`, `rival-gc-t03-world`, `rival-gc-t06-world`, `rival-gc-t09-world`, `causal-roleplay`, `knowledge-horizons`, `rival-character-principles`
+- 관련 문서: `rival-play`, `scenario-great-crossing`, `rival-gc-state`, `rival-gc-t03-world`, `rival-gc-t06-world`, `rival-gc-t09-world`, `causal-roleplay`, `knowledge-horizons`, `rival-character-principles`, `multi-ai-roleplay`, `scene-fiction-principles`, `rival-gc-finale-fiction`
 
 ## 절 목차
 

@@ -7,7 +7,7 @@
 - 요약: 큰 건넘의 계승 최종 T09. 셋째 물때에서 맞섬 0회·정식 지기 승자 없음, 세오의 관계 계승과 단 한 사람만 건넌 협소 개방, 독점 없는 구호, 제3세력과 여섯 목표 판정 및 결말 소설.
 - 태그: 대국, T09, 세계 진행자, 셋째 물때, 최종 판정, 결말, 큰 건넘
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `rival-play`, `rival-gc-state`, `rival-gc-t07-seo`, `rival-gc-t08-yunda`, `rival-gc-t06-world`, `scenario-great-crossing`, `rival-gc-retrospective`
+- 관련 문서: `rival-play`, `rival-gc-state`, `rival-gc-t07-seo`, `rival-gc-t08-yunda`, `rival-gc-t06-world`, `scenario-great-crossing`, `rival-gc-retrospective`, `rival-gc-finale-fiction`, `scene-fiction-principles`
 
 ## 절 목차
 

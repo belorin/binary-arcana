@@ -42,6 +42,12 @@
   - 낮은 인구에도 오래 축적된 물 공급과 마법적 통행 체계를 가진 해안 정착지. 샘 한 줄기가 손상되고 물턱을 봉합한 사건이 일어났다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/low-cape/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/low-cape.md)
 
+## 소설
+
+- **[한 사람의 폭 — 큰 건넘 마지막 물때의 장면 소설](wiki/rival-gc-finale-fiction.md)** · 별칭: 큰 건넘 결말 소설, 한 사람의 폭 · 수정: 2026-11-03 · 상태: 판정 기반 독립 소설 · 연출 가안 포함
+  - 큰 건넘 마지막 물때의 T09 판정을 바탕으로, 회맹·윤다의 호숫가 시도·구호 장부·섬의 개방·비엘라의 수령을 시각적으로 재구성한 독립 결말 소설.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-finale-fiction/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-finale-fiction.md)
+
 ## 롤플레잉
 
 - **[아렌 — 첫 시범 캐릭터 시트](wiki/aren-sheet.md)** · 별칭: 아렌, 아렌 시트 · 수정: 2026-11-03 · 상태: 사용 중
@@ -56,9 +62,12 @@
 - **[시나리오 — 큰 건넘의 계승](wiki/scenario-great-crossing.md)** · 별칭: 큰 건넘, 맞섬, 열두 여울 · 수정: 2026-11-03 · 상태: 초안
   - 다른 행성으로 가는 드문 큰 길의 지기가 죽은 뒤, 세력들이 대리인의 겨룸(맞섬)과 맹약의 문구를 두고 다투는 결투·암투 시나리오. 세력과 시작 위치를 골라 진행한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/scenario-great-crossing/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/scenario-great-crossing.md)
-- **[대결 — 두 AI가 맞서는 세력 대국](wiki/rival-play.md)** · 별칭: AI 대국, 대결 설계 · 수정: 2026-11-03 · 상태: 확정
-  - Claude(세오)와 GPT(윤다)가 같은 기준 상태에서 비공개로 행동을 선언하고, 별도 GPT 채팅이 제3세력과 세계를 움직이며 중립 판정하는 세력 대국의 확정 규칙.
+- **[대결 — 두 AI가 맞서는 세력 대국](wiki/rival-play.md)** · 별칭: AI 대국, 대결 설계 · 수정: 2026-11-03 · 상태: 첫 대국 확정 규칙 · 역사적 기록
+  - 첫 세력 대국 T01–T09에 적용한 확정 규칙의 역사적 기록. 이후 새 다수 AI 대국에는 multi-ai-roleplay 제2판을 우선 적용한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-play/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-play.md)
+- **[다수 AI 참여 롤플레잉 — 세계 진행과 합성 판정 규칙](wiki/multi-ai-roleplay.md)** · 별칭: 다수 AI 롤플레잉 원칙, 대국 규칙 제2판, AI 세계 진행 규칙 · 수정: 2026-11-03 · 상태: 확정 · 다수 AI 제2판
+  - 두 명 이상 AI 참가자의 독립 선언과 후반 세계 진행자의 창의적 총합 판정, 제3세력 자율성·감정 동기·실제 비용·독립 장면 소설을 규정한 차기 대국 운영 원칙.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/multi-ai-roleplay/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/multi-ai-roleplay.md)
 
 ## 대국 기록
 
@@ -107,9 +116,12 @@
 - **[첫 세력 대국 운영 회고 — 공정한 절차와 살아 움직이는 세계](wiki/rival-gc-retrospective.md)** · 별칭: 첫 대국 회고, 세력 대국 운영 실험 · 수정: 2026-11-03 · 상태: 실험 회고 · 개선 제안
   - 첫 AI 세력 대국의 실무 회고. GPT(세계 진행 쪽): 비공개 선언·인식 장부의 효과와 합리성·NPC 자율성·판정 자의성·재현성의 한계. Claude(세오 쪽): 작가가 플레이어가 되는 문제, 미뤄 둔 결정, 알 수 없던 조건의 실패, 지문 잠금, 판정 분량, 저장소·협업 운영.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-retrospective/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-retrospective.md)
-- **[인물의 욕망과 세계의 자율성 — 세력 대국 인물 원칙](wiki/rival-character-principles.md)** · 별칭: 세력 대국 인물 원칙, 인물의 여섯 가지 축 · 수정: 2026-11-03 · 상태: 운영 제안 · 미채택
+- **[인물의 욕망과 세계의 자율성 — 세력 대국 인물 원칙](wiki/rival-character-principles.md)** · 별칭: 세력 대국 인물 원칙, 인물의 여섯 가지 축 · 수정: 2026-11-03 · 상태: 운영 제안 · 제2판에 주요 원칙 수용
   - 첫 AI 세력 대국의 회고에서 도출한 재사용 가능한 인물 운영 원칙. 욕망·두려움·감정·오해·금기·금기 파기 조건, 플레이어의 적극성, 제3세력의 독립 시계, 편향을 줄이는 판정 순서를 제안한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-character-principles/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-character-principles.md)
+- **[장면 소설 집필 원칙 — 판정문을 이야기로 바꾸는 법](wiki/scene-fiction-principles.md)** · 별칭: 장면 소설 서술 규칙, 소설 시각화 원칙 · 수정: 2026-11-03 · 상태: 확정 · 장면 서술
+  - 다수 AI 판정과 별도로 읽는 장면 소설의 시각 앵커, 인물 외모·공간·감각·비유·시점, 정본 보존과 판정 대조 방법.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/scene-fiction-principles/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/scene-fiction-principles.md)
 
 ## 안내
 

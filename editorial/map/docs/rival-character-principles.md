@@ -7,7 +7,7 @@
 - 요약: 첫 AI 세력 대국의 회고에서 도출한 재사용 가능한 인물 운영 원칙. 욕망·두려움·감정·오해·금기·금기 파기 조건, 플레이어의 적극성, 제3세력의 독립 시계, 편향을 줄이는 판정 순서를 제안한다.
 - 태그: 운영, 롤플레잉, 인물 원칙, 세력 대국, 자율성, 정서적 동기
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `rival-gc-retrospective`, `rival-play`, `causal-roleplay`, `knowledge-horizons`
+- 관련 문서: `rival-gc-retrospective`, `rival-play`, `causal-roleplay`, `knowledge-horizons`, `multi-ai-roleplay`
 
 ## 절 목차
 

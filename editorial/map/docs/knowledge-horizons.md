@@ -7,7 +7,7 @@
 - 요약: 작가의 정본과 각 인물·공동체·플레이어의 지식을 분리하고 지역성·전승·오해·전파를 고려해 소설과 LLM 롤플레잉을 운영하는 원칙.
 - 태그: 지식, 인식, 정보 비대칭, 시점, 롤플레잉, NPC
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: reviewed
-- 관련 문서: `seven-demon-lords`, `worldbuilding-guide`, `start-here`, `causal-roleplay`, `aren-sheet`, `magic-as-practice`, `scenario-great-crossing`, `rival-play`, `rival-gc-retrospective`
+- 관련 문서: `seven-demon-lords`, `worldbuilding-guide`, `start-here`, `causal-roleplay`, `aren-sheet`, `magic-as-practice`, `scenario-great-crossing`, `rival-play`, `rival-gc-retrospective`, `multi-ai-roleplay`
 
 ## 절 목차
 
