@@ -43,14 +43,14 @@
 
 제목·별칭·소제목의 글자 2-gram 유사도(0~1)다. 중복이 아니라 **대조해 볼 후보**이며, 이미 연결된 쌍도 표시한다.
 
-- `start-here` ↔ `open-setting-questions` · 0.10 · 연결됨
-- `start-here` ↔ `magic-as-practice` · 0.10 · 연결됨
-- `start-here` ↔ `exceptional-generations` · 0.09 · 연결됨
+- `start-here` ↔ `open-setting-questions` · 0.11 · 연결됨
 - `worldbuilding-guide` ↔ `knowledge-horizons` · 0.09 · 연결됨
+- `start-here` ↔ `magic-as-practice` · 0.09 · 연결됨
+- `start-here` ↔ `exceptional-generations` · 0.09 · 연결됨
 - `causal-roleplay` ↔ `exceptional-generations` · 0.08 · 연결됨
 - `knowledge-horizons` ↔ `causal-roleplay` · 0.08 · 연결됨
-- `start-here` ↔ `magical-distance-and-passage` · 0.08 · 연결됨
-- `grand-questions` ↔ `start-here` · 0.07 · 연결됨
+- `grand-questions` ↔ `start-here` · 0.08 · 연결됨
+- `start-here` ↔ `magical-distance-and-passage` · 0.07 · 연결됨
 - `grand-questions` ↔ `knowledge-horizons` · 0.07
 - `editing-guide` ↔ `worldbuilding-guide` · 0.07 · 연결됨
 - `worldbuilding-guide` ↔ `magical-distance-and-passage` · 0.07
