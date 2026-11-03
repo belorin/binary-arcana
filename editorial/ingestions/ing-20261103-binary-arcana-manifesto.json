@@ -1,0 +1,104 @@
+{
+  "id": "ing-20261103-binary-arcana-manifesto",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "마법적 우주와 독립된 과학기술의 부재",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manifesto",
+          "section": "우주는 처음부터 마법적이다"
+        },
+        {
+          "doc_id": "start-here",
+          "section": "전제"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "현실 기술의 마법적 치환을 거부하는 세계 설계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manifesto",
+          "section": "우주는 처음부터 마법적이다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "마법의 미규명성과 궁극적 토대에 대한 판단 유보",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manifesto",
+          "section": "세계는 전부 규명되지 않는다"
+        },
+        {
+          "doc_id": "open-setting-questions",
+          "section": "마법적 우주의 미해결 문제"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "비인간 행위자와 의식 및 의도의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manifesto",
+          "section": "인간만이 행위자는 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "쌍성 주변 복수 행성과 행성 내부의 복합적 환경",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manifesto",
+          "section": "두 태양, 여러 행성, 각기 복잡한 세계"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "인류의 행성 진출과 지배 및 대규모 정착의 차이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manifesto",
+          "section": "도달했으나 지배하지 못한 우주"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "question",
+      "title": "마법 항행과 모성 위치 및 행위자 관계의 미정 문제",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "manifesto",
+          "section": "열어 둔 질문과 작업 원칙"
+        },
+        {
+          "doc_id": "open-setting-questions",
+          "section": "마법 문명의 축적과 우주 항행"
+        }
+      ]
+    }
+  ]
+}
