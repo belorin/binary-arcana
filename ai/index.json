@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 41,
+  "document_count": 42,
   "documents": [
     {
       "id": "grand-questions",
@@ -143,7 +143,8 @@
         "magical-distance-and-passage",
         "exceptional-generations",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "variable-rules-and-life"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/start-here.md",
@@ -203,7 +204,8 @@
         "worldbuilding-guide",
         "open-setting-questions",
         "exceptional-generations",
-        "scenario-great-crossing"
+        "scenario-great-crossing",
+        "variable-rules-and-life"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-as-practice.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magic-as-practice.md",
@@ -389,7 +391,8 @@
         "open-setting-questions",
         "knowledge-horizons",
         "causal-roleplay",
-        "magic-as-practice"
+        "magic-as-practice",
+        "variable-rules-and-life"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/worldbuilding-guide.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/worldbuilding-guide.md",
@@ -1358,6 +1361,40 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-dream.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-dream/",
       "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-dream"
+    },
+    {
+      "id": "variable-rules-and-life",
+      "title": "변동하는 규칙과 생명의 생활",
+      "aliases": [
+        "변화하는 세계의 규칙",
+        "규칙의 변동과 생활"
+      ],
+      "category": "사물·개념",
+      "tags": [
+        "환경",
+        "자연의 규칙",
+        "세계의 불확실성",
+        "마법적 일상",
+        "생명",
+        "적응",
+        "지식"
+      ],
+      "summary": "장기간 지속되는 자연적·마법적 관계도 변할 수 있는 우주에서, 마법적 생활 안정과 지성·비지성 생명의 적응이 공존한다는 배경 설정. 이야기의 단일한 중심 테제는 아니다.",
+      "review_state": "unassessed",
+      "review_label": "정본 · 배경 조건 (작동 방식 미정)",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "start-here",
+        "magic-as-practice",
+        "grand-questions",
+        "causal-roleplay",
+        "knowledge-horizons"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/variable-rules-and-life.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/variable-rules-and-life.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/variable-rules-and-life/",
+      "app_url": "https://belorin.github.io/binary-arcana/#variable-rules-and-life"
     }
   ]
 }

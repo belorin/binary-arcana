@@ -60,7 +60,8 @@
         "magical-distance-and-passage",
         "exceptional-generations",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "variable-rules-and-life"
       ],
       "aliases": [
         "세계 개요"
@@ -144,7 +145,8 @@
         "open-setting-questions",
         "knowledge-horizons",
         "causal-roleplay",
-        "magic-as-practice"
+        "magic-as-practice",
+        "variable-rules-and-life"
       ],
       "aliases": [
         "설정 쓰는 규칙"
@@ -244,7 +246,8 @@
         "worldbuilding-guide",
         "open-setting-questions",
         "exceptional-generations",
-        "scenario-great-crossing"
+        "scenario-great-crossing",
+        "variable-rules-and-life"
       ],
       "aliases": [
         "개인 마법",
@@ -1351,6 +1354,40 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "path": "wiki/variable-rules-and-life.md",
+      "publish": true,
+      "order": 31,
+      "id": "variable-rules-and-life",
+      "title": "변동하는 규칙과 생명의 생활",
+      "category": "사물·개념",
+      "status": "정본 · 배경 조건 (작동 방식 미정)",
+      "updated": "2026-11-03",
+      "summary": "장기간 지속되는 자연적·마법적 관계도 변할 수 있는 우주에서, 마법적 생활 안정과 지성·비지성 생명의 적응이 공존한다는 배경 설정. 이야기의 단일한 중심 테제는 아니다.",
+      "tags": [
+        "환경",
+        "자연의 규칙",
+        "세계의 불확실성",
+        "마법적 일상",
+        "생명",
+        "적응",
+        "지식"
+      ],
+      "source": "세계 배경 설정 논의",
+      "related": [
+        "start-here",
+        "magic-as-practice",
+        "grand-questions",
+        "causal-roleplay",
+        "knowledge-horizons"
+      ],
+      "aliases": [
+        "변화하는 세계의 규칙",
+        "규칙의 변동과 생활"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-03"
     }
   ]
 }

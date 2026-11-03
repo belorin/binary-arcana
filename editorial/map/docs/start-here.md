@@ -7,7 +7,7 @@
 - 요약: 쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.
 - 태그: 개요, 쌍성계, 마법, 우주
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: reviewed
-- 관련 문서: `grand-questions`, `editing-guide`, `open-setting-questions`, `worldbuilding-guide`, `seven-demon-lords`, `magic-as-practice`, `magical-distance-and-passage`, `exceptional-generations`, `causal-roleplay`, `knowledge-horizons`
+- 관련 문서: `grand-questions`, `editing-guide`, `open-setting-questions`, `worldbuilding-guide`, `seven-demon-lords`, `magic-as-practice`, `magical-distance-and-passage`, `exceptional-generations`, `causal-roleplay`, `knowledge-horizons`, `variable-rules-and-life`
 
 ## 절 목차
 

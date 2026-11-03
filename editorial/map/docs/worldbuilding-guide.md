@@ -7,7 +7,7 @@
 - 요약: 설정의 정본·미정, 문서 유형, 연대기와 시점별 지식의 구분을 안내하는 편집 규칙.
 - 태그: 안내, 설정, 연대기
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: reviewed
-- 관련 문서: `start-here`, `editing-guide`, `open-setting-questions`, `knowledge-horizons`, `causal-roleplay`, `magic-as-practice`
+- 관련 문서: `start-here`, `editing-guide`, `open-setting-questions`, `knowledge-horizons`, `causal-roleplay`, `magic-as-practice`, `variable-rules-and-life`
 
 ## 절 목차
 

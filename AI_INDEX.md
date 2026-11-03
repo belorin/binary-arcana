@@ -72,6 +72,12 @@
   - 마왕의 오래된 질서, 중간 현시, 모호한 관측을 배치한 대턴 시작 전 거시 세계 단면. 행성 위치와 시간표는 임시 배치다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-s00/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-s00.md)
 
+## 사물·개념
+
+- **[변동하는 규칙과 생명의 생활](wiki/variable-rules-and-life.md)** · 별칭: 변화하는 세계의 규칙, 규칙의 변동과 생활 · 수정: 2026-11-03 · 상태: 정본 · 배경 조건 (작동 방식 미정)
+  - 장기간 지속되는 자연적·마법적 관계도 변할 수 있는 우주에서, 마법적 생활 안정과 지성·비지성 생명의 적응이 공존한다는 배경 설정. 이야기의 단일한 중심 테제는 아니다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/variable-rules-and-life/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/variable-rules-and-life.md)
+
 ## 소설
 
 - **[한 사람의 폭 — 큰 건넘 마지막 물때의 장면 소설](wiki/rival-gc-finale-fiction.md)** · 별칭: 큰 건넘 결말 소설, 한 사람의 폭 · 수정: 2026-11-03 · 상태: 판정 기반 독립 소설 · 연출 가안 포함

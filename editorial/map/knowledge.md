@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 60개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 64개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (0)
 
@@ -70,6 +70,15 @@
 - 맞섬: 관계의 힘으로 겨루며 장소·날·건 것이 승패를 가름 → `scenario-great-crossing` § 맞섬의 방식 · `ing-20261103-great-crossing-scenario`
 - 큰 건넘: 두 태양이 가장 가까워지는 철에만 넓게 열리는 행성 간 길 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
 - 길의 지기가 평생의 관계를 대를 이어 물려줌 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
+
+## 사물·개념 (4)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 반복 가능한 규칙과 실제 규칙 변화 가능성의 공존 → `variable-rules-and-life` § 오래 지속되지만 영원하다고 보장되지 않는 질서 · `ing-20261103-variable-rules-and-life`
+- 마법적 생활 편의와 지역별 비대칭, 평범한 일상의 공존 → `variable-rules-and-life` § 풍요로울 수 있는 일상 · `ing-20261103-variable-rules-and-life`
+- 지성·비지성 생명의 탐색·견고함·변형이라는 서로 다른 대응 → `variable-rules-and-life` § 생명이 택해 온 여러 대응 · `ing-20261103-variable-rules-and-life`
+- 세계 이해는 배경적 압력이지 모든 이야기의 근본 주제가 아님 → `variable-rules-and-life` § 소설과 세계 진행에서의 쓰임 · `ing-20261103-variable-rules-and-life`
 
 ## 세력 (4)
 
