@@ -64,7 +64,7 @@ node scripts/validate-editorial.mjs --report           # 장부 검사와 보류
 | `name`, `brand`, `brandSub`, `description`, `author`, `icon`, `footer` | 사이트 이름과 머리말, 설명, 저자, 탭 아이콘(글자 하나), 꼬리말 |
 | `theme` | `accent`, `light`, `background` 색(`#rrggbb`) |
 | `categories` | 주제 목록의 순서 |
-| `home`, `about` | 첫 화면 제목·문구, 소개 화면 제목·문구·먼저 읽을 글 |
+| `home`, `about` | 첫 화면과 소개 화면. `home.hero`는 표지(`kicker`, `title`, `lead`, `actions: [{href, label}]`), `home.sections`는 차례대로 그릴 칸 목록이다: `cards`(`items: [{id, kicker, label, desc}]`, `style: "compact"`), `topics`(주제 타일, 문서 없는 주제는 점선), `random`, `recent`(`limit`). 없는 문서를 가리키는 카드와 버튼은 자동으로 빠진다. `sections`가 없으면 기본 화면 |
 | `sidebarLinks` | 왼쪽 탐색에 더할 링크 `{href, label}` |
 | `features.calendar` | `true`면 `/#calendar` 달력을 켠다 |
 | `features.comments` | giscus 댓글. `{"repoId", "category", "categoryId"}` (giscus.app에서 확인) |

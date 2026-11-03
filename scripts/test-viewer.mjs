@@ -51,4 +51,21 @@ search.value = "나 요약";
 assert.match(go("#all"), /1개 문서 · 검색어/);
 search.value = "";
 assert.match(go("#nothing"), /문서를 찾을 수 없습니다/);
+// Configured home: hero, cards (missing ids skipped), topics with empty ones, recent.
+const homeSite = { ...site, home: { hero: { title: "세계", lead: "소개", actions: [{ href: "#a", label: "가" }, { href: "#nope", label: "없음" }] },
+  sections: [{ type: "cards", title: "카드", items: [{ id: "b", kicker: "K" }, { id: "missing" }] },
+    { type: "topics", title: "주제" }, { type: "recent", title: "최근", limit: 1 }] } };
+const view2 = element();
+const nodes2 = { ...nodes, "#view": view2, "#filters": element() };
+vm.runInNewContext(fs.readFileSync("app.js", "utf8"), { ...context, document: { ...context.document, querySelector: s => nodes2[s] },
+  location: { hash: "" }, fetch: async () => ({ ok: true, json: async () => ({ site: homeSite, notes }) }) }, { filename: "app.js", timeout: 5000 });
+await new Promise(resolve => setImmediate(resolve));
+html = view2.innerHTML;
+assert.match(html, /<h1>세계<\/h1>/);
+assert.match(html, /href="#a">가<\/a>/);
+assert.doesNotMatch(html, /#nope/, "actions to missing documents are dropped");
+assert.match(html, /home-card-kicker">K<.*나 문서/s);
+assert.doesNotMatch(html, /missing/);
+assert.match(html, /data-topic="하나"/);
+assert.equal((html.match(/<li>/g) || []).length, 1, "recent honours its limit");
 console.log("OK: viewer renders home, topics, article, about, search and fallbacks");

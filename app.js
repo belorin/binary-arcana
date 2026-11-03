@@ -197,18 +197,71 @@ function showFilters() {
     filters.append(button);
   }
 }
+// The home page is built from site.config.json "home": an optional hero and a
+// list of sections (cards, topics, recent, random). Without sections it falls
+// back to the plain random-card and recent-updates page.
+function homeHero(h) {
+  const hero = h.hero;
+  if (!hero) return '<div class="page-heading"><h1>' + esc(h.title || '문서 탐색') + '</h1><p>' +
+    (h.lead ? esc(h.lead) + ' · ' : '') + notes.length + '개 문서</p></div>';
+  const actions = (hero.actions || []).filter(a => /^#[a-z0-9-]+$/.test(a.href) && (a.href === '#all' || byId(a.href.slice(1))));
+  return '<section class="home-hero"><div class="home-hero-sky" aria-hidden="true"><span></span><span></span></div>' +
+    '<div class="home-hero-text">' + (hero.kicker ? '<div class="eyebrow">' + esc(hero.kicker) + '</div>' : '') +
+    '<h1>' + esc(hero.title || site.name) + '</h1>' + (hero.lead ? '<p>' + esc(hero.lead) + '</p>' : '') +
+    (actions.length ? '<div class="home-actions">' + actions.map((a, i) =>
+      '<a class="' + (i ? 'home-action' : 'home-action primary') + '" href="' + esc(a.href) + '">' + esc(a.label) + '</a>').join('') + '</div>' : '') +
+    '<div class="home-count">' + notes.length + '개 문서</div></div></section>';
+}
+function homeSection(sec) {
+  const head = '<div class="section-heading"><h2>' + esc(sec.title || '') + '</h2>' +
+    (sec.type === 'recent' ? '<a href="#all">모든 문서 →</a>' : sec.type === 'random' ? '<button type="button" class="link-button" data-shuffle>다른 글 ↻</button>' : '') +
+    '</div>' + (sec.lead ? '<p class="home-lead">' + esc(sec.lead) + '</p>' : '');
+  if (sec.type === 'cards') {
+    const items = (sec.items || []).filter(it => byId(it.id));
+    if (!items.length) return '';
+    return '<section class="home-section">' + head + '<div class="home-cards' + (sec.style === 'compact' ? ' compact' : '') + '">' +
+      items.map(it => { const n = byId(it.id);
+        return '<a class="home-card" href="' + permalink(n.id) + '">' + (it.kicker ? '<span class="home-card-kicker">' + esc(it.kicker) + '</span>' : '') +
+          '<span class="home-card-title">' + esc(it.label || n.title) + '</span>' +
+          (sec.style === 'compact' && !it.desc ? '' : '<span class="home-card-desc">' + esc(it.desc || n.summary) + '</span>') + '</a>'; }).join('') +
+      '</div></section>';
+  }
+  if (sec.type === 'topics') {
+    const counts = new Map();
+    for (const n of notes) counts.set(n.category, (counts.get(n.category) || 0) + 1);
+    const names = [...new Set([...(site.categories || []), ...counts.keys()])].filter(c => !(sec.exclude || []).includes(c));
+    return '<section class="home-section">' + head + '<div class="home-topics">' + names.map(c => counts.get(c)
+      ? '<button type="button" class="home-topic" data-topic="' + esc(c) + '"><span>' + esc(c) + '</span><span class="filter-count">' + counts.get(c) + '</span></button>'
+      : '<span class="home-topic is-empty"><span>' + esc(c) + '</span><span class="filter-count">아직 없음</span></span>').join('') + '</div></section>';
+  }
+  if (sec.type === 'random') {
+    if (!randomPick || !byId(randomPick.id)) randomPick = pickRandom();
+    if (!randomPick) return '';
+    return '<section class="home-section">' + head + '<a class="home-card wide" href="' + permalink(randomPick.id) + '">' +
+      '<span class="home-card-kicker">' + esc(randomPick.category) + '</span><span class="home-card-title">' + esc(randomPick.title) +
+      '</span><span class="home-card-desc">' + esc(randomPick.summary) + '</span></a></section>';
+  }
+  if (sec.type === 'recent') {
+    return '<section class="home-section">' + head + '<ul class="compact-list">' + sorted(notes).slice(0, sec.limit || 8).map(n =>
+      '<li><a href="' + permalink(n.id) + '"><span class="item-title">' + esc(n.title) +
+      '</span><span class="item-date">' + esc(n.category) + ' · ' + esc(n.updated) + '</span></a></li>').join('') + '</ul></section>';
+  }
+  return '';
+}
 function home() {
-  if (!randomPick || !byId(randomPick.id)) randomPick = pickRandom();
   const h = site.home || {};
+  if (Array.isArray(h.sections) && h.sections.length) {
+    view.innerHTML = '<div class="home">' + homeHero(h) + h.sections.map(homeSection).join('') + '</div>';
+    return;
+  }
+  if (!randomPick || !byId(randomPick.id)) randomPick = pickRandom();
   const feature = randomPick
     ? '<div class="random-card"><div><div class="eyebrow">' + esc(h.featureLabel || '오늘의 무작위 문서') + '</div>' +
       '<h2>' + esc(randomPick.title) + '</h2><p>' + esc(randomPick.summary) + '</p>' +
       '<a class="link-strong" href="' + permalink(randomPick.id) + '">이 글 읽기 →</a></div>' +
       '<button type="button" class="outline-button" data-shuffle>다른 글 ↻</button></div>'
     : '';
-  view.innerHTML =
-    '<div class="page-heading"><h1>' + esc(h.title || '문서 탐색') + '</h1><p>' +
-    (h.lead ? esc(h.lead) + ' · ' : '') + notes.length + '개 문서</p></div>' + feature +
+  view.innerHTML = homeHero(h) + feature +
     '<section><div class="section-heading"><h2>최근 갱신</h2><a href="#all">모든 문서 →</a></div>' +
     '<ul class="compact-list">' + sorted(notes).slice(0, 8).map(n =>
       '<li><a href="' + permalink(n.id) + '"><span class="item-title">' + esc(n.title) +
@@ -300,6 +353,11 @@ view.addEventListener('click', event => {
   const target = event.target.closest('button');
   if (!target) return;
   if (target.hasAttribute('data-shuffle')) { randomPick = pickRandom(randomPick?.id); home(); }
+  else if (target.hasAttribute('data-topic')) {
+    category = target.getAttribute('data-topic');
+    showFilters();
+    location.hash = '#all';
+  }
   else if (target.hasAttribute('data-random')) goRandom();
   else if (target.hasAttribute('data-copy')) copyLink(target);
   else if (target.hasAttribute('data-jump')) {
