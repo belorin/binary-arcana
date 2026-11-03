@@ -93,7 +93,8 @@
         "magic-as-practice",
         "magical-distance-and-passage",
         "exceptional-generations",
-        "binary-system"
+        "binary-system",
+        "magic-senses"
       ],
       "aliases": [
         "미정 설정 목록"
@@ -249,7 +250,8 @@
         "open-setting-questions",
         "exceptional-generations",
         "scenario-great-crossing",
-        "variable-rules-and-life"
+        "variable-rules-and-life",
+        "magic-senses"
       ],
       "aliases": [
         "개인 마법",
@@ -260,6 +262,43 @@
       "status": "초안",
       "updated": "2026-11-03",
       "source": "세계관 설정 및 롤플레잉 운영 구상",
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/magic-senses.md",
+      "publish": true,
+      "order": 2,
+      "id": "magic-senses",
+      "title": "마법의 말과 감각",
+      "category": "마법",
+      "status": "임시 정본",
+      "updated": "2026-11-03",
+      "summary": "마법을 사이·알아봄·울림·결·매듭·값·엮음으로 설명하는 열두 여울과 낮은곶의 말. 받는 자리로 드러나는 재능, 바깥에서 보이는 모습, 공통마법의 예, 마법이 듣지 않을 때 원인을 가르는 법, 묘사 점검표.",
+      "tags": [
+        "마법",
+        "공통마법",
+        "묘사",
+        "결",
+        "매듭",
+        "값"
+      ],
+      "source": "Claude가 사용자 위임으로 정한 임시 정본. 기존 소설과 세션의 묘사를 모아 규칙으로 세움",
+      "related": [
+        "magic-as-practice",
+        "variable-rules-and-life",
+        "scenario-great-crossing",
+        "low-cape",
+        "rival-gc-finale-fiction",
+        "aren-session-01",
+        "scene-fiction-principles",
+        "grand-questions"
+      ],
+      "aliases": [
+        "사이와 결",
+        "마법의 낱말",
+        "마법 묘사"
+      ],
       "review_state": "unassessed",
       "last_enriched_on": "2026-11-03"
     },
@@ -1387,7 +1426,8 @@
         "magic-as-practice",
         "grand-questions",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "magic-senses"
       ],
       "aliases": [
         "변화하는 세계의 규칙",

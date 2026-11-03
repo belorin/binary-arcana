@@ -1,0 +1,19 @@
+{
+  "id": "ing-20261103-magic-senses",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "limit_note": "사용자 위임으로 정한 마법 개념·묘사 임시 정본. 기존 소설과 세션의 묘사에서 건져 규칙으로 세움",
+  "withheld_count": 0,
+  "items": [
+    {"id": "k01", "kind": "concept", "title": "마법은 오래 사귄 것들 사이의 알아봄이다. 사이는 둘 사이에만 있고 시간으로 쌓이며 물려받기 어렵다", "status": "integrated", "targets": [{"doc_id": "magic-senses", "section": "사이 — 마법의 바탕"}]},
+    {"id": "k02", "kind": "concept", "title": "너그러운 것과 까다로운 것의 구분은 재료가 아니라 하나하나의 나이와 자리에서 온다", "status": "integrated", "targets": [{"doc_id": "magic-senses", "section": "사이 — 마법의 바탕"}]},
+    {"id": "k03", "kind": "concept", "title": "울림과 받는 자리. 재능은 받는 자리로 드러난다", "status": "integrated", "targets": [{"doc_id": "magic-senses", "section": "알아봄과 울림 — 마법은 몸으로 온다"}]},
+    {"id": "k04", "kind": "concept", "title": "결과 이름. 겹침철에 결이 모인다는 것은 누리 사람들의 설명", "status": "integrated", "targets": [{"doc_id": "magic-senses", "section": "결 — 무엇이 어디로 흐르려 하는가"}]},
+    {"id": "k05", "kind": "concept", "title": "매듭은 손의 순서를 기억하고 붙들고 이어 주고 닳는다. 매듭 자체에는 힘이 없다", "status": "integrated", "targets": [{"doc_id": "magic-senses", "section": "매듭 — 손의 순서를 남기는 법"}]},
+    {"id": "k06", "kind": "concept", "title": "값은 몸·사이·장소·약속의 네 갈래이며 한 가지 화폐가 아니다", "status": "integrated", "targets": [{"doc_id": "magic-senses", "section": "값 — 마법이 남기는 것"}]},
+    {"id": "k07", "kind": "concept", "title": "마법은 바깥에서 대부분 기다림처럼 보인다. 빛나는 문양·주문·수치 마력은 쓰지 않는다", "status": "integrated", "targets": [{"doc_id": "magic-senses", "section": "바깥에서 보이는 것"}]},
+    {"id": "k08", "kind": "fact", "title": "공통마법의 예: 불 맡기기, 물 나눔, 묵힘, 아물림, 길 묻기, 묶어 두기. 소식을 멀리 보내는 마법은 알려져 있지 않음", "status": "integrated", "targets": [{"doc_id": "magic-senses", "section": "공통마법 몇 가지"}]},
+    {"id": "k09", "kind": "concept", "title": "엮음과 기반 시설. 새 땅에는 사이가 없어서 가난하다", "status": "integrated", "targets": [{"doc_id": "magic-senses", "section": "엮음 — 큰 마법은 여럿이 한다"}]},
+    {"id": "k10", "kind": "concept", "title": "마법이 듣지 않을 때 원인을 가르는 법과 결바뀜", "status": "integrated", "targets": [{"doc_id": "magic-senses", "section": "마법이 듣지 않을 때"}, {"doc_id": "variable-rules-and-life", "section": "소설과 세계 진행에서의 쓰임"}]}
+  ]
+}
