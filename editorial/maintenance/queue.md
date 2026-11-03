@@ -4,13 +4,13 @@
 
 마지막 정비: **M001** (2026-11-03) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 16개 · 변경 문서 16 · 고립 0 · 한쪽 연결 0 · 보류 0 · 열린 교차 제안 0
+원고 17개 · 변경 문서 17 · 고립 0 · 한쪽 연결 0 · 보류 0 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (16)
+## 1. 지난 정비 이후 변경된 문서 (17)
 
 manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
-- **롤플레잉** (4): `aren-sheet`, `aren-session-01`, `story-state`, `scenario-great-crossing`
+- **롤플레잉** (5): `aren-sheet`, `aren-session-01`, `story-state`, `scenario-great-crossing`, `rival-play`
 - **개요** (3): `grand-questions`, `start-here`, `open-setting-questions`
 - **운영 원칙** (3): `knowledge-horizons`, `causal-roleplay`, `exceptional-generations`
 - **안내** (2): `editing-guide`, `worldbuilding-guide`
@@ -69,5 +69,5 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 8개: 롤플레잉 4, 개요 3, 운영 원칙 3, 안내 2, 세력 1, 마법 1, 마법 공예·항행 1, 장소 1
+분류 8개: 롤플레잉 5, 개요 3, 운영 원칙 3, 안내 2, 세력 1, 마법 1, 마법 공예·항행 1, 장소 1
 문서가 하나뿐인 분류 4개: 세력, 마법, 마법 공예·항행, 장소. 분류 체계 변경은 제안만 한다.

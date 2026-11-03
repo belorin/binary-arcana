@@ -56,6 +56,9 @@
 - **[시나리오 — 큰 건넘의 계승](wiki/scenario-great-crossing.md)** · 별칭: 큰 건넘, 맞섬, 열두 여울 · 수정: 2026-11-03 · 상태: 초안
   - 다른 행성으로 가는 드문 큰 길의 지기가 죽은 뒤, 세력들이 대리인의 겨룸(맞섬)과 맹약의 문구를 두고 다투는 결투·암투 시나리오. 세력과 시작 위치를 골라 진행한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/scenario-great-crossing/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/scenario-great-crossing.md)
+- **[대결 — 두 AI가 맞서는 세력 대국](wiki/rival-play.md)** · 별칭: AI 대국, 대결 설계 · 수정: 2026-11-03 · 상태: 논의 중
+  - Claude와 GPT가 한 시나리오의 적대 세력을 하나씩 맡아 번갈아 두는 방식의 설계. 상대 판정제, 이의 제기와 사용자 최종 판정, 맞섬 판정 근거표, 기록 방식.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-play/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-play.md)
 
 ## 운영 원칙
 

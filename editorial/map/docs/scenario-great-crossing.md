@@ -7,7 +7,7 @@
 - 요약: 다른 행성으로 가는 드문 큰 길의 지기가 죽은 뒤, 세력들이 대리인의 겨룸(맞섬)과 맹약의 문구를 두고 다투는 결투·암투 시나리오. 세력과 시작 위치를 골라 진행한다.
 - 태그: 시나리오, 결투, 암투, 큰 건넘, 맞섬, 맹약
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `causal-roleplay`, `seven-demon-lords`, `magical-distance-and-passage`, `knowledge-horizons`, `magic-as-practice`
+- 관련 문서: `causal-roleplay`, `seven-demon-lords`, `magical-distance-and-passage`, `knowledge-horizons`, `magic-as-practice`, `rival-play`
 
 ## 절 목차
 
