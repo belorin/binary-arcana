@@ -1,0 +1,81 @@
+{
+  "id": "ing-20261103-rival-gc-retrospective-claude",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "limit_note": "첫 대국 기록과 저장소 이력에서 Claude 쪽이 확인한 운영 교훈",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "argument",
+      "title": "시나리오 작가가 플레이어가 되면 근거 선택의 편향을 스스로 판별할 수 없음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "시나리오를 쓴 쪽이 플레이어가 되었다"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "선언에 미뤄 둔 결정은 판정자가 대신 채운다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "미뤄 둔 결정은 판정자가 대신 내린다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "목표 결산에서 실패 원인을 선택·타자·숨은 조건으로 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "인물이 알 수 없던 조건으로 목표가 실패할 수 있다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "선언 잠금은 공개 순서가 아니라 원문 지문으로 검증",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "잠금은 순서가 아니라 지문으로 확인한다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "설명문 속 skip-ci 표기가 실제로 배포를 건너뛰게 함",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "커밋 규칙을 설명한 커밋이 그 규칙에 걸렸다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "other",
+      "title": "사이트가 그리지 못하는 상대 경로·절 링크를 빌드 검사로 막자는 제안",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "사이트가 그리지 못하는 링크가 되풀이된다"
+        }
+      ]
+    }
+  ]
+}
