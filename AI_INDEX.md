@@ -12,10 +12,10 @@
   - 인류의 기원, 마법적 우주의 토대, 비인간 행위자의 역할, 다른 행성으로의 진출 한계 등 세계를 관통하는 거대한 수수께끼의 후보.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/grand-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/grand-questions.md)
 - **[세계 개요](wiki/start-here.md)** · 별칭: 세계 개요 · 수정: 2026-11-03 · 상태: 정본
-  - 쌍성계의 여러 행성, 마법적인 우주, 비인간 행위자, 인간의 불완전한 행성 진출에 관한 확정 전제와 창작 방향.
+  - 쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/start-here/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md)
 - **[정해야 할 설정](wiki/open-setting-questions.md)** · 별칭: 미정 설정 목록 · 수정: 2026-11-03 · 상태: 미정
-  - 쌍성계와 행성, 미규명된 마법적 우주, 비인간 행위자, 마법 항행, 이주와 문명에 관한 열린 설정 질문.
+  - 쌍성계와 마법, 낮은 인류 인구에도 발달한 마법 문명, 종족과 이주의 미정 문제.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/open-setting-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md)
 
 ## 마법
@@ -39,7 +39,7 @@
 ## 장소
 
 - **[낮은곶](wiki/low-cape.md)** · 별칭: 낮은곶 경유지 · 수정: 2026-11-03 · 상태: 초안
-  - 한 행성의 소규모 해안 정착지와 해안 물턱, 말림 생업과 출입 기록의 시범 무대.
+  - 해안 물턱과 말림 생업을 가진 작은 정착지. 현지 도구 관습은 전체 마법 문명의 발전 단계를 뜻하지 않음.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/low-cape/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/low-cape.md)
 
 ## 사물·개념

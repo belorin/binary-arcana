@@ -51,9 +51,11 @@
 - `start-here` ↔ `open-setting-questions` · 0.11 · 연결됨
 - `worldbuilding-guide` ↔ `knowledge-horizons` · 0.09 · 연결됨
 - `start-here` ↔ `magic-as-practice` · 0.09 · 연결됨
+- `worldbuilding-guide` ↔ `aren-session-01` · 0.09
 - `start-here` ↔ `exceptional-generations` · 0.09 · 연결됨
 - `causal-roleplay` ↔ `exceptional-generations` · 0.08 · 연결됨
 - `knowledge-horizons` ↔ `causal-roleplay` · 0.08 · 연결됨
+- `knowledge-horizons` ↔ `aren-session-01` · 0.08
 - `grand-questions` ↔ `start-here` · 0.08 · 연결됨
 - `start-here` ↔ `magical-distance-and-passage` · 0.07 · 연결됨
 - `grand-questions` ↔ `knowledge-horizons` · 0.07
@@ -61,8 +63,6 @@
 - `worldbuilding-guide` ↔ `magical-distance-and-passage` · 0.07
 - `worldbuilding-guide` ↔ `causal-roleplay` · 0.07 · 연결됨
 - `grand-questions` ↔ `magical-distance-and-passage` · 0.07
-- `worldbuilding-guide` ↔ `aren-session-01` · 0.06
-- `knowledge-horizons` ↔ `aren-session-01` · 0.06
 
 ## 6. 보류 항목 (0)
 
@@ -77,7 +77,7 @@
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
 - 긴 문서 (0): 없음
-- 짧은 문서 (2): `editing-guide` 763자, `low-cape` 1,131자
+- 짧은 문서 (2): `editing-guide` 763자, `low-cape` 1,333자
 
 ## 9. 분류 참고
 
