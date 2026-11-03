@@ -24,6 +24,8 @@ if (fs.existsSync("wiki/calendar.json")) run("scripts/validate-calendar.mjs");
 if (check) {
   run("scripts/test-editorial.mjs");
   run("scripts/test-search.mjs");
+  run("scripts/test-inbox.mjs");
+  run("scripts/apply-inbox.mjs", "--check");
   run("--check", "app.js");
   run("--check", "calendar.js");
   run("scripts/test-viewer.mjs");

@@ -306,7 +306,8 @@
         "aren-sheet",
         "aren-session-01",
         "low-cape",
-        "start-here"
+        "start-here",
+        "story-state"
       ],
       "aliases": [
         "소턴과 대턴",
@@ -373,7 +374,8 @@
         "aren-sheet",
         "aren-session-01",
         "magical-distance-and-passage",
-        "causal-roleplay"
+        "causal-roleplay",
+        "story-state"
       ],
       "aliases": [
         "낮은곶 경유지"
@@ -402,7 +404,8 @@
         "low-cape",
         "aren-session-01",
         "knowledge-horizons",
-        "causal-roleplay"
+        "causal-roleplay",
+        "story-state"
       ],
       "aliases": [
         "아렌",
@@ -433,7 +436,8 @@
       "related": [
         "low-cape",
         "aren-sheet",
-        "causal-roleplay"
+        "causal-roleplay",
+        "story-state"
       ],
       "aliases": [
         "닫아야 하는 바다",
@@ -441,6 +445,35 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/story-state.md",
+      "publish": true,
+      "order": 4,
+      "id": "story-state",
+      "title": "이야기 현재 상태",
+      "category": "롤플레잉",
+      "status": "사용 중",
+      "updated": "2026-11-03",
+      "summary": "진행 중인 이야기의 현재 시점, 인물의 위치와 상태, 자원, 누가 무엇을 아는지, 열린 실마리를 한 장에 모은 세션 시작점.",
+      "tags": [
+        "현재 상태",
+        "세션",
+        "아렌"
+      ],
+      "source": "첫 시범 세션 기록에서 옮김",
+      "related": [
+        "aren-session-01",
+        "aren-sheet",
+        "low-cape",
+        "causal-roleplay"
+      ],
+      "aliases": [
+        "현재 상태",
+        "세션 시작점"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }

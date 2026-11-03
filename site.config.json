@@ -42,6 +42,10 @@
         "label": "대의문 — 거대한 수수께끼"
       },
       {
+        "id": "story-state",
+        "label": "이야기 현재 상태"
+      },
+      {
         "id": "start-here",
         "label": "세계 개요"
       },
@@ -152,6 +156,12 @@
     "sheet": {
       "label": "캐릭터 시트",
       "template": "templates/sheet.md",
+      "category": "롤플레잉",
+      "status": "사용 중"
+    },
+    "state": {
+      "label": "이야기 현재 상태",
+      "template": "templates/state.md",
       "category": "롤플레잉",
       "status": "사용 중"
     }

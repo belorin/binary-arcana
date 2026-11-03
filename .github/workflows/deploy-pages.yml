@@ -22,25 +22,33 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+      - name: Apply inbox bundles
+        run: node scripts/apply-inbox.mjs
+        env:
+          INBOX_MESSAGE_FILE: ${{ runner.temp }}/inbox-message
       - name: Generate
         run: node scripts/build.mjs
       - name: Validate
         run: node scripts/build.mjs --check
       - name: Commit regenerated files to main
         run: |
-          git add -A notes.json index.html robots.txt AI_INDEX.md ai llms.txt editorial/map editorial/maintenance/queue.md
+          git add -A notes.json index.html robots.txt AI_INDEX.md ai llms.txt editorial wiki inbox
           if git diff --cached --quiet; then
             echo "Generated files already up to date."
             exit 0
           fi
           git fetch origin main
           if [ "$(git rev-parse origin/main)" != "$GITHUB_SHA" ]; then
-            echo "main moved on; the run for the newer commit will regenerate."
+            echo "main moved on; the run for the newer commit will regenerate (an unapplied inbox bundle stays in inbox/ and is applied then)."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: regenerate site data, AI index and wiki map"
+          if [ -s "$RUNNER_TEMP/inbox-message" ]; then
+            git commit -m "chore: 적용 — $(head -1 "$RUNNER_TEMP/inbox-message")" -m "inbox 묶음을 적용하고 사이트 데이터를 다시 만들었다."
+          else
+            git commit -m "chore: regenerate site data, AI index and wiki map"
+          fi
           git push origin HEAD:main
       - name: Assemble site
         run: |

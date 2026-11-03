@@ -21,6 +21,7 @@ Markdown 원고를 정본으로 두고, GitHub Actions가 사이트 데이터·A
 | `wiki/relations.json` | 근거 절과 이유가 있는 의미 관계 |
 | `wiki/calendar.json` | 달력 보기의 정본(`features.calendar`가 켜져 있을 때) |
 | `site.config.json` | 사이트 이름·주소·주제 순서·첫 화면·소개·기능·문서 유형 |
+| `PLAY.md`, `inbox/` | 세션 빠른 진행 절차와 수신함(묶음 파일 하나로 여러 문서를 한 번에 반영) |
 | `templates/*.md` | 새 문서의 틀(`scripts/new-doc.mjs`가 사용) |
 | `editorial/ingestions/` | 증보 장부: 반영한 지식 표제와 문서·절, 보류 항목(대화 원문 없음) |
 | `editorial/crosslinks/index.json` | 교차 편집 제안: 검토 대기 중인 해석적 연결 가설 |
