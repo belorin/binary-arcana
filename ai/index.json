@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 32,
+  "document_count": 41,
   "documents": [
     {
       "id": "grand-questions",
@@ -63,7 +63,8 @@
         "grand-questions",
         "start-here",
         "knowledge-horizons",
-        "scenario-great-crossing"
+        "scenario-great-crossing",
+        "demon-epoch-framework"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/seven-demon-lords.md",
@@ -106,7 +107,8 @@
         "rival-play",
         "rival-gc-retrospective",
         "multi-ai-roleplay",
-        "scene-fiction-principles"
+        "scene-fiction-principles",
+        "demon-epoch-framework"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/causal-roleplay.md",
@@ -996,7 +998,8 @@
         "scene-fiction-principles",
         "rival-gc-finale-fiction",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "demon-epoch-framework"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/multi-ai-roleplay.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/multi-ai-roleplay.md",
@@ -1070,6 +1073,291 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-finale-fiction.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-finale-fiction/",
       "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-finale-fiction"
+    },
+    {
+      "id": "demon-epoch-framework",
+      "title": "일곱 마왕의 시대 — 거시 서사 대턴 설계",
+      "aliases": [
+        "마왕 시대 설계"
+      ],
+      "category": "롤플레잉",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "summary": "일곱 마왕의 시대를 2·2·3 구도로 세 AI와 세계 진행자가 두세 대턴에 걸쳐 겹쳐 그리는 거시 서사 설계. 승패 대신 재사용 가능한 시대 단면을 만든다.",
+      "review_state": "unassessed",
+      "review_label": "거시 시대 형성 초안",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "seven-demon-lords",
+        "multi-ai-roleplay",
+        "causal-roleplay",
+        "scene-fiction-principles",
+        "demon-epoch-s00",
+        "demon-epoch-harmony",
+        "demon-epoch-oath",
+        "demon-epoch-resonance",
+        "demon-epoch-shedding",
+        "demon-epoch-branching",
+        "demon-epoch-hospitality",
+        "demon-epoch-dream"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-framework.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-framework.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-framework/",
+      "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-framework"
+    },
+    {
+      "id": "demon-epoch-s00",
+      "title": "일곱 마왕의 시대 — 대턴 시작 전 관측 단면 S00",
+      "aliases": [
+        "마왕 시대 S00"
+      ],
+      "category": "사건",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "summary": "마왕의 오래된 질서, 중간 현시, 모호한 관측을 배치한 대턴 시작 전 거시 세계 단면. 행성 위치와 시간표는 임시 배치다.",
+      "review_state": "unassessed",
+      "review_label": "S00 · 대턴 시작 전 초안",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "demon-epoch-framework",
+        "seven-demon-lords",
+        "demon-epoch-harmony",
+        "demon-epoch-oath",
+        "demon-epoch-resonance",
+        "demon-epoch-shedding",
+        "demon-epoch-branching",
+        "demon-epoch-hospitality",
+        "demon-epoch-dream"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-s00.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-s00.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-s00/",
+      "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-s00"
+    },
+    {
+      "id": "demon-epoch-harmony",
+      "title": "조화의 마왕 — 거시 대턴 인물 시트",
+      "aliases": [
+        "조화의 마왕"
+      ],
+      "category": "인물",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "summary": "조화의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "review_state": "unassessed",
+      "review_label": "마왕 시트 초안 · 미채택",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-harmony.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-harmony.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-harmony/",
+      "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-harmony"
+    },
+    {
+      "id": "demon-epoch-oath",
+      "title": "서약의 마왕 — 거시 대턴 인물 시트",
+      "aliases": [
+        "서약의 마왕"
+      ],
+      "category": "인물",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "summary": "서약의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "review_state": "unassessed",
+      "review_label": "마왕 시트 초안 · 미채택",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-oath.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-oath.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-oath/",
+      "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-oath"
+    },
+    {
+      "id": "demon-epoch-resonance",
+      "title": "공명의 마왕 — 거시 대턴 인물 시트",
+      "aliases": [
+        "공명의 마왕"
+      ],
+      "category": "인물",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "summary": "공명의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "review_state": "unassessed",
+      "review_label": "마왕 시트 초안 · 미채택",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-resonance.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-resonance.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-resonance/",
+      "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-resonance"
+    },
+    {
+      "id": "demon-epoch-shedding",
+      "title": "탈피의 마왕 — 거시 대턴 인물 시트",
+      "aliases": [
+        "탈피의 마왕"
+      ],
+      "category": "인물",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "summary": "탈피의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "review_state": "unassessed",
+      "review_label": "마왕 시트 초안 · 미채택",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-shedding.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-shedding.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-shedding/",
+      "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-shedding"
+    },
+    {
+      "id": "demon-epoch-branching",
+      "title": "분기의 마왕 — 거시 대턴 인물 시트",
+      "aliases": [
+        "분기의 마왕"
+      ],
+      "category": "인물",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "summary": "분기의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "review_state": "unassessed",
+      "review_label": "마왕 시트 초안 · 미채택",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-branching.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-branching.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-branching/",
+      "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-branching"
+    },
+    {
+      "id": "demon-epoch-hospitality",
+      "title": "환대의 마왕 — 거시 대턴 인물 시트",
+      "aliases": [
+        "환대의 마왕"
+      ],
+      "category": "인물",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "summary": "환대의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "review_state": "unassessed",
+      "review_label": "마왕 시트 초안 · 미채택",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-hospitality.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-hospitality.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-hospitality/",
+      "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-hospitality"
+    },
+    {
+      "id": "demon-epoch-dream",
+      "title": "몽환의 마왕 — 거시 대턴 인물 시트",
+      "aliases": [
+        "몽환의 마왕"
+      ],
+      "category": "인물",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "summary": "몽환의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "review_state": "unassessed",
+      "review_label": "마왕 시트 초안 · 미채택",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-dream.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-dream.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-dream/",
+      "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-dream"
     }
   ]
 }

@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 194,
+  "edge_count": 239,
   "edges": [
     {
       "from": "grand-questions",
@@ -56,6 +56,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "seven-demon-lords",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "causal-roleplay",
       "to": "knowledge-horizons",
       "type": "related_to",
@@ -142,6 +148,12 @@
     {
       "from": "causal-roleplay",
       "to": "scene-fiction-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "causal-roleplay",
+      "to": "demon-epoch-framework",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1106,6 +1118,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "multi-ai-roleplay",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "scene-fiction-principles",
       "to": "multi-ai-roleplay",
       "type": "related_to",
@@ -1162,6 +1180,258 @@
     {
       "from": "rival-gc-finale-fiction",
       "to": "scenario-great-crossing",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "multi-ai-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "scene-fiction-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "demon-epoch-s00",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "demon-epoch-harmony",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "demon-epoch-oath",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "demon-epoch-resonance",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "demon-epoch-shedding",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "demon-epoch-branching",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "demon-epoch-hospitality",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "demon-epoch-dream",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-s00",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-s00",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-s00",
+      "to": "demon-epoch-harmony",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-s00",
+      "to": "demon-epoch-oath",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-s00",
+      "to": "demon-epoch-resonance",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-s00",
+      "to": "demon-epoch-shedding",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-s00",
+      "to": "demon-epoch-branching",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-s00",
+      "to": "demon-epoch-hospitality",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-s00",
+      "to": "demon-epoch-dream",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-harmony",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-harmony",
+      "to": "demon-epoch-s00",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-harmony",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-oath",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-oath",
+      "to": "demon-epoch-s00",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-oath",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-resonance",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-resonance",
+      "to": "demon-epoch-s00",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-resonance",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-shedding",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-shedding",
+      "to": "demon-epoch-s00",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-shedding",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-branching",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-branching",
+      "to": "demon-epoch-s00",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-branching",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-hospitality",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-hospitality",
+      "to": "demon-epoch-s00",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-hospitality",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-dream",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-dream",
+      "to": "demon-epoch-s00",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-dream",
+      "to": "seven-demon-lords",
       "type": "related_to",
       "basis": "manifest.related"
     },

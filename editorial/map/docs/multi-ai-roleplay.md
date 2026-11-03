@@ -7,7 +7,7 @@
 - 요약: 두 명 이상 AI 참가자의 독립 선언과 후반 세계 진행자의 창의적 총합 판정, 제3세력 자율성·감정 동기·실제 비용·독립 장면 소설을 규정한 차기 대국 운영 원칙.
 - 태그: 다수 AI, 롤플레잉, 진행자, 합성 판정, 자율성, 제3세력, 시점, 세계 진행
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `rival-play`, `rival-character-principles`, `rival-gc-retrospective`, `scene-fiction-principles`, `rival-gc-finale-fiction`, `causal-roleplay`, `knowledge-horizons`
+- 관련 문서: `rival-play`, `rival-character-principles`, `rival-gc-retrospective`, `scene-fiction-principles`, `rival-gc-finale-fiction`, `causal-roleplay`, `knowledge-horizons`, `demon-epoch-framework`
 
 ## 절 목차
 

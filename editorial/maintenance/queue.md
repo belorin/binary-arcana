@@ -4,19 +4,21 @@
 
 마지막 정비: **M001** (2026-11-03) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 32개 · 변경 문서 32 · 고립 0 · 한쪽 연결 36 · 보류 0 · 열린 교차 제안 0
+원고 41개 · 변경 문서 41 · 고립 0 · 한쪽 연결 45 · 보류 0 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (32)
+## 1. 지난 정비 이후 변경된 문서 (41)
 
 manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **대국 기록** (10): `rival-gc-state`, `rival-gc-t02-yunda`, `rival-gc-t01-seo`, `rival-gc-t03-world`, `rival-gc-t05-yunda`, `rival-gc-t04-seo`, `rival-gc-t06-world`, `rival-gc-t08-yunda`, `rival-gc-t07-seo`, `rival-gc-t09-world`
-- **롤플레잉** (6): `aren-sheet`, `aren-session-01`, `story-state`, `scenario-great-crossing`, `rival-play`, `multi-ai-roleplay`
+- **롤플레잉** (7): `aren-sheet`, `aren-session-01`, `story-state`, `scenario-great-crossing`, `rival-play`, `multi-ai-roleplay`, `demon-epoch-framework`
+- **인물** (7): `demon-epoch-harmony`, `demon-epoch-oath`, `demon-epoch-resonance`, `demon-epoch-shedding`, `demon-epoch-branching`, `demon-epoch-hospitality`, `demon-epoch-dream`
 - **운영 원칙** (6): `knowledge-horizons`, `causal-roleplay`, `exceptional-generations`, `rival-gc-retrospective`, `rival-character-principles`, `scene-fiction-principles`
 - **개요** (3): `grand-questions`, `start-here`, `open-setting-questions`
 - **안내** (2): `editing-guide`, `worldbuilding-guide`
 - **마법** (1): `magic-as-practice`
 - **마법 공예·항행** (1): `magical-distance-and-passage`
+- **사건** (1): `demon-epoch-s00`
 - **세력** (1): `seven-demon-lords`
 - **소설** (1): `rival-gc-finale-fiction`
 - **장소** (1): `low-cape`
@@ -26,7 +28,7 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (36)
+## 3. 한쪽에서만 건 관련 문서 (45)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -66,6 +68,15 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 - `rival-character-principles` → `knowledge-horizons`
 - `rival-gc-finale-fiction` → `rival-gc-state`
 - `rival-gc-finale-fiction` → `scenario-great-crossing`
+- `demon-epoch-framework` → `scene-fiction-principles`
+- `demon-epoch-s00` → `seven-demon-lords`
+- `demon-epoch-harmony` → `seven-demon-lords`
+- `demon-epoch-oath` → `seven-demon-lords`
+- `demon-epoch-resonance` → `seven-demon-lords`
+- `demon-epoch-shedding` → `seven-demon-lords`
+- `demon-epoch-branching` → `seven-demon-lords`
+- `demon-epoch-hospitality` → `seven-demon-lords`
+- `demon-epoch-dream` → `seven-demon-lords`
 
 ## 4. 관련 문서가 없는 문서 (0)
 
@@ -74,21 +85,21 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 
 제목·별칭·소제목의 글자 2-gram 유사도(0~1)다. 중복이 아니라 **대조해 볼 후보**이며, 이미 연결된 쌍도 표시한다.
 
-- `rival-gc-t02-yunda` ↔ `rival-gc-t01-seo` · 0.34
-- `rival-gc-t04-seo` ↔ `rival-gc-t07-seo` · 0.23 · 연결됨
-- `rival-gc-t03-world` ↔ `rival-gc-t06-world` · 0.19 · 연결됨
-- `rival-gc-t02-yunda` ↔ `rival-gc-t05-yunda` · 0.19 · 연결됨
-- `rival-gc-t05-yunda` ↔ `rival-gc-t08-yunda` · 0.17 · 연결됨
-- `rival-gc-t08-yunda` ↔ `rival-gc-t07-seo` · 0.15
-- `rival-gc-t02-yunda` ↔ `rival-gc-t03-world` · 0.15 · 연결됨
-- `rival-gc-t01-seo` ↔ `rival-gc-t04-seo` · 0.15 · 연결됨
-- `rival-gc-t01-seo` ↔ `rival-gc-t07-seo` · 0.15
-- `rival-gc-t06-world` ↔ `rival-gc-t09-world` · 0.14 · 연결됨
-- `rival-gc-state` ↔ `rival-gc-t09-world` · 0.14 · 연결됨
-- `rival-gc-t01-seo` ↔ `rival-gc-t03-world` · 0.13 · 연결됨
-- `scenario-great-crossing` ↔ `rival-gc-state` · 0.13 · 연결됨
-- `rival-gc-t05-yunda` ↔ `rival-gc-t04-seo` · 0.12
-- `rival-gc-t05-yunda` ↔ `rival-gc-t07-seo` · 0.12
+- `demon-epoch-branching` ↔ `demon-epoch-dream` · 0.93
+- `demon-epoch-branching` ↔ `demon-epoch-hospitality` · 0.93
+- `demon-epoch-harmony` ↔ `demon-epoch-branching` · 0.93
+- `demon-epoch-harmony` ↔ `demon-epoch-dream` · 0.93
+- `demon-epoch-harmony` ↔ `demon-epoch-hospitality` · 0.93
+- `demon-epoch-harmony` ↔ `demon-epoch-oath` · 0.93
+- `demon-epoch-harmony` ↔ `demon-epoch-resonance` · 0.93
+- `demon-epoch-harmony` ↔ `demon-epoch-shedding` · 0.93
+- `demon-epoch-hospitality` ↔ `demon-epoch-dream` · 0.93
+- `demon-epoch-oath` ↔ `demon-epoch-branching` · 0.93
+- `demon-epoch-oath` ↔ `demon-epoch-dream` · 0.93
+- `demon-epoch-oath` ↔ `demon-epoch-hospitality` · 0.93
+- `demon-epoch-oath` ↔ `demon-epoch-resonance` · 0.93
+- `demon-epoch-oath` ↔ `demon-epoch-shedding` · 0.93
+- `demon-epoch-resonance` ↔ `demon-epoch-branching` · 0.93
 
 ## 6. 보류 항목 (0)
 
@@ -107,5 +118,5 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 10개: 대국 기록 10, 운영 원칙 6, 롤플레잉 6, 개요 3, 안내 2, 세력 1, 마법 1, 마법 공예·항행 1, 장소 1, 소설 1
-문서가 하나뿐인 분류 5개: 세력, 마법, 마법 공예·항행, 장소, 소설. 분류 체계 변경은 제안만 한다.
+분류 12개: 대국 기록 10, 롤플레잉 7, 인물 7, 운영 원칙 6, 개요 3, 안내 2, 세력 1, 마법 1, 마법 공예·항행 1, 장소 1, 소설 1, 사건 1
+문서가 하나뿐인 분류 6개: 세력, 마법, 마법 공예·항행, 장소, 소설, 사건. 분류 체계 변경은 제안만 한다.

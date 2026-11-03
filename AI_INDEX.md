@@ -36,11 +36,41 @@
   - 기원을 알 수 없는 마왕과 일족의 철학적 행동양식 초안. 일곱 호칭은 저자용이며 세계 내부 인물들의 지식이 아니다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/seven-demon-lords/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md)
 
+## 인물
+
+- **[조화의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-harmony.md)** · 별칭: 조화의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
+  - 조화의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-harmony/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-harmony.md)
+- **[서약의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-oath.md)** · 별칭: 서약의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
+  - 서약의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-oath/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-oath.md)
+- **[공명의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-resonance.md)** · 별칭: 공명의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
+  - 공명의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-resonance/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-resonance.md)
+- **[탈피의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-shedding.md)** · 별칭: 탈피의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
+  - 탈피의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-shedding/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-shedding.md)
+- **[분기의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-branching.md)** · 별칭: 분기의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
+  - 분기의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-branching/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-branching.md)
+- **[환대의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-hospitality.md)** · 별칭: 환대의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
+  - 환대의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-hospitality/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-hospitality.md)
+- **[몽환의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-dream.md)** · 별칭: 몽환의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
+  - 몽환의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-dream/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-dream.md)
+
 ## 장소
 
 - **[낮은곶](wiki/low-cape.md)** · 별칭: 낮은곶 경유지 · 수정: 2026-11-03 · 상태: 초안
   - 낮은 인구에도 오래 축적된 물 공급과 마법적 통행 체계를 가진 해안 정착지. 샘 한 줄기가 손상되고 물턱을 봉합한 사건이 일어났다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/low-cape/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/low-cape.md)
+
+## 사건
+
+- **[일곱 마왕의 시대 — 대턴 시작 전 관측 단면 S00](wiki/demon-epoch-s00.md)** · 별칭: 마왕 시대 S00 · 수정: 2026-11-03 · 상태: S00 · 대턴 시작 전 초안
+  - 마왕의 오래된 질서, 중간 현시, 모호한 관측을 배치한 대턴 시작 전 거시 세계 단면. 행성 위치와 시간표는 임시 배치다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-s00/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-s00.md)
 
 ## 소설
 
@@ -68,6 +98,9 @@
 - **[다수 AI 참여 롤플레잉 — 세계 진행과 합성 판정 규칙](wiki/multi-ai-roleplay.md)** · 별칭: 다수 AI 롤플레잉 원칙, 대국 규칙 제2판, AI 세계 진행 규칙 · 수정: 2026-11-03 · 상태: 확정 · 다수 AI 제2판
   - 두 명 이상 AI 참가자의 독립 선언과 후반 세계 진행자의 창의적 총합 판정, 제3세력 자율성·감정 동기·실제 비용·독립 장면 소설을 규정한 차기 대국 운영 원칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/multi-ai-roleplay/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/multi-ai-roleplay.md)
+- **[일곱 마왕의 시대 — 거시 서사 대턴 설계](wiki/demon-epoch-framework.md)** · 별칭: 마왕 시대 설계 · 수정: 2026-11-03 · 상태: 거시 시대 형성 초안
+  - 일곱 마왕의 시대를 2·2·3 구도로 세 AI와 세계 진행자가 두세 대턴에 걸쳐 겹쳐 그리는 거시 서사 설계. 승패 대신 재사용 가능한 시대 단면을 만든다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-framework/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-framework.md)
 
 ## 대국 기록
 

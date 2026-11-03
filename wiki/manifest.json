@@ -174,7 +174,8 @@
         "grand-questions",
         "start-here",
         "knowledge-horizons",
-        "scenario-great-crossing"
+        "scenario-great-crossing",
+        "demon-epoch-framework"
       ],
       "aliases": [
         "칠마왕",
@@ -319,7 +320,8 @@
         "rival-play",
         "rival-gc-retrospective",
         "multi-ai-roleplay",
-        "scene-fiction-principles"
+        "scene-fiction-principles",
+        "demon-epoch-framework"
       ],
       "aliases": [
         "소턴과 대턴",
@@ -986,7 +988,8 @@
         "scene-fiction-principles",
         "rival-gc-finale-fiction",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "demon-epoch-framework"
       ],
       "aliases": [
         "다수 AI 롤플레잉 원칙",
@@ -1060,6 +1063,291 @@
       "aliases": [
         "큰 건넘 결말 소설",
         "한 사람의 폭"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/demon-epoch-framework.md",
+      "publish": true,
+      "order": 22,
+      "id": "demon-epoch-framework",
+      "title": "일곱 마왕의 시대 — 거시 서사 대턴 설계",
+      "category": "롤플레잉",
+      "status": "거시 시대 형성 초안",
+      "updated": "2026-11-03",
+      "summary": "일곱 마왕의 시대를 2·2·3 구도로 세 AI와 세계 진행자가 두세 대턴에 걸쳐 겹쳐 그리는 거시 서사 설계. 승패 대신 재사용 가능한 시대 단면을 만든다.",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "source": "일곱 마왕의 기존 철학적 초안에 기반한 시대 형성 제안",
+      "related": [
+        "seven-demon-lords",
+        "multi-ai-roleplay",
+        "causal-roleplay",
+        "scene-fiction-principles",
+        "demon-epoch-s00",
+        "demon-epoch-harmony",
+        "demon-epoch-oath",
+        "demon-epoch-resonance",
+        "demon-epoch-shedding",
+        "demon-epoch-branching",
+        "demon-epoch-hospitality",
+        "demon-epoch-dream"
+      ],
+      "aliases": [
+        "마왕 시대 설계"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/demon-epoch-s00.md",
+      "publish": true,
+      "order": 23,
+      "id": "demon-epoch-s00",
+      "title": "일곱 마왕의 시대 — 대턴 시작 전 관측 단면 S00",
+      "category": "사건",
+      "status": "S00 · 대턴 시작 전 초안",
+      "updated": "2026-11-03",
+      "summary": "마왕의 오래된 질서, 중간 현시, 모호한 관측을 배치한 대턴 시작 전 거시 세계 단면. 행성 위치와 시간표는 임시 배치다.",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "source": "일곱 마왕의 기존 철학적 초안에 기반한 시대 형성 제안",
+      "related": [
+        "demon-epoch-framework",
+        "seven-demon-lords",
+        "demon-epoch-harmony",
+        "demon-epoch-oath",
+        "demon-epoch-resonance",
+        "demon-epoch-shedding",
+        "demon-epoch-branching",
+        "demon-epoch-hospitality",
+        "demon-epoch-dream"
+      ],
+      "aliases": [
+        "마왕 시대 S00"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/demon-epoch-harmony.md",
+      "publish": true,
+      "order": 24,
+      "id": "demon-epoch-harmony",
+      "title": "조화의 마왕 — 거시 대턴 인물 시트",
+      "category": "인물",
+      "status": "마왕 시트 초안 · 미채택",
+      "updated": "2026-11-03",
+      "summary": "조화의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "source": "일곱 마왕의 기존 철학적 초안에 기반한 시대 형성 제안",
+      "related": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "aliases": [
+        "조화의 마왕"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/demon-epoch-oath.md",
+      "publish": true,
+      "order": 25,
+      "id": "demon-epoch-oath",
+      "title": "서약의 마왕 — 거시 대턴 인물 시트",
+      "category": "인물",
+      "status": "마왕 시트 초안 · 미채택",
+      "updated": "2026-11-03",
+      "summary": "서약의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "source": "일곱 마왕의 기존 철학적 초안에 기반한 시대 형성 제안",
+      "related": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "aliases": [
+        "서약의 마왕"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/demon-epoch-resonance.md",
+      "publish": true,
+      "order": 26,
+      "id": "demon-epoch-resonance",
+      "title": "공명의 마왕 — 거시 대턴 인물 시트",
+      "category": "인물",
+      "status": "마왕 시트 초안 · 미채택",
+      "updated": "2026-11-03",
+      "summary": "공명의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "source": "일곱 마왕의 기존 철학적 초안에 기반한 시대 형성 제안",
+      "related": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "aliases": [
+        "공명의 마왕"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/demon-epoch-shedding.md",
+      "publish": true,
+      "order": 27,
+      "id": "demon-epoch-shedding",
+      "title": "탈피의 마왕 — 거시 대턴 인물 시트",
+      "category": "인물",
+      "status": "마왕 시트 초안 · 미채택",
+      "updated": "2026-11-03",
+      "summary": "탈피의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "source": "일곱 마왕의 기존 철학적 초안에 기반한 시대 형성 제안",
+      "related": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "aliases": [
+        "탈피의 마왕"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/demon-epoch-branching.md",
+      "publish": true,
+      "order": 28,
+      "id": "demon-epoch-branching",
+      "title": "분기의 마왕 — 거시 대턴 인물 시트",
+      "category": "인물",
+      "status": "마왕 시트 초안 · 미채택",
+      "updated": "2026-11-03",
+      "summary": "분기의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "source": "일곱 마왕의 기존 철학적 초안에 기반한 시대 형성 제안",
+      "related": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "aliases": [
+        "분기의 마왕"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/demon-epoch-hospitality.md",
+      "publish": true,
+      "order": 29,
+      "id": "demon-epoch-hospitality",
+      "title": "환대의 마왕 — 거시 대턴 인물 시트",
+      "category": "인물",
+      "status": "마왕 시트 초안 · 미채택",
+      "updated": "2026-11-03",
+      "summary": "환대의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "source": "일곱 마왕의 기존 철학적 초안에 기반한 시대 형성 제안",
+      "related": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "aliases": [
+        "환대의 마왕"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/demon-epoch-dream.md",
+      "publish": true,
+      "order": 30,
+      "id": "demon-epoch-dream",
+      "title": "몽환의 마왕 — 거시 대턴 인물 시트",
+      "category": "인물",
+      "status": "마왕 시트 초안 · 미채택",
+      "updated": "2026-11-03",
+      "summary": "몽환의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "대턴",
+        "거시 서사",
+        "시대 스케치",
+        "초안"
+      ],
+      "source": "일곱 마왕의 기존 철학적 초안에 기반한 시대 형성 제안",
+      "related": [
+        "demon-epoch-framework",
+        "demon-epoch-s00",
+        "seven-demon-lords"
+      ],
+      "aliases": [
+        "몽환의 마왕"
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
