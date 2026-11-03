@@ -61,7 +61,8 @@
         "exceptional-generations",
         "causal-roleplay",
         "knowledge-horizons",
-        "variable-rules-and-life"
+        "variable-rules-and-life",
+        "binary-system"
       ],
       "aliases": [
         "세계 개요"
@@ -91,7 +92,8 @@
         "worldbuilding-guide",
         "magic-as-practice",
         "magical-distance-and-passage",
-        "exceptional-generations"
+        "exceptional-generations",
+        "binary-system"
       ],
       "aliases": [
         "미정 설정 목록"
@@ -280,7 +282,8 @@
         "causal-roleplay",
         "low-cape",
         "open-setting-questions",
-        "scenario-great-crossing"
+        "scenario-great-crossing",
+        "binary-system"
       ],
       "aliases": [
         "마법적 거리",
@@ -392,7 +395,8 @@
         "aren-session-01",
         "magical-distance-and-passage",
         "causal-roleplay",
-        "story-state"
+        "story-state",
+        "space-codes"
       ],
       "aliases": [
         "낮은곶 경유지"
@@ -518,7 +522,8 @@
         "knowledge-horizons",
         "magic-as-practice",
         "rival-play",
-        "rival-gc-state"
+        "rival-gc-state",
+        "space-codes"
       ],
       "aliases": [
         "큰 건넘",
@@ -1061,7 +1066,8 @@
         "rival-gc-state",
         "scene-fiction-principles",
         "multi-ai-roleplay",
-        "scenario-great-crossing"
+        "scenario-great-crossing",
+        "sky-positions"
       ],
       "aliases": [
         "큰 건넘 결말 소설",
@@ -1101,7 +1107,8 @@
         "demon-epoch-shedding",
         "demon-epoch-branching",
         "demon-epoch-hospitality",
-        "demon-epoch-dream"
+        "demon-epoch-dream",
+        "space-codes"
       ],
       "aliases": [
         "마왕 시대 설계"
@@ -1385,6 +1392,100 @@
       "aliases": [
         "변화하는 세계의 규칙",
         "규칙의 변동과 생활"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/binary-system.md",
+      "publish": true,
+      "order": 32,
+      "id": "binary-system",
+      "title": "쌍성계와 여섯 행성",
+      "category": "천체",
+      "status": "임시 정본",
+      "updated": "2026-11-03",
+      "summary": "두 해(큰 해·작은 해)의 겉모습과 40날의 공전, P3 기준의 날·물때·철·겹침철·해, 여섯 행성(잉걸·늪바다·물마루·마른들·큰고리·먼그늘)의 궤도와 환경, 사람의 자리.",
+      "tags": [
+        "쌍성계",
+        "행성",
+        "철",
+        "겹침",
+        "물때",
+        "역법"
+      ],
+      "source": "Claude가 사용자 위임으로 설계한 임시 정본. 기존 정본의 시간 표현과 맞춤",
+      "related": [
+        "space-codes",
+        "sky-positions",
+        "open-setting-questions",
+        "magical-distance-and-passage",
+        "start-here"
+      ],
+      "aliases": [
+        "행성 설정",
+        "두 해"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/space-codes.md",
+      "publish": true,
+      "order": 33,
+      "id": "space-codes",
+      "title": "공간 코드표",
+      "category": "천체",
+      "status": "임시 정본",
+      "updated": "2026-11-03",
+      "summary": "행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 규칙. 기존 문서의 장소와 코드의 대응, 일곱 마왕의 시대 영향권에 대한 제안.",
+      "tags": [
+        "코드",
+        "지리",
+        "행성",
+        "길",
+        "대륙"
+      ],
+      "source": "Claude가 사용자 위임으로 설계한 임시 정본. 기존 정본의 시간 표현과 맞춤",
+      "related": [
+        "binary-system",
+        "sky-positions",
+        "scenario-great-crossing",
+        "low-cape",
+        "demon-epoch-framework"
+      ],
+      "aliases": [
+        "공간 코드",
+        "장소 코드"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/sky-positions.md",
+      "publish": true,
+      "order": 34,
+      "id": "sky-positions",
+      "title": "시점별 천체 배치",
+      "category": "천체",
+      "status": "임시 정본 · 계산 기록",
+      "updated": "2026-11-03",
+      "summary": "기준 시점 T0(큰 건넘 대국의 마지막 겹침)과 그 뒤 몇 시점의 행성 위치, P3 하늘에서 각 행성이 보이는 때. 새 시점을 더하는 계산 방법.",
+      "tags": [
+        "천체 배치",
+        "T0",
+        "겹침",
+        "밤하늘"
+      ],
+      "source": "Claude가 사용자 위임으로 설계한 임시 정본. 기존 정본의 시간 표현과 맞춤",
+      "related": [
+        "binary-system",
+        "space-codes",
+        "rival-gc-finale-fiction"
+      ],
+      "aliases": [
+        "천체 배치",
+        "T0"
       ],
       "review_state": "unassessed",
       "last_enriched_on": "2026-11-03"

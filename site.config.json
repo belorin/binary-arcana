@@ -85,6 +85,14 @@
             "kicker": "전제"
           },
           {
+            "id": "binary-system",
+            "kicker": "천체"
+          },
+          {
+            "id": "space-codes",
+            "kicker": "지리"
+          },
+          {
             "id": "grand-questions",
             "kicker": "대의문"
           },

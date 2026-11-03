@@ -1,0 +1,85 @@
+{
+  "id": "ing-20261103-binary-system-codes",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "limit_note": "사용자 위임으로 정한 천체·지리 임시 정본",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "두 해는 40날에 서로 돌고 P3에서 늘 12도 안쪽에 붙어 보임",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "binary-system",
+          "section": "두 해"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "날·물때(11날)·철(44날)·겹침철(한 해 두 번)·해(440날)의 단위",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "binary-system",
+          "section": "P3에서 쓰는 시간의 단위"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "여섯 행성의 궤도·환경과 사람의 자리, 인류의 기원은 대의문으로 남김",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "binary-system",
+          "section": "여섯 행성"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "행성·땅·지역·위성·길·시점의 고유 코드 규칙",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-codes",
+          "section": "코드 규칙"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "P3의 큰 땅 넷과 바다 둘, 기존 장소의 코드 대응",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-codes",
+          "section": "P3 물마루"
+        },
+        {
+          "doc_id": "space-codes",
+          "section": "기존 문서의 장소와 코드"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "fact",
+      "title": "T0에 큰 건넘의 건너편 P4는 두 해 바로 뒤에 숨어 있었음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "sky-positions",
+          "section": "T0 — 큰 건넘 대국의 마지막 겹침"
+        }
+      ]
+    }
+  ]
+}
