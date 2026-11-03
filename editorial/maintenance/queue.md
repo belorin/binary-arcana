@@ -10,7 +10,7 @@
 
 첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
-- **개요** (3): `manifesto`, `start-here`, `open-setting-questions`
+- **개요** (3): `grand-questions`, `start-here`, `open-setting-questions`
 - **안내** (2): `editing-guide`, `worldbuilding-guide`
 
 ## 2. 들어오는 연결이 없는 문서 (0)
@@ -31,15 +31,15 @@
 제목·별칭·소제목의 글자 2-gram 유사도(0~1)다. 중복이 아니라 **대조해 볼 후보**이며, 이미 연결된 쌍도 표시한다.
 
 - `editing-guide` ↔ `worldbuilding-guide` · 0.12 · 연결됨
-- `start-here` ↔ `worldbuilding-guide` · 0.07 · 연결됨
-- `manifesto` ↔ `open-setting-questions` · 0.05 · 연결됨
-- `manifesto` ↔ `start-here` · 0.05 · 연결됨
+- `start-here` ↔ `open-setting-questions` · 0.07 · 연결됨
+- `grand-questions` ↔ `start-here` · 0.07 · 연결됨
+- `grand-questions` ↔ `open-setting-questions` · 0.06 · 연결됨
+- `start-here` ↔ `worldbuilding-guide` · 0.06 · 연결됨
 - `open-setting-questions` ↔ `worldbuilding-guide` · 0.04 · 연결됨
-- `start-here` ↔ `editing-guide` · 0.04 · 연결됨
-- `manifesto` ↔ `editing-guide` · 0.00
-- `manifesto` ↔ `worldbuilding-guide` · 0.00
+- `grand-questions` ↔ `editing-guide` · 0.03
+- `start-here` ↔ `editing-guide` · 0.02 · 연결됨
+- `grand-questions` ↔ `worldbuilding-guide` · 0.00
 - `open-setting-questions` ↔ `editing-guide` · 0.00
-- `start-here` ↔ `open-setting-questions` · 0.00 · 연결됨
 
 ## 6. 보류 항목 (0)
 
@@ -54,7 +54,7 @@
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
 - 긴 문서 (0): 없음
-- 짧은 문서 (4): `worldbuilding-guide` 761자, `editing-guide` 763자, `open-setting-questions` 1,183자, `start-here` 1,444자
+- 짧은 문서 (3): `worldbuilding-guide` 761자, `editing-guide` 763자, `open-setting-questions` 1,230자
 
 ## 9. 분류 참고
 

@@ -14,20 +14,20 @@
   "edge_count": 16,
   "edges": [
     {
-      "from": "manifesto",
+      "from": "grand-questions",
       "to": "start-here",
       "type": "related_to",
       "basis": "manifest.related"
     },
     {
-      "from": "manifesto",
+      "from": "grand-questions",
       "to": "open-setting-questions",
       "type": "related_to",
       "basis": "manifest.related"
     },
     {
       "from": "start-here",
-      "to": "manifesto",
+      "to": "grand-questions",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -63,7 +63,7 @@
     },
     {
       "from": "open-setting-questions",
-      "to": "manifesto",
+      "to": "grand-questions",
       "type": "related_to",
       "basis": "manifest.related"
     },

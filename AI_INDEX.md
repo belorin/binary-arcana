@@ -8,11 +8,11 @@
 
 ## 개요
 
-- **[대의문](wiki/manifesto.md)** · 별칭: 세계관 대의문 · 수정: 2026-11-03 · 상태: 정본
-  - 우주 자체의 마법성, 규명의 한계, 비인간 행위자, 다채로운 행성, 인류의 불완전한 진출을 규정하는 세계관의 큰 원칙.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/manifesto/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/manifesto.md)
+- **[대의문](wiki/grand-questions.md)** · 별칭: 거대한 의문, 세계의 큰 수수께끼 · 수정: 2026-11-03 · 상태: 미정
+  - 인류의 기원, 마법적 우주의 토대, 비인간 행위자의 역할, 다른 행성으로의 진출 한계 등 세계를 관통하는 거대한 수수께끼의 후보.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/grand-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/grand-questions.md)
 - **[세계 개요](wiki/start-here.md)** · 별칭: 세계 개요 · 수정: 2026-11-03 · 상태: 정본
-  - 두 태양과 여러 행성, 고도로 발달한 마법 문명, 비인간 행위자, 행성 진출의 한계를 정리한 세계 개요.
+  - 쌍성계의 여러 행성, 마법적인 우주, 비인간 행위자, 인간의 불완전한 행성 진출에 관한 확정 전제와 창작 방향.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/start-here/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md)
 - **[정해야 할 설정](wiki/open-setting-questions.md)** · 별칭: 미정 설정 목록 · 수정: 2026-11-03 · 상태: 미정
   - 쌍성계와 행성, 미규명된 마법적 우주, 비인간 행위자, 마법 항행, 이주와 문명에 관한 열린 설정 질문.
