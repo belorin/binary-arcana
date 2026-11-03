@@ -24,7 +24,8 @@
       "related": [
         "start-here",
         "open-setting-questions",
-        "seven-demon-lords"
+        "seven-demon-lords",
+        "reshaping"
       ],
       "aliases": [
         "거대한 의문",
@@ -62,7 +63,8 @@
         "causal-roleplay",
         "knowledge-horizons",
         "variable-rules-and-life",
-        "binary-system"
+        "binary-system",
+        "reshaping"
       ],
       "aliases": [
         "세계 개요"
@@ -94,7 +96,8 @@
         "magical-distance-and-passage",
         "exceptional-generations",
         "binary-system",
-        "magic-senses"
+        "magic-senses",
+        "reshaping"
       ],
       "aliases": [
         "미정 설정 목록"
@@ -180,7 +183,8 @@
         "start-here",
         "knowledge-horizons",
         "scenario-great-crossing",
-        "demon-epoch-framework"
+        "demon-epoch-framework",
+        "reshaping"
       ],
       "aliases": [
         "칠마왕",
@@ -435,7 +439,8 @@
         "magical-distance-and-passage",
         "causal-roleplay",
         "story-state",
-        "space-codes"
+        "space-codes",
+        "reshaping"
       ],
       "aliases": [
         "낮은곶 경유지"
@@ -526,7 +531,8 @@
         "aren-session-01",
         "aren-sheet",
         "low-cape",
-        "causal-roleplay"
+        "causal-roleplay",
+        "reshaping"
       ],
       "aliases": [
         "현재 상태",
@@ -632,7 +638,8 @@
         "rival-gc-t06-world",
         "rival-gc-t07-seo",
         "rival-gc-t08-yunda",
-        "rival-gc-t09-world"
+        "rival-gc-t09-world",
+        "reshaping"
       ],
       "aliases": [
         "대국 기준 상태",
@@ -1427,7 +1434,8 @@
         "grand-questions",
         "causal-roleplay",
         "knowledge-horizons",
-        "magic-senses"
+        "magic-senses",
+        "reshaping"
       ],
       "aliases": [
         "변화하는 세계의 규칙",
@@ -1461,7 +1469,8 @@
         "sky-positions",
         "open-setting-questions",
         "magical-distance-and-passage",
-        "start-here"
+        "start-here",
+        "reshaping"
       ],
       "aliases": [
         "행성 설정",
@@ -1522,7 +1531,8 @@
       "related": [
         "binary-system",
         "space-codes",
-        "rival-gc-finale-fiction"
+        "rival-gc-finale-fiction",
+        "reshaping"
       ],
       "aliases": [
         "천체 배치",
@@ -1530,6 +1540,42 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/reshaping.md",
+      "publish": true,
+      "order": 47,
+      "id": "reshaping",
+      "title": "재편 — 길이 닫히고 다시 열리는 시대",
+      "category": "사건",
+      "status": "임시 정본 · 진행자용 진상 포함",
+      "updated": "2026-11-04",
+      "summary": "길들이 줄어드는 가운데 새 길을 여는 이야기의 기본 시대. 세계 안에서 보이는 징후, 연대의 순서, 진행자용 진상과 검토 대기 제안.",
+      "tags": [
+        "재편",
+        "이야기의 시대",
+        "연대",
+        "빈자리",
+        "진행자용"
+      ],
+      "source": "2026-11-04 사용자와의 문답으로 정한 결정. Claude가 정리",
+      "related": [
+        "start-here",
+        "variable-rules-and-life",
+        "magic-senses",
+        "binary-system",
+        "sky-positions",
+        "rival-gc-state",
+        "low-cape",
+        "seven-demon-lords",
+        "grand-questions",
+        "open-setting-questions"
+      ],
+      "aliases": [
+        "재편",
+        "이야기의 시대",
+        "길이 줄어드는 시대"
+      ]
     }
   ]
 }
