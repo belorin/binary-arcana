@@ -574,6 +574,37 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "path": "wiki/rival-gc-t02-yunda.md",
+      "publish": true,
+      "order": 8,
+      "id": "rival-gc-t02-yunda",
+      "title": "T02 — 윤다의 첫째 물때 행동 선언",
+      "category": "대국 기록",
+      "status": "선언 확정 · 미판정",
+      "updated": "2026-11-03",
+      "summary": "기준 상태 S0에서 세오의 비공개 선언을 보지 않고 확정한 윤다의 첫째 물때 행동. 오린 협상, 젊은 여울의 대리인 점검, 회맹에 승계·왕래 분리 문구 제안을 선언하며 결과는 T03에 맡긴다.",
+      "tags": [
+        "대국",
+        "T02",
+        "윤다",
+        "큰 건넘",
+        "선언",
+        "첫째 물때"
+      ],
+      "source": "",
+      "related": [
+        "rival-play",
+        "rival-gc-state",
+        "scenario-great-crossing"
+      ],
+      "aliases": [
+        "윤다 첫 턴",
+        "T02 윤다 선언"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }

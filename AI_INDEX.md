@@ -65,6 +65,9 @@
 - **[대국 기준 상태 — 큰 건넘의 계승](wiki/rival-gc-state.md)** · 별칭: 대국 기준 상태, S0 · 수정: 2026-11-03 · 상태: S0 · 첫째 물때
   - 세력 대국의 기준 상태. 두 진영이 같은 물때에 이 버전만 보고 선언하며, 세계 진행자가 물때마다 새 버전으로 고쳐 쓴다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-state/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-state.md)
+- **[T02 — 윤다의 첫째 물때 행동 선언](wiki/rival-gc-t02-yunda.md)** · 별칭: 윤다 첫 턴, T02 윤다 선언 · 수정: 2026-11-03 · 상태: 선언 확정 · 미판정
+  - 기준 상태 S0에서 세오의 비공개 선언을 보지 않고 확정한 윤다의 첫째 물때 행동. 오린 협상, 젊은 여울의 대리인 점검, 회맹에 승계·왕래 분리 문구 제안을 선언하며 결과는 T03에 맡긴다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t02-yunda/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t02-yunda.md)
 
 ## 운영 원칙
 
