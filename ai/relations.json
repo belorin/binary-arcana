@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 115,
+  "edge_count": 120,
   "edges": [
     {
       "from": "grand-questions",
@@ -687,6 +687,36 @@
     },
     {
       "from": "rival-gc-t03-world",
+      "to": "scenario-great-crossing",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-t05-yunda",
+      "to": "rival-play",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-t05-yunda",
+      "to": "rival-gc-state",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-t05-yunda",
+      "to": "rival-gc-t03-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-t05-yunda",
+      "to": "rival-gc-t02-yunda",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-t05-yunda",
       "to": "scenario-great-crossing",
       "type": "related_to",
       "basis": "manifest.related"

@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 21,
+  "document_count": 22,
   "documents": [
     {
       "id": "grand-questions",
@@ -676,6 +676,39 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t03-world.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-t03-world/",
       "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-t03-world"
+    },
+    {
+      "id": "rival-gc-t05-yunda",
+      "title": "T05 — 윤다의 둘째 물때 행동 선언",
+      "aliases": [
+        "윤다 둘째 물때",
+        "T05 윤다 선언"
+      ],
+      "category": "대국 기록",
+      "tags": [
+        "대국",
+        "T05",
+        "윤다",
+        "둘째 물때",
+        "큰 건넘",
+        "독립 선언"
+      ],
+      "summary": "S1에서 세오의 T04 선언을 보지 않고 작성한 윤다의 둘째 물때 행동. 회맹 출석과 증언 요청, 맞섬 후보의 실제 관계 확인, 오린 밀사 회신에 따른 공동 숲길 확인 제안을 독립 선언하며 결과는 T06 판정에 맡긴다.",
+      "review_state": "unassessed",
+      "review_label": "선언 확정 · 미판정",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rival-play",
+        "rival-gc-state",
+        "rival-gc-t03-world",
+        "rival-gc-t02-yunda",
+        "scenario-great-crossing"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t05-yunda.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t05-yunda.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-t05-yunda/",
+      "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-t05-yunda"
     }
   ]
 }

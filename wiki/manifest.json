@@ -669,6 +669,39 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "path": "wiki/rival-gc-t05-yunda.md",
+      "publish": true,
+      "order": 11,
+      "id": "rival-gc-t05-yunda",
+      "title": "T05 — 윤다의 둘째 물때 행동 선언",
+      "category": "대국 기록",
+      "status": "선언 확정 · 미판정",
+      "updated": "2026-11-03",
+      "summary": "S1에서 세오의 T04 선언을 보지 않고 작성한 윤다의 둘째 물때 행동. 회맹 출석과 증언 요청, 맞섬 후보의 실제 관계 확인, 오린 밀사 회신에 따른 공동 숲길 확인 제안을 독립 선언하며 결과는 T06 판정에 맡긴다.",
+      "tags": [
+        "대국",
+        "T05",
+        "윤다",
+        "둘째 물때",
+        "큰 건넘",
+        "독립 선언"
+      ],
+      "source": "",
+      "related": [
+        "rival-play",
+        "rival-gc-state",
+        "rival-gc-t03-world",
+        "rival-gc-t02-yunda",
+        "scenario-great-crossing"
+      ],
+      "aliases": [
+        "윤다 둘째 물때",
+        "T05 윤다 선언"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }

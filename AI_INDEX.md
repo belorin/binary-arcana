@@ -74,6 +74,9 @@
 - **[T03 — 첫째 물때의 세계 판정과 제3세력](wiki/rival-gc-t03-world.md)** · 별칭: T03, 첫째 물때 세계 판정 · 수정: 2026-11-03 · 상태: 첫째 물때 판정 확정
   - 큰 건넘의 계승 첫째 물때에 대한 중립 판정. 세오·윤다의 행동 결과, 테살·가뮌·오린·비엘라·일족의 독립 행동, 진영별 인식, 장면과 S1로 이어지는 조건.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t03-world/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t03-world.md)
+- **[T05 — 윤다의 둘째 물때 행동 선언](wiki/rival-gc-t05-yunda.md)** · 별칭: 윤다 둘째 물때, T05 윤다 선언 · 수정: 2026-11-03 · 상태: 선언 확정 · 미판정
+  - S1에서 세오의 T04 선언을 보지 않고 작성한 윤다의 둘째 물때 행동. 회맹 출석과 증언 요청, 맞섬 후보의 실제 관계 확인, 오린 밀사 회신에 따른 공동 숲길 확인 제안을 독립 선언하며 결과는 T06 판정에 맡긴다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t05-yunda/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t05-yunda.md)
 
 ## 운영 원칙
 
