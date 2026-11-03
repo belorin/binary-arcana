@@ -11,7 +11,7 @@
       "status": "integrated",
       "targets": [
         {
-          "doc_id": "manifesto",
+          "doc_id": "start-here",
           "section": "우주는 처음부터 마법적이다"
         },
         {
@@ -27,7 +27,7 @@
       "status": "integrated",
       "targets": [
         {
-          "doc_id": "manifesto",
+          "doc_id": "start-here",
           "section": "우주는 처음부터 마법적이다"
         }
       ]
@@ -39,7 +39,7 @@
       "status": "integrated",
       "targets": [
         {
-          "doc_id": "manifesto",
+          "doc_id": "start-here",
           "section": "세계는 전부 규명되지 않는다"
         },
         {
@@ -55,7 +55,7 @@
       "status": "integrated",
       "targets": [
         {
-          "doc_id": "manifesto",
+          "doc_id": "start-here",
           "section": "인간만이 행위자는 아니다"
         }
       ]
@@ -67,7 +67,7 @@
       "status": "integrated",
       "targets": [
         {
-          "doc_id": "manifesto",
+          "doc_id": "start-here",
           "section": "두 태양, 여러 행성, 각기 복잡한 세계"
         }
       ]
@@ -79,7 +79,7 @@
       "status": "integrated",
       "targets": [
         {
-          "doc_id": "manifesto",
+          "doc_id": "start-here",
           "section": "도달했으나 지배하지 못한 우주"
         }
       ]
@@ -91,12 +91,28 @@
       "status": "integrated",
       "targets": [
         {
-          "doc_id": "manifesto",
-          "section": "열어 둔 질문과 작업 원칙"
+          "doc_id": "grand-questions",
+          "section": "대의문이 다루는 것"
         },
         {
           "doc_id": "open-setting-questions",
           "section": "마법 문명의 축적과 우주 항행"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "question",
+      "title": "인류의 기원 및 세계를 가로지르는 대의문의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "grand-questions",
+          "section": "인류는 어디에서 왔는가?"
+        },
+        {
+          "doc_id": "grand-questions",
+          "section": "질문을 다루는 방식"
         }
       ]
     }
