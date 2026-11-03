@@ -1,0 +1,112 @@
+{
+  "id": "ing-20261103-low-cape-observer-session",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "인구대폭발 이전의 작은 인구와 구석기-중세 사이의 불균질한 생활상",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "start-here",
+          "section": "작은 인구와 다양하게 겹치는 삶의 방식"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "종족 경계와 외형의 서사적 비중을 미리 고정하지 않음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "start-here",
+          "section": "작은 인구와 다양하게 겹치는 삶의 방식"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "question",
+      "title": "마왕 일부의 일족 창조 가능성과 일족 기원의 비일률성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "seven-demon-lords",
+          "section": "일족의 기원이 같을 필요는 없다"
+        },
+        {
+          "doc_id": "grand-questions",
+          "section": "마왕들은 어디에서 왔는가?"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "연표 사전 작성 금지와 상대적 세션 이력의 점진적 달력 편입",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "worldbuilding-guide",
+          "section": "연대기와 달력"
+        },
+        {
+          "doc_id": "start-here",
+          "section": "연대의 기준"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "example",
+      "title": "낮은곶의 소규모 해안 생활과 물턱 통행 및 기록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "low-cape",
+          "section": "사람들과 생활"
+        },
+        {
+          "doc_id": "low-cape",
+          "section": "통행과 기록"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "example",
+      "title": "아렌의 초기 역량과 지식의 한계, 생업과 마법",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "aren-sheet",
+          "section": "확인된 역량"
+        },
+        {
+          "doc_id": "aren-sheet",
+          "section": "인식 장부"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "example",
+      "title": "첫날의 자율 소턴과 귀환자 숫자 불일치 및 생업 손실",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "aren-session-01",
+          "section": "진행 기록 — 소턴"
+        },
+        {
+          "doc_id": "aren-session-01",
+          "section": "세계의 다른 움직임"
+        }
+      ]
+    }
+  ]
+}
