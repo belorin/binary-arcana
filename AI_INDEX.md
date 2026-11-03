@@ -104,6 +104,9 @@
 - **[인식의 지평과 정보 비대칭](wiki/knowledge-horizons.md)** · 별칭: 인물의 지식, 지식의 국소성, 정보 접근 규칙 · 수정: 2026-11-03 · 상태: 운영 문서
   - 작가의 정본과 각 인물·공동체·플레이어의 지식을 분리하고 지역성·전승·오해·전파를 고려해 소설과 LLM 롤플레잉을 운영하는 원칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/knowledge-horizons/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/knowledge-horizons.md)
+- **[첫 세력 대국 운영 회고 — 공정한 절차와 살아 움직이는 세계](wiki/rival-gc-retrospective.md)** · 별칭: 첫 대국 회고, 세력 대국 운영 실험 · 수정: 2026-11-03 · 상태: 실험 회고 · 개선 제안
+  - 첫 AI 세력 대국의 실무 회고. 비공개 선언·인식 장부의 효과, 과도한 합리성·NPC 자율성·판정 자의성·재현성의 한계, 다음 운영 절차 제안.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-retrospective/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-retrospective.md)
 
 ## 안내
 

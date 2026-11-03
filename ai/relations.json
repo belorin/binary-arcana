@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 149,
+  "edge_count": 161,
   "edges": [
     {
       "from": "grand-questions",
@@ -128,6 +128,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "causal-roleplay",
+      "to": "rival-gc-retrospective",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "start-here",
       "to": "grand-questions",
       "type": "related_to",
@@ -508,6 +514,12 @@
     {
       "from": "knowledge-horizons",
       "to": "rival-play",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-horizons",
+      "to": "rival-gc-retrospective",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -604,6 +616,12 @@
     {
       "from": "rival-play",
       "to": "rival-gc-t01-seo",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-play",
+      "to": "rival-gc-retrospective",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -892,6 +910,60 @@
     {
       "from": "rival-gc-t09-world",
       "to": "scenario-great-crossing",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-t09-world",
+      "to": "rival-gc-retrospective",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-retrospective",
+      "to": "rival-play",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-retrospective",
+      "to": "scenario-great-crossing",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-retrospective",
+      "to": "rival-gc-state",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-retrospective",
+      "to": "rival-gc-t03-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-retrospective",
+      "to": "rival-gc-t06-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-retrospective",
+      "to": "rival-gc-t09-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-retrospective",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-retrospective",
+      "to": "knowledge-horizons",
       "type": "related_to",
       "basis": "manifest.related"
     },

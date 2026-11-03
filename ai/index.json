@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 27,
+  "document_count": 28,
   "documents": [
     {
       "id": "grand-questions",
@@ -103,7 +103,8 @@
         "start-here",
         "story-state",
         "scenario-great-crossing",
-        "rival-play"
+        "rival-play",
+        "rival-gc-retrospective"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/causal-roleplay.md",
@@ -453,7 +454,8 @@
         "aren-sheet",
         "magic-as-practice",
         "scenario-great-crossing",
-        "rival-play"
+        "rival-play",
+        "rival-gc-retrospective"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/knowledge-horizons.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/knowledge-horizons.md",
@@ -549,7 +551,8 @@
         "causal-roleplay",
         "knowledge-horizons",
         "rival-gc-state",
-        "rival-gc-t01-seo"
+        "rival-gc-t01-seo",
+        "rival-gc-retrospective"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-play.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-play.md",
@@ -870,12 +873,50 @@
         "rival-gc-t07-seo",
         "rival-gc-t08-yunda",
         "rival-gc-t06-world",
-        "scenario-great-crossing"
+        "scenario-great-crossing",
+        "rival-gc-retrospective"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t09-world.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t09-world.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-t09-world/",
       "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-t09-world"
+    },
+    {
+      "id": "rival-gc-retrospective",
+      "title": "첫 세력 대국 운영 회고 — 공정한 절차와 살아 움직이는 세계",
+      "aliases": [
+        "첫 대국 회고",
+        "세력 대국 운영 실험"
+      ],
+      "category": "운영 원칙",
+      "tags": [
+        "세력 대국",
+        "운영 회고",
+        "세계 진행",
+        "LLM 롤플레잉",
+        "판정",
+        "정보 비대칭",
+        "실험"
+      ],
+      "summary": "첫 AI 세력 대국의 실무 회고. 비공개 선언·인식 장부의 효과, 과도한 합리성·NPC 자율성·판정 자의성·재현성의 한계, 다음 운영 절차 제안.",
+      "review_state": "unassessed",
+      "review_label": "실험 회고 · 개선 제안",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "rival-play",
+        "scenario-great-crossing",
+        "rival-gc-state",
+        "rival-gc-t03-world",
+        "rival-gc-t06-world",
+        "rival-gc-t09-world",
+        "causal-roleplay",
+        "knowledge-horizons"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-retrospective.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-retrospective.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-retrospective/",
+      "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-retrospective"
     }
   ]
 }

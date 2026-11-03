@@ -210,7 +210,8 @@
         "aren-sheet",
         "magic-as-practice",
         "scenario-great-crossing",
-        "rival-play"
+        "rival-play",
+        "rival-gc-retrospective"
       ],
       "aliases": [
         "인물의 지식",
@@ -314,7 +315,8 @@
         "start-here",
         "story-state",
         "scenario-great-crossing",
-        "rival-play"
+        "rival-play",
+        "rival-gc-retrospective"
       ],
       "aliases": [
         "소턴과 대턴",
@@ -540,7 +542,8 @@
         "causal-roleplay",
         "knowledge-horizons",
         "rival-gc-state",
-        "rival-gc-t01-seo"
+        "rival-gc-t01-seo",
+        "rival-gc-retrospective"
       ],
       "aliases": [
         "AI 대국",
@@ -860,7 +863,8 @@
         "rival-gc-t07-seo",
         "rival-gc-t08-yunda",
         "rival-gc-t06-world",
-        "scenario-great-crossing"
+        "scenario-great-crossing",
+        "rival-gc-retrospective"
       ],
       "aliases": [
         "T09",
@@ -869,6 +873,43 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "path": "wiki/rival-gc-retrospective.md",
+      "publish": true,
+      "order": 17,
+      "id": "rival-gc-retrospective",
+      "title": "첫 세력 대국 운영 회고 — 공정한 절차와 살아 움직이는 세계",
+      "category": "운영 원칙",
+      "status": "실험 회고 · 개선 제안",
+      "updated": "2026-11-03",
+      "summary": "첫 AI 세력 대국의 실무 회고. 비공개 선언·인식 장부의 효과, 과도한 합리성·NPC 자율성·판정 자의성·재현성의 한계, 다음 운영 절차 제안.",
+      "tags": [
+        "세력 대국",
+        "운영 회고",
+        "세계 진행",
+        "LLM 롤플레잉",
+        "판정",
+        "정보 비대칭",
+        "실험"
+      ],
+      "source": "첫 대국 T01–T09 확정 기록과 S3 운영 관찰",
+      "related": [
+        "rival-play",
+        "scenario-great-crossing",
+        "rival-gc-state",
+        "rival-gc-t03-world",
+        "rival-gc-t06-world",
+        "rival-gc-t09-world",
+        "causal-roleplay",
+        "knowledge-horizons"
+      ],
+      "aliases": [
+        "첫 대국 회고",
+        "세력 대국 운영 실험"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-03"
     }
   ]
 }

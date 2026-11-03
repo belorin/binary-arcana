@@ -66,6 +66,7 @@
 - [냉혹한 인과와 살아 움직이는 세계](https://belorin.github.io/binary-arcana/notes/causal-roleplay/): 플레이어의 바람보다 기존 인과·역량·타자의 행위가 우선하는 공정한 진행, 소턴과 대턴, 인식 장부와 세대 변화.
 - [세대의 예외와 역사적 파급](https://belorin.github.io/binary-arcana/notes/exceptional-generations/): 집단과 세대를 거치며 등장하는 드문 개인이 타자와 관계 속에서 지역·행성·세계관의 높은 역사적 층위에 영향을 미치는 방식.
 - [인식의 지평과 정보 비대칭](https://belorin.github.io/binary-arcana/notes/knowledge-horizons/): 작가의 정본과 각 인물·공동체·플레이어의 지식을 분리하고 지역성·전승·오해·전파를 고려해 소설과 LLM 롤플레잉을 운영하는 원칙.
+- [첫 세력 대국 운영 회고 — 공정한 절차와 살아 움직이는 세계](https://belorin.github.io/binary-arcana/notes/rival-gc-retrospective/): 첫 AI 세력 대국의 실무 회고. 비공개 선언·인식 장부의 효과, 과도한 합리성·NPC 자율성·판정 자의성·재현성의 한계, 다음 운영 절차 제안.
 
 ### 안내
 

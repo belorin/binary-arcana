@@ -1,0 +1,117 @@
+{
+  "id": "ing-20261103-rival-gc-retrospective",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "limit_note": "공개된 확정 대국 기록과 접근 가능한 운영 대화에 한정하여 정리했고, 별도 비공개 채팅 원문 전체를 열람한 것은 아니다.",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "example",
+      "title": "세 물때의 확정 사건과 운영 평가",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "실험의 구조와 실제 결과"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "argument",
+      "title": "비공개 선언 잠금과 인물별 인식 장부",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "효과가 있었던 설계 — 선언 잠금과 정보의 국소성"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "counterargument",
+      "title": "합리적 위험 회피와 정서적 동기의 조합",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "약점 1 — 합리적인 결정만으로 갈등은 움직이지 않았다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "argument",
+      "title": "제3세력의 독립 진행 시계 필요",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "약점 2 — 제3세력의 자율성은 반응을 거절하는 데 머물렀다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "counterargument",
+      "title": "세계 진행자가 설정하는 결과 범위의 재현성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "약점 3 — 판정자만이 정한 결과의 크기는 재현하기 어렵다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "불성립과 종료 시점의 구별",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "약점 4 — 불성립도 종료 결과로 다뤄야 한다"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "공개 진상과 실제 정보 접근 제한의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "약점 5 — 공개 문서에 적힌 비밀은 기술적으로 비밀이 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "example",
+      "title": "수신함 적용과 상태 스냅샷 개선",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "저장소 운영에서 얻은 교훈"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "curation",
+      "title": "다음 세력 대국 체크포인트",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rival-gc-retrospective",
+          "section": "다음 실험의 실무 체크포인트"
+        }
+      ]
+    }
+  ]
+}

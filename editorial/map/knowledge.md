@@ -3,10 +3,35 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 45개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 54개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (0)
 
+
+## 운영 원칙 (20)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 정본 지식과 등장인물 지식의 구분 → `knowledge-horizons` § 세계의 사실과 세계를 아는 일; `worldbuilding-guide` § 서술자의 지식과 인물의 지식 · `ing-20261103-knowledge-horizons`
+- 정보 접근의 지역성 및 교육·경험·전파·이해관계 → `knowledge-horizons` § 개인의 지식은 어디에서 오는가 · `ing-20261103-knowledge-horizons`
+- 인식의 비선형성과 분야별 전문성 → `knowledge-horizons` § 앎은 하나의 숫자가 아니다 · `ing-20261103-knowledge-horizons`
+- 소설과 LLM 역할극의 인물별 정보 분리 및 사건 기반 갱신 → `knowledge-horizons` § 소설과 LLM 롤플레잉에서의 적용 · `ing-20261103-knowledge-horizons`
+- 설정 비밀과 공개 위키의 정보 노출 분리 → `knowledge-horizons` § 서술 층위와 공개 범위 · `ing-20261103-knowledge-horizons`
+- 소원에 따른 인과 변경을 거부하되 창의적 해결을 허용하는 공정한 냉혹함 → `causal-roleplay` § 세계는 주인공을 위해 멈추거나 양보하지 않는다 · `ing-20261103-magic-travel-worldturns`
+- 소턴과 대턴의 다른 시간 규모 및 자율적으로 행동하는 행위자 → `causal-roleplay` § 소턴 — 개인이 실제로 행동하는 시간; `causal-roleplay` § 대턴 — 플레이어가 없는 동안에도 축적되는 변화 · `ing-20261103-magic-travel-worldturns`
+- 세대별 드문 개인의 출현과 세계의 상위 역사 규모에 대한 파급 → `exceptional-generations` § 예외적인 개인은 세계가 만든다; `exceptional-generations` § 더 높은 레이어라는 것은 무엇인가 · `ing-20261103-magic-travel-worldturns`
+- 통행 기록 보조원 아렌의 초기 사건을 통한 국소적 서사 시작 초안 → `causal-roleplay` § 하나의 경유지에서 시작하는 시범 서사 · `ing-20261103-magic-travel-worldturns`
+- 주인공 시점을 선택하는 서사적 이유와 인과적 책임 → `causal-roleplay` § 인물을 조명하는 서사의 이유 · `ing-20261103-aren-story-rewrite`
+- 진행자용 진상은 위키 안의 표시된 절에 두는 방침 → `knowledge-horizons` § 서술 층위와 공개 범위 · `ing-20261103-great-crossing-scenario`
+- 세 물때의 확정 사건과 운영 평가 → `rival-gc-retrospective` § 실험의 구조와 실제 결과 · `ing-20261103-rival-gc-retrospective`
+- 비공개 선언 잠금과 인물별 인식 장부 → `rival-gc-retrospective` § 효과가 있었던 설계 — 선언 잠금과 정보의 국소성 · `ing-20261103-rival-gc-retrospective`
+- 합리적 위험 회피와 정서적 동기의 조합 → `rival-gc-retrospective` § 약점 1 — 합리적인 결정만으로 갈등은 움직이지 않았다 · `ing-20261103-rival-gc-retrospective`
+- 제3세력의 독립 진행 시계 필요 → `rival-gc-retrospective` § 약점 2 — 제3세력의 자율성은 반응을 거절하는 데 머물렀다 · `ing-20261103-rival-gc-retrospective`
+- 세계 진행자가 설정하는 결과 범위의 재현성 → `rival-gc-retrospective` § 약점 3 — 판정자만이 정한 결과의 크기는 재현하기 어렵다 · `ing-20261103-rival-gc-retrospective`
+- 불성립과 종료 시점의 구별 → `rival-gc-retrospective` § 약점 4 — 불성립도 종료 결과로 다뤄야 한다 · `ing-20261103-rival-gc-retrospective`
+- 공개 진상과 실제 정보 접근 제한의 구분 → `rival-gc-retrospective` § 약점 5 — 공개 문서에 적힌 비밀은 기술적으로 비밀이 아니다 · `ing-20261103-rival-gc-retrospective`
+- 수신함 적용과 상태 스냅샷 개선 → `rival-gc-retrospective` § 저장소 운영에서 얻은 교훈 · `ing-20261103-rival-gc-retrospective`
+- 다음 세력 대국 체크포인트 → `rival-gc-retrospective` § 다음 실험의 실무 체크포인트 · `ing-20261103-rival-gc-retrospective`
 
 ## 개요 (13)
 
@@ -25,22 +50,6 @@
 - 인구 규모와 기술·제도·마법적 문명 수준의 비동일성 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261103-low-cape-observer-session`
 - 종족 경계와 외형의 서사적 비중을 미리 고정하지 않음 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261103-low-cape-observer-session`
 - 저인구를 저발전으로 해석하는 오류를 배제한 지역 서술 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식; `low-cape` § 사람들과 생활; `aren-session-01` § 생활 도구와 제도에 관한 서술 원칙 · `ing-20261103-low-cape-observer-session`
-
-## 운영 원칙 (11)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 정본 지식과 등장인물 지식의 구분 → `knowledge-horizons` § 세계의 사실과 세계를 아는 일; `worldbuilding-guide` § 서술자의 지식과 인물의 지식 · `ing-20261103-knowledge-horizons`
-- 정보 접근의 지역성 및 교육·경험·전파·이해관계 → `knowledge-horizons` § 개인의 지식은 어디에서 오는가 · `ing-20261103-knowledge-horizons`
-- 인식의 비선형성과 분야별 전문성 → `knowledge-horizons` § 앎은 하나의 숫자가 아니다 · `ing-20261103-knowledge-horizons`
-- 소설과 LLM 역할극의 인물별 정보 분리 및 사건 기반 갱신 → `knowledge-horizons` § 소설과 LLM 롤플레잉에서의 적용 · `ing-20261103-knowledge-horizons`
-- 설정 비밀과 공개 위키의 정보 노출 분리 → `knowledge-horizons` § 서술 층위와 공개 범위 · `ing-20261103-knowledge-horizons`
-- 소원에 따른 인과 변경을 거부하되 창의적 해결을 허용하는 공정한 냉혹함 → `causal-roleplay` § 세계는 주인공을 위해 멈추거나 양보하지 않는다 · `ing-20261103-magic-travel-worldturns`
-- 소턴과 대턴의 다른 시간 규모 및 자율적으로 행동하는 행위자 → `causal-roleplay` § 소턴 — 개인이 실제로 행동하는 시간; `causal-roleplay` § 대턴 — 플레이어가 없는 동안에도 축적되는 변화 · `ing-20261103-magic-travel-worldturns`
-- 세대별 드문 개인의 출현과 세계의 상위 역사 규모에 대한 파급 → `exceptional-generations` § 예외적인 개인은 세계가 만든다; `exceptional-generations` § 더 높은 레이어라는 것은 무엇인가 · `ing-20261103-magic-travel-worldturns`
-- 통행 기록 보조원 아렌의 초기 사건을 통한 국소적 서사 시작 초안 → `causal-roleplay` § 하나의 경유지에서 시작하는 시범 서사 · `ing-20261103-magic-travel-worldturns`
-- 주인공 시점을 선택하는 서사적 이유와 인과적 책임 → `causal-roleplay` § 인물을 조명하는 서사의 이유 · `ing-20261103-aren-story-rewrite`
-- 진행자용 진상은 위키 안의 표시된 절에 두는 방침 → `knowledge-horizons` § 서술 층위와 공개 범위 · `ing-20261103-great-crossing-scenario`
 
 ## 롤플레잉 (9)
 
