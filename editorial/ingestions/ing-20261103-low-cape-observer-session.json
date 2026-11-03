@@ -7,7 +7,7 @@
     {
       "id": "k01",
       "kind": "concept",
-      "title": "인구대폭발 이전의 작은 인구와 구석기-중세 사이의 불균질한 생활상",
+      "title": "인구 규모와 기술·제도·마법적 문명 수준의 비동일성",
       "status": "integrated",
       "targets": [
         {
@@ -105,6 +105,26 @@
         {
           "doc_id": "aren-session-01",
           "section": "세계의 다른 움직임"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "argument",
+      "title": "인구 비유를 생활 단계에 오적용한 표현 수정과 지역 생활 도구의 비대표성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "start-here",
+          "section": "작은 인구와 다양하게 겹치는 삶의 방식"
+        },
+        {
+          "doc_id": "low-cape",
+          "section": "사람들과 생활"
+        },
+        {
+          "doc_id": "aren-session-01",
+          "section": "생활 도구와 제도에 관한 서술 원칙"
         }
       ]
     }
