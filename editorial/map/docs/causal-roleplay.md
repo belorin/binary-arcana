@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `causal-roleplay` · 분류: 롤플레잉 · 공개 · 원고: [wiki/causal-roleplay.md](../../../wiki/causal-roleplay.md) · 4,428자 · 절 10개
+- id: `causal-roleplay` · 분류: 운영 원칙 · 공개 · 원고: [wiki/causal-roleplay.md](../../../wiki/causal-roleplay.md) · 4,428자 · 절 10개
 - 별칭: 소턴과 대턴, 세계 인과 규칙
 - 요약: 플레이어의 바람보다 기존 인과·역량·타자의 행위가 우선하는 공정한 진행, 소턴과 대턴, 인식 장부와 세대 변화.
 - 태그: 롤플레잉, 세계 진행, 소턴, 대턴, 냉혹한 인과, NPC
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `knowledge-horizons`, `magic-as-practice`, `magical-distance-and-passage`, `exceptional-generations`, `worldbuilding-guide`, `aren-sheet`, `aren-session-01`, `low-cape`
+- 관련 문서: `knowledge-horizons`, `magic-as-practice`, `magical-distance-and-passage`, `exceptional-generations`, `worldbuilding-guide`, `aren-sheet`, `aren-session-01`, `low-cape`, `start-here`, `story-state`
 
 ## 절 목차
 

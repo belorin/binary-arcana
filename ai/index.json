@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 14,
+  "document_count": 15,
   "documents": [
     {
       "id": "grand-questions",
@@ -76,7 +76,7 @@
         "소턴과 대턴",
         "세계 인과 규칙"
       ],
-      "category": "롤플레잉",
+      "category": "운영 원칙",
       "tags": [
         "롤플레잉",
         "세계 진행",
@@ -98,7 +98,9 @@
         "worldbuilding-guide",
         "aren-sheet",
         "aren-session-01",
-        "low-cape"
+        "low-cape",
+        "start-here",
+        "story-state"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/causal-roleplay.md",
@@ -133,9 +135,7 @@
         "magical-distance-and-passage",
         "exceptional-generations",
         "causal-roleplay",
-        "low-cape",
-        "aren-sheet",
-        "aren-session-01"
+        "knowledge-horizons"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/start-here.md",
@@ -191,7 +191,10 @@
         "start-here",
         "magical-distance-and-passage",
         "knowledge-horizons",
-        "causal-roleplay"
+        "causal-roleplay",
+        "worldbuilding-guide",
+        "open-setting-questions",
+        "exceptional-generations"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-as-practice.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magic-as-practice.md",
@@ -222,7 +225,8 @@
         "start-here",
         "magic-as-practice",
         "causal-roleplay",
-        "low-cape"
+        "low-cape",
+        "open-setting-questions"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magical-distance-and-passage.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magical-distance-and-passage.md",
@@ -236,7 +240,7 @@
         "세대별 예외",
         "높은 레이어"
       ],
-      "category": "사물·개념",
+      "category": "운영 원칙",
       "tags": [
         "세대",
         "예외적 개인",
@@ -252,7 +256,8 @@
       "related_ids": [
         "causal-roleplay",
         "magic-as-practice",
-        "start-here"
+        "start-here",
+        "open-setting-questions"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/exceptional-generations.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/exceptional-generations.md",
@@ -281,7 +286,9 @@
       "related_ids": [
         "aren-sheet",
         "aren-session-01",
-        "magical-distance-and-passage"
+        "magical-distance-and-passage",
+        "causal-roleplay",
+        "story-state"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/low-cape.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/low-cape.md",
@@ -310,7 +317,9 @@
       "related_ids": [
         "low-cape",
         "aren-session-01",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "causal-roleplay",
+        "story-state"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/aren-sheet.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/aren-sheet.md",
@@ -401,7 +410,8 @@
       "related_ids": [
         "low-cape",
         "aren-sheet",
-        "causal-roleplay"
+        "causal-roleplay",
+        "story-state"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/aren-session-01.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/aren-session-01.md",
@@ -416,7 +426,7 @@
         "지식의 국소성",
         "정보 접근 규칙"
       ],
-      "category": "안내",
+      "category": "운영 원칙",
       "tags": [
         "지식",
         "인식",
@@ -435,12 +445,42 @@
         "worldbuilding-guide",
         "start-here",
         "causal-roleplay",
-        "aren-sheet"
+        "aren-sheet",
+        "magic-as-practice"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/knowledge-horizons.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/knowledge-horizons.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/knowledge-horizons/",
       "app_url": "https://belorin.github.io/binary-arcana/#knowledge-horizons"
+    },
+    {
+      "id": "story-state",
+      "title": "이야기 현재 상태",
+      "aliases": [
+        "현재 상태",
+        "세션 시작점"
+      ],
+      "category": "롤플레잉",
+      "tags": [
+        "현재 상태",
+        "세션",
+        "아렌"
+      ],
+      "summary": "진행 중인 이야기의 현재 시점, 인물의 위치와 상태, 자원, 누가 무엇을 아는지, 열린 실마리를 한 장에 모은 세션 시작점.",
+      "review_state": "unassessed",
+      "review_label": "사용 중",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "aren-session-01",
+        "aren-sheet",
+        "low-cape",
+        "causal-roleplay"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/story-state.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/story-state.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/story-state/",
+      "app_url": "https://belorin.github.io/binary-arcana/#story-state"
     }
   ]
 }

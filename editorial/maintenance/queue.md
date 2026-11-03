@@ -2,20 +2,20 @@
 
 > 자동 생성(`scripts/build-maintenance-queue.mjs`). 직접 수정하지 않는다. 기계가 원고 전체에서 찾은 **신호**일 뿐이며, 무엇을 고칠지는 [정비 절차](../../MAINTENANCE.md)에 따라 원고를 읽고 판단한다.
 
-마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
+마지막 정비: **M001** (2026-11-03) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 14개 · 변경 문서 14 · 고립 0 · 한쪽 연결 13 · 보류 0 · 열린 교차 제안 0
+원고 15개 · 변경 문서 15 · 고립 0 · 한쪽 연결 0 · 보류 0 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (14)
+## 1. 지난 정비 이후 변경된 문서 (15)
 
-첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
+manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **개요** (3): `grand-questions`, `start-here`, `open-setting-questions`
-- **롤플레잉** (3): `causal-roleplay`, `aren-sheet`, `aren-session-01`
-- **안내** (3): `editing-guide`, `worldbuilding-guide`, `knowledge-horizons`
+- **롤플레잉** (3): `aren-sheet`, `aren-session-01`, `story-state`
+- **운영 원칙** (3): `knowledge-horizons`, `causal-roleplay`, `exceptional-generations`
+- **안내** (2): `editing-guide`, `worldbuilding-guide`
 - **마법** (1): `magic-as-practice`
 - **마법 공예·항행** (1): `magical-distance-and-passage`
-- **사물·개념** (1): `exceptional-generations`
 - **세력** (1): `seven-demon-lords`
 - **장소** (1): `low-cape`
 
@@ -24,23 +24,10 @@
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (13)
+## 3. 한쪽에서만 건 관련 문서 (0)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
-- `start-here` → `causal-roleplay`
-- `start-here` → `low-cape`
-- `start-here` → `aren-sheet`
-- `start-here` → `aren-session-01`
-- `open-setting-questions` → `magic-as-practice`
-- `open-setting-questions` → `magical-distance-and-passage`
-- `open-setting-questions` → `exceptional-generations`
-- `worldbuilding-guide` → `magic-as-practice`
-- `knowledge-horizons` → `start-here`
-- `magic-as-practice` → `knowledge-horizons`
-- `causal-roleplay` → `aren-sheet`
-- `causal-roleplay` → `low-cape`
-- `exceptional-generations` → `magic-as-practice`
 
 ## 4. 관련 문서가 없는 문서 (0)
 
@@ -82,5 +69,5 @@
 
 ## 9. 분류 참고
 
-분류 8개: 개요 3, 안내 3, 롤플레잉 3, 세력 1, 마법 1, 마법 공예·항행 1, 사물·개념 1, 장소 1
-문서가 하나뿐인 분류 5개: 세력, 마법, 마법 공예·항행, 사물·개념, 장소. 분류 체계 변경은 제안만 한다.
+분류 8개: 개요 3, 운영 원칙 3, 롤플레잉 3, 안내 2, 세력 1, 마법 1, 마법 공예·항행 1, 장소 1
+문서가 하나뿐인 분류 4개: 세력, 마법, 마법 공예·항행, 장소. 분류 체계 변경은 제안만 한다.

@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `knowledge-horizons` · 분류: 안내 · 공개 · 원고: [wiki/knowledge-horizons.md](../../../wiki/knowledge-horizons.md) · 4,285자 · 절 8개
+- id: `knowledge-horizons` · 분류: 운영 원칙 · 공개 · 원고: [wiki/knowledge-horizons.md](../../../wiki/knowledge-horizons.md) · 4,285자 · 절 8개
 - 별칭: 인물의 지식, 지식의 국소성, 정보 접근 규칙
 - 요약: 작가의 정본과 각 인물·공동체·플레이어의 지식을 분리하고 지역성·전승·오해·전파를 고려해 소설과 LLM 롤플레잉을 운영하는 원칙.
 - 태그: 지식, 인식, 정보 비대칭, 시점, 롤플레잉, NPC
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: reviewed
-- 관련 문서: `seven-demon-lords`, `worldbuilding-guide`, `start-here`, `causal-roleplay`, `aren-sheet`
+- 관련 문서: `seven-demon-lords`, `worldbuilding-guide`, `start-here`, `causal-roleplay`, `aren-sheet`, `magic-as-practice`
 
 ## 절 목차
 

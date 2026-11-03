@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `exceptional-generations` · 분류: 사물·개념 · 공개 · 원고: [wiki/exceptional-generations.md](../../../wiki/exceptional-generations.md) · 1,910자 · 절 6개
+- id: `exceptional-generations` · 분류: 운영 원칙 · 공개 · 원고: [wiki/exceptional-generations.md](../../../wiki/exceptional-generations.md) · 1,910자 · 절 6개
 - 별칭: 세대별 예외, 높은 레이어
 - 요약: 집단과 세대를 거치며 등장하는 드문 개인이 타자와 관계 속에서 지역·행성·세계관의 높은 역사적 층위에 영향을 미치는 방식.
 - 태그: 세대, 예외적 개인, 역사, 영향의 규모, 행위자
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `causal-roleplay`, `magic-as-practice`, `start-here`
+- 관련 문서: `causal-roleplay`, `magic-as-practice`, `start-here`, `open-setting-questions`
 
 ## 절 목차
 

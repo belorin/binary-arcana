@@ -7,7 +7,7 @@
 - 요약: 마법적 연결로 규정되는 거리와 물리적 도로의 필요, 힘든 행성 간 이동, 초기 여섯 행성 설계 범위.
 - 태그: 마법적 거리, 통행, 행성, 경유지, 항행
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `start-here`, `magic-as-practice`, `causal-roleplay`, `low-cape`
+- 관련 문서: `start-here`, `magic-as-practice`, `causal-roleplay`, `low-cape`, `open-setting-questions`
 
 ## 절 목차
 

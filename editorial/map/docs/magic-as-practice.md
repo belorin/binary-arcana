@@ -7,7 +7,7 @@
 - 요약: 마법의 폭넓은 가능성, 개인의 발견과 성장, 정형화되지 않은 전승과 공통마법의 조건, 나무와 돌 등의 관계적 참여.
 - 태그: 마법, 개인 재능, 공통마법, 지역마법, 행위자
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `start-here`, `magical-distance-and-passage`, `knowledge-horizons`, `causal-roleplay`
+- 관련 문서: `start-here`, `magical-distance-and-passage`, `knowledge-horizons`, `causal-roleplay`, `worldbuilding-guide`, `open-setting-questions`, `exceptional-generations`
 
 ## 절 목차
 

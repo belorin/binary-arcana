@@ -26,21 +26,7 @@
 - 종족 경계와 외형의 서사적 비중을 미리 고정하지 않음 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261103-low-cape-observer-session`
 - 저인구를 저발전으로 해석하는 오류를 배제한 지역 서술 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식; `low-cape` § 사람들과 생활; `aren-session-01` § 생활 도구와 제도에 관한 서술 원칙 · `ing-20261103-low-cape-observer-session`
 
-## 롤플레잉 (9)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 소원에 따른 인과 변경을 거부하되 창의적 해결을 허용하는 공정한 냉혹함 → `causal-roleplay` § 세계는 주인공을 위해 멈추거나 양보하지 않는다 · `ing-20261103-magic-travel-worldturns`
-- 소턴과 대턴의 다른 시간 규모 및 자율적으로 행동하는 행위자 → `causal-roleplay` § 소턴 — 개인이 실제로 행동하는 시간; `causal-roleplay` § 대턴 — 플레이어가 없는 동안에도 축적되는 변화 · `ing-20261103-magic-travel-worldturns`
-- 통행 기록 보조원 아렌의 초기 사건을 통한 국소적 서사 시작 초안 → `causal-roleplay` § 하나의 경유지에서 시작하는 시범 서사 · `ing-20261103-magic-travel-worldturns`
-- 아렌의 초기 역량과 지식의 한계, 생업과 마법 → `aren-sheet` § 확인된 역량; `aren-sheet` § 인식 장부 · `ing-20261103-low-cape-observer-session`
-- 아렌 첫 시범 서사의 전면 개편에 따라 구조 선택과 샘 손실로 대체된 첫날 → `aren-session-01` § 진행 기록 — 소턴; `aren-session-01` § 세계의 다른 움직임 · `ing-20261103-low-cape-observer-session`
-- 주인공 시점을 선택하는 서사적 이유와 인과적 책임 → `causal-roleplay` § 인물을 조명하는 서사의 이유 · `ing-20261103-aren-story-rewrite`
-- 두 해안 붕괴와 세 생존자의 갈등으로 시작하는 새 첫 장 → `aren-session-01` § 소설 — 닫아야 하는 바다 · `ing-20261103-aren-story-rewrite`
-- 자율적인 구조 시도가 남긴 개인의 부상과 마을의 물 손실 → `aren-session-01` § 진행 기록 — 소턴; `aren-sheet` § 성장 기록 · `ing-20261103-aren-story-rewrite`
-- 서로 독립적으로 판단하는 여러 행위자와 제한된 인식 → `aren-session-01` § 세계의 다른 움직임; `aren-sheet` § 인식 장부 · `ing-20261103-aren-story-rewrite`
-
-## 안내 (6)
+## 운영 원칙 (10)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -49,7 +35,21 @@
 - 인식의 비선형성과 분야별 전문성 → `knowledge-horizons` § 앎은 하나의 숫자가 아니다 · `ing-20261103-knowledge-horizons`
 - 소설과 LLM 역할극의 인물별 정보 분리 및 사건 기반 갱신 → `knowledge-horizons` § 소설과 LLM 롤플레잉에서의 적용 · `ing-20261103-knowledge-horizons`
 - 설정 비밀과 공개 위키의 정보 노출 분리 → `knowledge-horizons` § 서술 층위와 공개 범위 · `ing-20261103-knowledge-horizons`
-- 연표 사전 작성 금지와 상대적 세션 이력의 점진적 달력 편입 → `worldbuilding-guide` § 연대기와 달력; `start-here` § 연대의 기준 · `ing-20261103-low-cape-observer-session`
+- 소원에 따른 인과 변경을 거부하되 창의적 해결을 허용하는 공정한 냉혹함 → `causal-roleplay` § 세계는 주인공을 위해 멈추거나 양보하지 않는다 · `ing-20261103-magic-travel-worldturns`
+- 소턴과 대턴의 다른 시간 규모 및 자율적으로 행동하는 행위자 → `causal-roleplay` § 소턴 — 개인이 실제로 행동하는 시간; `causal-roleplay` § 대턴 — 플레이어가 없는 동안에도 축적되는 변화 · `ing-20261103-magic-travel-worldturns`
+- 세대별 드문 개인의 출현과 세계의 상위 역사 규모에 대한 파급 → `exceptional-generations` § 예외적인 개인은 세계가 만든다; `exceptional-generations` § 더 높은 레이어라는 것은 무엇인가 · `ing-20261103-magic-travel-worldturns`
+- 통행 기록 보조원 아렌의 초기 사건을 통한 국소적 서사 시작 초안 → `causal-roleplay` § 하나의 경유지에서 시작하는 시범 서사 · `ing-20261103-magic-travel-worldturns`
+- 주인공 시점을 선택하는 서사적 이유와 인과적 책임 → `causal-roleplay` § 인물을 조명하는 서사의 이유 · `ing-20261103-aren-story-rewrite`
+
+## 롤플레잉 (5)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 아렌의 초기 역량과 지식의 한계, 생업과 마법 → `aren-sheet` § 확인된 역량; `aren-sheet` § 인식 장부 · `ing-20261103-low-cape-observer-session`
+- 아렌 첫 시범 서사의 전면 개편에 따라 구조 선택과 샘 손실로 대체된 첫날 → `aren-session-01` § 진행 기록 — 소턴; `aren-session-01` § 세계의 다른 움직임 · `ing-20261103-low-cape-observer-session`
+- 두 해안 붕괴와 세 생존자의 갈등으로 시작하는 새 첫 장 → `aren-session-01` § 소설 — 닫아야 하는 바다 · `ing-20261103-aren-story-rewrite`
+- 자율적인 구조 시도가 남긴 개인의 부상과 마을의 물 손실 → `aren-session-01` § 진행 기록 — 소턴; `aren-sheet` § 성장 기록 · `ing-20261103-aren-story-rewrite`
+- 서로 독립적으로 판단하는 여러 행위자와 제한된 인식 → `aren-session-01` § 세계의 다른 움직임; `aren-sheet` § 인식 장부 · `ing-20261103-aren-story-rewrite`
 
 ## 세력 (4)
 
@@ -82,8 +82,8 @@
 - 낮은곶의 소규모 해안 생활과 물턱 통행, 복잡한 마법적 물 공급 → `low-cape` § 사람들과 생활; `low-cape` § 통행과 지역 마법 · `ing-20261103-low-cape-observer-session`
 - 저인구 해안 정착지의 숙련된 마법적 물 공급 및 통행 봉합 → `low-cape` § 사람들과 생활; `low-cape` § 통행과 지역 마법 · `ing-20261103-aren-story-rewrite`
 
-## 사물·개념 (1)
+## 안내 (1)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
-- 세대별 드문 개인의 출현과 세계의 상위 역사 규모에 대한 파급 → `exceptional-generations` § 예외적인 개인은 세계가 만든다; `exceptional-generations` § 더 높은 레이어라는 것은 무엇인가 · `ing-20261103-magic-travel-worldturns`
+- 연표 사전 작성 금지와 상대적 세션 이력의 점진적 달력 편입 → `worldbuilding-guide` § 연대기와 달력; `start-here` § 연대의 기준 · `ing-20261103-low-cape-observer-session`

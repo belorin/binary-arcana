@@ -42,23 +42,29 @@
   - 낮은 인구에도 오래 축적된 물 공급과 마법적 통행 체계를 가진 해안 정착지. 샘 한 줄기가 손상되고 물턱을 봉합한 사건이 일어났다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/low-cape/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/low-cape.md)
 
-## 사물·개념
-
-- **[세대의 예외와 역사적 파급](wiki/exceptional-generations.md)** · 별칭: 세대별 예외, 높은 레이어 · 수정: 2026-11-03 · 상태: 초안
-  - 집단과 세대를 거치며 등장하는 드문 개인이 타자와 관계 속에서 지역·행성·세계관의 높은 역사적 층위에 영향을 미치는 방식.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/exceptional-generations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/exceptional-generations.md)
-
 ## 롤플레잉
 
-- **[냉혹한 인과와 살아 움직이는 세계](wiki/causal-roleplay.md)** · 별칭: 소턴과 대턴, 세계 인과 규칙 · 수정: 2026-11-03 · 상태: 초안
-  - 플레이어의 바람보다 기존 인과·역량·타자의 행위가 우선하는 공정한 진행, 소턴과 대턴, 인식 장부와 세대 변화.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/causal-roleplay/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md)
 - **[아렌 — 첫 시범 캐릭터 시트](wiki/aren-sheet.md)** · 별칭: 아렌, 아렌 시트 · 수정: 2026-11-03 · 상태: 사용 중
   - 불안정한 물턱에서 나엠을 구조하다 손목을 다친 아렌의 지역 마법, 인식 한계, 선택의 대가와 생존자 정보.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/aren-sheet/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/aren-sheet.md)
 - **[아렌의 첫 시범 세션 — 닫아야 하는 바다](wiki/aren-session-01.md)** · 별칭: 닫아야 하는 바다, 아렌 첫날 · 수정: 2026-11-03 · 상태: 진행함
   - 두 해안의 물턱이 붕괴하는 순간 아렌이 한 사람을 구조했으나 다른 두 사람의 운명을 알지 못하고, 마을의 샘 한 줄기가 손상되는 결과를 남긴 첫 시범 서사.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/aren-session-01/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/aren-session-01.md)
+- **[이야기 현재 상태](wiki/story-state.md)** · 별칭: 현재 상태, 세션 시작점 · 수정: 2026-11-03 · 상태: 사용 중
+  - 진행 중인 이야기의 현재 시점, 인물의 위치와 상태, 자원, 누가 무엇을 아는지, 열린 실마리를 한 장에 모은 세션 시작점.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/story-state/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/story-state.md)
+
+## 운영 원칙
+
+- **[냉혹한 인과와 살아 움직이는 세계](wiki/causal-roleplay.md)** · 별칭: 소턴과 대턴, 세계 인과 규칙 · 수정: 2026-11-03 · 상태: 초안
+  - 플레이어의 바람보다 기존 인과·역량·타자의 행위가 우선하는 공정한 진행, 소턴과 대턴, 인식 장부와 세대 변화.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/causal-roleplay/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md)
+- **[세대의 예외와 역사적 파급](wiki/exceptional-generations.md)** · 별칭: 세대별 예외, 높은 레이어 · 수정: 2026-11-03 · 상태: 초안
+  - 집단과 세대를 거치며 등장하는 드문 개인이 타자와 관계 속에서 지역·행성·세계관의 높은 역사적 층위에 영향을 미치는 방식.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/exceptional-generations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/exceptional-generations.md)
+- **[인식의 지평과 정보 비대칭](wiki/knowledge-horizons.md)** · 별칭: 인물의 지식, 지식의 국소성, 정보 접근 규칙 · 수정: 2026-11-03 · 상태: 운영 문서
+  - 작가의 정본과 각 인물·공동체·플레이어의 지식을 분리하고 지역성·전승·오해·전파를 고려해 소설과 LLM 롤플레잉을 운영하는 원칙.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/knowledge-horizons/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/knowledge-horizons.md)
 
 ## 안내
 
@@ -68,6 +74,3 @@
 - **[설정을 쓰는 규칙](wiki/worldbuilding-guide.md)** · 별칭: 설정 쓰는 규칙 · 수정: 2026-11-03 · 상태: 운영 문서
   - 설정의 정본·미정, 문서 유형, 연대기와 시점별 지식의 구분을 안내하는 편집 규칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/worldbuilding-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/worldbuilding-guide.md)
-- **[인식의 지평과 정보 비대칭](wiki/knowledge-horizons.md)** · 별칭: 인물의 지식, 지식의 국소성, 정보 접근 규칙 · 수정: 2026-11-03 · 상태: 운영 문서
-  - 작가의 정본과 각 인물·공동체·플레이어의 지식을 분리하고 지역성·전승·오해·전파를 고려해 소설과 LLM 롤플레잉을 운영하는 원칙.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/knowledge-horizons/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/knowledge-horizons.md)
