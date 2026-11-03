@@ -905,7 +905,8 @@
         "rival-gc-t06-world",
         "rival-gc-t09-world",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "rival-character-principles"
       ],
       "aliases": [
         "첫 대국 회고",
@@ -913,6 +914,38 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/rival-character-principles.md",
+      "publish": true,
+      "order": 18,
+      "id": "rival-character-principles",
+      "title": "인물의 욕망과 세계의 자율성 — 세력 대국 인물 원칙",
+      "category": "운영 원칙",
+      "status": "운영 제안 · 미채택",
+      "updated": "2026-11-03",
+      "summary": "첫 AI 세력 대국의 회고에서 도출한 재사용 가능한 인물 운영 원칙. 욕망·두려움·감정·오해·금기·금기 파기 조건, 플레이어의 적극성, 제3세력의 독립 시계, 편향을 줄이는 판정 순서를 제안한다.",
+      "tags": [
+        "운영",
+        "롤플레잉",
+        "인물 원칙",
+        "세력 대국",
+        "자율성",
+        "정서적 동기"
+      ],
+      "source": "",
+      "related": [
+        "rival-gc-retrospective",
+        "rival-play",
+        "causal-roleplay",
+        "knowledge-horizons"
+      ],
+      "aliases": [
+        "세력 대국 인물 원칙",
+        "인물의 여섯 가지 축"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }

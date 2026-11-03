@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 28,
+  "document_count": 29,
   "documents": [
     {
       "id": "grand-questions",
@@ -914,12 +914,45 @@
         "rival-gc-t06-world",
         "rival-gc-t09-world",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "rival-character-principles"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-retrospective.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-retrospective.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-retrospective/",
       "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-retrospective"
+    },
+    {
+      "id": "rival-character-principles",
+      "title": "인물의 욕망과 세계의 자율성 — 세력 대국 인물 원칙",
+      "aliases": [
+        "세력 대국 인물 원칙",
+        "인물의 여섯 가지 축"
+      ],
+      "category": "운영 원칙",
+      "tags": [
+        "운영",
+        "롤플레잉",
+        "인물 원칙",
+        "세력 대국",
+        "자율성",
+        "정서적 동기"
+      ],
+      "summary": "첫 AI 세력 대국의 회고에서 도출한 재사용 가능한 인물 운영 원칙. 욕망·두려움·감정·오해·금기·금기 파기 조건, 플레이어의 적극성, 제3세력의 독립 시계, 편향을 줄이는 판정 순서를 제안한다.",
+      "review_state": "unassessed",
+      "review_label": "운영 제안 · 미채택",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rival-gc-retrospective",
+        "rival-play",
+        "causal-roleplay",
+        "knowledge-horizons"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-character-principles.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-character-principles.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/rival-character-principles/",
+      "app_url": "https://belorin.github.io/binary-arcana/#rival-character-principles"
     }
   ]
 }

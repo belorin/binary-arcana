@@ -4,15 +4,15 @@
 
 마지막 정비: **M001** (2026-11-03) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 28개 · 변경 문서 28 · 고립 0 · 한쪽 연결 29 · 보류 0 · 열린 교차 제안 0
+원고 29개 · 변경 문서 29 · 고립 0 · 한쪽 연결 32 · 보류 0 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (28)
+## 1. 지난 정비 이후 변경된 문서 (29)
 
 manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **대국 기록** (10): `rival-gc-state`, `rival-gc-t02-yunda`, `rival-gc-t01-seo`, `rival-gc-t03-world`, `rival-gc-t05-yunda`, `rival-gc-t04-seo`, `rival-gc-t06-world`, `rival-gc-t08-yunda`, `rival-gc-t07-seo`, `rival-gc-t09-world`
 - **롤플레잉** (5): `aren-sheet`, `aren-session-01`, `story-state`, `scenario-great-crossing`, `rival-play`
-- **운영 원칙** (4): `knowledge-horizons`, `causal-roleplay`, `exceptional-generations`, `rival-gc-retrospective`
+- **운영 원칙** (5): `knowledge-horizons`, `causal-roleplay`, `exceptional-generations`, `rival-gc-retrospective`, `rival-character-principles`
 - **개요** (3): `grand-questions`, `start-here`, `open-setting-questions`
 - **안내** (2): `editing-guide`, `worldbuilding-guide`
 - **마법** (1): `magic-as-practice`
@@ -25,7 +25,7 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (29)
+## 3. 한쪽에서만 건 관련 문서 (32)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -58,6 +58,9 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 - `rival-gc-retrospective` → `rival-gc-state`
 - `rival-gc-retrospective` → `rival-gc-t03-world`
 - `rival-gc-retrospective` → `rival-gc-t06-world`
+- `rival-character-principles` → `rival-play`
+- `rival-character-principles` → `causal-roleplay`
+- `rival-character-principles` → `knowledge-horizons`
 
 ## 4. 관련 문서가 없는 문서 (0)
 
@@ -94,10 +97,10 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (5): `rival-gc-t09-world` 19,396자, `rival-gc-t06-world` 15,310자, `rival-play` 12,333자, `rival-gc-retrospective` 10,627자, `rival-gc-t03-world` 10,529자
+- 긴 문서 (5): `rival-gc-t09-world` 19,396자, `rival-gc-t06-world` 15,310자, `rival-gc-retrospective` 13,071자, `rival-play` 12,333자, `rival-gc-t03-world` 10,529자
 - 짧은 문서 (1): `editing-guide` 763자
 
 ## 9. 분류 참고
 
-분류 9개: 대국 기록 10, 롤플레잉 5, 운영 원칙 4, 개요 3, 안내 2, 세력 1, 마법 1, 마법 공예·항행 1, 장소 1
+분류 9개: 대국 기록 10, 운영 원칙 5, 롤플레잉 5, 개요 3, 안내 2, 세력 1, 마법 1, 마법 공예·항행 1, 장소 1
 문서가 하나뿐인 분류 4개: 세력, 마법, 마법 공예·항행, 장소. 분류 체계 변경은 제안만 한다.

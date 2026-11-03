@@ -107,6 +107,9 @@
 - **[첫 세력 대국 운영 회고 — 공정한 절차와 살아 움직이는 세계](wiki/rival-gc-retrospective.md)** · 별칭: 첫 대국 회고, 세력 대국 운영 실험 · 수정: 2026-11-03 · 상태: 실험 회고 · 개선 제안
   - 첫 AI 세력 대국의 실무 회고. GPT(세계 진행 쪽): 비공개 선언·인식 장부의 효과와 합리성·NPC 자율성·판정 자의성·재현성의 한계. Claude(세오 쪽): 작가가 플레이어가 되는 문제, 미뤄 둔 결정, 알 수 없던 조건의 실패, 지문 잠금, 판정 분량, 저장소·협업 운영.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-retrospective/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-retrospective.md)
+- **[인물의 욕망과 세계의 자율성 — 세력 대국 인물 원칙](wiki/rival-character-principles.md)** · 별칭: 세력 대국 인물 원칙, 인물의 여섯 가지 축 · 수정: 2026-11-03 · 상태: 운영 제안 · 미채택
+  - 첫 AI 세력 대국의 회고에서 도출한 재사용 가능한 인물 운영 원칙. 욕망·두려움·감정·오해·금기·금기 파기 조건, 플레이어의 적극성, 제3세력의 독립 시계, 편향을 줄이는 판정 순서를 제안한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-character-principles/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-character-principles.md)
 
 ## 안내
 

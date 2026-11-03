@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 161,
+  "edge_count": 166,
   "edges": [
     {
       "from": "grand-questions",
@@ -963,6 +963,36 @@
     },
     {
       "from": "rival-gc-retrospective",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-retrospective",
+      "to": "rival-character-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-character-principles",
+      "to": "rival-gc-retrospective",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-character-principles",
+      "to": "rival-play",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-character-principles",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-character-principles",
       "to": "knowledge-horizons",
       "type": "related_to",
       "basis": "manifest.related"
