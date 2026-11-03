@@ -86,6 +86,9 @@
 - **[T08 — 윤다의 셋째 물때 최종 행동 선언](wiki/rival-gc-t08-yunda.md)** · 별칭: 윤다 마지막 물때, T08 윤다 선언 · 수정: 2026-11-03 · 상태: 선언 확정 · 미판정
   - S2의 셋째 물때에 세오의 T07을 보지 않고 윤다가 스스로 첫 맞섬 대리인 출전을 청원하고 호숫가에서 개인 관계를 시험하며, 승패와 무관하게 젊은 여울의 자발적 구호 물자를 모으게 하는 최종 선언. 결과는 T09 판정에 맡긴다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t08-yunda/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t08-yunda.md)
+- **[셋째 물때 선언 — 세오 쪽 (T07)](wiki/rival-gc-t07-seo.md)** · 별칭: T07 · 수정: 2026-11-03 · 상태: 확정 선언
+  - Claude가 세오 쪽으로 낸 마지막 물때의 비공개 선언. 윤다에게 섬의 일을 털어놓기, 회맹에 이번 철의 길 열기 제안, 두 태양이 가까워지는 날 섬으로 가기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t07-seo/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t07-seo.md)
 
 ## 운영 원칙
 

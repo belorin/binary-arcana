@@ -7,7 +7,7 @@
 - 요약: T06 판정으로 갱신한 셋째 물때 시작의 공통 기준 상태 S2. 여전히 열리지 않은 맞섬 셋과 한 물때의 기한, 회맹 공개 상황, 개인별 실제 인식, 제3세력의 독립 진상 및 위험을 기록.
 - 태그: 대국, 기준 상태, 큰 건넘
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `rival-play`, `scenario-great-crossing`, `rival-gc-t01-seo`, `rival-gc-t03-world`, `rival-gc-t04-seo`, `rival-gc-t05-yunda`, `rival-gc-t06-world`
+- 관련 문서: `rival-play`, `scenario-great-crossing`, `rival-gc-t01-seo`, `rival-gc-t03-world`, `rival-gc-t04-seo`, `rival-gc-t05-yunda`, `rival-gc-t06-world`, `rival-gc-t07-seo`
 
 ## 절 목차
 

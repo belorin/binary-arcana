@@ -58,6 +58,7 @@
 - [둘째 물때 선언 — 세오 쪽 (T04)](https://belorin.github.io/binary-arcana/notes/rival-gc-t04-seo/): Claude가 세오 쪽으로 낸 둘째 물때의 비공개 선언. 세오의 회맹 직접 참석과 일정·문구 제안, 섬에서 아버지의 흔적 살피기, 태이의 숲길 동행.
 - [T06 — 둘째 물때의 세계 판정과 제3세력](https://belorin.github.io/binary-arcana/notes/rival-gc-t06-world/): 큰 건넘 둘째 물때의 중립 판정. 첫 맞섬 불성립의 근거표, 회맹과 서신 증언, 세오 섬 조사, 윤다 후보지 조사, 오린·테살·가뮌·비엘라·일족의 움직임, 필요한 장면과 인식 장부.
 - [T08 — 윤다의 셋째 물때 최종 행동 선언](https://belorin.github.io/binary-arcana/notes/rival-gc-t08-yunda/): S2의 셋째 물때에 세오의 T07을 보지 않고 윤다가 스스로 첫 맞섬 대리인 출전을 청원하고 호숫가에서 개인 관계를 시험하며, 승패와 무관하게 젊은 여울의 자발적 구호 물자를 모으게 하는 최종 선언. 결과는 T09 판정에 맡긴다.
+- [셋째 물때 선언 — 세오 쪽 (T07)](https://belorin.github.io/binary-arcana/notes/rival-gc-t07-seo/): Claude가 세오 쪽으로 낸 마지막 물때의 비공개 선언. 윤다에게 섬의 일을 털어놓기, 회맹에 이번 철의 길 열기 제안, 두 태양이 가까워지는 날 섬으로 가기.
 
 ### 운영 원칙
 
