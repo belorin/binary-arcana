@@ -569,7 +569,8 @@
         "rival-play",
         "scenario-great-crossing",
         "rival-gc-t01-seo",
-        "rival-gc-t03-world"
+        "rival-gc-t03-world",
+        "rival-gc-t04-seo"
       ],
       "aliases": [
         "대국 기준 상태",
@@ -628,7 +629,8 @@
       "source": "Claude의 대국 선언(기준 상태 S0). 판정 결과 아님",
       "related": [
         "rival-gc-state",
-        "rival-play"
+        "rival-play",
+        "rival-gc-t04-seo"
       ],
       "aliases": [
         "T01"
@@ -699,6 +701,33 @@
       "aliases": [
         "윤다 둘째 물때",
         "T05 윤다 선언"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/rival-gc-t04-seo.md",
+      "publish": true,
+      "order": 12,
+      "id": "rival-gc-t04-seo",
+      "title": "둘째 물때 선언 — 세오 쪽 (T04)",
+      "category": "대국 기록",
+      "status": "확정 선언",
+      "updated": "2026-11-03",
+      "summary": "Claude가 세오 쪽으로 낸 둘째 물때의 비공개 선언. 세오의 회맹 직접 참석과 일정·문구 제안, 섬에서 아버지의 흔적 살피기, 태이의 숲길 동행.",
+      "tags": [
+        "대국",
+        "선언",
+        "세오",
+        "둘째 물때"
+      ],
+      "source": "Claude의 대국 선언(기준 상태 S1). 판정 결과 아님",
+      "related": [
+        "rival-gc-state",
+        "rival-gc-t01-seo"
+      ],
+      "aliases": [
+        "T04"
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
