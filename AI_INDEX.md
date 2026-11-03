@@ -77,6 +77,9 @@
 - **[T05 — 윤다의 둘째 물때 행동 선언](wiki/rival-gc-t05-yunda.md)** · 별칭: 윤다 둘째 물때, T05 윤다 선언 · 수정: 2026-11-03 · 상태: 선언 확정 · 미판정
   - S1에서 세오의 T04 선언을 보지 않고 작성한 윤다의 둘째 물때 행동. 회맹 출석과 증언 요청, 맞섬 후보의 실제 관계 확인, 오린 밀사 회신에 따른 공동 숲길 확인 제안을 독립 선언하며 결과는 T06 판정에 맡긴다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t05-yunda/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t05-yunda.md)
+- **[둘째 물때 선언 — 세오 쪽 (T04)](wiki/rival-gc-t04-seo.md)** · 별칭: T04 · 수정: 2026-11-03 · 상태: 확정 선언
+  - Claude가 세오 쪽으로 낸 둘째 물때의 비공개 선언. 세오의 회맹 직접 참석과 일정·문구 제안, 섬에서 아버지의 흔적 살피기, 태이의 숲길 동행.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t04-seo/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t04-seo.md)
 
 ## 운영 원칙
 

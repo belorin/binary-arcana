@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 22,
+  "document_count": 23,
   "documents": [
     {
       "id": "grand-questions",
@@ -578,7 +578,8 @@
         "rival-play",
         "scenario-great-crossing",
         "rival-gc-t01-seo",
-        "rival-gc-t03-world"
+        "rival-gc-t03-world",
+        "rival-gc-t04-seo"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-state.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-state.md",
@@ -636,7 +637,8 @@
       "last_enriched_on": null,
       "related_ids": [
         "rival-gc-state",
-        "rival-play"
+        "rival-play",
+        "rival-gc-t04-seo"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t01-seo.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t01-seo.md",
@@ -709,6 +711,33 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t05-yunda.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-t05-yunda/",
       "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-t05-yunda"
+    },
+    {
+      "id": "rival-gc-t04-seo",
+      "title": "둘째 물때 선언 — 세오 쪽 (T04)",
+      "aliases": [
+        "T04"
+      ],
+      "category": "대국 기록",
+      "tags": [
+        "대국",
+        "선언",
+        "세오",
+        "둘째 물때"
+      ],
+      "summary": "Claude가 세오 쪽으로 낸 둘째 물때의 비공개 선언. 세오의 회맹 직접 참석과 일정·문구 제안, 섬에서 아버지의 흔적 살피기, 태이의 숲길 동행.",
+      "review_state": "unassessed",
+      "review_label": "확정 선언",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rival-gc-state",
+        "rival-gc-t01-seo"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t04-seo.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t04-seo.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-t04-seo/",
+      "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-t04-seo"
     }
   ]
 }

@@ -7,7 +7,7 @@
 - 요약: Claude가 세오 쪽으로 낸 첫째 물때의 비공개 선언. 섬의 호수 밑 돌 찾기, 회맹의 장소·문구 협상, 오린에게 사람 보내기와 세오 쪽 목표.
 - 태그: 대국, 선언, 세오, 첫째 물때
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `rival-gc-state`, `rival-play`
+- 관련 문서: `rival-gc-state`, `rival-play`, `rival-gc-t04-seo`
 
 ## 절 목차
 
