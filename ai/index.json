@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 17,
+  "document_count": 18,
   "documents": [
     {
       "id": "grand-questions",
@@ -517,7 +517,8 @@
         "magical-distance-and-passage",
         "knowledge-horizons",
         "magic-as-practice",
-        "rival-play"
+        "rival-play",
+        "rival-gc-state"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/scenario-great-crossing.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/scenario-great-crossing.md",
@@ -538,20 +539,48 @@
         "롤플레잉",
         "판정"
       ],
-      "summary": "Claude와 GPT가 한 시나리오의 적대 세력을 하나씩 맡아 번갈아 두는 방식의 설계. 상대 판정제, 이의 제기와 사용자 최종 판정, 맞섬 판정 근거표, 기록 방식.",
+      "summary": "Claude(세오)와 GPT(윤다)가 같은 기준 상태에서 비공개로 행동을 선언하고, 별도 GPT 채팅이 제3세력과 세계를 움직이며 중립 판정하는 세력 대국의 확정 규칙.",
       "review_state": "unassessed",
-      "review_label": "논의 중",
+      "review_label": "확정",
       "last_updated_on": "2026-11-03",
       "last_enriched_on": null,
       "related_ids": [
         "scenario-great-crossing",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "rival-gc-state"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-play.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-play.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/rival-play/",
       "app_url": "https://belorin.github.io/binary-arcana/#rival-play"
+    },
+    {
+      "id": "rival-gc-state",
+      "title": "대국 기준 상태 — 큰 건넘의 계승",
+      "aliases": [
+        "대국 기준 상태",
+        "S0"
+      ],
+      "category": "대국 기록",
+      "tags": [
+        "대국",
+        "기준 상태",
+        "큰 건넘"
+      ],
+      "summary": "세력 대국의 기준 상태. 두 진영이 같은 물때에 이 버전만 보고 선언하며, 세계 진행자가 물때마다 새 버전으로 고쳐 쓴다.",
+      "review_state": "unassessed",
+      "review_label": "S0 · 첫째 물때",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rival-play",
+        "scenario-great-crossing"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-state.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-state.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-state/",
+      "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-state"
     }
   ]
 }

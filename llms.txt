@@ -46,7 +46,11 @@
 - [아렌의 첫 시범 세션 — 닫아야 하는 바다](https://belorin.github.io/binary-arcana/notes/aren-session-01/): 두 해안의 물턱이 붕괴하는 순간 아렌이 한 사람을 구조했으나 다른 두 사람의 운명을 알지 못하고, 마을의 샘 한 줄기가 손상되는 결과를 남긴 첫 시범 서사.
 - [이야기 현재 상태](https://belorin.github.io/binary-arcana/notes/story-state/): 진행 중인 이야기의 현재 시점, 인물의 위치와 상태, 자원, 누가 무엇을 아는지, 열린 실마리를 한 장에 모은 세션 시작점.
 - [시나리오 — 큰 건넘의 계승](https://belorin.github.io/binary-arcana/notes/scenario-great-crossing/): 다른 행성으로 가는 드문 큰 길의 지기가 죽은 뒤, 세력들이 대리인의 겨룸(맞섬)과 맹약의 문구를 두고 다투는 결투·암투 시나리오. 세력과 시작 위치를 골라 진행한다.
-- [대결 — 두 AI가 맞서는 세력 대국](https://belorin.github.io/binary-arcana/notes/rival-play/): Claude와 GPT가 한 시나리오의 적대 세력을 하나씩 맡아 번갈아 두는 방식의 설계. 상대 판정제, 이의 제기와 사용자 최종 판정, 맞섬 판정 근거표, 기록 방식.
+- [대결 — 두 AI가 맞서는 세력 대국](https://belorin.github.io/binary-arcana/notes/rival-play/): Claude(세오)와 GPT(윤다)가 같은 기준 상태에서 비공개로 행동을 선언하고, 별도 GPT 채팅이 제3세력과 세계를 움직이며 중립 판정하는 세력 대국의 확정 규칙.
+
+### 대국 기록
+
+- [대국 기준 상태 — 큰 건넘의 계승](https://belorin.github.io/binary-arcana/notes/rival-gc-state/): 세력 대국의 기준 상태. 두 진영이 같은 물때에 이 버전만 보고 선언하며, 세계 진행자가 물때마다 새 버전으로 고쳐 쓴다.
 
 ### 운영 원칙
 
