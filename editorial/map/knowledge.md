@@ -3,12 +3,12 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 54개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 60개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (0)
 
 
-## 운영 원칙 (20)
+## 운영 원칙 (26)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -32,6 +32,12 @@
 - 공개 진상과 실제 정보 접근 제한의 구분 → `rival-gc-retrospective` § 약점 5 — 공개 문서에 적힌 비밀은 기술적으로 비밀이 아니다 · `ing-20261103-rival-gc-retrospective`
 - 수신함 적용과 상태 스냅샷 개선 → `rival-gc-retrospective` § 저장소 운영에서 얻은 교훈 · `ing-20261103-rival-gc-retrospective`
 - 다음 세력 대국 체크포인트 → `rival-gc-retrospective` § 다음 실험의 실무 체크포인트 · `ing-20261103-rival-gc-retrospective`
+- 시나리오 작가가 플레이어가 되면 근거 선택의 편향을 스스로 판별할 수 없음 → `rival-gc-retrospective` § 시나리오를 쓴 쪽이 플레이어가 되었다 · `ing-20261103-rival-gc-retrospective-claude`
+- 선언에 미뤄 둔 결정은 판정자가 대신 채운다 → `rival-gc-retrospective` § 미뤄 둔 결정은 판정자가 대신 내린다 · `ing-20261103-rival-gc-retrospective-claude`
+- 목표 결산에서 실패 원인을 선택·타자·숨은 조건으로 구분 → `rival-gc-retrospective` § 인물이 알 수 없던 조건으로 목표가 실패할 수 있다 · `ing-20261103-rival-gc-retrospective-claude`
+- 선언 잠금은 공개 순서가 아니라 원문 지문으로 검증 → `rival-gc-retrospective` § 잠금은 순서가 아니라 지문으로 확인한다 · `ing-20261103-rival-gc-retrospective-claude`
+- 설명문 속 skip-ci 표기가 실제로 배포를 건너뛰게 함 → `rival-gc-retrospective` § 커밋 규칙을 설명한 커밋이 그 규칙에 걸렸다 · `ing-20261103-rival-gc-retrospective-claude`
+- 사이트가 그리지 못하는 상대 경로·절 링크를 빌드 검사로 막자는 제안 → `rival-gc-retrospective` § 사이트가 그리지 못하는 링크가 되풀이된다 · `ing-20261103-rival-gc-retrospective-claude`
 
 ## 개요 (13)
 
