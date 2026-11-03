@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 20,
+  "edge_count": 25,
   "edges": [
     {
       "from": "grand-questions",
@@ -44,6 +44,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "seven-demon-lords",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "start-here",
       "to": "grand-questions",
       "type": "related_to",
@@ -118,6 +124,30 @@
     {
       "from": "worldbuilding-guide",
       "to": "open-setting-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "worldbuilding-guide",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-horizons",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-horizons",
+      "to": "worldbuilding-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-horizons",
+      "to": "start-here",
       "type": "related_to",
       "basis": "manifest.related"
     },

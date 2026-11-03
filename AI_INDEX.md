@@ -21,7 +21,7 @@
 ## 세력
 
 - **[일곱 마왕과 그 일족](wiki/seven-demon-lords.md)** · 별칭: 칠마왕, 마왕 일족 · 수정: 2026-11-03 · 상태: 초안
-  - 기원을 알 수 없는 일곱 마왕의 철학적 테마 후보와 일족의 행동양식, 인간 및 다른 존재들과의 손익 충돌.
+  - 기원을 알 수 없는 마왕과 일족의 철학적 행동양식 초안. 일곱 호칭은 저자용이며 세계 내부 인물들의 지식이 아니다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/seven-demon-lords/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md)
 
 ## 안내
@@ -30,5 +30,8 @@
   - 새 문서를 만들고 쓰고 게시하는 절차와 Markdown 규칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/editing-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/editing-guide.md)
 - **[설정을 쓰는 규칙](wiki/worldbuilding-guide.md)** · 별칭: 설정 쓰는 규칙 · 수정: 2026-11-03 · 상태: 운영 문서
-  - 인물·장소·세력·사건 문서의 역할, 정본과 미정 설정의 구분, 연대기와 달력 기록 방법.
+  - 설정의 정본·미정, 문서 유형, 연대기와 시점별 지식의 구분을 안내하는 편집 규칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/worldbuilding-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/worldbuilding-guide.md)
+- **[인식의 지평과 정보 비대칭](wiki/knowledge-horizons.md)** · 별칭: 인물의 지식, 지식의 국소성, 정보 접근 규칙 · 수정: 2026-11-03 · 상태: 운영 문서
+  - 작가의 정본과 각 인물·공동체·플레이어의 지식을 분리하고 지역성·전승·오해·전파를 고려해 소설과 LLM 롤플레잉을 운영하는 원칙.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/knowledge-horizons/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/knowledge-horizons.md)
