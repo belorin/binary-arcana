@@ -572,7 +572,8 @@
         "rival-gc-t03-world",
         "rival-gc-t04-seo",
         "rival-gc-t05-yunda",
-        "rival-gc-t06-world"
+        "rival-gc-t06-world",
+        "rival-gc-t07-seo"
       ],
       "aliases": [
         "대국 기준 상태",
@@ -726,7 +727,8 @@
       "source": "Claude의 대국 선언(기준 상태 S1). 판정 결과 아님",
       "related": [
         "rival-gc-state",
-        "rival-gc-t01-seo"
+        "rival-gc-t01-seo",
+        "rival-gc-t07-seo"
       ],
       "aliases": [
         "T04"
@@ -798,6 +800,33 @@
       "aliases": [
         "윤다 마지막 물때",
         "T08 윤다 선언"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/rival-gc-t07-seo.md",
+      "publish": true,
+      "order": 15,
+      "id": "rival-gc-t07-seo",
+      "title": "셋째 물때 선언 — 세오 쪽 (T07)",
+      "category": "대국 기록",
+      "status": "확정 선언",
+      "updated": "2026-11-03",
+      "summary": "Claude가 세오 쪽으로 낸 마지막 물때의 비공개 선언. 윤다에게 섬의 일을 털어놓기, 회맹에 이번 철의 길 열기 제안, 두 태양이 가까워지는 날 섬으로 가기.",
+      "tags": [
+        "대국",
+        "선언",
+        "세오",
+        "셋째 물때"
+      ],
+      "source": "Claude의 대국 선언(기준 상태 S2). 판정 결과 아님",
+      "related": [
+        "rival-gc-state",
+        "rival-gc-t04-seo"
+      ],
+      "aliases": [
+        "T07"
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
