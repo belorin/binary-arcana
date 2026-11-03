@@ -32,3 +32,4 @@
   - 인류의 기원 및 세계를 가로지르는 대의문의 구분 · `ing-20261103-binary-arcana-manifesto`
 - **마왕들은 어디에서 왔는가?**
   - 마왕의 기원과 분류의 대의문 · `ing-20261103-seven-demon-lords`
+  - 마왕 일부의 일족 창조 가능성과 일족 기원의 비일률성 · `ing-20261103-low-cape-observer-session`

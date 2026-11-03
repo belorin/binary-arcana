@@ -3,12 +3,12 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 27개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 34개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (0)
 
 
-## 개요 (10)
+## 개요 (12)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -22,8 +22,10 @@
 - 인류의 기원 및 세계를 가로지르는 대의문의 구분 → `grand-questions` § 인류는 어디에서 왔는가?; `grand-questions` § 질문을 다루는 방식 · `ing-20261103-binary-arcana-manifesto`
 - 마왕 일곱과 오래된 관측, 불명의 기원, 선악 중립적 존재 → `start-here` § 오래 관측된 마왕들; `seven-demon-lords` § 마왕이라는 이름 · `ing-20261103-seven-demon-lords`
 - 마왕의 기원과 분류의 대의문 → `grand-questions` § 마왕들은 어디에서 왔는가? · `ing-20261103-seven-demon-lords`
+- 인구대폭발 이전의 작은 인구와 구석기-중세 사이의 불균질한 생활상 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261103-low-cape-observer-session`
+- 종족 경계와 외형의 서사적 비중을 미리 고정하지 않음 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261103-low-cape-observer-session`
 
-## 안내 (5)
+## 안내 (6)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -32,14 +34,26 @@
 - 인식의 비선형성과 분야별 전문성 → `knowledge-horizons` § 앎은 하나의 숫자가 아니다 · `ing-20261103-knowledge-horizons`
 - 소설과 LLM 역할극의 인물별 정보 분리 및 사건 기반 갱신 → `knowledge-horizons` § 소설과 LLM 롤플레잉에서의 적용 · `ing-20261103-knowledge-horizons`
 - 설정 비밀과 공개 위키의 정보 노출 분리 → `knowledge-horizons` § 서술 층위와 공개 범위 · `ing-20261103-knowledge-horizons`
+- 연표 사전 작성 금지와 상대적 세션 이력의 점진적 달력 편입 → `worldbuilding-guide` § 연대기와 달력; `start-here` § 연대의 기준 · `ing-20261103-low-cape-observer-session`
 
-## 롤플레잉 (3)
+## 롤플레잉 (5)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
 - 소원에 따른 인과 변경을 거부하되 창의적 해결을 허용하는 공정한 냉혹함 → `causal-roleplay` § 세계는 주인공을 위해 멈추거나 양보하지 않는다 · `ing-20261103-magic-travel-worldturns`
 - 소턴과 대턴의 다른 시간 규모 및 자율적으로 행동하는 행위자 → `causal-roleplay` § 소턴 — 개인이 실제로 행동하는 시간; `causal-roleplay` § 대턴 — 플레이어가 없는 동안에도 축적되는 변화 · `ing-20261103-magic-travel-worldturns`
 - 통행 기록 보조원 아렌의 초기 사건을 통한 국소적 서사 시작 초안 → `causal-roleplay` § 하나의 경유지에서 시작하는 시범 서사 · `ing-20261103-magic-travel-worldturns`
+- 아렌의 초기 역량과 지식의 한계, 생업과 마법 → `aren-sheet` § 확인된 역량; `aren-sheet` § 인식 장부 · `ing-20261103-low-cape-observer-session`
+- 첫날의 자율 소턴과 귀환자 숫자 불일치 및 생업 손실 → `aren-session-01` § 진행 기록 — 소턴; `aren-session-01` § 세계의 다른 움직임 · `ing-20261103-low-cape-observer-session`
+
+## 세력 (4)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 일족 행동양식과 다종족 이해관계의 상충 → `seven-demon-lords` § 마왕이라는 이름 · `ing-20261103-seven-demon-lords`
+- 일곱 철학 모티프와 마왕 일족의 창작 초안 → `seven-demon-lords` § 일곱 호칭의 철학적 구상 · `ing-20261103-seven-demon-lords`
+- 마왕의 철학적 명칭은 작가용 분류이며 세계의 상식이 아님 → `seven-demon-lords` § 누가 무엇을 아는가; `knowledge-horizons` § 마왕을 둘러싼 서로 다른 언어 · `ing-20261103-knowledge-horizons`
+- 마왕 일부의 일족 창조 가능성과 일족 기원의 비일률성 → `seven-demon-lords` § 일족의 기원이 같을 필요는 없다; `grand-questions` § 마왕들은 어디에서 왔는가? · `ing-20261103-low-cape-observer-session`
 
 ## 마법 (3)
 
@@ -48,14 +62,6 @@
 - 널리 존재하는 개인별 마법 가능성과 어려운 자기 이해와 성장 → `magic-as-practice` § 널리 있으나 똑같지 않은 마법; `magic-as-practice` § 개인은 자신의 재능을 쉽게 알지 못한다 · `ing-20261103-magic-travel-worldturns`
 - 표준 학파 없는 실천과 상황 의존적 공통마법 → `magic-as-practice` § 학파가 아닌 실천의 전승; `magic-as-practice` § 공통마법도 상황에서 성립한다 · `ing-20261103-magic-travel-worldturns`
 - 나무와 돌 등의 비인간 행위자를 통한 국소적 마법 실천 → `magic-as-practice` § 돌과 나무도 행위자다 · `ing-20261103-magic-travel-worldturns`
-
-## 세력 (3)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 일족 행동양식과 다종족 이해관계의 상충 → `seven-demon-lords` § 마왕이라는 이름 · `ing-20261103-seven-demon-lords`
-- 일곱 철학 모티프와 마왕 일족의 창작 초안 → `seven-demon-lords` § 일곱 호칭의 철학적 구상 · `ing-20261103-seven-demon-lords`
-- 마왕의 철학적 명칭은 작가용 분류이며 세계의 상식이 아님 → `seven-demon-lords` § 누가 무엇을 아는가; `knowledge-horizons` § 마왕을 둘러싼 서로 다른 언어 · `ing-20261103-knowledge-horizons`
 
 ## 마법 공예·항행 (2)
 
@@ -69,3 +75,9 @@
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
 - 세대별 드문 개인의 출현과 세계의 상위 역사 규모에 대한 파급 → `exceptional-generations` § 예외적인 개인은 세계가 만든다; `exceptional-generations` § 더 높은 레이어라는 것은 무엇인가 · `ing-20261103-magic-travel-worldturns`
+
+## 장소 (1)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 낮은곶의 소규모 해안 생활과 물턱 통행 및 기록 → `low-cape` § 사람들과 생활; `low-cape` § 통행과 기록 · `ing-20261103-low-cape-observer-session`
