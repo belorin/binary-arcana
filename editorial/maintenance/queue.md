@@ -4,13 +4,13 @@
 
 마지막 정비: **M001** (2026-11-03) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 24개 · 변경 문서 24 · 고립 0 · 한쪽 연결 16 · 보류 0 · 열린 교차 제안 0
+원고 25개 · 변경 문서 25 · 고립 1 · 한쪽 연결 21 · 보류 0 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (24)
+## 1. 지난 정비 이후 변경된 문서 (25)
 
 manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
-- **대국 기록** (7): `rival-gc-state`, `rival-gc-t02-yunda`, `rival-gc-t01-seo`, `rival-gc-t03-world`, `rival-gc-t05-yunda`, `rival-gc-t04-seo`, `rival-gc-t06-world`
+- **대국 기록** (8): `rival-gc-state`, `rival-gc-t02-yunda`, `rival-gc-t01-seo`, `rival-gc-t03-world`, `rival-gc-t05-yunda`, `rival-gc-t04-seo`, `rival-gc-t06-world`, `rival-gc-t08-yunda`
 - **롤플레잉** (5): `aren-sheet`, `aren-session-01`, `story-state`, `scenario-great-crossing`, `rival-play`
 - **개요** (3): `grand-questions`, `start-here`, `open-setting-questions`
 - **운영 원칙** (3): `knowledge-horizons`, `causal-roleplay`, `exceptional-generations`
@@ -20,12 +20,13 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 - **세력** (1): `seven-demon-lords`
 - **장소** (1): `low-cape`
 
-## 2. 들어오는 연결이 없는 문서 (0)
+## 2. 들어오는 연결이 없는 문서 (1)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
+- `rival-gc-t08-yunda` T08 — 윤다의 셋째 물때 최종 행동 선언
 
-## 3. 한쪽에서만 건 관련 문서 (16)
+## 3. 한쪽에서만 건 관련 문서 (21)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -45,6 +46,11 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 - `rival-gc-t06-world` → `rival-gc-t04-seo`
 - `rival-gc-t06-world` → `rival-gc-t05-yunda`
 - `rival-gc-t06-world` → `scenario-great-crossing`
+- `rival-gc-t08-yunda` → `rival-play`
+- `rival-gc-t08-yunda` → `rival-gc-state`
+- `rival-gc-t08-yunda` → `rival-gc-t06-world`
+- `rival-gc-t08-yunda` → `rival-gc-t05-yunda`
+- `rival-gc-t08-yunda` → `scenario-great-crossing`
 
 ## 4. 관련 문서가 없는 문서 (0)
 
@@ -57,6 +63,7 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 - `rival-gc-state` ↔ `rival-gc-t02-yunda` · 0.20 · 연결됨
 - `rival-gc-t03-world` ↔ `rival-gc-t06-world` · 0.19 · 연결됨
 - `rival-gc-t02-yunda` ↔ `rival-gc-t05-yunda` · 0.19 · 연결됨
+- `rival-gc-t05-yunda` ↔ `rival-gc-t08-yunda` · 0.17 · 연결됨
 - `rival-gc-state` ↔ `rival-gc-t01-seo` · 0.16 · 연결됨
 - `rival-gc-state` ↔ `rival-gc-t05-yunda` · 0.15 · 연결됨
 - `rival-gc-t02-yunda` ↔ `rival-gc-t03-world` · 0.15 · 연결됨
@@ -67,7 +74,6 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 - `scenario-great-crossing` ↔ `rival-gc-t02-yunda` · 0.11 · 연결됨
 - `start-here` ↔ `open-setting-questions` · 0.11 · 연결됨
 - `rival-gc-t01-seo` ↔ `rival-gc-t05-yunda` · 0.10
-- `rival-gc-t05-yunda` ↔ `rival-gc-t06-world` · 0.10 · 연결됨
 
 ## 6. 보류 항목 (0)
 
@@ -86,5 +92,5 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 9개: 대국 기록 7, 롤플레잉 5, 개요 3, 운영 원칙 3, 안내 2, 세력 1, 마법 1, 마법 공예·항행 1, 장소 1
+분류 9개: 대국 기록 8, 롤플레잉 5, 개요 3, 운영 원칙 3, 안내 2, 세력 1, 마법 1, 마법 공예·항행 1, 장소 1
 문서가 하나뿐인 분류 4개: 세력, 마법, 마법 공예·항행, 장소. 분류 체계 변경은 제안만 한다.

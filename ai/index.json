@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 24,
+  "document_count": 25,
   "documents": [
     {
       "id": "grand-questions",
@@ -775,6 +775,39 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t06-world.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-t06-world/",
       "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-t06-world"
+    },
+    {
+      "id": "rival-gc-t08-yunda",
+      "title": "T08 — 윤다의 셋째 물때 최종 행동 선언",
+      "aliases": [
+        "윤다 마지막 물때",
+        "T08 윤다 선언"
+      ],
+      "category": "대국 기록",
+      "tags": [
+        "대국",
+        "T08",
+        "윤다",
+        "셋째 물때",
+        "큰 건넘",
+        "최종 선언"
+      ],
+      "summary": "S2의 셋째 물때에 세오의 T07을 보지 않고 윤다가 스스로 첫 맞섬 대리인 출전을 청원하고 호숫가에서 개인 관계를 시험하며, 승패와 무관하게 젊은 여울의 자발적 구호 물자를 모으게 하는 최종 선언. 결과는 T09 판정에 맡긴다.",
+      "review_state": "unassessed",
+      "review_label": "선언 확정 · 미판정",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rival-play",
+        "rival-gc-state",
+        "rival-gc-t06-world",
+        "rival-gc-t05-yunda",
+        "scenario-great-crossing"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t08-yunda.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t08-yunda.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-t08-yunda/",
+      "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-t08-yunda"
     }
   ]
 }

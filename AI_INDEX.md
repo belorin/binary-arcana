@@ -83,6 +83,9 @@
 - **[T06 — 둘째 물때의 세계 판정과 제3세력](wiki/rival-gc-t06-world.md)** · 별칭: T06, 둘째 물때 세계 판정 · 수정: 2026-11-03 · 상태: 둘째 물때 판정 확정
   - 큰 건넘 둘째 물때의 중립 판정. 첫 맞섬 불성립의 근거표, 회맹과 서신 증언, 세오 섬 조사, 윤다 후보지 조사, 오린·테살·가뮌·비엘라·일족의 움직임, 필요한 장면과 인식 장부.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t06-world/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t06-world.md)
+- **[T08 — 윤다의 셋째 물때 최종 행동 선언](wiki/rival-gc-t08-yunda.md)** · 별칭: 윤다 마지막 물때, T08 윤다 선언 · 수정: 2026-11-03 · 상태: 선언 확정 · 미판정
+  - S2의 셋째 물때에 세오의 T07을 보지 않고 윤다가 스스로 첫 맞섬 대리인 출전을 청원하고 호숫가에서 개인 관계를 시험하며, 승패와 무관하게 젊은 여울의 자발적 구호 물자를 모으게 하는 최종 선언. 결과는 T09 판정에 맡긴다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t08-yunda/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t08-yunda.md)
 
 ## 운영 원칙
 
