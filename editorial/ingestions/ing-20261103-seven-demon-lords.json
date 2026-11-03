@@ -1,0 +1,60 @@
+{
+  "id": "ing-20261103-seven-demon-lords",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "마왕 일곱과 오래된 관측, 불명의 기원, 선악 중립적 존재",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "start-here",
+          "section": "오래 관측된 마왕들"
+        },
+        {
+          "doc_id": "seven-demon-lords",
+          "section": "마왕이라는 이름"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "일족 행동양식과 다종족 이해관계의 상충",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "seven-demon-lords",
+          "section": "마왕이라는 이름"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "question",
+      "title": "마왕의 기원과 분류의 대의문",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "grand-questions",
+          "section": "마왕들은 어디에서 왔는가?"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "other",
+      "title": "일곱 철학 모티프와 마왕 일족의 창작 초안",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "seven-demon-lords",
+          "section": "일곱 호칭의 철학적 구상"
+        }
+      ]
+    }
+  ]
+}
