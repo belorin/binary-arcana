@@ -63,7 +63,7 @@
     {
       "id": "k05",
       "kind": "example",
-      "title": "낮은곶의 소규모 해안 생활과 물턱 통행 및 기록",
+      "title": "낮은곶의 소규모 해안 생활과 물턱 통행, 복잡한 마법적 물 공급",
       "status": "integrated",
       "targets": [
         {
@@ -72,7 +72,7 @@
         },
         {
           "doc_id": "low-cape",
-          "section": "통행과 기록"
+          "section": "통행과 지역 마법"
         }
       ]
     },
@@ -95,7 +95,7 @@
     {
       "id": "k07",
       "kind": "example",
-      "title": "첫날의 자율 소턴과 귀환자 숫자 불일치 및 생업 손실",
+      "title": "아렌 첫 시범 서사의 전면 개편에 따라 구조 선택과 샘 손실로 대체된 첫날",
       "status": "integrated",
       "targets": [
         {
@@ -111,7 +111,7 @@
     {
       "id": "k08",
       "kind": "argument",
-      "title": "인구 비유를 생활 단계에 오적용한 표현 수정과 지역 생활 도구의 비대표성",
+      "title": "저인구를 저발전으로 해석하는 오류를 배제한 지역 서술",
       "status": "integrated",
       "targets": [
         {
