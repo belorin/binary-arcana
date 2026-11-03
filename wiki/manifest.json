@@ -173,7 +173,8 @@
       "related": [
         "grand-questions",
         "start-here",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "scenario-great-crossing"
       ],
       "aliases": [
         "칠마왕",
@@ -207,7 +208,8 @@
         "start-here",
         "causal-roleplay",
         "aren-sheet",
-        "magic-as-practice"
+        "magic-as-practice",
+        "scenario-great-crossing"
       ],
       "aliases": [
         "인물의 지식",
@@ -237,7 +239,8 @@
         "causal-roleplay",
         "worldbuilding-guide",
         "open-setting-questions",
-        "exceptional-generations"
+        "exceptional-generations",
+        "scenario-great-crossing"
       ],
       "aliases": [
         "개인 마법",
@@ -269,7 +272,8 @@
         "magic-as-practice",
         "causal-roleplay",
         "low-cape",
-        "open-setting-questions"
+        "open-setting-questions",
+        "scenario-great-crossing"
       ],
       "aliases": [
         "마법적 거리",
@@ -307,7 +311,8 @@
         "aren-session-01",
         "low-cape",
         "start-here",
-        "story-state"
+        "story-state",
+        "scenario-great-crossing"
       ],
       "aliases": [
         "소턴과 대턴",
@@ -471,6 +476,40 @@
       "aliases": [
         "현재 상태",
         "세션 시작점"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/scenario-great-crossing.md",
+      "publish": true,
+      "order": 5,
+      "id": "scenario-great-crossing",
+      "title": "시나리오 — 큰 건넘의 계승",
+      "category": "롤플레잉",
+      "status": "초안",
+      "updated": "2026-11-03",
+      "summary": "다른 행성으로 가는 드문 큰 길의 지기가 죽은 뒤, 세력들이 대리인의 겨룸(맞섬)과 맹약의 문구를 두고 다투는 결투·암투 시나리오. 세력과 시작 위치를 골라 진행한다.",
+      "tags": [
+        "시나리오",
+        "결투",
+        "암투",
+        "큰 건넘",
+        "맞섬",
+        "맹약"
+      ],
+      "source": "시나리오 초안. 처음 정한 설정은 임시 정본",
+      "related": [
+        "causal-roleplay",
+        "seven-demon-lords",
+        "magical-distance-and-passage",
+        "knowledge-horizons",
+        "magic-as-practice"
+      ],
+      "aliases": [
+        "큰 건넘",
+        "맞섬",
+        "열두 여울"
       ],
       "review_state": "unassessed",
       "last_enriched_on": null

@@ -1,0 +1,69 @@
+{
+  "id": "ing-20261103-great-crossing-scenario",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "limit_note": "시나리오 초안에서 처음 정한 임시 정본. 쓰면서 바뀔 수 있음",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "적은 인구 때문에 큰 다툼을 대리인의 겨룸과 맹약으로 좁히는 관습",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "scenario-great-crossing",
+          "section": "왜 이 세계에서는 결투로 다투는가"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "맞섬: 관계의 힘으로 겨루며 장소·날·건 것이 승패를 가름",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "scenario-great-crossing",
+          "section": "맞섬의 방식"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "큰 건넘: 두 태양이 가장 가까워지는 철에만 넓게 열리는 행성 간 길",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "scenario-great-crossing",
+          "section": "무대: 열두 여울과 큰 건넘"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "길의 지기가 평생의 관계를 대를 이어 물려줌",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "scenario-great-crossing",
+          "section": "무대: 열두 여울과 큰 건넘"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "other",
+      "title": "진행자용 진상은 위키 안의 표시된 절에 두는 방침",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "knowledge-horizons",
+          "section": "서술 층위와 공개 범위"
+        }
+      ]
+    }
+  ]
+}
