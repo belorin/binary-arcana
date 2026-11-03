@@ -123,7 +123,7 @@
       "category": "안내",
       "status": "운영 문서",
       "updated": "2026-11-03",
-      "summary": "인물·장소·세력·사건 문서의 역할, 정본과 미정 설정의 구분, 연대기와 달력 기록 방법.",
+      "summary": "설정의 정본·미정, 문서 유형, 연대기와 시점별 지식의 구분을 안내하는 편집 규칙.",
       "tags": [
         "안내",
         "설정",
@@ -133,12 +133,14 @@
       "related": [
         "start-here",
         "editing-guide",
-        "open-setting-questions"
+        "open-setting-questions",
+        "knowledge-horizons"
       ],
       "aliases": [
         "설정 쓰는 규칙"
       ],
-      "review_state": "reviewed"
+      "review_state": "reviewed",
+      "last_enriched_on": "2026-11-03"
     },
     {
       "path": "wiki/seven-demon-lords.md",
@@ -149,7 +151,7 @@
       "category": "세력",
       "status": "초안",
       "updated": "2026-11-03",
-      "summary": "기원을 알 수 없는 일곱 마왕의 철학적 테마 후보와 일족의 행동양식, 인간 및 다른 존재들과의 손익 충돌.",
+      "summary": "기원을 알 수 없는 마왕과 일족의 철학적 행동양식 초안. 일곱 호칭은 저자용이며 세계 내부 인물들의 지식이 아니다.",
       "tags": [
         "마왕",
         "일곱 마왕",
@@ -160,13 +162,46 @@
       "source": "세계관 인물·세력 구상",
       "related": [
         "grand-questions",
-        "start-here"
+        "start-here",
+        "knowledge-horizons"
       ],
       "aliases": [
         "칠마왕",
         "마왕 일족"
       ],
       "review_state": "unassessed",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/knowledge-horizons.md",
+      "publish": true,
+      "order": 3,
+      "id": "knowledge-horizons",
+      "title": "인식의 지평과 정보 비대칭",
+      "category": "안내",
+      "status": "운영 문서",
+      "updated": "2026-11-03",
+      "summary": "작가의 정본과 각 인물·공동체·플레이어의 지식을 분리하고 지역성·전승·오해·전파를 고려해 소설과 LLM 롤플레잉을 운영하는 원칙.",
+      "tags": [
+        "지식",
+        "인식",
+        "정보 비대칭",
+        "시점",
+        "롤플레잉",
+        "NPC"
+      ],
+      "source": "서사와 롤플레잉의 정보 접근 원칙",
+      "related": [
+        "seven-demon-lords",
+        "worldbuilding-guide",
+        "start-here"
+      ],
+      "aliases": [
+        "인물의 지식",
+        "지식의 국소성",
+        "정보 접근 규칙"
+      ],
+      "review_state": "reviewed",
       "last_enriched_on": "2026-11-03"
     }
   ]
