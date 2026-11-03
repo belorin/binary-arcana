@@ -1,13 +1,5 @@
 {
   "version": 1,
-  "description": "달력 보기(/#calendar)의 정본. site.config.json의 features.calendar가 true일 때 사이트에 나타난다. from/to는 연대형(YYYY 또는 YYYY-MM, 기원전은 -YYYY), every는 해마다 돌아오는 절기형(MM 또는 MM-DD)이다.",
-  "entries": [
-    {
-      "id": "c001",
-      "label": "이 세계의 기원 원년 (예시 항목)",
-      "from": "1",
-      "doc": "start-here",
-      "section": "연대의 기준"
-    }
-  ]
+  "description": "달력 보기(/#calendar)의 정본. 원년과 연도가 미정인 동안 항목을 비워 둔다. 날짜가 확정된 실제 사건만 점진적으로 추가한다. from/to는 연대형(YYYY 또는 YYYY-MM, 기원전 -YYYY), every는 절기형(MM 또는 MM-DD).",
+  "entries": []
 }
