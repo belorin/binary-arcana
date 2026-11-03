@@ -59,7 +59,10 @@
         "magic-as-practice",
         "magical-distance-and-passage",
         "exceptional-generations",
-        "causal-roleplay"
+        "causal-roleplay",
+        "low-cape",
+        "aren-sheet",
+        "aren-session-01"
       ],
       "aliases": [
         "세계 개요"
@@ -204,7 +207,8 @@
         "seven-demon-lords",
         "worldbuilding-guide",
         "start-here",
-        "causal-roleplay"
+        "causal-roleplay",
+        "aren-sheet"
       ],
       "aliases": [
         "인물의 지식",
@@ -261,7 +265,8 @@
       "related": [
         "start-here",
         "magic-as-practice",
-        "causal-roleplay"
+        "causal-roleplay",
+        "low-cape"
       ],
       "aliases": [
         "마법적 거리",
@@ -294,7 +299,9 @@
         "magic-as-practice",
         "magical-distance-and-passage",
         "exceptional-generations",
-        "worldbuilding-guide"
+        "worldbuilding-guide",
+        "aren-sheet",
+        "aren-session-01"
       ],
       "aliases": [
         "소턴과 대턴",
@@ -335,6 +342,95 @@
       "status": "초안",
       "updated": "2026-11-03",
       "source": "세계관 설정 및 롤플레잉 운영 구상",
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/low-cape.md",
+      "publish": true,
+      "order": 1,
+      "id": "low-cape",
+      "title": "낮은곶",
+      "category": "장소",
+      "status": "초안",
+      "updated": "2026-11-03",
+      "summary": "한 행성의 소규모 해안 정착지와 해안 물턱, 말림 생업과 출입 기록의 시범 무대.",
+      "tags": [
+        "바다",
+        "해안",
+        "정착지",
+        "물턱",
+        "시범"
+      ],
+      "source": "해안 시범 서사",
+      "related": [
+        "aren-sheet",
+        "aren-session-01",
+        "magical-distance-and-passage"
+      ],
+      "aliases": [
+        "낮은곶 경유지"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/aren-sheet.md",
+      "publish": true,
+      "order": 1,
+      "id": "aren-sheet",
+      "title": "아렌 — 첫 시범 캐릭터 시트",
+      "category": "롤플레잉",
+      "status": "사용 중",
+      "updated": "2026-11-03",
+      "summary": "낮은곶의 젊은 통행 기록 보조원 아렌의 생활역량·국소 마법·한계·소지품과 인식 상태.",
+      "tags": [
+        "아렌",
+        "시트",
+        "소턴",
+        "해안"
+      ],
+      "source": "해안 시범 서사",
+      "related": [
+        "low-cape",
+        "aren-session-01",
+        "knowledge-horizons"
+      ],
+      "aliases": [
+        "아렌",
+        "아렌 시트"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/aren-session-01.md",
+      "publish": true,
+      "order": 2,
+      "id": "aren-session-01",
+      "title": "아렌의 첫 시범 세션 — 열두 번째 그림자",
+      "category": "롤플레잉",
+      "status": "진행함",
+      "updated": "2026-11-03",
+      "summary": "작은 해안 정착지의 말림 노동과 물턱 통행, 열하나와 열둘 사이의 불일치를 다룬 아렌의 첫 자율 시범 서사.",
+      "tags": [
+        "아렌",
+        "세션",
+        "첫날",
+        "해안",
+        "통행",
+        "인식"
+      ],
+      "source": "해안 시범 서사",
+      "related": [
+        "low-cape",
+        "aren-sheet",
+        "causal-roleplay"
+      ],
+      "aliases": [
+        "열두 번째 그림자",
+        "아렌 첫날"
+      ],
       "review_state": "unassessed",
       "last_enriched_on": "2026-11-03"
     }
