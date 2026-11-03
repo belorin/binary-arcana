@@ -539,7 +539,8 @@
         "scenario-great-crossing",
         "causal-roleplay",
         "knowledge-horizons",
-        "rival-gc-state"
+        "rival-gc-state",
+        "rival-gc-t01-seo"
       ],
       "aliases": [
         "AI 대국",
@@ -566,7 +567,8 @@
       "source": "시나리오 문서에서 옮김. 새 사실 없음",
       "related": [
         "rival-play",
-        "scenario-great-crossing"
+        "scenario-great-crossing",
+        "rival-gc-t01-seo"
       ],
       "aliases": [
         "대국 기준 상태",
@@ -602,6 +604,33 @@
       "aliases": [
         "윤다 첫 턴",
         "T02 윤다 선언"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/rival-gc-t01-seo.md",
+      "publish": true,
+      "order": 9,
+      "id": "rival-gc-t01-seo",
+      "title": "첫째 물때 선언 — 세오 쪽 (T01)",
+      "category": "대국 기록",
+      "status": "확정 선언",
+      "updated": "2026-11-03",
+      "summary": "Claude가 세오 쪽으로 낸 첫째 물때의 비공개 선언. 섬의 호수 밑 돌 찾기, 회맹의 장소·문구 협상, 오린에게 사람 보내기와 세오 쪽 목표.",
+      "tags": [
+        "대국",
+        "선언",
+        "세오",
+        "첫째 물때"
+      ],
+      "source": "Claude의 대국 선언(기준 상태 S0). 판정 결과 아님",
+      "related": [
+        "rival-gc-state",
+        "rival-play"
+      ],
+      "aliases": [
+        "T01"
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
