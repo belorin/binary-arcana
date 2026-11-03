@@ -7,7 +7,7 @@
 - 요약: Claude(세오)와 GPT(윤다)가 같은 기준 상태에서 비공개로 행동을 선언하고, 별도 GPT 채팅이 제3세력과 세계를 움직이며 중립 판정하는 세력 대국의 확정 규칙.
 - 태그: 대결, AI 대국, 롤플레잉, 판정
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `scenario-great-crossing`, `causal-roleplay`, `knowledge-horizons`, `rival-gc-state`
+- 관련 문서: `scenario-great-crossing`, `causal-roleplay`, `knowledge-horizons`, `rival-gc-state`, `rival-gc-t01-seo`
 
 ## 절 목차
 

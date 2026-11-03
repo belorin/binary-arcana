@@ -7,7 +7,7 @@
 - 요약: 세력 대국의 기준 상태. 두 진영이 같은 물때에 이 버전만 보고 선언하며, 세계 진행자가 물때마다 새 버전으로 고쳐 쓴다.
 - 태그: 대국, 기준 상태, 큰 건넘
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `rival-play`, `scenario-great-crossing`
+- 관련 문서: `rival-play`, `scenario-great-crossing`, `rival-gc-t01-seo`
 
 ## 절 목차
 

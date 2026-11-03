@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 105,
+  "edge_count": 109,
   "edges": [
     {
       "from": "grand-questions",
@@ -602,6 +602,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "rival-play",
+      "to": "rival-gc-t01-seo",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "rival-gc-state",
       "to": "rival-play",
       "type": "related_to",
@@ -610,6 +616,12 @@
     {
       "from": "rival-gc-state",
       "to": "scenario-great-crossing",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-state",
+      "to": "rival-gc-t01-seo",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -628,6 +640,18 @@
     {
       "from": "rival-gc-t02-yunda",
       "to": "scenario-great-crossing",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-t01-seo",
+      "to": "rival-gc-state",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-t01-seo",
+      "to": "rival-play",
       "type": "related_to",
       "basis": "manifest.related"
     },

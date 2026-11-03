@@ -68,6 +68,9 @@
 - **[T02 — 윤다의 첫째 물때 행동 선언](wiki/rival-gc-t02-yunda.md)** · 별칭: 윤다 첫 턴, T02 윤다 선언 · 수정: 2026-11-03 · 상태: 선언 확정 · 미판정
   - 기준 상태 S0에서 세오의 비공개 선언을 보지 않고 확정한 윤다의 첫째 물때 행동. 오린 협상, 젊은 여울의 대리인 점검, 회맹에 승계·왕래 분리 문구 제안을 선언하며 결과는 T03에 맡긴다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t02-yunda/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t02-yunda.md)
+- **[첫째 물때 선언 — 세오 쪽 (T01)](wiki/rival-gc-t01-seo.md)** · 별칭: T01 · 수정: 2026-11-03 · 상태: 확정 선언
+  - Claude가 세오 쪽으로 낸 첫째 물때의 비공개 선언. 섬의 호수 밑 돌 찾기, 회맹의 장소·문구 협상, 오린에게 사람 보내기와 세오 쪽 목표.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t01-seo/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t01-seo.md)
 
 ## 운영 원칙
 
