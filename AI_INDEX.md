@@ -21,10 +21,10 @@
 ## 천체
 
 - **[쌍성계와 여섯 행성](wiki/binary-system.md)** · 별칭: 행성 설정, 두 해 · 수정: 2026-11-03 · 상태: 임시 정본
-  - 두 해(큰 해·작은 해)의 겉모습과 40날의 공전, P3 기준의 날·물때·철·겹침철·해, 여섯 행성(잉걸·늪바다·물마루·마른들·큰고리·먼그늘)의 궤도와 환경, 사람의 자리.
+  - 두 해(큰 해·작은 해)의 겉모습과 40날의 공전, P3 기준의 날·물때·철·겹침철·해, 여섯 행성(해곁별·샛별·누리·건너별·느림별·빈자리)의 물리 조건과 사람이 아는 한 귀퉁이, 모르는 땅.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/binary-system/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/binary-system.md)
 - **[공간 코드표](wiki/space-codes.md)** · 별칭: 공간 코드, 장소 코드 · 수정: 2026-11-03 · 상태: 임시 정본
-  - 행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 규칙. 기존 문서의 장소와 코드의 대응, 일곱 마왕의 시대 영향권에 대한 제안.
+  - 행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 이름 붙이는 원칙. 다른 행성은 사람이 아는 곳에만 코드를 붙인다. 기존 장소의 대응과 일곱 마왕의 시대 영향권에 대한 제안.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/space-codes/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/space-codes.md)
 - **[시점별 천체 배치](wiki/sky-positions.md)** · 별칭: 천체 배치, T0 · 수정: 2026-11-03 · 상태: 임시 정본 · 계산 기록
   - 기준 시점 T0(큰 건넘 대국의 마지막 겹침)과 그 뒤 몇 시점의 행성 위치, P3 하늘에서 각 행성이 보이는 때. 새 시점을 더하는 계산 방법.

@@ -77,9 +77,9 @@
 
 - 두 해는 40날에 서로 돌고 P3에서 늘 12도 안쪽에 붙어 보임 → `binary-system` § 두 해 · `ing-20261103-binary-system-codes`
 - 날·물때(11날)·철(44날)·겹침철(한 해 두 번)·해(440날)의 단위 → `binary-system` § P3에서 쓰는 시간의 단위 · `ing-20261103-binary-system-codes`
-- 여섯 행성의 궤도·환경과 사람의 자리, 인류의 기원은 대의문으로 남김 → `binary-system` § 여섯 행성 · `ing-20261103-binary-system-codes`
+- 여섯 행성의 궤도와 물리 조건, 행성마다 사람이 아는 곳은 한 귀퉁이뿐임 → `binary-system` § 여섯 행성; `binary-system` § 행성은 하나의 그림이 아니다 · `ing-20261103-binary-system-codes`
 - 행성·땅·지역·위성·길·시점의 고유 코드 규칙 → `space-codes` § 코드 규칙 · `ing-20261103-binary-system-codes`
-- P3의 큰 땅 넷과 바다 둘, 기존 장소의 코드 대응 → `space-codes` § P3 물마루; `space-codes` § 기존 문서의 장소와 코드 · `ing-20261103-binary-system-codes`
+- P3의 알려진 큰 땅 넷과 바다 둘, 기존 장소의 코드 대응 → `space-codes` § P3 누리; `space-codes` § 기존 문서의 장소와 코드 · `ing-20261103-binary-system-codes`
 - T0에 큰 건넘의 건너편 P4는 두 해 바로 뒤에 숨어 있었음 → `sky-positions` § T0 — 큰 건넘 대국의 마지막 겹침 · `ing-20261103-binary-system-codes`
 
 ## 사물·개념 (4)
