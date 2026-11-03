@@ -75,7 +75,7 @@
 ## 소설
 
 - **[한 사람의 폭 — 큰 건넘 마지막 물때의 장면 소설](wiki/rival-gc-finale-fiction.md)** · 별칭: 큰 건넘 결말 소설, 한 사람의 폭 · 수정: 2026-11-03 · 상태: 판정 기반 독립 소설 · 연출 가안 포함
-  - 큰 건넘 마지막 물때의 T09 판정을 바탕으로, 회맹·윤다의 호숫가 시도·구호 장부·섬의 개방·비엘라의 수령을 시각적으로 재구성한 독립 결말 소설.
+  - 늙은 지기가 죽은 뒤, 다른 땅으로 가는 문을 열 사람을 정하지 못한 호숫가 마을들의 마지막 물때. 호위 레완의 눈으로 두 자매의 고백과 회맹, 섬 아래에서 열린 한 사람 폭의 문, 그리고 건너편에서 그 숫자를 적는 비엘라를 그린 독립 장면 소설.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-finale-fiction/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-finale-fiction.md)
 
 ## 롤플레잉
