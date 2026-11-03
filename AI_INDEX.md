@@ -35,6 +35,9 @@
 - **[개인의 재능과 관계적 마법](wiki/magic-as-practice.md)** · 별칭: 개인 마법, 공통마법과 지역 마법 · 수정: 2026-11-03 · 상태: 초안
   - 마법의 폭넓은 가능성, 개인의 발견과 성장, 정형화되지 않은 전승과 공통마법의 조건, 나무와 돌 등의 관계적 참여.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/magic-as-practice/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-as-practice.md)
+- **[마법의 말과 감각](wiki/magic-senses.md)** · 별칭: 사이와 결, 마법의 낱말, 마법 묘사 · 수정: 2026-11-03 · 상태: 임시 정본
+  - 마법을 사이·알아봄·울림·결·매듭·값·엮음으로 설명하는 열두 여울과 낮은곶의 말. 받는 자리로 드러나는 재능, 바깥에서 보이는 모습, 공통마법의 예, 마법이 듣지 않을 때 원인을 가르는 법, 묘사 점검표.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/magic-senses/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-senses.md)
 
 ## 마법 공예·항행
 

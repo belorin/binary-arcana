@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 267,
+  "edge_count": 280,
   "edges": [
     {
       "from": "grand-questions",
@@ -296,6 +296,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "magic-as-practice",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "magical-distance-and-passage",
       "to": "start-here",
       "type": "related_to",
@@ -470,6 +476,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "open-setting-questions",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "worldbuilding-guide",
       "to": "start-here",
       "type": "related_to",
@@ -508,6 +520,54 @@
     {
       "from": "worldbuilding-guide",
       "to": "variable-rules-and-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-senses",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-senses",
+      "to": "variable-rules-and-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-senses",
+      "to": "scenario-great-crossing",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-senses",
+      "to": "low-cape",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-senses",
+      "to": "rival-gc-finale-fiction",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-senses",
+      "to": "aren-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-senses",
+      "to": "scene-fiction-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-senses",
+      "to": "grand-questions",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1526,6 +1586,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "variable-rules-and-life",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "binary-system",
       "to": "space-codes",
       "type": "related_to",
@@ -1618,6 +1684,22 @@
       "basis": "curated",
       "evidence_section": "정본과 미정",
       "reason": "일반 편집 절차를 설정의 정본 관리로 구체화한다."
+    },
+    {
+      "from": "magic-senses",
+      "to": "magic-as-practice",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "사이 — 마법의 바탕",
+      "reason": "관계적 마법의 원칙을 사이·결·매듭·값의 구체적 개념과 묘사로 풀어낸다."
+    },
+    {
+      "from": "magic-senses",
+      "to": "variable-rules-and-life",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "마법이 듣지 않을 때",
+      "reason": "규칙의 변화와 미지 조건의 실패를 인물들이 실제로 가려 보는 방법을 정한다."
     }
   ]
 }

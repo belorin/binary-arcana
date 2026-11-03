@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 45,
+  "document_count": 46,
   "documents": [
     {
       "id": "grand-questions",
@@ -206,7 +206,8 @@
         "open-setting-questions",
         "exceptional-generations",
         "scenario-great-crossing",
-        "variable-rules-and-life"
+        "variable-rules-and-life",
+        "magic-senses"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-as-practice.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magic-as-practice.md",
@@ -365,7 +366,8 @@
         "magic-as-practice",
         "magical-distance-and-passage",
         "exceptional-generations",
-        "binary-system"
+        "binary-system",
+        "magic-senses"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-setting-questions.md",
@@ -402,6 +404,43 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/worldbuilding-guide.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/worldbuilding-guide/",
       "app_url": "https://belorin.github.io/binary-arcana/#worldbuilding-guide"
+    },
+    {
+      "id": "magic-senses",
+      "title": "마법의 말과 감각",
+      "aliases": [
+        "사이와 결",
+        "마법의 낱말",
+        "마법 묘사"
+      ],
+      "category": "마법",
+      "tags": [
+        "마법",
+        "공통마법",
+        "묘사",
+        "결",
+        "매듭",
+        "값"
+      ],
+      "summary": "마법을 사이·알아봄·울림·결·매듭·값·엮음으로 설명하는 열두 여울과 낮은곶의 말. 받는 자리로 드러나는 재능, 바깥에서 보이는 모습, 공통마법의 예, 마법이 듣지 않을 때 원인을 가르는 법, 묘사 점검표.",
+      "review_state": "unassessed",
+      "review_label": "임시 정본",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "magic-as-practice",
+        "variable-rules-and-life",
+        "scenario-great-crossing",
+        "low-cape",
+        "rival-gc-finale-fiction",
+        "aren-session-01",
+        "scene-fiction-principles",
+        "grand-questions"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-senses.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magic-senses.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/magic-senses/",
+      "app_url": "https://belorin.github.io/binary-arcana/#magic-senses"
     },
     {
       "id": "aren-session-01",
@@ -1396,7 +1435,8 @@
         "magic-as-practice",
         "grand-questions",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "magic-senses"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/variable-rules-and-life.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/variable-rules-and-life.md",

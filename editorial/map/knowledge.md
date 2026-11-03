@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 70개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 80개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (0)
 
@@ -57,6 +57,24 @@
 - 종족 경계와 외형의 서사적 비중을 미리 고정하지 않음 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261103-low-cape-observer-session`
 - 저인구를 저발전으로 해석하는 오류를 배제한 지역 서술 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식; `low-cape` § 사람들과 생활; `aren-session-01` § 생활 도구와 제도에 관한 서술 원칙 · `ing-20261103-low-cape-observer-session`
 
+## 마법 (13)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 널리 존재하는 개인별 마법 가능성과 어려운 자기 이해와 성장 → `magic-as-practice` § 널리 있으나 똑같지 않은 마법; `magic-as-practice` § 개인은 자신의 재능을 쉽게 알지 못한다 · `ing-20261103-magic-travel-worldturns`
+- 표준 학파 없는 실천과 상황 의존적 공통마법 → `magic-as-practice` § 학파가 아닌 실천의 전승; `magic-as-practice` § 공통마법도 상황에서 성립한다 · `ing-20261103-magic-travel-worldturns`
+- 나무와 돌 등의 비인간 행위자를 통한 국소적 마법 실천 → `magic-as-practice` § 돌과 나무도 행위자다 · `ing-20261103-magic-travel-worldturns`
+- 마법은 오래 사귄 것들 사이의 알아봄이다. 사이는 둘 사이에만 있고 시간으로 쌓이며 물려받기 어렵다 → `magic-senses` § 사이 — 마법의 바탕 · `ing-20261103-magic-senses`
+- 너그러운 것과 까다로운 것의 구분은 재료가 아니라 하나하나의 나이와 자리에서 온다 → `magic-senses` § 사이 — 마법의 바탕 · `ing-20261103-magic-senses`
+- 울림과 받는 자리. 재능은 받는 자리로 드러난다 → `magic-senses` § 알아봄과 울림 — 마법은 몸으로 온다 · `ing-20261103-magic-senses`
+- 결과 이름. 겹침철에 결이 모인다는 것은 누리 사람들의 설명 → `magic-senses` § 결 — 무엇이 어디로 흐르려 하는가 · `ing-20261103-magic-senses`
+- 매듭은 손의 순서를 기억하고 붙들고 이어 주고 닳는다. 매듭 자체에는 힘이 없다 → `magic-senses` § 매듭 — 손의 순서를 남기는 법 · `ing-20261103-magic-senses`
+- 값은 몸·사이·장소·약속의 네 갈래이며 한 가지 화폐가 아니다 → `magic-senses` § 값 — 마법이 남기는 것 · `ing-20261103-magic-senses`
+- 마법은 바깥에서 대부분 기다림처럼 보인다. 빛나는 문양·주문·수치 마력은 쓰지 않는다 → `magic-senses` § 바깥에서 보이는 것 · `ing-20261103-magic-senses`
+- 공통마법의 예: 불 맡기기, 물 나눔, 묵힘, 아물림, 길 묻기, 묶어 두기. 소식을 멀리 보내는 마법은 알려져 있지 않음 → `magic-senses` § 공통마법 몇 가지 · `ing-20261103-magic-senses`
+- 엮음과 기반 시설. 새 땅에는 사이가 없어서 가난하다 → `magic-senses` § 엮음 — 큰 마법은 여럿이 한다 · `ing-20261103-magic-senses`
+- 마법이 듣지 않을 때 원인을 가르는 법과 결바뀜 → `magic-senses` § 마법이 듣지 않을 때; `variable-rules-and-life` § 소설과 세계 진행에서의 쓰임 · `ing-20261103-magic-senses`
+
 ## 롤플레잉 (9)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -99,14 +117,6 @@
 - 일곱 철학 모티프와 마왕 일족의 창작 초안 → `seven-demon-lords` § 일곱 호칭의 철학적 구상 · `ing-20261103-seven-demon-lords`
 - 마왕의 철학적 명칭은 작가용 분류이며 세계의 상식이 아님 → `seven-demon-lords` § 누가 무엇을 아는가; `knowledge-horizons` § 마왕을 둘러싼 서로 다른 언어 · `ing-20261103-knowledge-horizons`
 - 마왕 일부의 일족 창조 가능성과 일족 기원의 비일률성 → `seven-demon-lords` § 일족의 기원이 같을 필요는 없다; `grand-questions` § 마왕들은 어디에서 왔는가? · `ing-20261103-low-cape-observer-session`
-
-## 마법 (3)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 널리 존재하는 개인별 마법 가능성과 어려운 자기 이해와 성장 → `magic-as-practice` § 널리 있으나 똑같지 않은 마법; `magic-as-practice` § 개인은 자신의 재능을 쉽게 알지 못한다 · `ing-20261103-magic-travel-worldturns`
-- 표준 학파 없는 실천과 상황 의존적 공통마법 → `magic-as-practice` § 학파가 아닌 실천의 전승; `magic-as-practice` § 공통마법도 상황에서 성립한다 · `ing-20261103-magic-travel-worldturns`
-- 나무와 돌 등의 비인간 행위자를 통한 국소적 마법 실천 → `magic-as-practice` § 돌과 나무도 행위자다 · `ing-20261103-magic-travel-worldturns`
 
 ## 마법 공예·항행 (2)
 

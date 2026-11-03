@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `magic-as-practice` · 분류: 마법 · 공개 · 원고: [wiki/magic-as-practice.md](../../../wiki/magic-as-practice.md) · 2,876자 · 절 7개
+- id: `magic-as-practice` · 분류: 마법 · 공개 · 원고: [wiki/magic-as-practice.md](../../../wiki/magic-as-practice.md) · 2,985자 · 절 7개
 - 별칭: 개인 마법, 공통마법과 지역 마법
 - 요약: 마법의 폭넓은 가능성, 개인의 발견과 성장, 정형화되지 않은 전승과 공통마법의 조건, 나무와 돌 등의 관계적 참여.
 - 태그: 마법, 개인 재능, 공통마법, 지역마법, 행위자
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `start-here`, `magical-distance-and-passage`, `knowledge-horizons`, `causal-roleplay`, `worldbuilding-guide`, `open-setting-questions`, `exceptional-generations`, `scenario-great-crossing`, `variable-rules-and-life`
+- 관련 문서: `start-here`, `magical-distance-and-passage`, `knowledge-horizons`, `causal-roleplay`, `worldbuilding-guide`, `open-setting-questions`, `exceptional-generations`, `scenario-great-crossing`, `variable-rules-and-life`, `magic-senses`
 
 ## 절 목차
 
@@ -20,7 +20,7 @@
 - 공통마법도 상황에서 성립한다 · L25–31 · 379자 · `7d692223` — 여러 지역에서 널리 쓰인다는 이유로 어떤 실천을 공통마법이라 부를 수는 있다.
 - 돌과 나무도 행위자다 · L33–39 · 550자 · `0973697c` — 돌과 나무, 강, 흙, 숲, 오래된 장소 등은 인간의 의지대로 사용할 수 있는 수동적 재료만이 아니다.
 - 마법을 시도하고 결과를 판단하는 원칙 · L41–45 · 389자 · `1819ecc1` — 마법적 행위를 평가할 때는 그 사람의 확인된 능력, 지금의 환경과 관계, 사용 가능한 시간과 준비, 다른 행위자의 반응, 알려진 실패와 부작용을 살핀다.
-- 아직 정하지 않은 것 · L47–49 · 122자 · `6eb7c745` — 마법적 가능성의 보편적 적용 범위, 개인 재능의 발생과 변화, 공통마법의 대표적인 사례, 실천의 재현 조건, 관계를 맺는 방식, 실패의 원인과 다른 행위자들의 관…
+- 아직 정하지 않은 것 · L47–51 · 231자 · `e7e58d12` — 임시 정본: 사이·알아봄·결·매듭·값 같은 개념과 낱말, 받는 자리로 드러나는 재능, 공통마법의 예, 묘사하는 법은 마법의 말과 감각에 정했다.
 
 ## 장부에 기록된 반영 지식
 
@@ -34,3 +34,7 @@
   - 표준 학파 없는 실천과 상황 의존적 공통마법 · `ing-20261103-magic-travel-worldturns`
 - **돌과 나무도 행위자다**
   - 나무와 돌 등의 비인간 행위자를 통한 국소적 마법 실천 · `ing-20261103-magic-travel-worldturns`
+
+## 확인된 의미 관계
+
+- ← `magic-senses` · elaborates · 근거 절(magic-senses): 사이 — 마법의 바탕

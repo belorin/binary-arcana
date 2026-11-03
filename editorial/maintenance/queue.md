@@ -4,9 +4,9 @@
 
 마지막 정비: **M001** (2026-11-03) · [보고서](reports/M001.md) · 다음 정비 버전: **M002**
 
-원고 45개 · 변경 문서 45 · 고립 0 · 한쪽 연결 49 · 보류 0 · 열린 교차 제안 0
+원고 46개 · 변경 문서 46 · 고립 0 · 한쪽 연결 56 · 보류 0 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (45)
+## 1. 지난 정비 이후 변경된 문서 (46)
 
 manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -16,8 +16,8 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 - **운영 원칙** (6): `knowledge-horizons`, `causal-roleplay`, `exceptional-generations`, `rival-gc-retrospective`, `rival-character-principles`, `scene-fiction-principles`
 - **개요** (3): `grand-questions`, `start-here`, `open-setting-questions`
 - **천체** (3): `binary-system`, `space-codes`, `sky-positions`
+- **마법** (2): `magic-as-practice`, `magic-senses`
 - **안내** (2): `editing-guide`, `worldbuilding-guide`
-- **마법** (1): `magic-as-practice`
 - **마법 공예·항행** (1): `magical-distance-and-passage`
 - **사건** (1): `demon-epoch-s00`
 - **사물·개념** (1): `variable-rules-and-life`
@@ -30,11 +30,18 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (49)
+## 3. 한쪽에서만 건 관련 문서 (56)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
+- `open-setting-questions` → `magic-senses`
 - `worldbuilding-guide` → `variable-rules-and-life`
+- `magic-senses` → `scenario-great-crossing`
+- `magic-senses` → `low-cape`
+- `magic-senses` → `rival-gc-finale-fiction`
+- `magic-senses` → `aren-session-01`
+- `magic-senses` → `scene-fiction-principles`
+- `magic-senses` → `grand-questions`
 - `rival-play` → `scene-fiction-principles`
 - `rival-gc-t02-yunda` → `rival-play`
 - `rival-gc-t02-yunda` → `rival-gc-state`
@@ -124,5 +131,5 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 14개: 대국 기록 10, 롤플레잉 7, 인물 7, 운영 원칙 6, 개요 3, 천체 3, 안내 2, 세력 1, 마법 1, 마법 공예·항행 1, 장소 1, 소설 1, 사건 1, 사물·개념 1
-문서가 하나뿐인 분류 7개: 세력, 마법, 마법 공예·항행, 장소, 소설, 사건, 사물·개념. 분류 체계 변경은 제안만 한다.
+분류 14개: 대국 기록 10, 롤플레잉 7, 인물 7, 운영 원칙 6, 개요 3, 천체 3, 안내 2, 마법 2, 세력 1, 마법 공예·항행 1, 장소 1, 소설 1, 사건 1, 사물·개념 1
+문서가 하나뿐인 분류 6개: 세력, 마법 공예·항행, 장소, 소설, 사건, 사물·개념. 분류 체계 변경은 제안만 한다.
