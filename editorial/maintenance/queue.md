@@ -4,13 +4,13 @@
 
 마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
 
-원고 4개 · 변경 문서 4 · 고립 0 · 한쪽 연결 0 · 보류 0 · 열린 교차 제안 0
+원고 5개 · 변경 문서 5 · 고립 0 · 한쪽 연결 0 · 보류 0 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (4)
+## 1. 지난 정비 이후 변경된 문서 (5)
 
 첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
-- **개요** (2): `start-here`, `open-setting-questions`
+- **개요** (3): `manifesto`, `start-here`, `open-setting-questions`
 - **안내** (2): `editing-guide`, `worldbuilding-guide`
 
 ## 2. 들어오는 연결이 없는 문서 (0)
@@ -32,8 +32,12 @@
 
 - `editing-guide` ↔ `worldbuilding-guide` · 0.12 · 연결됨
 - `start-here` ↔ `worldbuilding-guide` · 0.07 · 연결됨
-- `open-setting-questions` ↔ `worldbuilding-guide` · 0.05 · 연결됨
+- `manifesto` ↔ `open-setting-questions` · 0.05 · 연결됨
+- `manifesto` ↔ `start-here` · 0.05 · 연결됨
+- `open-setting-questions` ↔ `worldbuilding-guide` · 0.04 · 연결됨
 - `start-here` ↔ `editing-guide` · 0.04 · 연결됨
+- `manifesto` ↔ `editing-guide` · 0.00
+- `manifesto` ↔ `worldbuilding-guide` · 0.00
 - `open-setting-questions` ↔ `editing-guide` · 0.00
 - `start-here` ↔ `open-setting-questions` · 0.00 · 연결됨
 
@@ -50,9 +54,9 @@
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
 - 긴 문서 (0): 없음
-- 짧은 문서 (4): `worldbuilding-guide` 761자, `editing-guide` 763자, `open-setting-questions` 830자, `start-here` 953자
+- 짧은 문서 (4): `worldbuilding-guide` 761자, `editing-guide` 763자, `open-setting-questions` 1,183자, `start-here` 1,444자
 
 ## 9. 분류 참고
 
-분류 2개: 개요 2, 안내 2
+분류 2개: 개요 3, 안내 2
 문서가 하나뿐인 분류 0개. 분류 체계 변경은 제안만 한다.

@@ -11,8 +11,26 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 12,
+  "edge_count": 16,
   "edges": [
+    {
+      "from": "manifesto",
+      "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "manifesto",
+      "to": "open-setting-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "manifesto",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
     {
       "from": "start-here",
       "to": "editing-guide",
@@ -32,25 +50,31 @@
       "basis": "manifest.related"
     },
     {
-      "from": "open-setting-questions",
+      "from": "editing-guide",
       "to": "start-here",
       "type": "related_to",
       "basis": "manifest.related"
     },
     {
-      "from": "open-setting-questions",
+      "from": "editing-guide",
       "to": "worldbuilding-guide",
       "type": "related_to",
       "basis": "manifest.related"
     },
     {
-      "from": "editing-guide",
+      "from": "open-setting-questions",
+      "to": "manifesto",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-setting-questions",
       "to": "start-here",
       "type": "related_to",
       "basis": "manifest.related"
     },
     {
-      "from": "editing-guide",
+      "from": "open-setting-questions",
       "to": "worldbuilding-guide",
       "type": "related_to",
       "basis": "manifest.related"

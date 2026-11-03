@@ -7,8 +7,37 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 4,
+  "document_count": 5,
   "documents": [
+    {
+      "id": "manifesto",
+      "title": "대의문",
+      "aliases": [
+        "세계관 대의문"
+      ],
+      "category": "개요",
+      "tags": [
+        "대의문",
+        "우주",
+        "마법",
+        "쌍성계",
+        "행위자",
+        "행성"
+      ],
+      "summary": "우주 자체의 마법성, 규명의 한계, 비인간 행위자, 다채로운 행성, 인류의 불완전한 진출을 규정하는 세계관의 큰 원칙.",
+      "review_state": "reviewed",
+      "review_label": "정본",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "start-here",
+        "open-setting-questions"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/manifesto.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/manifesto.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/manifesto/",
+      "app_url": "https://belorin.github.io/binary-arcana/#manifesto"
+    },
     {
       "id": "start-here",
       "title": "세계 개요",
@@ -22,12 +51,13 @@
         "마법",
         "우주"
       ],
-      "summary": "두 태양의 쌍성계에서 마법과 우주 기술이 함께 자란 세계의 전제, 설정·소설·게임 세 쓰임, 연대의 기준.",
-      "review_state": "unassessed",
+      "summary": "두 태양과 여러 행성, 고도로 발달한 마법 문명, 비인간 행위자, 행성 진출의 한계를 정리한 세계 개요.",
+      "review_state": "reviewed",
       "review_label": "정본",
       "last_updated_on": "2026-11-03",
-      "last_enriched_on": null,
+      "last_enriched_on": "2026-11-03",
       "related_ids": [
+        "manifesto",
         "editing-guide",
         "open-setting-questions",
         "worldbuilding-guide"
@@ -36,32 +66,6 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/start-here.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/start-here/",
       "app_url": "https://belorin.github.io/binary-arcana/#start-here"
-    },
-    {
-      "id": "open-setting-questions",
-      "title": "정해야 할 설정",
-      "aliases": [
-        "미정 설정 목록"
-      ],
-      "category": "개요",
-      "tags": [
-        "미정",
-        "쌍성계",
-        "마법"
-      ],
-      "summary": "쌍성의 구성, 행성 궤도, 마법의 원천, 마법과 기술의 관계, 문명과 시대처럼 아직 열려 있는 근본 설정의 목록.",
-      "review_state": "unassessed",
-      "review_label": "미정",
-      "last_updated_on": "2026-11-03",
-      "last_enriched_on": null,
-      "related_ids": [
-        "start-here",
-        "worldbuilding-guide"
-      ],
-      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md",
-      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-setting-questions.md",
-      "page_url": "https://belorin.github.io/binary-arcana/notes/open-setting-questions/",
-      "app_url": "https://belorin.github.io/binary-arcana/#open-setting-questions"
     },
     {
       "id": "editing-guide",
@@ -87,6 +91,33 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/editing-guide.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/editing-guide/",
       "app_url": "https://belorin.github.io/binary-arcana/#editing-guide"
+    },
+    {
+      "id": "open-setting-questions",
+      "title": "정해야 할 설정",
+      "aliases": [
+        "미정 설정 목록"
+      ],
+      "category": "개요",
+      "tags": [
+        "미정",
+        "쌍성계",
+        "마법"
+      ],
+      "summary": "쌍성계와 행성, 미규명된 마법적 우주, 비인간 행위자, 마법 항행, 이주와 문명에 관한 열린 설정 질문.",
+      "review_state": "reviewed",
+      "review_label": "미정",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "manifesto",
+        "start-here",
+        "worldbuilding-guide"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-setting-questions.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/open-setting-questions/",
+      "app_url": "https://belorin.github.io/binary-arcana/#open-setting-questions"
     },
     {
       "id": "worldbuilding-guide",

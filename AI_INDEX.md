@@ -8,11 +8,14 @@
 
 ## 개요
 
+- **[대의문](wiki/manifesto.md)** · 별칭: 세계관 대의문 · 수정: 2026-11-03 · 상태: 정본
+  - 우주 자체의 마법성, 규명의 한계, 비인간 행위자, 다채로운 행성, 인류의 불완전한 진출을 규정하는 세계관의 큰 원칙.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/manifesto/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/manifesto.md)
 - **[세계 개요](wiki/start-here.md)** · 별칭: 세계 개요 · 수정: 2026-11-03 · 상태: 정본
-  - 두 태양의 쌍성계에서 마법과 우주 기술이 함께 자란 세계의 전제, 설정·소설·게임 세 쓰임, 연대의 기준.
+  - 두 태양과 여러 행성, 고도로 발달한 마법 문명, 비인간 행위자, 행성 진출의 한계를 정리한 세계 개요.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/start-here/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md)
 - **[정해야 할 설정](wiki/open-setting-questions.md)** · 별칭: 미정 설정 목록 · 수정: 2026-11-03 · 상태: 미정
-  - 쌍성의 구성, 행성 궤도, 마법의 원천, 마법과 기술의 관계, 문명과 시대처럼 아직 열려 있는 근본 설정의 목록.
+  - 쌍성계와 행성, 미규명된 마법적 우주, 비인간 행위자, 마법 항행, 이주와 문명에 관한 열린 설정 질문.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/open-setting-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md)
 
 ## 안내
