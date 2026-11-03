@@ -62,8 +62,8 @@
 
 ## 대국 기록
 
-- **[대국 기준 상태 — 큰 건넘의 계승](wiki/rival-gc-state.md)** · 별칭: 대국 기준 상태, S0 · 수정: 2026-11-03 · 상태: S0 · 첫째 물때
-  - 세력 대국의 기준 상태. 두 진영이 같은 물때에 이 버전만 보고 선언하며, 세계 진행자가 물때마다 새 버전으로 고쳐 쓴다.
+- **[대국 기준 상태 — 큰 건넘의 계승](wiki/rival-gc-state.md)** · 별칭: 대국 기준 상태, S1 · 수정: 2026-11-03 · 상태: S1 · 둘째 물때
+  - T03 판정을 반영한 둘째 물때 시작의 공통 기준 상태 S1. 회맹의 미합의 사항, 진영별 실제 정보, 제3세력의 독립 진행과 기존 진행자용 진상을 기록.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-state/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-state.md)
 - **[T02 — 윤다의 첫째 물때 행동 선언](wiki/rival-gc-t02-yunda.md)** · 별칭: 윤다 첫 턴, T02 윤다 선언 · 수정: 2026-11-03 · 상태: 선언 확정 · 미판정
   - 기준 상태 S0에서 세오의 비공개 선언을 보지 않고 확정한 윤다의 첫째 물때 행동. 오린 협상, 젊은 여울의 대리인 점검, 회맹에 승계·왕래 분리 문구 제안을 선언하며 결과는 T03에 맡긴다.
@@ -71,6 +71,9 @@
 - **[첫째 물때 선언 — 세오 쪽 (T01)](wiki/rival-gc-t01-seo.md)** · 별칭: T01 · 수정: 2026-11-03 · 상태: 확정 선언
   - Claude가 세오 쪽으로 낸 첫째 물때의 비공개 선언. 섬의 호수 밑 돌 찾기, 회맹의 장소·문구 협상, 오린에게 사람 보내기와 세오 쪽 목표.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t01-seo/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t01-seo.md)
+- **[T03 — 첫째 물때의 세계 판정과 제3세력](wiki/rival-gc-t03-world.md)** · 별칭: T03, 첫째 물때 세계 판정 · 수정: 2026-11-03 · 상태: 첫째 물때 판정 확정
+  - 큰 건넘의 계승 첫째 물때에 대한 중립 판정. 세오·윤다의 행동 결과, 테살·가뮌·오린·비엘라·일족의 독립 행동, 진영별 인식, 장면과 S1로 이어지는 조건.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t03-world/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t03-world.md)
 
 ## 운영 원칙
 

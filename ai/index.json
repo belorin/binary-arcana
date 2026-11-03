@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 20,
+  "document_count": 21,
   "documents": [
     {
       "id": "grand-questions",
@@ -561,7 +561,7 @@
       "title": "대국 기준 상태 — 큰 건넘의 계승",
       "aliases": [
         "대국 기준 상태",
-        "S0"
+        "S1"
       ],
       "category": "대국 기록",
       "tags": [
@@ -569,15 +569,16 @@
         "기준 상태",
         "큰 건넘"
       ],
-      "summary": "세력 대국의 기준 상태. 두 진영이 같은 물때에 이 버전만 보고 선언하며, 세계 진행자가 물때마다 새 버전으로 고쳐 쓴다.",
+      "summary": "T03 판정을 반영한 둘째 물때 시작의 공통 기준 상태 S1. 회맹의 미합의 사항, 진영별 실제 정보, 제3세력의 독립 진행과 기존 진행자용 진상을 기록.",
       "review_state": "unassessed",
-      "review_label": "S0 · 첫째 물때",
+      "review_label": "S1 · 둘째 물때",
       "last_updated_on": "2026-11-03",
       "last_enriched_on": null,
       "related_ids": [
         "rival-play",
         "scenario-great-crossing",
-        "rival-gc-t01-seo"
+        "rival-gc-t01-seo",
+        "rival-gc-t03-world"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-state.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-state.md",
@@ -641,6 +642,40 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t01-seo.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-t01-seo/",
       "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-t01-seo"
+    },
+    {
+      "id": "rival-gc-t03-world",
+      "title": "T03 — 첫째 물때의 세계 판정과 제3세력",
+      "aliases": [
+        "T03",
+        "첫째 물때 세계 판정"
+      ],
+      "category": "대국 기록",
+      "tags": [
+        "대국",
+        "T03",
+        "세계 진행자",
+        "첫째 물때",
+        "판정",
+        "정보 비대칭",
+        "큰 건넘"
+      ],
+      "summary": "큰 건넘의 계승 첫째 물때에 대한 중립 판정. 세오·윤다의 행동 결과, 테살·가뮌·오린·비엘라·일족의 독립 행동, 진영별 인식, 장면과 S1로 이어지는 조건.",
+      "review_state": "unassessed",
+      "review_label": "첫째 물때 판정 확정",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rival-play",
+        "rival-gc-state",
+        "rival-gc-t01-seo",
+        "rival-gc-t02-yunda",
+        "scenario-great-crossing"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t03-world.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t03-world.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-t03-world/",
+      "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-t03-world"
     }
   ]
 }
