@@ -13,7 +13,7 @@
 | `lore` | 사물·관습·언어 | `templates/lore.md` | 사물·개념 |
 | `celestial` | 항성·행성·위성·궤도 | `templates/celestial.md` | 천체 |
 | `magic` | 마법 체계 | `templates/magic.md` | 마법 |
-| `tech` | 기술·우주선·장비 | `templates/tech.md` | 기술·우주선 |
+| `tech` | 마법 공예·항행·도구 | `templates/tech.md` | 마법 공예·항행 |
 | `work` | 소설 작품(작품 노트와 목차) | `templates/work.md` | 소설 |
 | `chapter` | 소설의 한 장(본문) | `templates/chapter.md` | 소설 |
 | `rule` | 롤플레잉 게임 규칙 | `templates/rule.md` | 롤플레잉 |
