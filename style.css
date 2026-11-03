@@ -114,6 +114,9 @@ button.home-topic:hover{background:var(--light);border-color:color-mix(in srgb,v
 .toc button{border:0;background:none;text-align:left;font-size:12px;color:var(--muted);line-height:1.55;padding:0}
 .toc button:hover{color:var(--accent);text-decoration:underline}
 .prose{font-size:15px;line-height:1.95;overflow-wrap:anywhere}
+.figure{margin:26px 0;text-align:center}
+.figure img{display:block;max-width:100%;height:auto;margin:0 auto;border:1px solid var(--line);border-radius:10px;background:var(--paper)}
+.figure figcaption{margin-top:8px;font-size:12.5px;line-height:1.6;color:var(--muted)}
 .prose h2,.prose h3,.prose h4{scroll-margin-top:85px;letter-spacing:-.35px;line-height:1.5}
 .prose h2{font-size:22px;margin:43px 0 15px;padding-top:12px;border-top:1px solid var(--line)}
 .prose h3{font-size:18px;margin:28px 0 12px}

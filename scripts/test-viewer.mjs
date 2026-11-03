@@ -44,6 +44,11 @@ assert.match(html, /href="https:\/\/github\.com\/example\/wiki\/edit\/main\/wiki
 assert.match(html, /data-copy="https:\/\/example\.github\.io\/wiki\/notes\/a\/"/);
 assert.doesNotMatch(html, /giscus/, "comments stay off without a categoryId");
 assert.match(go("#b"), /짧은 &lt;b&gt;본문&lt;\/b&gt;/, "HTML in Markdown is escaped");
+notes[1].body = "앞 문단.\n\n![두 해의 <배치>](wiki/images/orbit-t0.svg)\n\n![외부](https://example.com/x.png)";
+html = go("#a"); html = go("#b");
+assert.match(html, /<figure class="figure"><a href="wiki\/images\/orbit-t0\.svg"[^>]*><img src="wiki\/images\/orbit-t0\.svg" alt="두 해의 &lt;배치&gt;"/, "local images become figures");
+assert.match(html, /<figcaption>두 해의 &lt;배치&gt;<\/figcaption>/);
+assert.doesNotMatch(html, /<img src="https/, "only wiki/images/ files are shown as images");
 assert.match(go("#b"), /연결된 글.*가 문서/s, "backlinks are shown");
 assert.match(go("#about"), /소개 제목.*안내 — 가 문서/s);
 assert.match(go("#calendar"), /달력을 쓸 수 없습니다/);

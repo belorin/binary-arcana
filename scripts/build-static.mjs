@@ -52,6 +52,7 @@ function staticArticle(note) {
     .replace(/<button type="button" data-random>[\s\S]*?<\/button>/g, "")
     .replace(/<button type="button" data-copy="[^"]+">[\s\S]*?<\/button>/g,
       `<a href="${c.rawUrl}wiki/${note.id}.md">원문 Markdown</a><a href="${base}#${note.id}">탐색 화면에서 보기</a>`)
+    .replace(/(src|href)="wiki\/images\//g, `$1="${base}wiki/images/`)
     .replace(/href="#all"/g, `href="${base}notes/"`)
     .replace(/href="#([a-z0-9-]+)"/g, (m, id) => ids.has(id) ? `href="${base}notes/${id}/"` : m);
 }

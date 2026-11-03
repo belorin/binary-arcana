@@ -55,6 +55,13 @@ node scripts/validate-editorial.mjs --report           # 장부 검사와 보류
 
 로컬 미리 보기: `node scripts/build-static.mjs _site` 후 저장소 폴더에서 정적 서버를 띄운다(예: `python3 -m http.server`).
 
+## 그림
+
+- 그림 파일은 `wiki/images/`에 둔다. 형식은 SVG, PNG, JPG, WebP이고 파일 이름은 영문 소문자·숫자·하이픈만 쓴다.
+- 문서에서는 **한 줄에 그림 하나만** `![설명](./images/파일이름.svg)`으로 적는다. 설명은 그림 아래 캡션이 된다. 문장 안에 넣은 그림이나 바깥 주소의 그림은 표시하지 않는다.
+- 없는 파일을 가리키면 빌드가 실패한다.
+- 생성해서 만든 그림은 만든 스크립트를 `tools/drawings/`에 함께 둔다(Python 3, 저장소 폴더에서 `python3 tools/drawings/<파일>.py`). 그림을 고칠 때는 SVG를 손으로 고치지 말고 스크립트를 고쳐 다시 만든다.
+
 ## site.config.json
 
 | 키 | 뜻 |

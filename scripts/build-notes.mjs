@@ -23,7 +23,9 @@ function normalizeBody(text, alias) {
   // The viewer understands site hash links, not file paths: ./id.md → #id.
   return text
     .replace(/\]\((?:\.\/|\.\.\/wiki\/)([a-z0-9-]+)\.md\)/g, (_m, id) => "](#" + (alias[id] ?? id) + ")")
-    .replace(siteLink, (_m, id) => "](#" + id + ")");
+    .replace(siteLink, (_m, id) => "](#" + id + ")")
+    // Images live in wiki/images/ and are written ![설명](./images/name.svg) on a line of their own.
+    .replace(/\]\(\.\/images\/([a-z0-9-]+\.(?:svg|png|jpe?g|webp))\)/g, (_m, file) => "](wiki/images/" + file + ")");
 }
 function readBody(entry) {
   const fullPath = path.resolve(root, entry.path);
@@ -63,6 +65,10 @@ const notes = published.map(entry => {
 for (const note of notes) {
   for (const m of note.body.matchAll(/\]\(#([a-z0-9-]+)\)/g)) {
     if (!publishedIds.has(m[1])) fail(note.id + ": broken link to #" + m[1] + " (missing or unpublished)");
+  }
+  for (const m of note.body.matchAll(/!\[[^\]]*\]\(([^)]*)\)/g)) {
+    if (!/^wiki\/images\/[a-z0-9-]+\.(?:svg|png|jpe?g|webp)$/.test(m[1])) fail(note.id + ": images must be ./images/<name>.svg|png|jpg|webp, got " + m[1]);
+    if (!fs.existsSync(path.join(root, m[1]))) fail(note.id + ": missing image " + m[1]);
   }
 }
 const data = { site: publicSite(config), notes };

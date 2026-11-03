@@ -112,11 +112,20 @@ function renderMarkdown(markdown, docId) {
   for (let index = 0; index < lines.length; index++) {
     const value = lines[index].trim();
     const heading = /^(#{2,4})\s+(.+)$/.exec(value);
+    // A line holding only ![설명](wiki/images/name.svg) becomes a figure with its caption.
+    const image = /^!\[([^\]]*)\]\((wiki\/images\/[a-z0-9-]+\.(?:svg|png|jpe?g|webp))\)$/.exec(value);
     const bullet = /^[-*+]\s+(.+)$/.exec(value);
     const numbered = /^\d+\.\s+(.+)$/.exec(value);
     const headers = tableRow(value);
     const divider = headers && tableRow(lines[index + 1] || '');
     if (!value) { flushAll(); continue; }
+    if (image) {
+      flushAll();
+      html += '<figure class="figure"><a href="' + esc(image[2]) + '" target="_blank" rel="noopener noreferrer">' +
+        '<img src="' + esc(image[2]) + '" alt="' + esc(image[1]) + '" loading="lazy"></a>' +
+        (image[1] ? '<figcaption>' + plainInline(image[1]) + '</figcaption>' : '') + '</figure>';
+      continue;
+    }
     if (headers && divider && headers.length === divider.length &&
         divider.every(cell => /^:?-{3,}:?$/.test(cell))) {
       flushAll();

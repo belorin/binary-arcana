@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 780" width="920" height="780" font-family="Noto Sans KR, Apple SD Gothic Neo, Malgun Gothic, sans-serif">
+<rect width="100%" height="100%" fill="#fbfaf6"/>
+<text x="28" y="40" font-size="20" font-weight="700" fill="#252b29">T0의 궤도 배치</text>
+<text x="28" y="64" font-size="13" fill="#66716a">큰 건넘 대국의 마지막 겹침 순간. 위에서 내려다본 그림, 공전은 시계 반대 방향.</text>
+<line x1="123.2" y1="410.0" x2="716.8" y2="410.0" stroke="#c9b26b" stroke-width="1" stroke-dasharray="2 5"/>
+<text x="129.2" y="428.0" font-size="11" fill="#9a8440" text-anchor="start">겹침선 — 누리가 이 선 위에 오면 겹침철</text>
+<circle cx="420" cy="410" r="326.9" fill="none" stroke="#c7c2b6" stroke-width="1" stroke-dasharray="1 7"/>
+<text x="591.4" y="697.1" font-size="12" fill="#8d8a80" text-anchor="start">빈자리(P6)? — 있는지 논쟁 중, 궤도 미정</text>
+<circle cx="420" cy="410" r="80.8" fill="none" stroke="#bdb7a8" stroke-width="1.2"/>
+<circle cx="420" cy="410" r="96.6" fill="none" stroke="#bdb7a8" stroke-width="1.2"/>
+<circle cx="420" cy="410" r="118.0" fill="none" stroke="#bdb7a8" stroke-width="1.2"/>
+<circle cx="420" cy="410" r="164.5" fill="none" stroke="#bdb7a8" stroke-width="1.2"/>
+<circle cx="420" cy="410" r="278.9" fill="none" stroke="#bdb7a8" stroke-width="1.2"/>
+<line x1="538.0" y1="410.0" x2="265.4" y2="353.7" stroke="#7a4686" stroke-width="1.3" stroke-dasharray="6 4"/>
+<circle cx="413" cy="410" r="11" fill="#f2c14e" stroke="#d49a1c" stroke-width="1"/>
+<circle cx="435" cy="410" r="5.5" fill="#eef3fb" stroke="#8aa1c6" stroke-width="1"/>
+<text x="420" y="440" font-size="11" fill="#66716a" text-anchor="middle">두 해 (SA·SB)</text>
+<circle cx="368.1" cy="348.1" r="6.5" fill="#3d4f8f" stroke="#fbfaf6" stroke-width="2"/>
+<text x="356.1" y="336.1" font-size="13" font-weight="700" fill="#252b29" text-anchor="end">P1 해곁별</text>
+<text x="356.1" y="351.1" font-size="11" fill="#66716a" text-anchor="end">200날</text>
+<circle cx="387.0" cy="500.7" r="6.5" fill="#3d4f8f" stroke="#fbfaf6" stroke-width="2"/>
+<text x="401.0" y="522.7" font-size="13" font-weight="700" fill="#252b29" text-anchor="start">P2 샛별</text>
+<text x="401.0" y="537.7" font-size="11" fill="#66716a" text-anchor="start">290날</text>
+<circle cx="538.0" cy="410.0" r="8" fill="#3d4f8f" stroke="#fbfaf6" stroke-width="2"/>
+<circle cx="551.0" cy="401.0" r="2.4" fill="#8d97b8"/>
+<text x="552.0" y="396.0" font-size="13" font-weight="700" fill="#252b29" text-anchor="start">P3 누리</text>
+<text x="552.0" y="411.0" font-size="11" fill="#66716a" text-anchor="start">440날 · 물달</text>
+<circle cx="265.4" cy="353.7" r="6.5" fill="#3d4f8f" stroke="#fbfaf6" stroke-width="2"/>
+<text x="253.4" y="339.7" font-size="13" font-weight="700" fill="#252b29" text-anchor="end">P4 건너별</text>
+<text x="253.4" y="354.7" font-size="11" fill="#66716a" text-anchor="end">880날</text>
+<circle cx="492.2" cy="140.6" r="6.5" fill="#3d4f8f" stroke="#fbfaf6" stroke-width="2"/>
+<text x="506.2" y="126.6" font-size="13" font-weight="700" fill="#252b29" text-anchor="start">P5 느림별</text>
+<text x="506.2" y="141.6" font-size="11" fill="#66716a" text-anchor="start">2,640날</text>
+<text x="60" y="258" font-size="12" fill="#7a4686">보라 점선: 누리에서 건너별을 바라본 선.</text>
+<text x="60" y="274" font-size="12" fill="#7a4686">T0에 건너별은 두 해 바로 뒤(12°)에 숨어 있었다.</text>
+<rect x="668" y="92" width="226" height="168" rx="10" fill="#ffffff" stroke="#dfe3db"/>
+<text x="682" y="116" font-size="13" font-weight="700" fill="#252b29">누리에서 본 겹침</text>
+<circle cx="781" cy="182" r="38" fill="#f2c14e" stroke="#d49a1c"/>
+<circle cx="792" cy="174" r="14" fill="#eef3fb" stroke="#8aa1c6"/>
+<text x="682" y="240" font-size="11.5" fill="#66716a">작은 해(SB)가 큰 해(SA) 앞을 지난다.</text>
+<text x="682" y="255" font-size="11.5" fill="#66716a">큰 건넘이 가장 넓게 열리는 때.</text>
+<text x="28" y="736" font-size="11.5" fill="#66716a">거리는 실제 비율이 아니다. 바깥 궤도일수록 줄여 그렸다. 실제 거리(누리=1): 해곁별 0.59 · 샛별 0.76 · 건너별 1.59 · 느림별 3.30.</text>
+<text x="28" y="756" font-size="11.5" fill="#66716a">행성의 점은 위치만 나타낸다. 색과 크기는 행성의 모습을 뜻하지 않는다. 출처: 시점별 천체 배치(T0).</text>
+</svg>
