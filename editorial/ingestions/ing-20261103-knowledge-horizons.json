@@ -1,0 +1,88 @@
+{
+  "id": "ing-20261103-knowledge-horizons",
+  "processed_on": "2026-11-03",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "정본 지식과 등장인물 지식의 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "knowledge-horizons",
+          "section": "세계의 사실과 세계를 아는 일"
+        },
+        {
+          "doc_id": "worldbuilding-guide",
+          "section": "서술자의 지식과 인물의 지식"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "정보 접근의 지역성 및 교육·경험·전파·이해관계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "knowledge-horizons",
+          "section": "개인의 지식은 어디에서 오는가"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "argument",
+      "title": "인식의 비선형성과 분야별 전문성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "knowledge-horizons",
+          "section": "앎은 하나의 숫자가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "마왕의 철학적 명칭은 작가용 분류이며 세계의 상식이 아님",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "seven-demon-lords",
+          "section": "누가 무엇을 아는가"
+        },
+        {
+          "doc_id": "knowledge-horizons",
+          "section": "마왕을 둘러싼 서로 다른 언어"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "소설과 LLM 역할극의 인물별 정보 분리 및 사건 기반 갱신",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "knowledge-horizons",
+          "section": "소설과 LLM 롤플레잉에서의 적용"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "argument",
+      "title": "설정 비밀과 공개 위키의 정보 노출 분리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "knowledge-horizons",
+          "section": "서술 층위와 공개 범위"
+        }
+      ]
+    }
+  ]
+}
