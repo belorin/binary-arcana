@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `start-here` · 분류: 개요 · 공개 · 원고: [wiki/start-here.md](../../../wiki/start-here.md) · 5,025자 · 절 15개
+- id: `start-here` · 분류: 개요 · 공개 · 원고: [wiki/start-here.md](../../../wiki/start-here.md) · 5,124자 · 절 15개
 - 별칭: 세계 개요
 - 요약: 쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.
 - 태그: 개요, 쌍성계, 마법, 우주
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: reviewed
-- 관련 문서: `grand-questions`, `editing-guide`, `open-setting-questions`, `worldbuilding-guide`, `seven-demon-lords`, `magic-as-practice`, `magical-distance-and-passage`, `exceptional-generations`, `causal-roleplay`, `knowledge-horizons`, `variable-rules-and-life`
+- 관련 문서: `grand-questions`, `editing-guide`, `open-setting-questions`, `worldbuilding-guide`, `seven-demon-lords`, `magic-as-practice`, `magical-distance-and-passage`, `exceptional-generations`, `causal-roleplay`, `knowledge-horizons`, `variable-rules-and-life`, `binary-system`
 
 ## 절 목차
 
@@ -20,7 +20,7 @@
 - 인간만이 행위자는 아니다 · L27–31 · 220자 · `7a3b0df0` — 행위하는 것은 인간이나 지성을 지닌 생명만이 아니다.
 - 작은 인구와 다양하게 겹치는 삶의 방식 · L33–39 · 570자 · `7bd6d0f1` — 인류는 인구의 급격한 팽창 이전에 있다.
 - 두 태양, 여러 행성, 각기 복잡한 세계 · L41–45 · 220자 · `6bca08b2` — 세계의 중심 무대는 두 태양이 서로를 도는 쌍성계이며, 그 주변에 여러 행성이 있다.
-- 마법적 거리와 물리적 장애 · L47–51 · 351자 · `5f261348` — 두 장소가 가깝다는 것은 물리적으로 가깝다는 뜻만은 아니다.
+- 마법적 거리와 물리적 장애 · L47–51 · 450자 · `9197c26c` — 두 장소가 가깝다는 것은 물리적으로 가깝다는 뜻만은 아니다.
 - 도달했으나 지배하지 못한 우주 · L53–59 · 390자 · `3e24a41c` — 인류는 마법을 통해 다른 행성에 진출했지만, 그 사실이 곧 그곳을 지배하거나 대규모로 정착할 수 있음을 의미하지는 않는다.
 - 오래 관측된 마왕들 · L61–65 · 346자 · `57e002b8` — 이 세계에는 매우 오래전부터 마왕으로 불린 존재들이 관측되어 왔다.
 - 세대의 누적과 예외적인 개인 · L67–69 · 235자 · `3d951c6d` — 세계의 많은 집단과 행위자는 개인의 서사와 별개로 세대를 거치며 자신의 변화를 축적한다.

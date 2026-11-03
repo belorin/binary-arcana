@@ -24,6 +24,12 @@
 - [세계 개요](https://belorin.github.io/binary-arcana/notes/start-here/): 쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.
 - [정해야 할 설정](https://belorin.github.io/binary-arcana/notes/open-setting-questions/): 쌍성계와 마법, 낮은 인류 인구에도 발달한 마법 문명, 종족과 이주의 미정 문제.
 
+### 천체
+
+- [쌍성계와 여섯 행성](https://belorin.github.io/binary-arcana/notes/binary-system/): 두 해(큰 해·작은 해)의 겉모습과 40날의 공전, P3 기준의 날·물때·철·겹침철·해, 여섯 행성(잉걸·늪바다·물마루·마른들·큰고리·먼그늘)의 궤도와 환경, 사람의 자리.
+- [공간 코드표](https://belorin.github.io/binary-arcana/notes/space-codes/): 행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 규칙. 기존 문서의 장소와 코드의 대응, 일곱 마왕의 시대 영향권에 대한 제안.
+- [시점별 천체 배치](https://belorin.github.io/binary-arcana/notes/sky-positions/): 기준 시점 T0(큰 건넘 대국의 마지막 겹침)과 그 뒤 몇 시점의 행성 위치, P3 하늘에서 각 행성이 보이는 때. 새 시점을 더하는 계산 방법.
+
 ### 마법
 
 - [개인의 재능과 관계적 마법](https://belorin.github.io/binary-arcana/notes/magic-as-practice/): 마법의 폭넓은 가능성, 개인의 발견과 성장, 정형화되지 않은 전승과 공통마법의 조건, 나무와 돌 등의 관계적 참여.

@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 64개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 70개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (0)
 
@@ -70,6 +70,17 @@
 - 맞섬: 관계의 힘으로 겨루며 장소·날·건 것이 승패를 가름 → `scenario-great-crossing` § 맞섬의 방식 · `ing-20261103-great-crossing-scenario`
 - 큰 건넘: 두 태양이 가장 가까워지는 철에만 넓게 열리는 행성 간 길 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
 - 길의 지기가 평생의 관계를 대를 이어 물려줌 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
+
+## 천체 (6)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 두 해는 40날에 서로 돌고 P3에서 늘 12도 안쪽에 붙어 보임 → `binary-system` § 두 해 · `ing-20261103-binary-system-codes`
+- 날·물때(11날)·철(44날)·겹침철(한 해 두 번)·해(440날)의 단위 → `binary-system` § P3에서 쓰는 시간의 단위 · `ing-20261103-binary-system-codes`
+- 여섯 행성의 궤도·환경과 사람의 자리, 인류의 기원은 대의문으로 남김 → `binary-system` § 여섯 행성 · `ing-20261103-binary-system-codes`
+- 행성·땅·지역·위성·길·시점의 고유 코드 규칙 → `space-codes` § 코드 규칙 · `ing-20261103-binary-system-codes`
+- P3의 큰 땅 넷과 바다 둘, 기존 장소의 코드 대응 → `space-codes` § P3 물마루; `space-codes` § 기존 문서의 장소와 코드 · `ing-20261103-binary-system-codes`
+- T0에 큰 건넘의 건너편 P4는 두 해 바로 뒤에 숨어 있었음 → `sky-positions` § T0 — 큰 건넘 대국의 마지막 겹침 · `ing-20261103-binary-system-codes`
 
 ## 사물·개념 (4)
 

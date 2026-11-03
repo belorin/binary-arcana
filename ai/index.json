@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 42,
+  "document_count": 45,
   "documents": [
     {
       "id": "grand-questions",
@@ -144,7 +144,8 @@
         "exceptional-generations",
         "causal-roleplay",
         "knowledge-horizons",
-        "variable-rules-and-life"
+        "variable-rules-and-life",
+        "binary-system"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/start-here.md",
@@ -238,7 +239,8 @@
         "causal-roleplay",
         "low-cape",
         "open-setting-questions",
-        "scenario-great-crossing"
+        "scenario-great-crossing",
+        "binary-system"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magical-distance-and-passage.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magical-distance-and-passage.md",
@@ -300,7 +302,8 @@
         "aren-session-01",
         "magical-distance-and-passage",
         "causal-roleplay",
-        "story-state"
+        "story-state",
+        "space-codes"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/low-cape.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/low-cape.md",
@@ -361,7 +364,8 @@
         "worldbuilding-guide",
         "magic-as-practice",
         "magical-distance-and-passage",
-        "exceptional-generations"
+        "exceptional-generations",
+        "binary-system"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-setting-questions.md",
@@ -528,7 +532,8 @@
         "knowledge-horizons",
         "magic-as-practice",
         "rival-play",
-        "rival-gc-state"
+        "rival-gc-state",
+        "space-codes"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/scenario-great-crossing.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/scenario-great-crossing.md",
@@ -1070,7 +1075,8 @@
         "rival-gc-state",
         "scene-fiction-principles",
         "multi-ai-roleplay",
-        "scenario-great-crossing"
+        "scenario-great-crossing",
+        "sky-positions"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-finale-fiction.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-finale-fiction.md",
@@ -1109,7 +1115,8 @@
         "demon-epoch-shedding",
         "demon-epoch-branching",
         "demon-epoch-hospitality",
-        "demon-epoch-dream"
+        "demon-epoch-dream",
+        "space-codes"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-framework.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-framework.md",
@@ -1395,6 +1402,100 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/variable-rules-and-life.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/variable-rules-and-life/",
       "app_url": "https://belorin.github.io/binary-arcana/#variable-rules-and-life"
+    },
+    {
+      "id": "binary-system",
+      "title": "쌍성계와 여섯 행성",
+      "aliases": [
+        "행성 설정",
+        "두 해"
+      ],
+      "category": "천체",
+      "tags": [
+        "쌍성계",
+        "행성",
+        "철",
+        "겹침",
+        "물때",
+        "역법"
+      ],
+      "summary": "두 해(큰 해·작은 해)의 겉모습과 40날의 공전, P3 기준의 날·물때·철·겹침철·해, 여섯 행성(잉걸·늪바다·물마루·마른들·큰고리·먼그늘)의 궤도와 환경, 사람의 자리.",
+      "review_state": "unassessed",
+      "review_label": "임시 정본",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "space-codes",
+        "sky-positions",
+        "open-setting-questions",
+        "magical-distance-and-passage",
+        "start-here"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/binary-system.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/binary-system.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/binary-system/",
+      "app_url": "https://belorin.github.io/binary-arcana/#binary-system"
+    },
+    {
+      "id": "space-codes",
+      "title": "공간 코드표",
+      "aliases": [
+        "공간 코드",
+        "장소 코드"
+      ],
+      "category": "천체",
+      "tags": [
+        "코드",
+        "지리",
+        "행성",
+        "길",
+        "대륙"
+      ],
+      "summary": "행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 규칙. 기존 문서의 장소와 코드의 대응, 일곱 마왕의 시대 영향권에 대한 제안.",
+      "review_state": "unassessed",
+      "review_label": "임시 정본",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "binary-system",
+        "sky-positions",
+        "scenario-great-crossing",
+        "low-cape",
+        "demon-epoch-framework"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/space-codes.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/space-codes.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/space-codes/",
+      "app_url": "https://belorin.github.io/binary-arcana/#space-codes"
+    },
+    {
+      "id": "sky-positions",
+      "title": "시점별 천체 배치",
+      "aliases": [
+        "천체 배치",
+        "T0"
+      ],
+      "category": "천체",
+      "tags": [
+        "천체 배치",
+        "T0",
+        "겹침",
+        "밤하늘"
+      ],
+      "summary": "기준 시점 T0(큰 건넘 대국의 마지막 겹침)과 그 뒤 몇 시점의 행성 위치, P3 하늘에서 각 행성이 보이는 때. 새 시점을 더하는 계산 방법.",
+      "review_state": "unassessed",
+      "review_label": "임시 정본 · 계산 기록",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "binary-system",
+        "space-codes",
+        "rival-gc-finale-fiction"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/sky-positions.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/sky-positions.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/sky-positions/",
+      "app_url": "https://belorin.github.io/binary-arcana/#sky-positions"
     }
   ]
 }

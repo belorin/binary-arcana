@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 247,
+  "edge_count": 267,
   "edges": [
     {
       "from": "grand-questions",
@@ -224,6 +224,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "start-here",
+      "to": "binary-system",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "editing-guide",
       "to": "start-here",
       "type": "related_to",
@@ -326,6 +332,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "magical-distance-and-passage",
+      "to": "binary-system",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "exceptional-generations",
       "to": "causal-roleplay",
       "type": "related_to",
@@ -376,6 +388,12 @@
     {
       "from": "low-cape",
       "to": "story-state",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "low-cape",
+      "to": "space-codes",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -442,6 +460,12 @@
     {
       "from": "open-setting-questions",
       "to": "exceptional-generations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-setting-questions",
+      "to": "binary-system",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -638,6 +662,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "scenario-great-crossing",
+      "to": "space-codes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "rival-play",
       "to": "scenario-great-crossing",
       "type": "related_to",
@@ -1202,6 +1232,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "rival-gc-finale-fiction",
+      "to": "sky-positions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "demon-epoch-framework",
       "to": "seven-demon-lords",
       "type": "related_to",
@@ -1270,6 +1306,12 @@
     {
       "from": "demon-epoch-framework",
       "to": "demon-epoch-dream",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-framework",
+      "to": "space-codes",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1480,6 +1522,84 @@
     {
       "from": "variable-rules-and-life",
       "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "binary-system",
+      "to": "space-codes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "binary-system",
+      "to": "sky-positions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "binary-system",
+      "to": "open-setting-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "binary-system",
+      "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "binary-system",
+      "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-codes",
+      "to": "binary-system",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-codes",
+      "to": "sky-positions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-codes",
+      "to": "scenario-great-crossing",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-codes",
+      "to": "low-cape",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-codes",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sky-positions",
+      "to": "binary-system",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sky-positions",
+      "to": "space-codes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sky-positions",
+      "to": "rival-gc-finale-fiction",
       "type": "related_to",
       "basis": "manifest.related"
     },

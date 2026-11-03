@@ -18,6 +18,18 @@
   - 쌍성계와 마법, 낮은 인류 인구에도 발달한 마법 문명, 종족과 이주의 미정 문제.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/open-setting-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md)
 
+## 천체
+
+- **[쌍성계와 여섯 행성](wiki/binary-system.md)** · 별칭: 행성 설정, 두 해 · 수정: 2026-11-03 · 상태: 임시 정본
+  - 두 해(큰 해·작은 해)의 겉모습과 40날의 공전, P3 기준의 날·물때·철·겹침철·해, 여섯 행성(잉걸·늪바다·물마루·마른들·큰고리·먼그늘)의 궤도와 환경, 사람의 자리.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/binary-system/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/binary-system.md)
+- **[공간 코드표](wiki/space-codes.md)** · 별칭: 공간 코드, 장소 코드 · 수정: 2026-11-03 · 상태: 임시 정본
+  - 행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 규칙. 기존 문서의 장소와 코드의 대응, 일곱 마왕의 시대 영향권에 대한 제안.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/space-codes/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/space-codes.md)
+- **[시점별 천체 배치](wiki/sky-positions.md)** · 별칭: 천체 배치, T0 · 수정: 2026-11-03 · 상태: 임시 정본 · 계산 기록
+  - 기준 시점 T0(큰 건넘 대국의 마지막 겹침)과 그 뒤 몇 시점의 행성 위치, P3 하늘에서 각 행성이 보이는 때. 새 시점을 더하는 계산 방법.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/sky-positions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/sky-positions.md)
+
 ## 마법
 
 - **[개인의 재능과 관계적 마법](wiki/magic-as-practice.md)** · 별칭: 개인 마법, 공통마법과 지역 마법 · 수정: 2026-11-03 · 상태: 초안

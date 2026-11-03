@@ -7,7 +7,7 @@
 - 요약: 일곱 마왕의 시대를 2·2·3 구도로 세 AI와 세계 진행자가 두세 대턴에 걸쳐 겹쳐 그리는 거시 서사 설계. 승패 대신 재사용 가능한 시대 단면을 만든다.
 - 태그: 마왕, 일곱 마왕, 대턴, 거시 서사, 시대 스케치, 초안
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `seven-demon-lords`, `multi-ai-roleplay`, `causal-roleplay`, `scene-fiction-principles`, `demon-epoch-s00`, `demon-epoch-harmony`, `demon-epoch-oath`, `demon-epoch-resonance`, `demon-epoch-shedding`, `demon-epoch-branching`, `demon-epoch-hospitality`, `demon-epoch-dream`
+- 관련 문서: `seven-demon-lords`, `multi-ai-roleplay`, `causal-roleplay`, `scene-fiction-principles`, `demon-epoch-s00`, `demon-epoch-harmony`, `demon-epoch-oath`, `demon-epoch-resonance`, `demon-epoch-shedding`, `demon-epoch-branching`, `demon-epoch-hospitality`, `demon-epoch-dream`, `space-codes`
 
 ## 절 목차
 
