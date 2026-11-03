@@ -7,6 +7,7 @@
 | 작업 | 읽을 문서 |
 | --- | --- |
 | 소설·롤플레잉 세션 진행과 기록 | [PLAY.md](./PLAY.md) — 이것부터. 세션 끝에 `inbox/` 묶음 하나만 커밋 |
+| 두 AI가 적대 세력을 맡는 대국 | [wiki/rival-play.md](./wiki/rival-play.md) — 설계 논의 중. GPT는 읽고 "GPT의 의견" 절과 표를 채운다 |
 | 대화·자료의 지식을 위키에 반영 | [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md) + [GUIDE.md](./GUIDE.md) |
 | 위키 전체 정비 | [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md) + [MAINTENANCE.md](./MAINTENANCE.md) |
 | 새 문서 만들기 | [GUIDE.md](./GUIDE.md)의 문서 유형 + `node scripts/new-doc.mjs --list` |
