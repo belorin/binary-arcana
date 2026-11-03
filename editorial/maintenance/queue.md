@@ -45,12 +45,12 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 - `knowledge-horizons` ↔ `aren-session-01` · 0.08
 - `causal-roleplay` ↔ `exceptional-generations` · 0.08 · 연결됨
 - `grand-questions` ↔ `start-here` · 0.08 · 연결됨
+- `scenario-great-crossing` ↔ `rival-play` · 0.07 · 연결됨
 - `start-here` ↔ `magical-distance-and-passage` · 0.07 · 연결됨
 - `aren-sheet` ↔ `aren-session-01` · 0.07 · 연결됨
 - `causal-roleplay` ↔ `scenario-great-crossing` · 0.07 · 연결됨
 - `worldbuilding-guide` ↔ `causal-roleplay` · 0.07 · 연결됨
 - `grand-questions` ↔ `knowledge-horizons` · 0.07
-- `editing-guide` ↔ `worldbuilding-guide` · 0.07 · 연결됨
 
 ## 6. 보류 항목 (0)
 
@@ -64,7 +64,7 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (0): 없음
+- 긴 문서 (1): `rival-play` 11,861자
 - 짧은 문서 (1): `editing-guide` 763자
 
 ## 9. 분류 참고
