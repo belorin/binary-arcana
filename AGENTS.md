@@ -17,3 +17,4 @@
 - 생성물은 직접 쓰지 않는다: `notes.json`, `index.html`, `robots.txt`, `AI_INDEX.md`, `ai/*`, `llms.txt`, `editorial/map/*`, `editorial/maintenance/queue.md`. 커밋하면 GitHub Actions가 다시 만든다.
 - 대화 원문·공유 URL·API 키·토큰·개인 정보를 저장소에 넣지 않는다. 공개 저장소다.
 - 사용자가 요청하지 않는 한 문서 주소 `/#문서-id`와 `.nojekyll`을 유지한다.
+- **커밋은 한 작업에 한 번이 원칙이다.** 여러 파일을 한 커밋으로 올릴 수 없는 도구라면, 마지막 커밋을 뺀 모든 커밋 메시지 끝에 `[skip ci]`를 붙인다. 이유와 절차는 [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md) §10에 있다.

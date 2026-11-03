@@ -1,5 +1,18 @@
 {
   "version": 1,
   "description": "정비 버전 로그. 정비 한 번마다 항목 하나를 추가하고 상세 내용은 reports/의 보고서에 둔다.",
-  "entries": []
+  "entries": [
+    {
+      "version": "M001",
+      "date": "2026-11-03",
+      "scope": "대기열 1~4·7절과 첫 시범 세션 정합성",
+      "report": "editorial/maintenance/reports/M001.md",
+      "counts": {
+        "fixed": 3,
+        "reported": 7,
+        "proposed": 3,
+        "deferred": 2
+      }
+    }
+  ]
 }
