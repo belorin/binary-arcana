@@ -22,8 +22,91 @@
     ],
     "home": {
       "title": "쌍성계 탐색",
-      "lead": "",
-      "featureLabel": "오늘 펼쳐 볼 설정"
+      "featureLabel": "오늘 펼쳐 볼 설정",
+      "hero": {
+        "kicker": "쌍성계 마법 세계관",
+        "title": "Binary Arcana",
+        "lead": "두 태양이 서로를 도는 하늘 아래, 적은 수의 인류가 관계로 성립하는 마법만으로 다른 행성에 닿았다. 그러나 도달한 곳을 지배하지는 못했다. 길은 귀하고, 다툼은 결투와 약속의 문구로 좁혀진다.",
+        "actions": [
+          {
+            "href": "#start-here",
+            "label": "세계 개요 읽기"
+          },
+          {
+            "href": "#scenario-great-crossing",
+            "label": "시나리오 고르기"
+          },
+          {
+            "href": "#story-state",
+            "label": "진행 중인 이야기"
+          }
+        ]
+      },
+      "sections": [
+        {
+          "type": "cards",
+          "title": "이야기와 시나리오",
+          "lead": "세력과 시작 위치를 골라 들어가거나, 진행 중인 이야기를 이어 간다.",
+          "items": [
+            {
+              "id": "scenario-great-crossing",
+              "kicker": "시나리오 · 결투와 암투",
+              "desc": "다른 행성으로 가는 큰 길의 지기가 죽었다. 세 번의 맞섬과 맹약의 문구를 두고 다섯 세력이 다툰다. 시작 위치 여섯 가지."
+            },
+            {
+              "id": "story-state",
+              "kicker": "진행 중 · 낮은곶의 아렌",
+              "desc": "두 해안이 서로를 침범하던 날, 아렌은 한 사람을 구하고 두 사람을 남겼다. 샘 한 줄기가 짠물을 토한다.",
+              "label": "낮은곶 — 닫아야 하는 바다"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "title": "세계의 기둥",
+          "style": "compact",
+          "items": [
+            {
+              "id": "start-here",
+              "kicker": "전제"
+            },
+            {
+              "id": "grand-questions",
+              "kicker": "대의문"
+            },
+            {
+              "id": "magic-as-practice",
+              "kicker": "마법"
+            },
+            {
+              "id": "magical-distance-and-passage",
+              "kicker": "통행"
+            },
+            {
+              "id": "seven-demon-lords",
+              "kicker": "마왕"
+            },
+            {
+              "id": "knowledge-horizons",
+              "kicker": "운영 원칙"
+            }
+          ]
+        },
+        {
+          "type": "topics",
+          "title": "주제별 둘러보기",
+          "lead": "점선 주제는 아직 문서가 없는 곳이다."
+        },
+        {
+          "type": "random",
+          "title": "오늘 펼쳐 볼 설정"
+        },
+        {
+          "type": "recent",
+          "title": "최근 갱신",
+          "limit": 6
+        }
+      ]
     },
     "about": {
       "title": "Binary Arcana에 관하여",
