@@ -39,7 +39,7 @@
 ## 장소
 
 - **[낮은곶](wiki/low-cape.md)** · 별칭: 낮은곶 경유지 · 수정: 2026-11-03 · 상태: 초안
-  - 해안 물턱과 말림 생업을 가진 작은 정착지. 현지 도구 관습은 전체 마법 문명의 발전 단계를 뜻하지 않음.
+  - 낮은 인구에도 오래 축적된 물 공급과 마법적 통행 체계를 가진 해안 정착지. 샘 한 줄기가 손상되고 물턱을 봉합한 사건이 일어났다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/low-cape/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/low-cape.md)
 
 ## 사물·개념
@@ -54,10 +54,10 @@
   - 플레이어의 바람보다 기존 인과·역량·타자의 행위가 우선하는 공정한 진행, 소턴과 대턴, 인식 장부와 세대 변화.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/causal-roleplay/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md)
 - **[아렌 — 첫 시범 캐릭터 시트](wiki/aren-sheet.md)** · 별칭: 아렌, 아렌 시트 · 수정: 2026-11-03 · 상태: 사용 중
-  - 낮은곶의 젊은 통행 기록 보조원 아렌의 생활역량·국소 마법·한계·소지품과 인식 상태.
+  - 불안정한 물턱에서 나엠을 구조하다 손목을 다친 아렌의 지역 마법, 인식 한계, 선택의 대가와 생존자 정보.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/aren-sheet/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/aren-sheet.md)
-- **[아렌의 첫 시범 세션 — 열두 번째 그림자](wiki/aren-session-01.md)** · 별칭: 열두 번째 그림자, 아렌 첫날 · 수정: 2026-11-03 · 상태: 진행함
-  - 작은 해안 정착지의 말림 노동과 물턱 통행, 열하나와 열둘 사이의 불일치를 다룬 아렌의 첫 자율 시범 서사.
+- **[아렌의 첫 시범 세션 — 닫아야 하는 바다](wiki/aren-session-01.md)** · 별칭: 닫아야 하는 바다, 아렌 첫날 · 수정: 2026-11-03 · 상태: 진행함
+  - 두 해안의 물턱이 붕괴하는 순간 아렌이 한 사람을 구조했으나 다른 두 사람의 운명을 알지 못하고, 마을의 샘 한 줄기가 손상되는 결과를 남긴 첫 시범 서사.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/aren-session-01/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/aren-session-01.md)
 
 ## 안내

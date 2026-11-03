@@ -97,7 +97,8 @@
         "exceptional-generations",
         "worldbuilding-guide",
         "aren-sheet",
-        "aren-session-01"
+        "aren-session-01",
+        "low-cape"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/causal-roleplay.md",
@@ -272,7 +273,7 @@
         "물턱",
         "시범"
       ],
-      "summary": "해안 물턱과 말림 생업을 가진 작은 정착지. 현지 도구 관습은 전체 마법 문명의 발전 단계를 뜻하지 않음.",
+      "summary": "낮은 인구에도 오래 축적된 물 공급과 마법적 통행 체계를 가진 해안 정착지. 샘 한 줄기가 손상되고 물턱을 봉합한 사건이 일어났다.",
       "review_state": "unassessed",
       "review_label": "초안",
       "last_updated_on": "2026-11-03",
@@ -301,7 +302,7 @@
         "소턴",
         "해안"
       ],
-      "summary": "낮은곶의 젊은 통행 기록 보조원 아렌의 생활역량·국소 마법·한계·소지품과 인식 상태.",
+      "summary": "불안정한 물턱에서 나엠을 구조하다 손목을 다친 아렌의 지역 마법, 인식 한계, 선택의 대가와 생존자 정보.",
       "review_state": "unassessed",
       "review_label": "사용 중",
       "last_updated_on": "2026-11-03",
@@ -378,9 +379,9 @@
     },
     {
       "id": "aren-session-01",
-      "title": "아렌의 첫 시범 세션 — 열두 번째 그림자",
+      "title": "아렌의 첫 시범 세션 — 닫아야 하는 바다",
       "aliases": [
-        "열두 번째 그림자",
+        "닫아야 하는 바다",
         "아렌 첫날"
       ],
       "category": "롤플레잉",
@@ -392,7 +393,7 @@
         "통행",
         "인식"
       ],
-      "summary": "작은 해안 정착지의 말림 노동과 물턱 통행, 열하나와 열둘 사이의 불일치를 다룬 아렌의 첫 자율 시범 서사.",
+      "summary": "두 해안의 물턱이 붕괴하는 순간 아렌이 한 사람을 구조했으나 다른 두 사람의 운명을 알지 못하고, 마을의 샘 한 줄기가 손상되는 결과를 남긴 첫 시범 서사.",
       "review_state": "unassessed",
       "review_label": "진행함",
       "last_updated_on": "2026-11-03",

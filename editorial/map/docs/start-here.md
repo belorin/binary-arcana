@@ -48,7 +48,7 @@
 - **작은 인구와 다양하게 겹치는 삶의 방식**
   - 인구 규모와 기술·제도·마법적 문명 수준의 비동일성 · `ing-20261103-low-cape-observer-session`
   - 종족 경계와 외형의 서사적 비중을 미리 고정하지 않음 · `ing-20261103-low-cape-observer-session`
-  - 인구 비유를 생활 단계에 오적용한 표현 수정과 지역 생활 도구의 비대표성 · `ing-20261103-low-cape-observer-session`
+  - 저인구를 저발전으로 해석하는 오류를 배제한 지역 서술 · `ing-20261103-low-cape-observer-session`
 - **연대의 기준**
   - 연표 사전 작성 금지와 상대적 세션 이력의 점진적 달력 편입 · `ing-20261103-low-cape-observer-session`
 

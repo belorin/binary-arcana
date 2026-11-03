@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 66,
+  "edge_count": 67,
   "edges": [
     {
       "from": "grand-questions",
@@ -88,6 +88,12 @@
     {
       "from": "causal-roleplay",
       "to": "aren-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "causal-roleplay",
+      "to": "low-cape",
       "type": "related_to",
       "basis": "manifest.related"
     },
