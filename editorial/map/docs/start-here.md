@@ -7,7 +7,7 @@
 - 요약: 쌍성계의 여러 행성, 마법적인 우주, 비인간 행위자, 인간의 불완전한 행성 진출에 관한 확정 전제와 창작 방향.
 - 태그: 개요, 쌍성계, 마법, 우주
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: reviewed
-- 관련 문서: `grand-questions`, `editing-guide`, `open-setting-questions`, `worldbuilding-guide`, `seven-demon-lords`, `magic-as-practice`, `magical-distance-and-passage`, `exceptional-generations`, `causal-roleplay`
+- 관련 문서: `grand-questions`, `editing-guide`, `open-setting-questions`, `worldbuilding-guide`, `seven-demon-lords`, `magic-as-practice`, `magical-distance-and-passage`, `exceptional-generations`, `causal-roleplay`, `low-cape`, `aren-sheet`, `aren-session-01`
 
 ## 절 목차
 

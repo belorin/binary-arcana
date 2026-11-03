@@ -7,7 +7,7 @@
 - 요약: 플레이어의 바람보다 기존 인과·역량·타자의 행위가 우선하는 공정한 진행, 소턴과 대턴, 인식 장부와 세대 변화.
 - 태그: 롤플레잉, 세계 진행, 소턴, 대턴, 냉혹한 인과, NPC
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `knowledge-horizons`, `magic-as-practice`, `magical-distance-and-passage`, `exceptional-generations`, `worldbuilding-guide`
+- 관련 문서: `knowledge-horizons`, `magic-as-practice`, `magical-distance-and-passage`, `exceptional-generations`, `worldbuilding-guide`, `aren-sheet`, `aren-session-01`
 
 ## 절 목차
 

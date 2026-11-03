@@ -36,6 +36,12 @@
   - 기원을 알 수 없는 마왕과 일족의 철학적 행동양식 초안. 일곱 호칭은 저자용이며 세계 내부 인물들의 지식이 아니다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/seven-demon-lords/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md)
 
+## 장소
+
+- **[낮은곶](wiki/low-cape.md)** · 별칭: 낮은곶 경유지 · 수정: 2026-11-03 · 상태: 초안
+  - 한 행성의 소규모 해안 정착지와 해안 물턱, 말림 생업과 출입 기록의 시범 무대.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/low-cape/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/low-cape.md)
+
 ## 사물·개념
 
 - **[세대의 예외와 역사적 파급](wiki/exceptional-generations.md)** · 별칭: 세대별 예외, 높은 레이어 · 수정: 2026-11-03 · 상태: 초안
@@ -47,6 +53,12 @@
 - **[냉혹한 인과와 살아 움직이는 세계](wiki/causal-roleplay.md)** · 별칭: 소턴과 대턴, 세계 인과 규칙 · 수정: 2026-11-03 · 상태: 초안
   - 플레이어의 바람보다 기존 인과·역량·타자의 행위가 우선하는 공정한 진행, 소턴과 대턴, 인식 장부와 세대 변화.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/causal-roleplay/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md)
+- **[아렌 — 첫 시범 캐릭터 시트](wiki/aren-sheet.md)** · 별칭: 아렌, 아렌 시트 · 수정: 2026-11-03 · 상태: 사용 중
+  - 낮은곶의 젊은 통행 기록 보조원 아렌의 생활역량·국소 마법·한계·소지품과 인식 상태.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/aren-sheet/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/aren-sheet.md)
+- **[아렌의 첫 시범 세션 — 열두 번째 그림자](wiki/aren-session-01.md)** · 별칭: 열두 번째 그림자, 아렌 첫날 · 수정: 2026-11-03 · 상태: 진행함
+  - 작은 해안 정착지의 말림 노동과 물턱 통행, 열하나와 열둘 사이의 불일치를 다룬 아렌의 첫 자율 시범 서사.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/aren-session-01/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/aren-session-01.md)
 
 ## 안내
 

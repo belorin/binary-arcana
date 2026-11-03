@@ -4,36 +4,41 @@
 
 마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
 
-원고 11개 · 변경 문서 11 · 고립 0 · 한쪽 연결 8 · 보류 0 · 열린 교차 제안 0
+원고 14개 · 변경 문서 14 · 고립 0 · 한쪽 연결 12 · 보류 0 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (11)
+## 1. 지난 정비 이후 변경된 문서 (14)
 
 첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **개요** (3): `grand-questions`, `start-here`, `open-setting-questions`
+- **롤플레잉** (3): `causal-roleplay`, `aren-sheet`, `aren-session-01`
 - **안내** (3): `editing-guide`, `worldbuilding-guide`, `knowledge-horizons`
-- **롤플레잉** (1): `causal-roleplay`
 - **마법** (1): `magic-as-practice`
 - **마법 공예·항행** (1): `magical-distance-and-passage`
 - **사물·개념** (1): `exceptional-generations`
 - **세력** (1): `seven-demon-lords`
+- **장소** (1): `low-cape`
 
 ## 2. 들어오는 연결이 없는 문서 (0)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (8)
+## 3. 한쪽에서만 건 관련 문서 (12)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
 - `start-here` → `causal-roleplay`
+- `start-here` → `low-cape`
+- `start-here` → `aren-sheet`
+- `start-here` → `aren-session-01`
 - `open-setting-questions` → `magic-as-practice`
 - `open-setting-questions` → `magical-distance-and-passage`
 - `open-setting-questions` → `exceptional-generations`
 - `worldbuilding-guide` → `magic-as-practice`
 - `knowledge-horizons` → `start-here`
 - `magic-as-practice` → `knowledge-horizons`
+- `causal-roleplay` → `aren-sheet`
 - `exceptional-generations` → `magic-as-practice`
 
 ## 4. 관련 문서가 없는 문서 (0)
@@ -56,8 +61,8 @@
 - `worldbuilding-guide` ↔ `magical-distance-and-passage` · 0.07
 - `worldbuilding-guide` ↔ `causal-roleplay` · 0.07 · 연결됨
 - `grand-questions` ↔ `magical-distance-and-passage` · 0.07
-- `grand-questions` ↔ `exceptional-generations` · 0.06
-- `grand-questions` ↔ `seven-demon-lords` · 0.06 · 연결됨
+- `worldbuilding-guide` ↔ `aren-session-01` · 0.06
+- `knowledge-horizons` ↔ `aren-session-01` · 0.06
 
 ## 6. 보류 항목 (0)
 
@@ -72,9 +77,9 @@
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
 - 긴 문서 (0): 없음
-- 짧은 문서 (1): `editing-guide` 763자
+- 짧은 문서 (2): `editing-guide` 763자, `low-cape` 1,131자
 
 ## 9. 분류 참고
 
-분류 7개: 개요 3, 안내 3, 세력 1, 마법 1, 마법 공예·항행 1, 롤플레잉 1, 사물·개념 1
-문서가 하나뿐인 분류 5개: 세력, 마법, 마법 공예·항행, 롤플레잉, 사물·개념. 분류 체계 변경은 제안만 한다.
+분류 8개: 개요 3, 안내 3, 롤플레잉 3, 세력 1, 마법 1, 마법 공예·항행 1, 사물·개념 1, 장소 1
+문서가 하나뿐인 분류 5개: 세력, 마법, 마법 공예·항행, 사물·개념, 장소. 분류 체계 변경은 제안만 한다.

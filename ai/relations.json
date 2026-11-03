@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 50,
+  "edge_count": 66,
   "edges": [
     {
       "from": "grand-questions",
@@ -80,6 +80,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "causal-roleplay",
+      "to": "aren-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "causal-roleplay",
+      "to": "aren-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "start-here",
       "to": "grand-questions",
       "type": "related_to",
@@ -130,6 +142,24 @@
     {
       "from": "start-here",
       "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "low-cape",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "aren-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "aren-session-01",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -188,6 +218,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "magical-distance-and-passage",
+      "to": "low-cape",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "exceptional-generations",
       "to": "causal-roleplay",
       "type": "related_to",
@@ -202,6 +238,42 @@
     {
       "from": "exceptional-generations",
       "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "low-cape",
+      "to": "aren-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "low-cape",
+      "to": "aren-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "low-cape",
+      "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "aren-sheet",
+      "to": "low-cape",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "aren-sheet",
+      "to": "aren-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "aren-sheet",
+      "to": "knowledge-horizons",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -278,6 +350,24 @@
       "basis": "manifest.related"
     },
     {
+      "from": "aren-session-01",
+      "to": "low-cape",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "aren-session-01",
+      "to": "aren-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "aren-session-01",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "knowledge-horizons",
       "to": "seven-demon-lords",
       "type": "related_to",
@@ -298,6 +388,12 @@
     {
       "from": "knowledge-horizons",
       "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-horizons",
+      "to": "aren-sheet",
       "type": "related_to",
       "basis": "manifest.related"
     },
