@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="두 개의 태양이 도는 쌍성계, 마법과 항성 간 기술이 함께 자란 세계의 설정집. 설정·소설·롤플레잉 게임의 정본.">
+  <title>Binary Arcana</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='85'%3E%E2%9C%A6%3C/text%3E%3C/svg%3E">
+  <link rel="alternate" type="text/plain" href="llms.txt" title="AI·LLM용 문서 목록">
+  <link rel="canonical" href="https://belorin.github.io/binary-arcana/">
+  <link rel="stylesheet" href="style.css?v=2299ffbfbd">
+  <style>:root{--accent:#3d4f8f;--light:#eceff8}</style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#" aria-label="Binary Arcana 첫 화면">Binary Arcana <span>쌍성계 설정집</span></a>
+      <nav class="top-nav" aria-label="주 메뉴">
+        <a href="#all">전체 문서</a>
+        <a href="#about">소개</a>
+        <a href="https://github.com/belorin/binary-arcana" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+  <main class="layout">
+    <aside class="sidebar" aria-label="문서 탐색">
+      <button id="explore-toggle" class="explore-toggle" type="button" aria-expanded="true" aria-controls="explore-panel">검색 · 주제 <span aria-hidden="true">⌃</span></button>
+      <div id="explore-panel" class="sidebar-inner">
+        <label for="search">문서 검색</label>
+        <input id="search" type="search" placeholder="제목, 본문, 키워드" autocomplete="off" aria-label="문서 검색">
+        <div class="sidebar-section-label">주제</div>
+        <div id="filters" class="filters" aria-label="주제 필터"></div>
+        <div class="sidebar-actions">
+          <button id="sidebar-random" type="button" class="subtle-button">↝ 무작위 문서</button>
+          <a href="#calendar">▦ 달력</a>
+        </div>
+        <p class="sidebar-tip">검색 단축키 <kbd>/</kbd></p>
+      </div>
+    </aside>
+    <section id="view" class="main-view" aria-live="polite" aria-busy="true">
+      <p class="muted">문서를 불러오는 중입니다.</p>
+      <div class="llm-note">
+        <p><strong>AI·LLM 안내:</strong> 이 사이트는 자바스크립트로 본문을 그리므로 이 HTML에는 본문이 없습니다. 주소의 <code>#</code> 뒤가 문서 ID이며, 본문이 들어 있는 문서 페이지는 <code>https://belorin.github.io/binary-arcana/notes/&lt;문서-id&gt;/</code>, 원문 Markdown은 <code>https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/&lt;문서-id&gt;.md</code>입니다. 전체 목록은 <a href="https://belorin.github.io/binary-arcana/llms.txt">https://belorin.github.io/binary-arcana/llms.txt</a>에 있습니다.</p>
+        <p lang="en"><strong>For AI assistants:</strong> this page renders articles with JavaScript, so this HTML contains no article text. The part after <code>#</code> is the document ID; a static page with the article is at <code>https://belorin.github.io/binary-arcana/notes/&lt;document-id&gt;/</code> and the Markdown source at <code>https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/&lt;document-id&gt;.md</code>. The full list is at <a href="https://belorin.github.io/binary-arcana/llms.txt">https://belorin.github.io/binary-arcana/llms.txt</a>.</p>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <span>Binary Arcana</span>
+    <a href="https://github.com/belorin/binary-arcana">원고와 편집 이력 ↗</a>
+  </footer>
+  <script src="app.js?v=2299ffbfbd" defer></script>
+  <script src="calendar.js?v=2299ffbfbd" defer></script>
+</body>
+</html>

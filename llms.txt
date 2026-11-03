@@ -1,0 +1,29 @@
+# Binary Arcana
+
+> 두 개의 태양이 도는 쌍성계, 마법과 항성 간 기술이 함께 자란 세계의 설정집. 설정·소설·롤플레잉 게임의 정본.
+
+## 이 위키를 읽는 AI에게
+
+1. 아래 목록의 제목과 설명에서 질문과 관련된 문서를 고른다.
+2. 고른 문서의 링크(본문이 들어 있는 문서 페이지)를 실제로 열어 읽는다. 한 줄 설명만으로 내용을 단정하지 않는다.
+3. 문서 페이지 `https://belorin.github.io/binary-arcana/notes/<문서-id>/`에 본문이 있다. 원문 Markdown은 `https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/<문서-id>.md`이다.
+4. 답할 때 근거가 된 문서와 절 제목을 밝히고, 위키 밖의 지식이나 추론은 구분한다.
+
+## Navigation
+
+- [AI metadata index](https://belorin.github.io/binary-arcana/ai/index.json)
+- [Typed relations](https://belorin.github.io/binary-arcana/ai/relations.json)
+- [Markdown index](https://belorin.github.io/binary-arcana/AI_INDEX.md)
+- [Website](https://belorin.github.io/binary-arcana/)
+
+## Published articles
+
+### 개요
+
+- [세계 개요](https://belorin.github.io/binary-arcana/notes/start-here/): 두 태양의 쌍성계에서 마법과 우주 기술이 함께 자란 세계의 전제, 설정·소설·게임 세 쓰임, 연대의 기준.
+- [정해야 할 설정](https://belorin.github.io/binary-arcana/notes/open-setting-questions/): 쌍성의 구성, 행성 궤도, 마법의 원천, 마법과 기술의 관계, 문명과 시대처럼 아직 열려 있는 근본 설정의 목록.
+
+### 안내
+
+- [이 위키를 편집하는 방법](https://belorin.github.io/binary-arcana/notes/editing-guide/): 새 문서를 만들고 쓰고 게시하는 절차와 Markdown 규칙.
+- [설정을 쓰는 규칙](https://belorin.github.io/binary-arcana/notes/worldbuilding-guide/): 인물·장소·세력·사건 문서의 역할, 정본과 미정 설정의 구분, 연대기와 달력 기록 방법.

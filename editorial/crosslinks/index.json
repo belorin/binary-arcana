@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "description": "확인된 관계가 아니라 교차 편집을 위해 검토할 해석적 가설. 본문이나 wiki/relations.json에 자동 반영하지 않는다.",
+  "proposals": []
+}

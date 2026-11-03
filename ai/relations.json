@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "scope": "published_only",
+  "types": {
+    "related_to": "manifest.related의 일반적인 관련성",
+    "introduces": "상세 주제의 진입점",
+    "elaborates": "기존 주제 심화",
+    "illustrates": "사례로 구체화",
+    "curates": "대상을 선별·배열",
+    "contrasts": "차이 대조",
+    "challenges": "반론 제기",
+    "supports": "논거 제공"
+  },
+  "edge_count": 12,
+  "edges": [
+    {
+      "from": "start-here",
+      "to": "editing-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "open-setting-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "worldbuilding-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-setting-questions",
+      "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-setting-questions",
+      "to": "worldbuilding-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "editing-guide",
+      "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "editing-guide",
+      "to": "worldbuilding-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "worldbuilding-guide",
+      "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "worldbuilding-guide",
+      "to": "editing-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "worldbuilding-guide",
+      "to": "open-setting-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "editing-guide",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "읽는 방법",
+      "reason": "위키 소개에서 편집 절차로 안내한다."
+    },
+    {
+      "from": "worldbuilding-guide",
+      "to": "editing-guide",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "정본과 미정",
+      "reason": "일반 편집 절차를 설정의 정본 관리로 구체화한다."
+    }
+  ]
+}

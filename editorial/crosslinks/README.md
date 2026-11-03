@@ -1,0 +1,60 @@
+# 의미 검색과 교차 편집 — 운영 지침
+
+이 폴더는 공개 저장소 안의 **해석적 관계 제안 대장**이다. 대화 원문·발췌·공유 링크를 보관하지 않는다. `wiki/*.md`는 유일한 본문 정본이며, 새 연결은 원고를 읽기 전에는 **확정 사실이 아니다**.
+
+## 두 갈래의 편집
+
+**직접 증보(automatic direct editing).** 현재 접근 가능한 대화와 기존 원고에서 **주제 및 근거가 직접 대응**하는 경우에는 관련 글의 정확한 절에 정보를 증보할 수 있다. 기존 설명과 반론의 보존, 편집 이력, 날짜 검증, 생성기 실행이 필수다.
+
+**간접 교차 연결(proposal-first).** 단어가 비슷하거나 멀리 떨어진 주제가 개념적으로 연결될 가능성은 `editorial/crosslinks/index.json`에 **가설**로 등록한다. 이 단계에서는 `wiki/*.md`의 주장을 추가하거나 `wiki/relations.json`에 확정 의미 관계를 추가하지 않는다. 가설은 인간의 승인과 두 원고의 논증 검토를 거친 뒤에만 별도 편집 대상이 된다.
+
+`proposed` → `approved` → `integrated` 또는 `rejected`의 상태를 사용한다. `approved`는 검토 후 집필해도 된다는 뜻이지 집필이 완료되었다는 뜻이 아니다. `integrated`는 실제 수정·링크·검수 완료 후에만 기록한다. 변경 시 `review_note`에 공개 가능한 판단 근거만 적는다. 제안 상태가 바뀌어도 검증 스크립트가 **자동으로 원고를 수정하지는 않는다**.
+
+## 탐색 순서: 모델의 의미 판단 + 오프라인 후보 검색
+
+1. `AI_INDEX.md` 또는 `ai/index.json`을 먼저 읽고, `wiki/manifest.json`에서 미게시 원고까지 확인한다.
+2. 검색이나 후보 추천이 필요하면, 로컬 복제본에서 다음 명령을 사용할 수 있다.
+
+```sh
+node scripts/search-wiki.mjs --query "찾을 개념" --json
+node scripts/search-wiki.mjs --related <문서-id> --all --novel --json
+```
+
+`--query`는 질의 검색, `--related`는 한 문서의 후보 탐색, `--all`은 미게시 원고까지 포함, `--novel`은 직접 관련 링크가 없는 문서만 남긴다. 결과 점수는 **한국어 문자 n-gram 유사도 + 기존 관계 그래프 + 검토 대기 중인 제안의 신호**이지 임베딩 기반 의미 점수나 근거의 참·거짓을 증명하는 수치가 아니다.
+
+3. 로컬 명령을 실행할 수 없으면 **저장소의 색인과 Markdown을 직접 읽고 AI가 의미적으로 재평가**한다. 이때 검색 점수에 없는 원격 주제도 찾아볼 수 있고, 제목·태그·요약과 원문의 실제 설명을 모두 대조해야 한다.
+4. 직접 언급되지 않은 문서라도 두 문서의 실제 소제목과 문장을 확인해 가설의 **의미, 가능한 반론, 성립 조건**을 별도로 적는다.
+5. 이전 제안과 중복인지 먼저 확인한다. 충분한 근거가 없거나 단순한 단어 공통성뿐이면 제안하지 않는다.
+
+## 제안 대장
+
+`index.json`의 각 `proposals[]`는 `id`, `created_on`, `from:{doc_id,section}`, `to:{doc_id,section}`, `type`, `status`, `basis=editorial_hypothesis`, `hypothesis`, `reason`, `limitation`을 갖는다.
+
+특히 `hypothesis`는 **새로운 해석 제안**임을 분명히 밝히고, `limitation`에는 사실로 확정할 수 없는 지점을 적는다. 이 장부가 논문에서 확정된 주장이나 대화 참가자의 확정 견해를 대신할 수 없다.
+
+`node scripts/validate-crosslinks.mjs`는 모든 문서와 절의 존재, 중복 제안, 식별자, 허용 필드, 공개 가능한 단문 형식을 검증한다. `node scripts/test-search.mjs`는 후보 검색의 동작을 시험한다. 하지만 **개념의 타당성 판단은 자동 검증할 수 없다**.
+
+### 보안과 공개 범위
+
+이 디렉터리는 `editorial/` 아래 있어도 **공개 GitHub 저장소**에 존재한다. 원문, 사적 정보, 개인적 기록은 넣지 않는다. `publish:false` 문서는 웹 UI 색인에서만 제외되며 파일이 비공개로 보호되는 것은 아니다.
+
+### 제안 예시
+
+아래는 형식을 보이기 위한 **가상의 예시**다.
+
+```json
+{
+  "id": "link-20260101-example",
+  "created_on": "2026-01-01",
+  "from": { "doc_id": "문서-a", "section": "문서 a의 실제 소제목" },
+  "to": { "doc_id": "문서-b", "section": "문서 b의 실제 소제목" },
+  "type": "methodological_parallel",
+  "status": "proposed",
+  "basis": "editorial_hypothesis",
+  "hypothesis": "두 절이 같은 구조의 문제를 다룬다는 비교 가설",
+  "reason": "두 절에서 실제로 확인한 공통점",
+  "limitation": "이 비교가 확정하지 않는 것"
+}
+```
+
+`type`: `analogy`, `conceptual_extension`, `methodological_parallel`, `possible_contrast`, `possible_counterargument`. 상태를 `proposed` 밖으로 바꿀 때는 `review_note`를 함께 적는다.

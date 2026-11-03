@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "description": "문서별 메타데이터의 정본. 본문의 정본은 wiki/*.md, notes.json은 자동 생성물이다.",
+  "linkAliases": {},
+  "documents": [
+    {
+      "path": "wiki/start-here.md",
+      "publish": true,
+      "order": 0,
+      "id": "start-here",
+      "title": "세계 개요",
+      "category": "개요",
+      "status": "정본",
+      "updated": "2026-11-03",
+      "summary": "두 태양의 쌍성계에서 마법과 우주 기술이 함께 자란 세계의 전제, 설정·소설·게임 세 쓰임, 연대의 기준.",
+      "tags": [
+        "개요",
+        "쌍성계",
+        "마법",
+        "우주"
+      ],
+      "source": "설정집 프리셋 기본 문서",
+      "related": [
+        "editing-guide",
+        "open-setting-questions",
+        "worldbuilding-guide"
+      ],
+      "aliases": [
+        "세계 개요"
+      ],
+      "review_state": "unassessed"
+    },
+    {
+      "path": "wiki/open-setting-questions.md",
+      "publish": true,
+      "order": 1,
+      "id": "open-setting-questions",
+      "title": "정해야 할 설정",
+      "category": "개요",
+      "status": "미정",
+      "updated": "2026-11-03",
+      "summary": "쌍성의 구성, 행성 궤도, 마법의 원천, 마법과 기술의 관계, 문명과 시대처럼 아직 열려 있는 근본 설정의 목록.",
+      "tags": [
+        "미정",
+        "쌍성계",
+        "마법"
+      ],
+      "source": "설정 결정 대기 목록",
+      "related": [
+        "start-here",
+        "worldbuilding-guide"
+      ],
+      "aliases": [
+        "미정 설정 목록"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/editing-guide.md",
+      "publish": true,
+      "order": 1,
+      "id": "editing-guide",
+      "title": "이 위키를 편집하는 방법",
+      "category": "안내",
+      "status": "운영 문서",
+      "updated": "2026-11-03",
+      "summary": "새 문서를 만들고 쓰고 게시하는 절차와 Markdown 규칙.",
+      "tags": [
+        "안내",
+        "편집"
+      ],
+      "source": "기본형 안내 문서",
+      "related": [
+        "start-here",
+        "worldbuilding-guide"
+      ],
+      "aliases": [
+        "편집 방법"
+      ],
+      "review_state": "reviewed"
+    },
+    {
+      "path": "wiki/worldbuilding-guide.md",
+      "publish": true,
+      "order": 2,
+      "id": "worldbuilding-guide",
+      "title": "설정을 쓰는 규칙",
+      "category": "안내",
+      "status": "운영 문서",
+      "updated": "2026-11-03",
+      "summary": "인물·장소·세력·사건 문서의 역할, 정본과 미정 설정의 구분, 연대기와 달력 기록 방법.",
+      "tags": [
+        "안내",
+        "설정",
+        "연대기"
+      ],
+      "source": "설정집 프리셋 안내 문서",
+      "related": [
+        "start-here",
+        "editing-guide",
+        "open-setting-questions"
+      ],
+      "aliases": [
+        "설정 쓰는 규칙"
+      ],
+      "review_state": "reviewed"
+    }
+  ]
+}

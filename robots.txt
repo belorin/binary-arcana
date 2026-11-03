@@ -1,0 +1,19 @@
+# 모든 방문자와 도구(LLM 열람 포함)는 전체에 접근할 수 있다.
+User-agent: *
+Allow: /
+
+# 검색엔진은 문서 페이지(notes/)를 색인하고, 편집용 파일과 원본 데이터는
+# 검색 결과에 싣지 않는다. 접근을 막는 규칙이 아니다.
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Yeti
+User-agent: Daumoa
+Disallow: /binary-arcana/wiki/
+Disallow: /binary-arcana/ai/
+Disallow: /binary-arcana/editorial/
+Disallow: /binary-arcana/scripts/
+Disallow: /binary-arcana/templates/
+Disallow: /binary-arcana/notes.json
+Disallow: /binary-arcana/AI_INDEX.md
+
+Sitemap: https://belorin.github.io/binary-arcana/sitemap.xml

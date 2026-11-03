@@ -1,0 +1,156 @@
+{
+  "owner": "belorin",
+  "repo": "binary-arcana",
+  "branch": "main",
+  "name": "Binary Arcana",
+  "brand": "Binary Arcana",
+  "brandSub": "쌍성계 설정집",
+  "description": "두 개의 태양이 도는 쌍성계, 마법과 항성 간 기술이 함께 자란 세계의 설정집. 설정·소설·롤플레잉 게임의 정본.",
+  "author": "belorin",
+  "lang": "ko",
+  "icon": "✦",
+  "theme": {
+    "accent": "#3d4f8f",
+    "light": "#eceff8"
+  },
+  "categories": [
+    "개요",
+    "천체",
+    "마법",
+    "기술·우주선",
+    "세력",
+    "인물",
+    "장소",
+    "사건",
+    "사물·개념",
+    "소설",
+    "롤플레잉",
+    "안내"
+  ],
+  "home": {
+    "title": "쌍성계 탐색",
+    "lead": "",
+    "featureLabel": "오늘 펼쳐 볼 설정"
+  },
+  "about": {
+    "title": "Binary Arcana에 관하여",
+    "lead": "쌍성계를 무대로 마법과 우주 기술이 함께 자란 세계의 설정집입니다. 설정 정본을 중심으로 소설과 롤플레잉 게임이 같은 세계를 공유합니다.",
+    "links": [
+      {
+        "id": "start-here",
+        "label": "세계 개요"
+      },
+      {
+        "id": "open-setting-questions",
+        "label": "정할 것들"
+      },
+      {
+        "id": "worldbuilding-guide",
+        "label": "설정 쓰는 규칙"
+      },
+      {
+        "id": "editing-guide",
+        "label": "편집 방법"
+      }
+    ]
+  },
+  "sidebarLinks": [],
+  "features": {
+    "calendar": true,
+    "comments": null
+  },
+  "types": {
+    "question": {
+      "label": "미정 설정",
+      "template": "templates/question.md",
+      "category": "안내",
+      "status": "미정"
+    },
+    "character": {
+      "label": "인물",
+      "template": "templates/character.md",
+      "category": "인물",
+      "status": "초안"
+    },
+    "place": {
+      "label": "장소",
+      "template": "templates/place.md",
+      "category": "장소",
+      "status": "초안"
+    },
+    "faction": {
+      "label": "세력",
+      "template": "templates/faction.md",
+      "category": "세력",
+      "status": "초안"
+    },
+    "event": {
+      "label": "사건",
+      "template": "templates/event.md",
+      "category": "사건",
+      "status": "초안"
+    },
+    "lore": {
+      "label": "사물·개념",
+      "template": "templates/lore.md",
+      "category": "사물·개념",
+      "status": "초안"
+    },
+    "celestial": {
+      "label": "천체",
+      "template": "templates/celestial.md",
+      "category": "천체",
+      "status": "초안"
+    },
+    "magic": {
+      "label": "마법 체계",
+      "template": "templates/magic.md",
+      "category": "마법",
+      "status": "초안"
+    },
+    "tech": {
+      "label": "기술·우주선",
+      "template": "templates/tech.md",
+      "category": "기술·우주선",
+      "status": "초안"
+    },
+    "work": {
+      "label": "소설 작품",
+      "template": "templates/work.md",
+      "category": "소설",
+      "status": "구상"
+    },
+    "chapter": {
+      "label": "소설 장",
+      "template": "templates/chapter.md",
+      "category": "소설",
+      "status": "초고"
+    },
+    "rule": {
+      "label": "게임 규칙",
+      "template": "templates/rule.md",
+      "category": "롤플레잉",
+      "status": "시험 중"
+    },
+    "scenario": {
+      "label": "시나리오",
+      "template": "templates/scenario.md",
+      "category": "롤플레잉",
+      "status": "준비"
+    },
+    "session": {
+      "label": "세션 기록",
+      "template": "templates/session.md",
+      "category": "롤플레잉",
+      "status": "진행함"
+    },
+    "sheet": {
+      "label": "캐릭터 시트",
+      "template": "templates/sheet.md",
+      "category": "롤플레잉",
+      "status": "사용 중"
+    }
+  },
+  "verification": {},
+  "preset": "worldbuilding"
+}
