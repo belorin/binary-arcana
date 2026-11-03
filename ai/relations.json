@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 25,
+  "edge_count": 50,
   "edges": [
     {
       "from": "grand-questions",
@@ -50,6 +50,36 @@
       "basis": "manifest.related"
     },
     {
+      "from": "causal-roleplay",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "causal-roleplay",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "causal-roleplay",
+      "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "causal-roleplay",
+      "to": "exceptional-generations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "causal-roleplay",
+      "to": "worldbuilding-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "start-here",
       "to": "grand-questions",
       "type": "related_to",
@@ -80,6 +110,30 @@
       "basis": "manifest.related"
     },
     {
+      "from": "start-here",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "exceptional-generations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "editing-guide",
       "to": "start-here",
       "type": "related_to",
@@ -88,6 +142,66 @@
     {
       "from": "editing-guide",
       "to": "worldbuilding-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-as-practice",
+      "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-as-practice",
+      "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-as-practice",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-as-practice",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magical-distance-and-passage",
+      "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magical-distance-and-passage",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magical-distance-and-passage",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "exceptional-generations",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "exceptional-generations",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "exceptional-generations",
+      "to": "start-here",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -106,6 +220,24 @@
     {
       "from": "open-setting-questions",
       "to": "worldbuilding-guide",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-setting-questions",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-setting-questions",
+      "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-setting-questions",
+      "to": "exceptional-generations",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -134,6 +266,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "worldbuilding-guide",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "worldbuilding-guide",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "knowledge-horizons",
       "to": "seven-demon-lords",
       "type": "related_to",
@@ -148,6 +292,12 @@
     {
       "from": "knowledge-horizons",
       "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "knowledge-horizons",
+      "to": "causal-roleplay",
       "type": "related_to",
       "basis": "manifest.related"
     },

@@ -18,11 +18,35 @@
   - 쌍성계와 행성, 미규명된 마법적 우주, 비인간 행위자, 마법 항행, 이주와 문명에 관한 열린 설정 질문.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/open-setting-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md)
 
+## 마법
+
+- **[개인의 재능과 관계적 마법](wiki/magic-as-practice.md)** · 별칭: 개인 마법, 공통마법과 지역 마법 · 수정: 2026-11-03 · 상태: 초안
+  - 마법의 폭넓은 가능성, 개인의 발견과 성장, 정형화되지 않은 전승과 공통마법의 조건, 나무와 돌 등의 관계적 참여.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/magic-as-practice/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-as-practice.md)
+
+## 마법 공예·항행
+
+- **[마법적 거리와 통행의 경계](wiki/magical-distance-and-passage.md)** · 별칭: 마법적 거리, 통행 관계 · 수정: 2026-11-03 · 상태: 초안
+  - 마법적 연결로 규정되는 거리와 물리적 도로의 필요, 힘든 행성 간 이동, 초기 여섯 행성 설계 범위.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/magical-distance-and-passage/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magical-distance-and-passage.md)
+
 ## 세력
 
 - **[일곱 마왕과 그 일족](wiki/seven-demon-lords.md)** · 별칭: 칠마왕, 마왕 일족 · 수정: 2026-11-03 · 상태: 초안
   - 기원을 알 수 없는 마왕과 일족의 철학적 행동양식 초안. 일곱 호칭은 저자용이며 세계 내부 인물들의 지식이 아니다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/seven-demon-lords/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md)
+
+## 사물·개념
+
+- **[세대의 예외와 역사적 파급](wiki/exceptional-generations.md)** · 별칭: 세대별 예외, 높은 레이어 · 수정: 2026-11-03 · 상태: 초안
+  - 집단과 세대를 거치며 등장하는 드문 개인이 타자와 관계 속에서 지역·행성·세계관의 높은 역사적 층위에 영향을 미치는 방식.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/exceptional-generations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/exceptional-generations.md)
+
+## 롤플레잉
+
+- **[냉혹한 인과와 살아 움직이는 세계](wiki/causal-roleplay.md)** · 별칭: 소턴과 대턴, 세계 인과 규칙 · 수정: 2026-11-03 · 상태: 초안
+  - 플레이어의 바람보다 기존 인과·역량·타자의 행위가 우선하는 공정한 진행, 소턴과 대턴, 인식 장부와 세대 변화.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/causal-roleplay/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md)
 
 ## 안내
 

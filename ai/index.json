@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 7,
+  "document_count": 11,
   "documents": [
     {
       "id": "grand-questions",
@@ -70,6 +70,39 @@
       "app_url": "https://belorin.github.io/binary-arcana/#seven-demon-lords"
     },
     {
+      "id": "causal-roleplay",
+      "title": "냉혹한 인과와 살아 움직이는 세계",
+      "aliases": [
+        "소턴과 대턴",
+        "세계 인과 규칙"
+      ],
+      "category": "롤플레잉",
+      "tags": [
+        "롤플레잉",
+        "세계 진행",
+        "소턴",
+        "대턴",
+        "냉혹한 인과",
+        "NPC"
+      ],
+      "summary": "플레이어의 바람보다 기존 인과·역량·타자의 행위가 우선하는 공정한 진행, 소턴과 대턴, 인식 장부와 세대 변화.",
+      "review_state": "unassessed",
+      "review_label": "초안",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "knowledge-horizons",
+        "magic-as-practice",
+        "magical-distance-and-passage",
+        "exceptional-generations",
+        "worldbuilding-guide"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/causal-roleplay.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/causal-roleplay/",
+      "app_url": "https://belorin.github.io/binary-arcana/#causal-roleplay"
+    },
+    {
       "id": "start-here",
       "title": "세계 개요",
       "aliases": [
@@ -92,7 +125,11 @@
         "editing-guide",
         "open-setting-questions",
         "worldbuilding-guide",
-        "seven-demon-lords"
+        "seven-demon-lords",
+        "magic-as-practice",
+        "magical-distance-and-passage",
+        "exceptional-generations",
+        "causal-roleplay"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/start-here.md",
@@ -125,6 +162,97 @@
       "app_url": "https://belorin.github.io/binary-arcana/#editing-guide"
     },
     {
+      "id": "magic-as-practice",
+      "title": "개인의 재능과 관계적 마법",
+      "aliases": [
+        "개인 마법",
+        "공통마법과 지역 마법"
+      ],
+      "category": "마법",
+      "tags": [
+        "마법",
+        "개인 재능",
+        "공통마법",
+        "지역마법",
+        "행위자"
+      ],
+      "summary": "마법의 폭넓은 가능성, 개인의 발견과 성장, 정형화되지 않은 전승과 공통마법의 조건, 나무와 돌 등의 관계적 참여.",
+      "review_state": "unassessed",
+      "review_label": "초안",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "start-here",
+        "magical-distance-and-passage",
+        "knowledge-horizons",
+        "causal-roleplay"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-as-practice.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magic-as-practice.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/magic-as-practice/",
+      "app_url": "https://belorin.github.io/binary-arcana/#magic-as-practice"
+    },
+    {
+      "id": "magical-distance-and-passage",
+      "title": "마법적 거리와 통행의 경계",
+      "aliases": [
+        "마법적 거리",
+        "통행 관계"
+      ],
+      "category": "마법 공예·항행",
+      "tags": [
+        "마법적 거리",
+        "통행",
+        "행성",
+        "경유지",
+        "항행"
+      ],
+      "summary": "마법적 연결로 규정되는 거리와 물리적 도로의 필요, 힘든 행성 간 이동, 초기 여섯 행성 설계 범위.",
+      "review_state": "unassessed",
+      "review_label": "초안",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "start-here",
+        "magic-as-practice",
+        "causal-roleplay"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magical-distance-and-passage.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magical-distance-and-passage.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/magical-distance-and-passage/",
+      "app_url": "https://belorin.github.io/binary-arcana/#magical-distance-and-passage"
+    },
+    {
+      "id": "exceptional-generations",
+      "title": "세대의 예외와 역사적 파급",
+      "aliases": [
+        "세대별 예외",
+        "높은 레이어"
+      ],
+      "category": "사물·개념",
+      "tags": [
+        "세대",
+        "예외적 개인",
+        "역사",
+        "영향의 규모",
+        "행위자"
+      ],
+      "summary": "집단과 세대를 거치며 등장하는 드문 개인이 타자와 관계 속에서 지역·행성·세계관의 높은 역사적 층위에 영향을 미치는 방식.",
+      "review_state": "unassessed",
+      "review_label": "초안",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "causal-roleplay",
+        "magic-as-practice",
+        "start-here"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/exceptional-generations.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/exceptional-generations.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/exceptional-generations/",
+      "app_url": "https://belorin.github.io/binary-arcana/#exceptional-generations"
+    },
+    {
       "id": "open-setting-questions",
       "title": "정해야 할 설정",
       "aliases": [
@@ -144,7 +272,10 @@
       "related_ids": [
         "grand-questions",
         "start-here",
-        "worldbuilding-guide"
+        "worldbuilding-guide",
+        "magic-as-practice",
+        "magical-distance-and-passage",
+        "exceptional-generations"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-setting-questions.md",
@@ -172,7 +303,9 @@
         "start-here",
         "editing-guide",
         "open-setting-questions",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "causal-roleplay",
+        "magic-as-practice"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/worldbuilding-guide.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/worldbuilding-guide.md",
@@ -204,7 +337,8 @@
       "related_ids": [
         "seven-demon-lords",
         "worldbuilding-guide",
-        "start-here"
+        "start-here",
+        "causal-roleplay"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/knowledge-horizons.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/knowledge-horizons.md",
