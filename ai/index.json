@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 15,
+  "document_count": 16,
   "documents": [
     {
       "id": "grand-questions",
@@ -62,7 +62,8 @@
       "related_ids": [
         "grand-questions",
         "start-here",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "scenario-great-crossing"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/seven-demon-lords.md",
@@ -100,7 +101,8 @@
         "aren-session-01",
         "low-cape",
         "start-here",
-        "story-state"
+        "story-state",
+        "scenario-great-crossing"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/causal-roleplay.md",
@@ -194,7 +196,8 @@
         "causal-roleplay",
         "worldbuilding-guide",
         "open-setting-questions",
-        "exceptional-generations"
+        "exceptional-generations",
+        "scenario-great-crossing"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-as-practice.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magic-as-practice.md",
@@ -226,7 +229,8 @@
         "magic-as-practice",
         "causal-roleplay",
         "low-cape",
-        "open-setting-questions"
+        "open-setting-questions",
+        "scenario-great-crossing"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magical-distance-and-passage.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magical-distance-and-passage.md",
@@ -446,7 +450,8 @@
         "start-here",
         "causal-roleplay",
         "aren-sheet",
-        "magic-as-practice"
+        "magic-as-practice",
+        "scenario-great-crossing"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/knowledge-horizons.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/knowledge-horizons.md",
@@ -481,6 +486,40 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/story-state.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/story-state/",
       "app_url": "https://belorin.github.io/binary-arcana/#story-state"
+    },
+    {
+      "id": "scenario-great-crossing",
+      "title": "시나리오 — 큰 건넘의 계승",
+      "aliases": [
+        "큰 건넘",
+        "맞섬",
+        "열두 여울"
+      ],
+      "category": "롤플레잉",
+      "tags": [
+        "시나리오",
+        "결투",
+        "암투",
+        "큰 건넘",
+        "맞섬",
+        "맹약"
+      ],
+      "summary": "다른 행성으로 가는 드문 큰 길의 지기가 죽은 뒤, 세력들이 대리인의 겨룸(맞섬)과 맹약의 문구를 두고 다투는 결투·암투 시나리오. 세력과 시작 위치를 골라 진행한다.",
+      "review_state": "unassessed",
+      "review_label": "초안",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "causal-roleplay",
+        "seven-demon-lords",
+        "magical-distance-and-passage",
+        "knowledge-horizons",
+        "magic-as-practice"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/scenario-great-crossing.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/scenario-great-crossing.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/scenario-great-crossing/",
+      "app_url": "https://belorin.github.io/binary-arcana/#scenario-great-crossing"
     }
   ]
 }

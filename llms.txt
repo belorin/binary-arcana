@@ -45,6 +45,7 @@
 - [아렌 — 첫 시범 캐릭터 시트](https://belorin.github.io/binary-arcana/notes/aren-sheet/): 불안정한 물턱에서 나엠을 구조하다 손목을 다친 아렌의 지역 마법, 인식 한계, 선택의 대가와 생존자 정보.
 - [아렌의 첫 시범 세션 — 닫아야 하는 바다](https://belorin.github.io/binary-arcana/notes/aren-session-01/): 두 해안의 물턱이 붕괴하는 순간 아렌이 한 사람을 구조했으나 다른 두 사람의 운명을 알지 못하고, 마을의 샘 한 줄기가 손상되는 결과를 남긴 첫 시범 서사.
 - [이야기 현재 상태](https://belorin.github.io/binary-arcana/notes/story-state/): 진행 중인 이야기의 현재 시점, 인물의 위치와 상태, 자원, 누가 무엇을 아는지, 열린 실마리를 한 장에 모은 세션 시작점.
+- [시나리오 — 큰 건넘의 계승](https://belorin.github.io/binary-arcana/notes/scenario-great-crossing/): 다른 행성으로 가는 드문 큰 길의 지기가 죽은 뒤, 세력들이 대리인의 겨룸(맞섬)과 맹약의 문구를 두고 다투는 결투·암투 시나리오. 세력과 시작 위치를 골라 진행한다.
 
 ### 운영 원칙
 

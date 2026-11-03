@@ -53,6 +53,9 @@
 - **[이야기 현재 상태](wiki/story-state.md)** · 별칭: 현재 상태, 세션 시작점 · 수정: 2026-11-03 · 상태: 사용 중
   - 진행 중인 이야기의 현재 시점, 인물의 위치와 상태, 자원, 누가 무엇을 아는지, 열린 실마리를 한 장에 모은 세션 시작점.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/story-state/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/story-state.md)
+- **[시나리오 — 큰 건넘의 계승](wiki/scenario-great-crossing.md)** · 별칭: 큰 건넘, 맞섬, 열두 여울 · 수정: 2026-11-03 · 상태: 초안
+  - 다른 행성으로 가는 드문 큰 길의 지기가 죽은 뒤, 세력들이 대리인의 겨룸(맞섬)과 맹약의 문구를 두고 다투는 결투·암투 시나리오. 세력과 시작 위치를 골라 진행한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/scenario-great-crossing/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/scenario-great-crossing.md)
 
 ## 운영 원칙
 

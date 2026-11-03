@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `knowledge-horizons` · 분류: 운영 원칙 · 공개 · 원고: [wiki/knowledge-horizons.md](../../../wiki/knowledge-horizons.md) · 4,285자 · 절 8개
+- id: `knowledge-horizons` · 분류: 운영 원칙 · 공개 · 원고: [wiki/knowledge-horizons.md](../../../wiki/knowledge-horizons.md) · 4,324자 · 절 8개
 - 별칭: 인물의 지식, 지식의 국소성, 정보 접근 규칙
 - 요약: 작가의 정본과 각 인물·공동체·플레이어의 지식을 분리하고 지역성·전승·오해·전파를 고려해 소설과 LLM 롤플레잉을 운영하는 원칙.
 - 태그: 지식, 인식, 정보 비대칭, 시점, 롤플레잉, NPC
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: reviewed
-- 관련 문서: `seven-demon-lords`, `worldbuilding-guide`, `start-here`, `causal-roleplay`, `aren-sheet`, `magic-as-practice`
+- 관련 문서: `seven-demon-lords`, `worldbuilding-guide`, `start-here`, `causal-roleplay`, `aren-sheet`, `magic-as-practice`, `scenario-great-crossing`
 
 ## 절 목차
 
@@ -21,7 +21,7 @@
 - 다른 분야에도 같은 원칙을 적용한다 · L51–55 · 350자 · `f5404447` — 천체의 관계, 항행의 위험, 마법의 작동, 다른 행성의 생태, 종족 사이의 이해관계, 세력의 목적, 역사와 기원에 관한 전승 역시 누구에게나 고르게 주어지지 않는다.
 - 소설과 LLM 롤플레잉에서의 적용 · L57–69 · 702자 · `da0d3b8b` — 진행자 또는 저자는 정본을 참고할 수 있지만, 등장인물은 자신의 시점에서 알 수 있는 것만 발언하고 행동한다.
   - 세션용 인식 기록의 최소 단위 · L71–84 · 439자 · `2a40cd8a` — 상황이 복잡할 때에는 NPC별로 아래를 간단히 기록할 수 있다.
-- 서술 층위와 공개 범위 · L86–92 · 407자 · `9b531780` — 작가·설정집: 객관적으로 정한 사실, 창작용 해석과 철학적 모티프, 아직 미정인 후보를 구분하여 기록한다.
+- 서술 층위와 공개 범위 · L86–92 · 446자 · `bdf46a8e` — 작가·설정집: 객관적으로 정한 사실, 창작용 해석과 철학적 모티프, 아직 미정인 후보를 구분하여 기록한다.
 
 ## 장부에 기록된 반영 지식
 
@@ -37,3 +37,4 @@
   - 소설과 LLM 역할극의 인물별 정보 분리 및 사건 기반 갱신 · `ing-20261103-knowledge-horizons`
 - **서술 층위와 공개 범위**
   - 설정 비밀과 공개 위키의 정보 노출 분리 · `ing-20261103-knowledge-horizons`
+  - 진행자용 진상은 위키 안의 표시된 절에 두는 방침 · `ing-20261103-great-crossing-scenario`

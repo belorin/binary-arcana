@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 40개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 45개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (0)
 
@@ -26,7 +26,7 @@
 - 종족 경계와 외형의 서사적 비중을 미리 고정하지 않음 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261103-low-cape-observer-session`
 - 저인구를 저발전으로 해석하는 오류를 배제한 지역 서술 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식; `low-cape` § 사람들과 생활; `aren-session-01` § 생활 도구와 제도에 관한 서술 원칙 · `ing-20261103-low-cape-observer-session`
 
-## 운영 원칙 (10)
+## 운영 원칙 (11)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -40,8 +40,9 @@
 - 세대별 드문 개인의 출현과 세계의 상위 역사 규모에 대한 파급 → `exceptional-generations` § 예외적인 개인은 세계가 만든다; `exceptional-generations` § 더 높은 레이어라는 것은 무엇인가 · `ing-20261103-magic-travel-worldturns`
 - 통행 기록 보조원 아렌의 초기 사건을 통한 국소적 서사 시작 초안 → `causal-roleplay` § 하나의 경유지에서 시작하는 시범 서사 · `ing-20261103-magic-travel-worldturns`
 - 주인공 시점을 선택하는 서사적 이유와 인과적 책임 → `causal-roleplay` § 인물을 조명하는 서사의 이유 · `ing-20261103-aren-story-rewrite`
+- 진행자용 진상은 위키 안의 표시된 절에 두는 방침 → `knowledge-horizons` § 서술 층위와 공개 범위 · `ing-20261103-great-crossing-scenario`
 
-## 롤플레잉 (5)
+## 롤플레잉 (9)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -50,6 +51,10 @@
 - 두 해안 붕괴와 세 생존자의 갈등으로 시작하는 새 첫 장 → `aren-session-01` § 소설 — 닫아야 하는 바다 · `ing-20261103-aren-story-rewrite`
 - 자율적인 구조 시도가 남긴 개인의 부상과 마을의 물 손실 → `aren-session-01` § 진행 기록 — 소턴; `aren-sheet` § 성장 기록 · `ing-20261103-aren-story-rewrite`
 - 서로 독립적으로 판단하는 여러 행위자와 제한된 인식 → `aren-session-01` § 세계의 다른 움직임; `aren-sheet` § 인식 장부 · `ing-20261103-aren-story-rewrite`
+- 적은 인구 때문에 큰 다툼을 대리인의 겨룸과 맹약으로 좁히는 관습 → `scenario-great-crossing` § 왜 이 세계에서는 결투로 다투는가 · `ing-20261103-great-crossing-scenario`
+- 맞섬: 관계의 힘으로 겨루며 장소·날·건 것이 승패를 가름 → `scenario-great-crossing` § 맞섬의 방식 · `ing-20261103-great-crossing-scenario`
+- 큰 건넘: 두 태양이 가장 가까워지는 철에만 넓게 열리는 행성 간 길 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
+- 길의 지기가 평생의 관계를 대를 이어 물려줌 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
 
 ## 세력 (4)
 
