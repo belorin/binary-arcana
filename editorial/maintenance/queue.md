@@ -49,8 +49,8 @@ manifest의 수정일이 2026-11-03 이후(당일 포함)이거나 수정일이 
 - `aren-sheet` ↔ `aren-session-01` · 0.07 · 연결됨
 - `causal-roleplay` ↔ `scenario-great-crossing` · 0.07 · 연결됨
 - `worldbuilding-guide` ↔ `causal-roleplay` · 0.07 · 연결됨
-- `scenario-great-crossing` ↔ `rival-play` · 0.07 · 연결됨
 - `grand-questions` ↔ `knowledge-horizons` · 0.07
+- `editing-guide` ↔ `worldbuilding-guide` · 0.07 · 연결됨
 
 ## 6. 보류 항목 (0)
 
