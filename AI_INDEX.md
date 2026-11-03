@@ -18,6 +18,12 @@
   - 쌍성계와 행성, 미규명된 마법적 우주, 비인간 행위자, 마법 항행, 이주와 문명에 관한 열린 설정 질문.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/open-setting-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md)
 
+## 세력
+
+- **[일곱 마왕과 그 일족](wiki/seven-demon-lords.md)** · 별칭: 칠마왕, 마왕 일족 · 수정: 2026-11-03 · 상태: 초안
+  - 기원을 알 수 없는 일곱 마왕의 철학적 테마 후보와 일족의 행동양식, 인간 및 다른 존재들과의 손익 충돌.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/seven-demon-lords/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md)
+
 ## 안내
 
 - **[이 위키를 편집하는 방법](wiki/editing-guide.md)** · 별칭: 편집 방법 · 수정: 2026-11-03 · 상태: 운영 문서

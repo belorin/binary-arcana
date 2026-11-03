@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 5,
+  "document_count": 6,
   "documents": [
     {
       "id": "grand-questions",
@@ -31,12 +31,42 @@
       "last_enriched_on": "2026-11-03",
       "related_ids": [
         "start-here",
-        "open-setting-questions"
+        "open-setting-questions",
+        "seven-demon-lords"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/grand-questions.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/grand-questions.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/grand-questions/",
       "app_url": "https://belorin.github.io/binary-arcana/#grand-questions"
+    },
+    {
+      "id": "seven-demon-lords",
+      "title": "일곱 마왕과 그 일족",
+      "aliases": [
+        "칠마왕",
+        "마왕 일족"
+      ],
+      "category": "세력",
+      "tags": [
+        "마왕",
+        "일곱 마왕",
+        "일족",
+        "철학",
+        "미정"
+      ],
+      "summary": "기원을 알 수 없는 일곱 마왕의 철학적 테마 후보와 일족의 행동양식, 인간 및 다른 존재들과의 손익 충돌.",
+      "review_state": "unassessed",
+      "review_label": "초안",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": "2026-11-03",
+      "related_ids": [
+        "grand-questions",
+        "start-here"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/seven-demon-lords.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/seven-demon-lords/",
+      "app_url": "https://belorin.github.io/binary-arcana/#seven-demon-lords"
     },
     {
       "id": "start-here",
@@ -60,7 +90,8 @@
         "grand-questions",
         "editing-guide",
         "open-setting-questions",
-        "worldbuilding-guide"
+        "worldbuilding-guide",
+        "seven-demon-lords"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/start-here.md",

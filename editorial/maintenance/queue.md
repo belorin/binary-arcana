@@ -4,14 +4,15 @@
 
 마지막 정비: 없음 · 다음 정비 버전: **M001** (첫 정비이므로 모든 문서가 변경 문서로 잡힌다)
 
-원고 5개 · 변경 문서 5 · 고립 0 · 한쪽 연결 0 · 보류 0 · 열린 교차 제안 0
+원고 6개 · 변경 문서 6 · 고립 0 · 한쪽 연결 0 · 보류 0 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (5)
+## 1. 지난 정비 이후 변경된 문서 (6)
 
 첫 정비이므로 전체 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **개요** (3): `grand-questions`, `start-here`, `open-setting-questions`
 - **안내** (2): `editing-guide`, `worldbuilding-guide`
+- **세력** (1): `seven-demon-lords`
 
 ## 2. 들어오는 연결이 없는 문서 (0)
 
@@ -31,15 +32,20 @@
 제목·별칭·소제목의 글자 2-gram 유사도(0~1)다. 중복이 아니라 **대조해 볼 후보**이며, 이미 연결된 쌍도 표시한다.
 
 - `editing-guide` ↔ `worldbuilding-guide` · 0.12 · 연결됨
+- `grand-questions` ↔ `start-here` · 0.09 · 연결됨
 - `start-here` ↔ `open-setting-questions` · 0.07 · 연결됨
-- `grand-questions` ↔ `start-here` · 0.07 · 연결됨
 - `grand-questions` ↔ `open-setting-questions` · 0.06 · 연결됨
-- `start-here` ↔ `worldbuilding-guide` · 0.06 · 연결됨
+- `start-here` ↔ `worldbuilding-guide` · 0.05 · 연결됨
 - `open-setting-questions` ↔ `worldbuilding-guide` · 0.04 · 연결됨
+- `grand-questions` ↔ `seven-demon-lords` · 0.03 · 연결됨
 - `grand-questions` ↔ `editing-guide` · 0.03
-- `start-here` ↔ `editing-guide` · 0.02 · 연결됨
+- `start-here` ↔ `seven-demon-lords` · 0.02 · 연결됨
+- `open-setting-questions` ↔ `seven-demon-lords` · 0.02
+- `start-here` ↔ `editing-guide` · 0.01 · 연결됨
+- `editing-guide` ↔ `seven-demon-lords` · 0.01
 - `grand-questions` ↔ `worldbuilding-guide` · 0.00
 - `open-setting-questions` ↔ `editing-guide` · 0.00
+- `worldbuilding-guide` ↔ `seven-demon-lords` · 0.00
 
 ## 6. 보류 항목 (0)
 
@@ -58,5 +64,5 @@
 
 ## 9. 분류 참고
 
-분류 2개: 개요 3, 안내 2
-문서가 하나뿐인 분류 0개. 분류 체계 변경은 제안만 한다.
+분류 3개: 개요 3, 안내 2, 세력 1
+문서가 하나뿐인 분류 1개: 세력. 분류 체계 변경은 제안만 한다.
