@@ -2,7 +2,7 @@
 
 https://belorin.github.io/binary-arcana/
 
-두 개의 태양이 도는 쌍성계, 마법과 항성 간 기술이 함께 자란 세계의 설정집. 설정·소설·롤플레잉 게임의 정본.
+두 개의 태양이 도는 쌍성계와 여러 행성, 고도로 발전한 마법으로 우주에 진출한 인류의 세계. [대의문](wiki/manifesto.md)을 기초로 설정·소설·롤플레잉 게임을 엮는 정본.
 
 Markdown 원고를 정본으로 두고, GitHub Actions가 사이트 데이터·AI 색인·정적 페이지를 만들어 GitHub Pages에 배포하는 위키다. 프레임워크나 npm 설치가 필요 없고 Node.js 22만 있으면 된다.
 
