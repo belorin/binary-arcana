@@ -4,15 +4,44 @@
   "linkAliases": {},
   "documents": [
     {
-      "path": "wiki/start-here.md",
+      "path": "wiki/manifesto.md",
       "publish": true,
       "order": 0,
+      "id": "manifesto",
+      "title": "대의문",
+      "category": "개요",
+      "status": "정본",
+      "updated": "2026-11-03",
+      "summary": "우주 자체의 마법성, 규명의 한계, 비인간 행위자, 다채로운 행성, 인류의 불완전한 진출을 규정하는 세계관의 큰 원칙.",
+      "tags": [
+        "대의문",
+        "우주",
+        "마법",
+        "쌍성계",
+        "행위자",
+        "행성"
+      ],
+      "source": "세계관 기본 원칙",
+      "related": [
+        "start-here",
+        "open-setting-questions"
+      ],
+      "aliases": [
+        "세계관 대의문"
+      ],
+      "review_state": "reviewed",
+      "last_enriched_on": "2026-11-03"
+    },
+    {
+      "path": "wiki/start-here.md",
+      "publish": true,
+      "order": 1,
       "id": "start-here",
       "title": "세계 개요",
       "category": "개요",
       "status": "정본",
       "updated": "2026-11-03",
-      "summary": "두 태양의 쌍성계에서 마법과 우주 기술이 함께 자란 세계의 전제, 설정·소설·게임 세 쓰임, 연대의 기준.",
+      "summary": "두 태양과 여러 행성, 고도로 발달한 마법 문명, 비인간 행위자, 행성 진출의 한계를 정리한 세계 개요.",
       "tags": [
         "개요",
         "쌍성계",
@@ -21,6 +50,7 @@
       ],
       "source": "설정집 프리셋 기본 문서",
       "related": [
+        "manifesto",
         "editing-guide",
         "open-setting-questions",
         "worldbuilding-guide"
@@ -28,18 +58,19 @@
       "aliases": [
         "세계 개요"
       ],
-      "review_state": "unassessed"
+      "review_state": "reviewed",
+      "last_enriched_on": "2026-11-03"
     },
     {
       "path": "wiki/open-setting-questions.md",
       "publish": true,
-      "order": 1,
+      "order": 2,
       "id": "open-setting-questions",
       "title": "정해야 할 설정",
       "category": "개요",
       "status": "미정",
       "updated": "2026-11-03",
-      "summary": "쌍성의 구성, 행성 궤도, 마법의 원천, 마법과 기술의 관계, 문명과 시대처럼 아직 열려 있는 근본 설정의 목록.",
+      "summary": "쌍성계와 행성, 미규명된 마법적 우주, 비인간 행위자, 마법 항행, 이주와 문명에 관한 열린 설정 질문.",
       "tags": [
         "미정",
         "쌍성계",
@@ -47,14 +78,15 @@
       ],
       "source": "설정 결정 대기 목록",
       "related": [
+        "manifesto",
         "start-here",
         "worldbuilding-guide"
       ],
       "aliases": [
         "미정 설정 목록"
       ],
-      "review_state": "unassessed",
-      "last_enriched_on": null
+      "review_state": "reviewed",
+      "last_enriched_on": "2026-11-03"
     },
     {
       "path": "wiki/editing-guide.md",
