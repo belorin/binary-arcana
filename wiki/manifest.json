@@ -556,25 +556,27 @@
       "id": "rival-gc-state",
       "title": "대국 기준 상태 — 큰 건넘의 계승",
       "category": "대국 기록",
-      "status": "S1 · 둘째 물때",
+      "status": "S2 · 셋째 물때",
       "updated": "2026-11-03",
-      "summary": "T03 판정을 반영한 둘째 물때 시작의 공통 기준 상태 S1. 회맹의 미합의 사항, 진영별 실제 정보, 제3세력의 독립 진행과 기존 진행자용 진상을 기록.",
+      "summary": "T06 판정으로 갱신한 셋째 물때 시작의 공통 기준 상태 S2. 여전히 열리지 않은 맞섬 셋과 한 물때의 기한, 회맹 공개 상황, 개인별 실제 인식, 제3세력의 독립 진상 및 위험을 기록.",
       "tags": [
         "대국",
         "기준 상태",
         "큰 건넘"
       ],
-      "source": "고정 S0와 확정된 T01·T02를 세계 진행자 T03에서 판정",
+      "source": "S1과 확정된 T04·T05를 세계 진행자 T06에서 중립 판정",
       "related": [
         "rival-play",
         "scenario-great-crossing",
         "rival-gc-t01-seo",
         "rival-gc-t03-world",
-        "rival-gc-t04-seo"
+        "rival-gc-t04-seo",
+        "rival-gc-t05-yunda",
+        "rival-gc-t06-world"
       ],
       "aliases": [
         "대국 기준 상태",
-        "S1"
+        "S2"
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
@@ -728,6 +730,41 @@
       ],
       "aliases": [
         "T04"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/rival-gc-t06-world.md",
+      "publish": true,
+      "order": 13,
+      "id": "rival-gc-t06-world",
+      "title": "T06 — 둘째 물때의 세계 판정과 제3세력",
+      "category": "대국 기록",
+      "status": "둘째 물때 판정 확정",
+      "updated": "2026-11-03",
+      "summary": "큰 건넘 둘째 물때의 중립 판정. 첫 맞섬 불성립의 근거표, 회맹과 서신 증언, 세오 섬 조사, 윤다 후보지 조사, 오린·테살·가뮌·비엘라·일족의 움직임, 필요한 장면과 인식 장부.",
+      "tags": [
+        "대국",
+        "T06",
+        "세계 진행자",
+        "둘째 물때",
+        "맞섬 불성립",
+        "인식 비대칭",
+        "큰 건넘"
+      ],
+      "source": "",
+      "related": [
+        "rival-play",
+        "rival-gc-state",
+        "rival-gc-t03-world",
+        "rival-gc-t04-seo",
+        "rival-gc-t05-yunda",
+        "scenario-great-crossing"
+      ],
+      "aliases": [
+        "T06",
+        "둘째 물때 세계 판정"
       ],
       "review_state": "unassessed",
       "last_enriched_on": null

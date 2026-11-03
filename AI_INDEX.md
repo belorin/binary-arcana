@@ -62,8 +62,8 @@
 
 ## 대국 기록
 
-- **[대국 기준 상태 — 큰 건넘의 계승](wiki/rival-gc-state.md)** · 별칭: 대국 기준 상태, S1 · 수정: 2026-11-03 · 상태: S1 · 둘째 물때
-  - T03 판정을 반영한 둘째 물때 시작의 공통 기준 상태 S1. 회맹의 미합의 사항, 진영별 실제 정보, 제3세력의 독립 진행과 기존 진행자용 진상을 기록.
+- **[대국 기준 상태 — 큰 건넘의 계승](wiki/rival-gc-state.md)** · 별칭: 대국 기준 상태, S2 · 수정: 2026-11-03 · 상태: S2 · 셋째 물때
+  - T06 판정으로 갱신한 셋째 물때 시작의 공통 기준 상태 S2. 여전히 열리지 않은 맞섬 셋과 한 물때의 기한, 회맹 공개 상황, 개인별 실제 인식, 제3세력의 독립 진상 및 위험을 기록.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-state/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-state.md)
 - **[T02 — 윤다의 첫째 물때 행동 선언](wiki/rival-gc-t02-yunda.md)** · 별칭: 윤다 첫 턴, T02 윤다 선언 · 수정: 2026-11-03 · 상태: 선언 확정 · 미판정
   - 기준 상태 S0에서 세오의 비공개 선언을 보지 않고 확정한 윤다의 첫째 물때 행동. 오린 협상, 젊은 여울의 대리인 점검, 회맹에 승계·왕래 분리 문구 제안을 선언하며 결과는 T03에 맡긴다.
@@ -80,6 +80,9 @@
 - **[둘째 물때 선언 — 세오 쪽 (T04)](wiki/rival-gc-t04-seo.md)** · 별칭: T04 · 수정: 2026-11-03 · 상태: 확정 선언
   - Claude가 세오 쪽으로 낸 둘째 물때의 비공개 선언. 세오의 회맹 직접 참석과 일정·문구 제안, 섬에서 아버지의 흔적 살피기, 태이의 숲길 동행.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t04-seo/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t04-seo.md)
+- **[T06 — 둘째 물때의 세계 판정과 제3세력](wiki/rival-gc-t06-world.md)** · 별칭: T06, 둘째 물때 세계 판정 · 수정: 2026-11-03 · 상태: 둘째 물때 판정 확정
+  - 큰 건넘 둘째 물때의 중립 판정. 첫 맞섬 불성립의 근거표, 회맹과 서신 증언, 세오 섬 조사, 윤다 후보지 조사, 오린·테살·가뮌·비엘라·일족의 움직임, 필요한 장면과 인식 장부.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-t06-world/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t06-world.md)
 
 ## 운영 원칙
 

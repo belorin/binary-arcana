@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 23,
+  "document_count": 24,
   "documents": [
     {
       "id": "grand-questions",
@@ -561,7 +561,7 @@
       "title": "대국 기준 상태 — 큰 건넘의 계승",
       "aliases": [
         "대국 기준 상태",
-        "S1"
+        "S2"
       ],
       "category": "대국 기록",
       "tags": [
@@ -569,9 +569,9 @@
         "기준 상태",
         "큰 건넘"
       ],
-      "summary": "T03 판정을 반영한 둘째 물때 시작의 공통 기준 상태 S1. 회맹의 미합의 사항, 진영별 실제 정보, 제3세력의 독립 진행과 기존 진행자용 진상을 기록.",
+      "summary": "T06 판정으로 갱신한 셋째 물때 시작의 공통 기준 상태 S2. 여전히 열리지 않은 맞섬 셋과 한 물때의 기한, 회맹 공개 상황, 개인별 실제 인식, 제3세력의 독립 진상 및 위험을 기록.",
       "review_state": "unassessed",
-      "review_label": "S1 · 둘째 물때",
+      "review_label": "S2 · 셋째 물때",
       "last_updated_on": "2026-11-03",
       "last_enriched_on": null,
       "related_ids": [
@@ -579,7 +579,9 @@
         "scenario-great-crossing",
         "rival-gc-t01-seo",
         "rival-gc-t03-world",
-        "rival-gc-t04-seo"
+        "rival-gc-t04-seo",
+        "rival-gc-t05-yunda",
+        "rival-gc-t06-world"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-state.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-state.md",
@@ -738,6 +740,41 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t04-seo.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-t04-seo/",
       "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-t04-seo"
+    },
+    {
+      "id": "rival-gc-t06-world",
+      "title": "T06 — 둘째 물때의 세계 판정과 제3세력",
+      "aliases": [
+        "T06",
+        "둘째 물때 세계 판정"
+      ],
+      "category": "대국 기록",
+      "tags": [
+        "대국",
+        "T06",
+        "세계 진행자",
+        "둘째 물때",
+        "맞섬 불성립",
+        "인식 비대칭",
+        "큰 건넘"
+      ],
+      "summary": "큰 건넘 둘째 물때의 중립 판정. 첫 맞섬 불성립의 근거표, 회맹과 서신 증언, 세오 섬 조사, 윤다 후보지 조사, 오린·테살·가뮌·비엘라·일족의 움직임, 필요한 장면과 인식 장부.",
+      "review_state": "unassessed",
+      "review_label": "둘째 물때 판정 확정",
+      "last_updated_on": "2026-11-03",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rival-play",
+        "rival-gc-state",
+        "rival-gc-t03-world",
+        "rival-gc-t04-seo",
+        "rival-gc-t05-yunda",
+        "scenario-great-crossing"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-t06-world.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-t06-world.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/rival-gc-t06-world/",
+      "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-t06-world"
     }
   ]
 }
