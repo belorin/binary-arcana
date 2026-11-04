@@ -11,7 +11,7 @@
       "title": "대의문",
       "category": "개요",
       "status": "미정",
-      "updated": "2026-11-03",
+      "updated": "2026-11-04",
       "summary": "인류의 기원, 마법적 우주의 토대, 비인간 행위자의 역할, 다른 행성으로의 진출 한계 등 세계를 관통하는 거대한 수수께끼의 후보.",
       "tags": [
         "대의문",
@@ -25,7 +25,8 @@
         "start-here",
         "open-setting-questions",
         "seven-demon-lords",
-        "reshaping"
+        "reshaping",
+        "variable-rules-and-life"
       ],
       "aliases": [
         "거대한 의문",
@@ -277,7 +278,7 @@
       "title": "마법의 말과 감각",
       "category": "마법",
       "status": "임시 정본",
-      "updated": "2026-11-03",
+      "updated": "2026-11-04",
       "summary": "마법을 사이·알아봄·울림·결·매듭·값·엮음으로 설명하는 열두 여울과 낮은곶의 말. 받는 자리로 드러나는 재능, 바깥에서 보이는 모습, 공통마법의 예, 마법이 듣지 않을 때 원인을 가르는 법, 묘사 점검표.",
       "tags": [
         "마법",
@@ -296,7 +297,9 @@
         "rival-gc-finale-fiction",
         "aren-session-01",
         "scene-fiction-principles",
-        "grand-questions"
+        "grand-questions",
+        "reshaping",
+        "open-setting-questions"
       ],
       "aliases": [
         "사이와 결",
@@ -423,7 +426,7 @@
       "title": "낮은곶",
       "category": "장소",
       "status": "초안",
-      "updated": "2026-11-03",
+      "updated": "2026-11-04",
       "summary": "낮은 인구에도 오래 축적된 물 공급과 마법적 통행 체계를 가진 해안 정착지. 샘 한 줄기가 손상되고 물턱을 봉합한 사건이 일어났다.",
       "tags": [
         "바다",
@@ -440,7 +443,8 @@
         "causal-roleplay",
         "story-state",
         "space-codes",
-        "reshaping"
+        "reshaping",
+        "magic-senses"
       ],
       "aliases": [
         "낮은곶 경유지"

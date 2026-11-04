@@ -72,6 +72,14 @@
 
 편집 위치 기록과 본문을 분리한다. Markdown 본문은 '대화에서는', '사용자가 물었다', 'AI가 답변했다' 같은 표현 없이 독립적인 해설·논증·큐레이션으로 쓴다.
 
+
+## 흔한 오류와 커밋 전 검사
+
+- **금지:** 인덱스에 없는 배치, `"kind"`가 없는 항목, `"targets": ["reshaping"]`, 실제 절이 없는 대상, 승인되지 않은 제안을 `integrated`로 표시하는 일.
+- **허용:** `"targets": [{"doc_id": "reshaping", "section": "이야기의 기본 시대"}]`처럼 본문에 실제 있는 제목을 쓴다. 보류는 `"targets": []`와 `"reason"`을 함께 기재한다.
+- 직접 파일을 작성하면 `ingestions/index.json`의 `batches`도 동일 커밋에서 갱신한다. `inbox/` 경유 시에만 적용 스크립트가 자동 등록한다.
+- 커밋 전 `node scripts/validate-editorial.mjs` 검사를 통과하고, 가능하면 `node scripts/build.mjs`와 `node scripts/build.mjs --check`도 실행한다. 실행할 수 없다면 수동 검사하고 그 한계를 명시한다.
+
 ## 검증
 
 ```sh

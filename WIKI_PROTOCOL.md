@@ -76,6 +76,15 @@
 - 공개할 수 없는 지식은 원고와 장부 모두에 쓰지 않는다. 제목도 쓰지 않고 `withheld_count`로 개수만 남긴다.
 - 장부는 두 번째 요약 저장소가 아니다. 표제는 짧게, 설명은 원고에만 둔다.
 
+
+### 장부 작성 시 실패 방지 체크리스트
+
+1. 직접 만든 `ing-….json` 배치는 동일 커밋에서 `editorial/ingestions/index.json`의 `batches`에도 등록한다. 수신함 `inbox/` 묶음으로 제출할 때만 `scripts/apply-inbox.mjs`가 자동 등록하므로 중복 입력하지 않는다.
+2. 모든 `items[]`의 `kind`는 필수다. 값은 `concept`·`fact`·`argument`·`counterargument`·`example`·`curation`·`question`·`other` 중 하나여야 한다.
+3. `integrated`의 `targets`는 `{"doc_id":"문서-id","section":"정확한 Markdown 소제목"}` **객체** 한 개 이상이다. `["reshaping"]`처럼 문자열만 쓰거나 `section`을 추정해서 쓰면 안 된다. 해당 Markdown에 똑같은 소제목이 **정확히 한 번** 있어야 한다. 원래 생각한 문서가 아닌 다른 문서에 반영되어 있다면 실제 문서·절로 지정한다.
+4. `pending`은 `targets: []` 및 `reason`이 필수다. 검토 대기의 미승인 제안을 실제 정본 반영으로 기록하지 않는다.
+5. 가능한 환경에서는 커밋 전 `node scripts/validate-editorial.mjs`, `node scripts/build.mjs`, `node scripts/build.mjs --check`를 실행한다. 불가능하면 모든 항목의 구조와 절을 수동으로 검사하고 검증 미실행을 알린다. 검증을 꺼서 성공처럼 만들지 않는다.
+
 ## 8. 파일 규칙
 
 - 문서: `wiki/<id>.md`. 첫 줄은 `# 제목`, 다음 줄은 빈 줄. ID는 영문 소문자·숫자·하이픈.

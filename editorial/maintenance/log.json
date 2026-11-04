@@ -13,6 +13,18 @@
         "proposed": 3,
         "deferred": 2
       }
+    },
+    {
+      "version": "M002",
+      "date": "2026-11-04",
+      "scope": "재편 인접 문서·장부 복구, 단방향 연결 4건, 유사 쌍 1건 및 보류 6건 점검; 나머지는 이월",
+      "report": "editorial/maintenance/reports/M002.md",
+      "counts": {
+        "fixed": 7,
+        "reported": 3,
+        "proposed": 1,
+        "deferred": 4
+      }
     }
   ]
 }

@@ -10,154 +10,216 @@
       "title": "이야기의 기본 시대는 길이 줄어드는 가운데 새 길을 여는 시대",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "reshaping",
+          "section": "이야기의 기본 시대"
+        }
+      ],
+      "kind": "concept"
     },
     {
       "id": "k02",
       "title": "규칙 자체가 한 방향으로 서서히 변함",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "reshaping",
+          "section": "진행자용 — 인물들은 모름"
+        }
+      ],
+      "kind": "fact"
     },
     {
       "id": "k03",
       "title": "일상의 마법까지 변화가 미침",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "reshaping",
+          "section": "세계 안에서 보이는 것"
+        }
+      ],
+      "kind": "fact"
     },
     {
       "id": "k04",
       "title": "옛 자리가 닫히고 새 자리가 열림",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "reshaping",
+          "section": "진행자용 — 인물들은 모름"
+        }
+      ],
+      "kind": "concept"
     },
     {
       "id": "k05",
       "title": "다른 생명과 사물에게 새 자리가 먼저 열림",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "reshaping",
+          "section": "진행자용 — 인물들은 모름"
+        }
+      ],
+      "kind": "fact"
     },
     {
       "id": "k06",
       "title": "전체를 아는 인물은 없음",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "reshaping",
+          "section": "진행자용 — 인물들은 모름"
+        }
+      ],
+      "kind": "fact"
     },
     {
       "id": "k07",
       "title": "P6는 옛 자리가 돌아오는 중",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "reshaping",
+          "section": "진행자용 — 인물들은 모름"
+        }
+      ],
+      "kind": "fact"
     },
     {
       "id": "k08",
       "title": "직전 재편은 수백 해 전",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "reshaping",
+          "section": "연대의 골격"
+        }
+      ],
+      "kind": "fact"
     },
     {
       "id": "k09",
       "title": "마왕들은 직전 재편을 겪음",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "reshaping",
+          "section": "진행자용 — 인물들은 모름"
+        }
+      ],
+      "kind": "fact"
     },
     {
       "id": "k10",
       "title": "낮은곶은 T0보다 몇 해 앞",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "reshaping",
+          "section": "연대의 골격"
+        }
+      ],
+      "kind": "fact"
     },
     {
       "id": "k11",
       "title": "큰 건넘 축소는 재편의 사례",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "reshaping",
+          "section": "진행자용 — 인물들은 모름"
+        }
+      ],
+      "kind": "fact"
     },
     {
       "id": "k12",
       "title": "인류 수백만 명 임시 정본",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "open-setting-questions",
+          "section": "인구와 종족의 미정 문제"
+        }
+      ],
+      "kind": "fact"
     },
     {
       "id": "k13",
       "title": "누리에 비인간 지성 존재 공존",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "start-here",
+          "section": "작은 인구와 다양하게 겹치는 삶의 방식"
+        }
+      ],
+      "kind": "fact"
     },
     {
       "id": "k14",
       "title": "세계의 규칙은 왜 바뀌는가",
       "status": "integrated",
       "targets": [
-        "reshaping"
-      ]
+        {
+          "doc_id": "grand-questions",
+          "section": "세계의 규칙은 왜 바뀌는가?"
+        }
+      ],
+      "kind": "question"
     },
     {
       "id": "k15",
       "title": "오래된 사물이 새 자리를 먼저 알아봄",
       "status": "pending",
       "targets": [],
-      "reason": "Claude의 제안. 사용자 승인 전 정본 제외"
+      "reason": "Claude의 제안. 사용자 승인 전 정본 제외",
+      "kind": "concept"
     },
     {
       "id": "k16",
       "title": "타는 건넘·고리의 그늘 전승 해석",
       "status": "pending",
       "targets": [],
-      "reason": "Claude의 제안. 사용자 승인 전 정본 제외"
+      "reason": "Claude의 제안. 사용자 승인 전 정본 제외",
+      "kind": "other"
     },
     {
       "id": "k17",
       "title": "깊은 사이의 폐쇄와 세대 서열",
       "status": "pending",
       "targets": [],
-      "reason": "Claude의 제안. 사용자 승인 전 정본 제외"
+      "reason": "Claude의 제안. 사용자 승인 전 정본 제외",
+      "kind": "concept"
     },
     {
       "id": "k18",
       "title": "일곱 일족의 차별적 대응",
       "status": "pending",
       "targets": [],
-      "reason": "Claude의 제안. 사용자 승인 전 정본 제외"
+      "reason": "Claude의 제안. 사용자 승인 전 정본 제외",
+      "kind": "concept"
     },
     {
       "id": "k19",
       "title": "결의 역서 관측 기록",
       "status": "pending",
       "targets": [],
-      "reason": "Claude의 제안. 사용자 승인 전 정본 제외"
+      "reason": "Claude의 제안. 사용자 승인 전 정본 제외",
+      "kind": "concept"
     },
     {
       "id": "k20",
       "title": "비인간 지성의 선행 인지",
       "status": "pending",
       "targets": [],
-      "reason": "Claude의 제안. 사용자 승인 전 정본 제외"
+      "reason": "Claude의 제안. 사용자 승인 전 정본 제외",
+      "kind": "question"
     }
   ]
 }

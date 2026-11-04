@@ -13,6 +13,15 @@
 | 새 문서 만들기 | [GUIDE.md](./GUIDE.md)의 문서 유형 + `node scripts/new-doc.mjs --list` |
 | 사이트·스크립트·워크플로 수정 | [README.md](./README.md) |
 
+
+## 증보 장부 커밋 전 필수 검사
+
+- **직접 편집**: `editorial/ingestions/ing-YYYYMMDD-slug.json`을 생성하면 같은 **단일 커밋**에서 `editorial/ingestions/index.json`의 `batches`에도 배치 ID를 한 번만 추가한다. **`inbox/` 묶음 경유**일 때만 적용 스크립트가 자동 등록하므로 수동 등록하지 않는다.
+- 모든 `items[]`에 `kind`를 반드시 쓰고, `integrated`의 `targets`는 `[{"doc_id":"실제-id","section":"Markdown의 정확한 절 제목"}]` 형식으로 쓴다. 문자열 배열 `["reshaping"]`, `kind` 생략, 존재하지 않는 절 제목은 금지다.
+- 미승인 제안은 `integrated`로 승격하지 말고 `pending`, `targets: []`, `reason`을 유지한다. 내용이 다른 문서의 절에 있으면 그 문서와 절을 대상으로 쓴다.
+- **커밋 전에** `node scripts/validate-editorial.mjs`, `node scripts/build.mjs`, `node scripts/build.mjs --check`가 통과하는지 확인한다. 명령을 실행할 수 없으면 JSON 필드·인덱스·실제 절 제목을 수동으로 전수 대조하고 **검증 미실행 사실을 보고**한다. 형식 검증을 삭제하거나 느슨하게 바꾸지 않는다.
+- 정확한 예시는 [editorial/README.md](./editorial/README.md)에 있다.
+
 ## 어떤 작업에서도 지키는 것
 
 - 본문의 정본은 `wiki/*.md`, 메타데이터는 `wiki/manifest.json`, 의미 관계는 `wiki/relations.json`, 달력은 `wiki/calendar.json`, 사이트 설정은 `site.config.json`이다. 편집 기록의 정본은 `editorial/ingestions/`(증보 장부), `editorial/crosslinks/index.json`(교차 제안), `editorial/maintenance/log.json`과 `reports/`(정비)다.
