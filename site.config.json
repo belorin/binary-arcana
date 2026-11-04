@@ -14,6 +14,7 @@
     "light": "#eceff8"
   },
   "categories": [
+    "시작하기",
     "개요",
     "천체",
     "마법",
@@ -33,29 +34,51 @@
     "title": "쌍성계 탐색",
     "featureLabel": "오늘 펼쳐 볼 설정",
     "hero": {
-      "kicker": "쌍성계 마법 세계관",
+      "kicker": "마법으로 우주에 나간 SF 판타지",
       "title": "Binary Arcana",
-      "lead": "두 태양이 서로를 도는 하늘 아래, 적은 수의 인류가 관계로 성립하는 마법만으로 다른 행성에 닿았다. 그러나 도달한 곳을 지배하지는 못했다. 길은 귀하고, 다툼은 결투와 약속의 문구로 좁혀진다.",
+      "lead": "두 개의 해가 서로를 도는 별계. 사람들은 로켓이 아니라 마법으로 연 항로를 타고 행성 사이를 오간다. 항로력 212년, 행성마다 항구가 있지만 그 너머는 아직 거의 모르는 땅이다. 탐사대가 그곳으로 간다.",
       "actions": [
         {
-          "href": "#start-here",
-          "label": "세계 개요 읽기"
+          "href": "#welcome",
+          "label": "처음 오셨나요"
         },
         {
-          "href": "#scenario-great-crossing",
-          "label": "시나리오 고르기"
+          "href": "#open-routes-era",
+          "label": "항로 시대 읽기"
         },
         {
-          "href": "#story-state",
-          "label": "진행 중인 이야기"
+          "href": "#rulebook",
+          "label": "룰북으로 놀기"
         }
       ]
     },
     "sections": [
       {
         "type": "cards",
-        "title": "이야기와 시나리오",
-        "lead": "세력과 시작 위치를 골라 들어가거나, 진행 중인 이야기를 이어 간다.",
+        "title": "들어가는 문",
+        "lead": "처음이라면 이 셋이면 충분하다.",
+        "items": [
+          {
+            "id": "welcome",
+            "kicker": "입구",
+            "desc": "이 위키로 할 수 있는 세 가지. 룰북을 AI에 넣어 노는 법."
+          },
+          {
+            "id": "open-routes-era",
+            "kicker": "세계 안내 · 쉬운 말",
+            "desc": "항로력 212년. 행성들, 건넘선과 항로, 짝돌과 숨옷, 상회와 맹약소, 돌아온 별의 개척."
+          },
+          {
+            "id": "rulebook",
+            "kicker": "룰북 · 2d6",
+            "desc": "AI가 진행자가 되는 한 파일짜리 룰북. 준비된 탐사대와 첫 임무 「돌아온 별, 조용한 우물」."
+          }
+        ]
+      },
+      {
+        "type": "cards",
+        "title": "서고 — 옛 시대의 이야기",
+        "lead": "항로 시대보다 앞선 시대의 시나리오와 기록. 깊이 읽고 싶은 사람을 위한 곳.",
         "items": [
           {
             "id": "scenario-great-crossing",
@@ -77,7 +100,7 @@
       },
       {
         "type": "cards",
-        "title": "세계의 기둥",
+        "title": "서고 — 세계를 짓는 설정",
         "style": "compact",
         "items": [
           {

@@ -128,6 +128,9 @@ button.home-topic:hover{background:var(--light);border-color:color-mix(in srgb,v
 .prose code{font-size:.9em;background:var(--soft);border-radius:3px;padding:1px 4px}
 .prose strong{font-weight:750}
 .prose blockquote{border-left:3px solid var(--accent);color:var(--muted);margin:18px 0;padding:2px 16px}
+.prose blockquote p{margin:0 0 10px}.prose blockquote p:last-child{margin-bottom:0}
+.prose pre.code-block{margin:18px 0;padding:14px 16px;background:var(--soft);border-radius:8px;overflow-x:auto;white-space:pre-wrap;word-break:break-word;font-size:13px;line-height:1.65}
+.prose pre.code-block code{background:none;padding:0;font-size:inherit}
 .prose .table-scroll{max-width:100%;overflow-x:auto;margin:0 0 22px;border:1px solid var(--line);border-radius:8px}
 .prose .table-scroll:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
 .prose table{width:100%;border-collapse:collapse;font-size:.9em;line-height:1.65}

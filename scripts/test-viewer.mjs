@@ -10,7 +10,7 @@ const site = { name: "시험 위키", url: "https://example.github.io/wiki/", re
   calendar: false, comments: null };
 const notes = [
   { id: "a", title: "가 문서", category: "하나", status: "초고", updated: "2026-01-02", summary: "가 요약", tags: ["t"], source: "", related: ["b"],
-    body: "## 첫 절\n\n본문 [나](#b) 링크와 **강조**.\n\n## 둘째 절\n\n| 열 | 값 |\n| --- | ---: |\n| x | 1 |\n\n- 목록" },
+    body: "## 첫 절\n\n본문 [나](#b) 링크와 **강조**.\n\n```\n<코드> 줄\n둘째 줄\n```\n\n> 인용 하나\n>\n> 인용 둘\n\n## 둘째 절\n\n| 열 | 값 |\n| --- | ---: |\n| x | 1 |\n\n- 목록" },
   { id: "b", title: "나 문서", category: "둘", status: "검토", updated: "2026-01-03", summary: "나 요약", tags: [], source: "출처", related: [], body: "짧은 <b>본문</b>." },
 ];
 function element() {
@@ -38,6 +38,8 @@ let html = go("#a");
 assert.match(html, /<h1>가 문서<\/h1>/);
 assert.match(html, /<h2 id="a-section-1">첫 절<\/h2>/);
 assert.match(html, /<a href="#b">나<\/a>/);
+assert.match(html, /<pre class="code-block"><code>&lt;코드&gt; 줄\n둘째 줄<\/code><\/pre>/, "fenced code keeps lines and escapes");
+assert.match(html, /<blockquote><p>인용 하나<\/p><p>인용 둘<\/p><\/blockquote>/, "a lone > splits a quote into paragraphs");
 assert.match(html, /<strong>강조<\/strong>/);
 assert.match(html, /<table>.*<td class="align-right">1<\/td>/s);
 assert.match(html, /href="https:\/\/github\.com\/example\/wiki\/edit\/main\/wiki\/a\.md"/);

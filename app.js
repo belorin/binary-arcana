@@ -99,15 +99,21 @@ function tableRow(line) {
   if (lastSeparator === value.length - 1) cells.pop();
   return cells.length ? cells : null;
 }
-// Supports paragraphs, ##–#### headings, lists, quotes, rules, emphasis,
-// inline code, links and Markdown tables.
+// Supports paragraphs, ##–#### headings, lists, quotes (a lone > splits a quote
+// into paragraphs), rules, fenced code blocks, emphasis, inline code, links and
+// Markdown tables.
 function renderMarkdown(markdown, docId) {
   const lines = markdown.replace(/\r\n/g, '\n').split('\n');
   const toc = [];
   let html = '', para = [], list = null, quote = [];
   const flushPara = () => { if (para.length) { html += '<p>' + para.map(inline).join(' ') + '</p>'; para = []; } };
   const flushList = () => { if (list) { html += '</' + list + '>'; list = null; } };
-  const flushQuote = () => { if (quote.length) { html += '<blockquote>' + quote.map(inline).join(' ') + '</blockquote>'; quote = []; } };
+  const flushQuote = () => {
+    if (!quote.length) return;
+    const groups = quote.join('\n').split(/\n\n+/).map(g => g.split('\n').filter(Boolean).map(inline).join(' ')).filter(Boolean);
+    html += '<blockquote>' + (groups.length > 1 ? groups.map(g => '<p>' + g + '</p>').join('') : groups.join('')) + '</blockquote>';
+    quote = [];
+  };
   const flushAll = () => { flushPara(); flushList(); flushQuote(); };
   for (let index = 0; index < lines.length; index++) {
     const value = lines[index].trim();
@@ -119,6 +125,14 @@ function renderMarkdown(markdown, docId) {
     const headers = tableRow(value);
     const divider = headers && tableRow(lines[index + 1] || '');
     if (!value) { flushAll(); continue; }
+    if (value.startsWith('```')) {
+      flushAll();
+      const code = [];
+      while (++index < lines.length && !lines[index].trim().startsWith('```')) code.push(lines[index]);
+      html += '<pre class="code-block"><code>' + esc(code.join('\n')) + '</code></pre>';
+      continue;
+    }
+    if (value === '>') { if (quote.length) quote.push(''); continue; }
     if (image) {
       flushAll();
       html += '<figure class="figure"><a href="' + esc(image[2]) + '" target="_blank" rel="noopener noreferrer">' +

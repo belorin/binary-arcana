@@ -50,6 +50,34 @@
       "type": "elaborates",
       "evidence_section": "4. 값줄",
       "reason": "연대기의 첫 규칙의 세대와 매듭 기록의 시작을 장면으로 보여 준다."
+    },
+    {
+      "from": "welcome",
+      "to": "open-routes-era",
+      "type": "introduces",
+      "evidence_section": "첫째 문 — 세계를 읽는다",
+      "reason": "처음 온 사람을 쉬운 말 세계 안내로 이끈다."
+    },
+    {
+      "from": "welcome",
+      "to": "rulebook",
+      "type": "introduces",
+      "evidence_section": "둘째 문 — AI와 롤플레잉을 한다",
+      "reason": "룰북을 AI에 넣어 노는 법을 안내한다."
+    },
+    {
+      "from": "rulebook",
+      "to": "open-routes-era",
+      "type": "elaborates",
+      "evidence_section": "1. 세계 한 장 요약",
+      "reason": "항로 시대를 롤플레잉 규칙과 첫 임무로 풀어낸다."
+    },
+    {
+      "from": "open-routes-era",
+      "to": "reshaping",
+      "type": "elaborates",
+      "evidence_section": "다른 시대와의 관계",
+      "reason": "재편 연대표의 다음 시대를 쉬운 말로 채운다."
     }
   ]
 }

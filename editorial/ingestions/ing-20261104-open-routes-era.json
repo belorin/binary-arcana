@@ -1,0 +1,129 @@
+{
+  "id": "ing-20261104-open-routes-era",
+  "processed_on": "2026-11-04",
+  "coverage": "visible-complete",
+  "limit_note": "사용자가 시대(안정된 행성 간 문명), 플레이어(개척지 탐사대), 쉬운 말, 판정(2d6과 다른 확률 장치)을 정하고 Claude가 쓴 임시 정본",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "항로 시대: T0에서 약 삼백 해 뒤, 항로력 212년. 정기 항로로 이어진 행성 간 문명",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-routes-era",
+          "section": "한눈에"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "행성별 도시와 개척지, 돌아온 별(P6)의 귀환과 첫 항로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-routes-era",
+          "section": "행성들"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "항로, 건넘선, 문, 틈, 길잡이, 개척 항로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-routes-era",
+          "section": "배와 항로"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "생활 도구: 짝돌, 숨옷, 불돌, 등빛, 아물림 막, 결바늘, 묵힘 상자. 도구를 길들이는 문화",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-routes-era",
+          "section": "생활과 도구"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "세력: 항로청, 검은모래 상회, 결 학회, 맹약소, 자유 길잡이들",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-routes-era",
+          "section": "세력"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "fact",
+      "title": "사람 아닌 이웃: 켜사람, 함께 숨쉬는 사람들, 먼저 온 것들",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-routes-era",
+          "section": "사람 아닌 이웃들"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "other",
+      "title": "진행자용: 틈은 마왕 질서의 이음매, 맹약소 증인은 서약 일족, 돌아온 별의 매듭",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-routes-era",
+          "section": "진행자용 — 인물들은 모름"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "룰북: 2d6 판정, 신탁, 시계, 하늘 굴림, 무작위 표, 마법과 값의 규칙",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rulebook",
+          "section": "2. 판정 — 주사위 두 개"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "example",
+      "title": "첫 임무 돌아온 별, 조용한 우물",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rulebook",
+          "section": "9. 임무"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "curation",
+      "title": "처음 온 사람을 위한 입구와 서고 안내",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "welcome",
+          "section": "셋째 문 — 서고에서 깊이 읽는다"
+        }
+      ]
+    }
+  ]
+}

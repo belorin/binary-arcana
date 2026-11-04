@@ -221,6 +221,13 @@
       },
       "doc": "binary-system",
       "section": "P3에서 쓰는 시간의 단위"
+    },
+    {
+      "id": "c013",
+      "label": "항로 시대 — 항로력 212년",
+      "era": 6,
+      "when": "T0보다 약 삼백 해 뒤",
+      "doc": "open-routes-era"
     }
   ]
 }

@@ -4,6 +4,102 @@
   "linkAliases": {},
   "documents": [
     {
+      "path": "wiki/welcome.md",
+      "publish": true,
+      "order": -3,
+      "id": "welcome",
+      "title": "처음 오셨나요",
+      "category": "시작하기",
+      "status": "입구",
+      "updated": "2026-11-04",
+      "summary": "처음 온 사람을 위한 입구. 세계를 쉬운 말로 읽는 문, 룰북을 AI에게 넣어 롤플레잉하는 문, 깊은 설정 문서의 서고로 가는 문.",
+      "tags": [
+        "입구",
+        "시작",
+        "롤플레잉",
+        "AI"
+      ],
+      "source": "사용자가 시대(안정된 행성 간 문명), 플레이어(개척지 탐사대), 쉬운 말, 판정(2d6과 다른 확률 장치)을 정하고 Claude가 쓴 임시 정본",
+      "related": [
+        "open-routes-era",
+        "rulebook",
+        "start-here"
+      ],
+      "aliases": [
+        "입구",
+        "시작하기",
+        "처음"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-04"
+    },
+    {
+      "path": "wiki/open-routes-era.md",
+      "publish": true,
+      "order": -2,
+      "id": "open-routes-era",
+      "title": "항로 시대 — 세계 안내",
+      "category": "시작하기",
+      "status": "임시 정본 · 쉬운 말 안내",
+      "updated": "2026-11-04",
+      "summary": "T0에서 약 삼백 해 뒤, 행성들이 마법의 정기 항로로 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지.",
+      "tags": [
+        "항로 시대",
+        "SF 판타지",
+        "개척",
+        "세계 안내"
+      ],
+      "source": "사용자가 시대(안정된 행성 간 문명), 플레이어(개척지 탐사대), 쉬운 말, 판정(2d6과 다른 확률 장치)을 정하고 Claude가 쓴 임시 정본",
+      "related": [
+        "welcome",
+        "rulebook",
+        "reshaping",
+        "demon-epoch-chronicle",
+        "space-codes",
+        "binary-system",
+        "magic-senses"
+      ],
+      "aliases": [
+        "항로 시대",
+        "항로력",
+        "돌아온 별"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-04"
+    },
+    {
+      "path": "wiki/rulebook.md",
+      "publish": true,
+      "order": -1,
+      "id": "rulebook",
+      "title": "탐사대 룰북",
+      "category": "시작하기",
+      "status": "룰북",
+      "updated": "2026-11-04",
+      "summary": "AI에게 통째로 주면 진행자가 되어 개척지 탐사 롤플레잉을 진행하는 한 파일짜리 룰북. 진행자 지침, 2d6 판정, 탐사대원 만들기, 마법과 값, 신탁·시계·하늘 굴림·무작위 표, 첫 임무 「돌아온 별, 조용한 우물」.",
+      "tags": [
+        "룰북",
+        "롤플레잉",
+        "2d6",
+        "탐사대",
+        "Gemini"
+      ],
+      "source": "사용자가 시대(안정된 행성 간 문명), 플레이어(개척지 탐사대), 쉬운 말, 판정(2d6과 다른 확률 장치)을 정하고 Claude가 쓴 임시 정본",
+      "related": [
+        "welcome",
+        "open-routes-era",
+        "magic-senses",
+        "demon-epoch-chronicle"
+      ],
+      "aliases": [
+        "룰북",
+        "탐사대",
+        "조용한 우물"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-04"
+    },
+    {
       "path": "wiki/grand-questions.md",
       "publish": true,
       "order": 0,
@@ -65,7 +161,9 @@
         "knowledge-horizons",
         "variable-rules-and-life",
         "binary-system",
-        "reshaping"
+        "reshaping",
+        "welcome",
+        "open-routes-era"
       ],
       "aliases": [
         "세계 개요"
@@ -1553,7 +1651,9 @@
         "open-setting-questions",
         "magical-distance-and-passage",
         "start-here",
-        "reshaping"
+        "reshaping",
+        "welcome",
+        "open-routes-era"
       ],
       "aliases": [
         "행성 설정",
@@ -1570,7 +1670,7 @@
       "title": "공간 코드표",
       "category": "천체",
       "status": "임시 정본",
-      "updated": "2026-11-03",
+      "updated": "2026-11-04",
       "summary": "행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 이름 붙이는 원칙. 다른 행성은 사람이 아는 곳에만 코드를 붙인다. 기존 장소의 대응과 일곱 마왕의 시대 영향권에 대한 제안.",
       "tags": [
         "코드",
@@ -1586,7 +1686,9 @@
         "scenario-great-crossing",
         "low-cape",
         "demon-epoch-framework",
-        "demon-epoch-chronicle"
+        "demon-epoch-chronicle",
+        "welcome",
+        "open-routes-era"
       ],
       "aliases": [
         "공간 코드",
@@ -1654,7 +1756,9 @@
         "seven-demon-lords",
         "grand-questions",
         "open-setting-questions",
-        "demon-epoch-chronicle"
+        "demon-epoch-chronicle",
+        "welcome",
+        "open-routes-era"
       ],
       "aliases": [
         "재편",
