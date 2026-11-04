@@ -12,7 +12,7 @@
   - 처음 온 사람을 위한 입구. 세계를 쉬운 말로 읽는 문, 룰북을 AI에게 넣어 롤플레잉하는 문, 깊은 설정 문서의 서고로 가는 문.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/welcome/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/welcome.md)
 - **[항로 시대 — 세계 안내](wiki/open-routes-era.md)** · 별칭: 항로 시대, 항로력, 돌아온 별 · 수정: 2026-11-04 · 상태: 임시 정본 · 쉬운 말 안내
-  - T0에서 약 삼백 해 뒤, 행성들이 마법의 정기 항로로 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지.
+  - T0에서 약 삼백 해 뒤, 닫힘의 세기를 지나 행성들이 나눔 사이의 정기 항로로 다시 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 지난 삼백 해와 남은 것, 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/open-routes-era/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md)
 - **[탐사대 룰북](wiki/rulebook.md)** · 별칭: 룰북, 탐사대, 조용한 우물 · 수정: 2026-11-04 · 상태: 룰북
   - AI에게 통째로 주면 진행자가 되어 개척지 탐사 롤플레잉을 진행하는 한 파일짜리 룰북. 진행자 지침, 2d6 판정, 탐사대원 만들기, 마법과 값, 신탁·시계·하늘 굴림·무작위 표, 첫 임무 「돌아온 별, 조용한 우물」.
