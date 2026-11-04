@@ -11,8 +11,92 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 332,
+  "edge_count": 358,
   "edges": [
+    {
+      "from": "welcome",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "welcome",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "space-codes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "binary-system",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "welcome",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
     {
       "from": "grand-questions",
       "to": "start-here",
@@ -256,6 +340,18 @@
     {
       "from": "start-here",
       "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "welcome",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "open-routes-era",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1838,6 +1934,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "binary-system",
+      "to": "welcome",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "binary-system",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "space-codes",
       "to": "binary-system",
       "type": "related_to",
@@ -1870,6 +1978,18 @@
     {
       "from": "space-codes",
       "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-codes",
+      "to": "welcome",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-codes",
+      "to": "open-routes-era",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1964,6 +2084,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "reshaping",
+      "to": "welcome",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "start-here",
       "to": "editing-guide",
       "type": "introduces",
@@ -2018,6 +2150,38 @@
       "basis": "curated",
       "evidence_section": "4. 값줄",
       "reason": "연대기의 첫 규칙의 세대와 매듭 기록의 시작을 장면으로 보여 준다."
+    },
+    {
+      "from": "welcome",
+      "to": "open-routes-era",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "첫째 문 — 세계를 읽는다",
+      "reason": "처음 온 사람을 쉬운 말 세계 안내로 이끈다."
+    },
+    {
+      "from": "welcome",
+      "to": "rulebook",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "둘째 문 — AI와 롤플레잉을 한다",
+      "reason": "룰북을 AI에 넣어 노는 법을 안내한다."
+    },
+    {
+      "from": "rulebook",
+      "to": "open-routes-era",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "1. 세계 한 장 요약",
+      "reason": "항로 시대를 롤플레잉 규칙과 첫 임무로 풀어낸다."
+    },
+    {
+      "from": "open-routes-era",
+      "to": "reshaping",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "다른 시대와의 관계",
+      "reason": "재편 연대표의 다음 시대를 쉬운 말로 채운다."
     }
   ]
 }

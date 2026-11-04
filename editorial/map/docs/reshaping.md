@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `reshaping` · 분류: 사건 · 공개 · 원고: [wiki/reshaping.md](../../../wiki/reshaping.md) · 3,935자 · 절 7개
+- id: `reshaping` · 분류: 사건 · 공개 · 원고: [wiki/reshaping.md](../../../wiki/reshaping.md) · 4,056자 · 절 7개
 - 별칭: 재편, 이야기의 시대, 길이 줄어드는 시대
 - 요약: 길들이 줄어드는 가운데 새 길을 여는 이야기의 기본 시대. 세계 안에서 보이는 징후, 연대의 순서, 진행자용 진상과 검토 대기 제안.
 - 태그: 재편, 이야기의 시대, 연대, 빈자리, 진행자용
 - 수정일: 2026-11-04 · 실제 증보일: 미확인 · 검토: 없음
-- 관련 문서: `start-here`, `variable-rules-and-life`, `magic-senses`, `binary-system`, `sky-positions`, `rival-gc-state`, `low-cape`, `seven-demon-lords`, `grand-questions`, `open-setting-questions`, `demon-epoch-chronicle`
+- 관련 문서: `start-here`, `variable-rules-and-life`, `magic-senses`, `binary-system`, `sky-positions`, `rival-gc-state`, `low-cape`, `seven-demon-lords`, `grand-questions`, `open-setting-questions`, `demon-epoch-chronicle`, `welcome`, `open-routes-era`
 
 ## 절 목차
 
@@ -16,11 +16,11 @@
 - (도입부) · L2–3 · 233자 · `206f5714` — 임시 정본 · 사용자가 문답으로 정하고 Claude가 정리함.
 - 이야기의 기본 시대 · L5–9 · 252자 · `8032b191` — 소설과 롤플레잉의 기본 시대는 이미 닿았던 길들이 줄어드는 가운데, 누군가는 새 길을 열어야 하는 시대다.
 - 세계 안에서 보이는 것 · L11–18 · 622자 · `77cd4d16` — 길이 좁아진다. 큰 건넘은 큰 건넘의 계승에서 한 사람의 폭으로만 열렸다.
-- 연대의 골격 · L20–32 · 592자 · `a39fd9be` — 원년이 없으므로 큰 순서만 적는다.
-- 진행자용 — 인물들은 모름 · L34–45 · 1,012자 · `177198e1` — 원인: 우주의 규칙 자체가 바뀌고 있다.
-- 진행할 때 · L47–51 · 318자 · `efe340fb` — 재편은 시대의 배경이지 매 장면의 원인이 아니다.
-- 검토 대기 제안 — 정본 아님 · L53–62 · 522자 · `01c18bff` — Claude가 문답 중에 낸 해석이다.
-- 아직 정하지 않은 것 · L64–71 · 236자 · `1a64a448` — 낮은곶 사건과 T0의 정확한 간격.
+- 연대의 골격 · L20–33 · 713자 · `f1b6e86d` — 원년이 없으므로 큰 순서만 적는다.
+- 진행자용 — 인물들은 모름 · L35–46 · 1,012자 · `177198e1` — 원인: 우주의 규칙 자체가 바뀌고 있다.
+- 진행할 때 · L48–52 · 318자 · `efe340fb` — 재편은 시대의 배경이지 매 장면의 원인이 아니다.
+- 검토 대기 제안 — 정본 아님 · L54–63 · 522자 · `01c18bff` — Claude가 문답 중에 낸 해석이다.
+- 아직 정하지 않은 것 · L65–72 · 236자 · `1a64a448` — 낮은곶 사건과 T0의 정확한 간격.
 
 ## 장부에 기록된 반영 지식
 
@@ -43,3 +43,4 @@
 ## 확인된 의미 관계
 
 - ← `demon-epoch-chronicle` · elaborates · 근거 절(demon-epoch-chronicle): 7. 그 뒤
+- ← `open-routes-era` · elaborates · 근거 절(open-routes-era): 다른 시대와의 관계

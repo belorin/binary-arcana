@@ -6,6 +6,18 @@
 - [관계](ai/relations.json)
 - [llms.txt](llms.txt)
 
+## 시작하기
+
+- **[처음 오셨나요](wiki/welcome.md)** · 별칭: 입구, 시작하기, 처음 · 수정: 2026-11-04 · 상태: 입구
+  - 처음 온 사람을 위한 입구. 세계를 쉬운 말로 읽는 문, 룰북을 AI에게 넣어 롤플레잉하는 문, 깊은 설정 문서의 서고로 가는 문.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/welcome/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/welcome.md)
+- **[항로 시대 — 세계 안내](wiki/open-routes-era.md)** · 별칭: 항로 시대, 항로력, 돌아온 별 · 수정: 2026-11-04 · 상태: 임시 정본 · 쉬운 말 안내
+  - T0에서 약 삼백 해 뒤, 행성들이 마법의 정기 항로로 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/open-routes-era/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md)
+- **[탐사대 룰북](wiki/rulebook.md)** · 별칭: 룰북, 탐사대, 조용한 우물 · 수정: 2026-11-04 · 상태: 룰북
+  - AI에게 통째로 주면 진행자가 되어 개척지 탐사 롤플레잉을 진행하는 한 파일짜리 룰북. 진행자 지침, 2d6 판정, 탐사대원 만들기, 마법과 값, 신탁·시계·하늘 굴림·무작위 표, 첫 임무 「돌아온 별, 조용한 우물」.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rulebook/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md)
+
 ## 개요
 
 - **[대의문](wiki/grand-questions.md)** · 별칭: 거대한 의문, 세계의 큰 수수께끼 · 수정: 2026-11-04 · 상태: 미정
@@ -23,7 +35,7 @@
 - **[쌍성계와 여섯 행성](wiki/binary-system.md)** · 별칭: 행성 설정, 두 해 · 수정: 2026-11-04 · 상태: 임시 정본
   - 두 해(큰 해·작은 해)의 겉모습과 40날의 공전, P3 기준의 날·물때·철·겹침철·해, 여섯 행성(해곁별·샛별·누리·건너별·느림별·빈자리)의 물리 조건과 사람이 아는 한 귀퉁이, 모르는 땅.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/binary-system/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/binary-system.md)
-- **[공간 코드표](wiki/space-codes.md)** · 별칭: 공간 코드, 장소 코드 · 수정: 2026-11-03 · 상태: 임시 정본
+- **[공간 코드표](wiki/space-codes.md)** · 별칭: 공간 코드, 장소 코드 · 수정: 2026-11-04 · 상태: 임시 정본
   - 행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 이름 붙이는 원칙. 다른 행성은 사람이 아는 곳에만 코드를 붙인다. 기존 장소의 대응과 일곱 마왕의 시대 영향권에 대한 제안.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/space-codes/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/space-codes.md)
 - **[시점별 천체 배치](wiki/sky-positions.md)** · 별칭: 천체 배치, T0 · 수정: 2026-11-03 · 상태: 임시 정본 · 계산 기록

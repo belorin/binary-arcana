@@ -7,8 +7,104 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 49,
+  "document_count": 52,
   "documents": [
+    {
+      "id": "welcome",
+      "title": "처음 오셨나요",
+      "aliases": [
+        "입구",
+        "시작하기",
+        "처음"
+      ],
+      "category": "시작하기",
+      "tags": [
+        "입구",
+        "시작",
+        "롤플레잉",
+        "AI"
+      ],
+      "summary": "처음 온 사람을 위한 입구. 세계를 쉬운 말로 읽는 문, 룰북을 AI에게 넣어 롤플레잉하는 문, 깊은 설정 문서의 서고로 가는 문.",
+      "review_state": "unassessed",
+      "review_label": "입구",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
+      "related_ids": [
+        "open-routes-era",
+        "rulebook",
+        "start-here"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/welcome.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/welcome.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/welcome/",
+      "app_url": "https://belorin.github.io/binary-arcana/#welcome"
+    },
+    {
+      "id": "open-routes-era",
+      "title": "항로 시대 — 세계 안내",
+      "aliases": [
+        "항로 시대",
+        "항로력",
+        "돌아온 별"
+      ],
+      "category": "시작하기",
+      "tags": [
+        "항로 시대",
+        "SF 판타지",
+        "개척",
+        "세계 안내"
+      ],
+      "summary": "T0에서 약 삼백 해 뒤, 행성들이 마법의 정기 항로로 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지.",
+      "review_state": "unassessed",
+      "review_label": "임시 정본 · 쉬운 말 안내",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
+      "related_ids": [
+        "welcome",
+        "rulebook",
+        "reshaping",
+        "demon-epoch-chronicle",
+        "space-codes",
+        "binary-system",
+        "magic-senses"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-routes-era.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/open-routes-era/",
+      "app_url": "https://belorin.github.io/binary-arcana/#open-routes-era"
+    },
+    {
+      "id": "rulebook",
+      "title": "탐사대 룰북",
+      "aliases": [
+        "룰북",
+        "탐사대",
+        "조용한 우물"
+      ],
+      "category": "시작하기",
+      "tags": [
+        "룰북",
+        "롤플레잉",
+        "2d6",
+        "탐사대",
+        "Gemini"
+      ],
+      "summary": "AI에게 통째로 주면 진행자가 되어 개척지 탐사 롤플레잉을 진행하는 한 파일짜리 룰북. 진행자 지침, 2d6 판정, 탐사대원 만들기, 마법과 값, 신탁·시계·하늘 굴림·무작위 표, 첫 임무 「돌아온 별, 조용한 우물」.",
+      "review_state": "unassessed",
+      "review_label": "룰북",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
+      "related_ids": [
+        "welcome",
+        "open-routes-era",
+        "magic-senses",
+        "demon-epoch-chronicle"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rulebook.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/rulebook/",
+      "app_url": "https://belorin.github.io/binary-arcana/#rulebook"
+    },
     {
       "id": "grand-questions",
       "title": "대의문",
@@ -150,7 +246,9 @@
         "knowledge-horizons",
         "variable-rules-and-life",
         "binary-system",
-        "reshaping"
+        "reshaping",
+        "welcome",
+        "open-routes-era"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/start-here.md",
@@ -1562,7 +1660,9 @@
         "open-setting-questions",
         "magical-distance-and-passage",
         "start-here",
-        "reshaping"
+        "reshaping",
+        "welcome",
+        "open-routes-era"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/binary-system.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/binary-system.md",
@@ -1587,7 +1687,7 @@
       "summary": "행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 이름 붙이는 원칙. 다른 행성은 사람이 아는 곳에만 코드를 붙인다. 기존 장소의 대응과 일곱 마왕의 시대 영향권에 대한 제안.",
       "review_state": "unassessed",
       "review_label": "임시 정본",
-      "last_updated_on": "2026-11-03",
+      "last_updated_on": "2026-11-04",
       "last_enriched_on": "2026-11-03",
       "related_ids": [
         "binary-system",
@@ -1595,7 +1695,9 @@
         "scenario-great-crossing",
         "low-cape",
         "demon-epoch-framework",
-        "demon-epoch-chronicle"
+        "demon-epoch-chronicle",
+        "welcome",
+        "open-routes-era"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/space-codes.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/space-codes.md",
@@ -1664,7 +1766,9 @@
         "seven-demon-lords",
         "grand-questions",
         "open-setting-questions",
-        "demon-epoch-chronicle"
+        "demon-epoch-chronicle",
+        "welcome",
+        "open-routes-era"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/reshaping.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/reshaping.md",
