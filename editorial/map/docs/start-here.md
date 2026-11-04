@@ -2,11 +2,11 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `start-here` · 분류: 개요 · 공개 · 원고: [wiki/start-here.md](../../../wiki/start-here.md) · 5,586자 · 절 15개
+- id: `start-here` · 분류: 개요 · 공개 · 원고: [wiki/start-here.md](../../../wiki/start-here.md) · 5,629자 · 절 15개
 - 별칭: 세계 개요
 - 요약: 쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.
 - 태그: 개요, 쌍성계, 마법, 우주
-- 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: reviewed
+- 수정일: 2026-11-04 · 실제 증보일: 2026-11-03 · 검토: reviewed
 - 관련 문서: `grand-questions`, `editing-guide`, `open-setting-questions`, `worldbuilding-guide`, `seven-demon-lords`, `magic-as-practice`, `magical-distance-and-passage`, `exceptional-generations`, `causal-roleplay`, `knowledge-horizons`, `variable-rules-and-life`, `binary-system`, `reshaping`
 
 ## 절 목차
@@ -27,7 +27,7 @@
 - 대의문과 미정 설정 · L75–77 · 178자 · `ac971d19` — 세계 전체의 역사와 존재를 뒤흔드는 미해결 수수께끼는 대의문에 모은다.
 - 분위기와 주제 · L79–81 · 92자 · `fc808945` — 세계의 불완전한 이해, 비인간 행위자들의 참여, 우주 진출과 지배의 차이 같은 문제들을 탐구할 수 있다.
 - 세 가지 쓰임 · L83–91 · 355자 · `5fb45281` — 이 설정집은 같은 세계를 세 가지로 쓴다.
-- 연대의 기준 · L93–97 · 332자 · `6f97d122` — 이 세계의 원년(1년)이 무엇을 기준으로 하는지는 미정이다.
+- 연대의 기준 · L93–97 · 375자 · `635f3cd7` — 이 세계의 원년(1년)이 무엇을 기준으로 하는지는 미정이다.
 - 읽는 방법 · L99–104 · 231자 · `0ca113b1` — 먼저 이 문서 앞부분의 세계 전제를 살핀 다음 대의문에서 세계의 근본 수수께끼를 살핀다.
 
 ## 장부에 기록된 반영 지식

@@ -11,7 +11,7 @@
 - **[대의문](wiki/grand-questions.md)** · 별칭: 거대한 의문, 세계의 큰 수수께끼 · 수정: 2026-11-04 · 상태: 미정
   - 인류의 기원, 마법적 우주의 토대, 비인간 행위자의 역할, 다른 행성으로의 진출 한계 등 세계를 관통하는 거대한 수수께끼의 후보.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/grand-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/grand-questions.md)
-- **[세계 개요](wiki/start-here.md)** · 별칭: 세계 개요 · 수정: 2026-11-03 · 상태: 정본
+- **[세계 개요](wiki/start-here.md)** · 별칭: 세계 개요 · 수정: 2026-11-04 · 상태: 정본
   - 쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/start-here/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md)
 - **[정해야 할 설정](wiki/open-setting-questions.md)** · 별칭: 미정 설정 목록 · 수정: 2026-11-03 · 상태: 미정
@@ -20,7 +20,7 @@
 
 ## 천체
 
-- **[쌍성계와 여섯 행성](wiki/binary-system.md)** · 별칭: 행성 설정, 두 해 · 수정: 2026-11-03 · 상태: 임시 정본
+- **[쌍성계와 여섯 행성](wiki/binary-system.md)** · 별칭: 행성 설정, 두 해 · 수정: 2026-11-04 · 상태: 임시 정본
   - 두 해(큰 해·작은 해)의 겉모습과 40날의 공전, P3 기준의 날·물때·철·겹침철·해, 여섯 행성(해곁별·샛별·누리·건너별·느림별·빈자리)의 물리 조건과 사람이 아는 한 귀퉁이, 모르는 땅.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/binary-system/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/binary-system.md)
 - **[공간 코드표](wiki/space-codes.md)** · 별칭: 공간 코드, 장소 코드 · 수정: 2026-11-03 · 상태: 임시 정본
@@ -191,6 +191,6 @@
 - **[이 위키를 편집하는 방법](wiki/editing-guide.md)** · 별칭: 편집 방법 · 수정: 2026-11-03 · 상태: 운영 문서
   - 새 문서를 만들고 쓰고 게시하는 절차와 Markdown 규칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/editing-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/editing-guide.md)
-- **[설정을 쓰는 규칙](wiki/worldbuilding-guide.md)** · 별칭: 설정 쓰는 규칙 · 수정: 2026-11-03 · 상태: 운영 문서
+- **[설정을 쓰는 규칙](wiki/worldbuilding-guide.md)** · 별칭: 설정 쓰는 규칙 · 수정: 2026-11-04 · 상태: 운영 문서
   - 설정의 정본·미정, 문서 유형, 연대기와 시점별 지식의 구분을 안내하는 편집 규칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/worldbuilding-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/worldbuilding-guide.md)
