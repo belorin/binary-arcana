@@ -56,7 +56,7 @@
     {
       "id": "k05",
       "kind": "fact",
-      "title": "세력: 항로청, 검은모래 상회, 결 학회, 맹약소, 자유 길잡이들",
+      "title": "세력: 항로청, 고리운송, 결 학회, 맹약소(살아남은 옛 기관), 자유 길잡이들",
       "status": "integrated",
       "targets": [
         {
@@ -122,6 +122,30 @@
         {
           "doc_id": "welcome",
           "section": "셋째 문 — 서고에서 깊이 읽는다"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "지난 삼백 해: 닫힘의 세기, 새 자리, 항로청과 나눔 사이, 건너별 재접촉, 그늘역, 돌아온 별. 남은 것은 많지 않음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-routes-era",
+          "section": "지난 삼백 해"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "fact",
+      "title": "옛 이름의 정리: 호수문과 서항, 고리운송, 바람고원 자유시, 큰 건넘의 완전한 닫힘",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-codes",
+          "section": "항로 시대의 자리"
         }
       ]
     }
