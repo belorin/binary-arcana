@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 46,
+  "document_count": 47,
   "documents": [
     {
       "id": "grand-questions",
@@ -27,12 +27,14 @@
       "summary": "인류의 기원, 마법적 우주의 토대, 비인간 행위자의 역할, 다른 행성으로의 진출 한계 등 세계를 관통하는 거대한 수수께끼의 후보.",
       "review_state": "reviewed",
       "review_label": "미정",
-      "last_updated_on": "2026-11-03",
+      "last_updated_on": "2026-11-04",
       "last_enriched_on": "2026-11-03",
       "related_ids": [
         "start-here",
         "open-setting-questions",
-        "seven-demon-lords"
+        "seven-demon-lords",
+        "reshaping",
+        "variable-rules-and-life"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/grand-questions.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/grand-questions.md",
@@ -64,7 +66,8 @@
         "start-here",
         "knowledge-horizons",
         "scenario-great-crossing",
-        "demon-epoch-framework"
+        "demon-epoch-framework",
+        "reshaping"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/seven-demon-lords.md",
@@ -145,7 +148,8 @@
         "causal-roleplay",
         "knowledge-horizons",
         "variable-rules-and-life",
-        "binary-system"
+        "binary-system",
+        "reshaping"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/start-here.md",
@@ -296,7 +300,7 @@
       "summary": "낮은 인구에도 오래 축적된 물 공급과 마법적 통행 체계를 가진 해안 정착지. 샘 한 줄기가 손상되고 물턱을 봉합한 사건이 일어났다.",
       "review_state": "unassessed",
       "review_label": "초안",
-      "last_updated_on": "2026-11-03",
+      "last_updated_on": "2026-11-04",
       "last_enriched_on": "2026-11-03",
       "related_ids": [
         "aren-sheet",
@@ -304,7 +308,9 @@
         "magical-distance-and-passage",
         "causal-roleplay",
         "story-state",
-        "space-codes"
+        "space-codes",
+        "reshaping",
+        "magic-senses"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/low-cape.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/low-cape.md",
@@ -367,7 +373,8 @@
         "magical-distance-and-passage",
         "exceptional-generations",
         "binary-system",
-        "magic-senses"
+        "magic-senses",
+        "reshaping"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-setting-questions.md",
@@ -425,7 +432,7 @@
       "summary": "마법을 사이·알아봄·울림·결·매듭·값·엮음으로 설명하는 열두 여울과 낮은곶의 말. 받는 자리로 드러나는 재능, 바깥에서 보이는 모습, 공통마법의 예, 마법이 듣지 않을 때 원인을 가르는 법, 묘사 점검표.",
       "review_state": "unassessed",
       "review_label": "임시 정본",
-      "last_updated_on": "2026-11-03",
+      "last_updated_on": "2026-11-04",
       "last_enriched_on": "2026-11-03",
       "related_ids": [
         "magic-as-practice",
@@ -435,7 +442,9 @@
         "rival-gc-finale-fiction",
         "aren-session-01",
         "scene-fiction-principles",
-        "grand-questions"
+        "grand-questions",
+        "reshaping",
+        "open-setting-questions"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-senses.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magic-senses.md",
@@ -535,7 +544,8 @@
         "aren-session-01",
         "aren-sheet",
         "low-cape",
-        "causal-roleplay"
+        "causal-roleplay",
+        "reshaping"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/story-state.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/story-state.md",
@@ -642,7 +652,8 @@
         "rival-gc-t06-world",
         "rival-gc-t07-seo",
         "rival-gc-t08-yunda",
-        "rival-gc-t09-world"
+        "rival-gc-t09-world",
+        "reshaping"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-state.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-gc-state.md",
@@ -1436,7 +1447,8 @@
         "grand-questions",
         "causal-roleplay",
         "knowledge-horizons",
-        "magic-senses"
+        "magic-senses",
+        "reshaping"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/variable-rules-and-life.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/variable-rules-and-life.md",
@@ -1470,7 +1482,8 @@
         "sky-positions",
         "open-setting-questions",
         "magical-distance-and-passage",
-        "start-here"
+        "start-here",
+        "reshaping"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/binary-system.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/binary-system.md",
@@ -1531,12 +1544,51 @@
       "related_ids": [
         "binary-system",
         "space-codes",
-        "rival-gc-finale-fiction"
+        "rival-gc-finale-fiction",
+        "reshaping"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/sky-positions.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/sky-positions.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/sky-positions/",
       "app_url": "https://belorin.github.io/binary-arcana/#sky-positions"
+    },
+    {
+      "id": "reshaping",
+      "title": "재편 — 길이 닫히고 다시 열리는 시대",
+      "aliases": [
+        "재편",
+        "이야기의 시대",
+        "길이 줄어드는 시대"
+      ],
+      "category": "사건",
+      "tags": [
+        "재편",
+        "이야기의 시대",
+        "연대",
+        "빈자리",
+        "진행자용"
+      ],
+      "summary": "길들이 줄어드는 가운데 새 길을 여는 이야기의 기본 시대. 세계 안에서 보이는 징후, 연대의 순서, 진행자용 진상과 검토 대기 제안.",
+      "review_state": "unassessed",
+      "review_label": "임시 정본 · 진행자용 진상 포함",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": null,
+      "related_ids": [
+        "start-here",
+        "variable-rules-and-life",
+        "magic-senses",
+        "binary-system",
+        "sky-positions",
+        "rival-gc-state",
+        "low-cape",
+        "seven-demon-lords",
+        "grand-questions",
+        "open-setting-questions"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/reshaping.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/reshaping.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/reshaping/",
+      "app_url": "https://belorin.github.io/binary-arcana/#reshaping"
     }
   ]
 }

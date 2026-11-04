@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `seven-demon-lords` · 분류: 세력 · 공개 · 원고: [wiki/seven-demon-lords.md](../../../wiki/seven-demon-lords.md) · 6,159자 · 절 14개
+- id: `seven-demon-lords` · 분류: 세력 · 공개 · 원고: [wiki/seven-demon-lords.md](../../../wiki/seven-demon-lords.md) · 6,446자 · 절 15개
 - 별칭: 칠마왕, 마왕 일족
 - 요약: 기원을 알 수 없는 마왕과 일족의 철학적 행동양식 초안. 일곱 호칭은 저자용이며 세계 내부 인물들의 지식이 아니다.
 - 태그: 마왕, 일곱 마왕, 일족, 철학, 미정
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `grand-questions`, `start-here`, `knowledge-horizons`, `scenario-great-crossing`, `demon-epoch-framework`
+- 관련 문서: `grand-questions`, `start-here`, `knowledge-horizons`, `scenario-great-crossing`, `demon-epoch-framework`, `reshaping`
 
 ## 절 목차
 
@@ -28,6 +28,7 @@
 - 서로의 행동양식이 충돌하는 곳 · L101–110 · 531자 · `65439021` — 마왕들은 선과 악으로 양분되어 연합하는 존재가 아니다.
 - 기록과 관측의 한계 · L112–118 · 345자 · `0eae0e08` — 마왕들의 기원과 출현 시점은 알려져 있지 않다.
 - 확정과 보류 · L120–124 · 244자 · `5f328bc2` — 합의된 출발점: 일곱 정도의 마왕, 철학자들의 양면성에서 얻는 테마, 오래된 관측과 기원의 불명, 인간에 대한 일관된 적대·선대의 부재, 일족의 생활 방식과 인간을 포함한 다른 집단들의 손익 충돌.
+- 진행자용 — 인물들은 모름 · L127–131 · 265자 · `c5a6be33` — 마왕들은 수백 해 전의 직전 재편을 겪었다.
 
 ## 장부에 기록된 반영 지식
 

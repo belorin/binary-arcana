@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 280,
+  "edge_count": 304,
   "edges": [
     {
       "from": "grand-questions",
@@ -32,6 +32,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "grand-questions",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "grand-questions",
+      "to": "variable-rules-and-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "seven-demon-lords",
       "to": "grand-questions",
       "type": "related_to",
@@ -58,6 +70,12 @@
     {
       "from": "seven-demon-lords",
       "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "seven-demon-lords",
+      "to": "reshaping",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -226,6 +244,12 @@
     {
       "from": "start-here",
       "to": "binary-system",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "reshaping",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -404,6 +428,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "low-cape",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "low-cape",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "aren-sheet",
       "to": "low-cape",
       "type": "related_to",
@@ -478,6 +514,12 @@
     {
       "from": "open-setting-questions",
       "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-setting-questions",
+      "to": "reshaping",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -568,6 +610,18 @@
     {
       "from": "magic-senses",
       "to": "grand-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-senses",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-senses",
+      "to": "open-setting-questions",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -676,6 +730,12 @@
     {
       "from": "story-state",
       "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "story-state",
+      "to": "reshaping",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -832,6 +892,12 @@
     {
       "from": "rival-gc-state",
       "to": "rival-gc-t09-world",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rival-gc-state",
+      "to": "reshaping",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1592,6 +1658,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "variable-rules-and-life",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "binary-system",
       "to": "space-codes",
       "type": "related_to",
@@ -1618,6 +1690,12 @@
     {
       "from": "binary-system",
       "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "binary-system",
+      "to": "reshaping",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1666,6 +1744,72 @@
     {
       "from": "sky-positions",
       "to": "rival-gc-finale-fiction",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sky-positions",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "variable-rules-and-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "binary-system",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "sky-positions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "rival-gc-state",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "low-cape",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "grand-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "open-setting-questions",
       "type": "related_to",
       "basis": "manifest.related"
     },

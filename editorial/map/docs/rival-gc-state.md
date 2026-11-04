@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `rival-gc-state` · 분류: 대국 기록 · 공개 · 원고: [wiki/rival-gc-state.md](../../../wiki/rival-gc-state.md) · 6,664자 · 절 10개
+- id: `rival-gc-state` · 분류: 대국 기록 · 공개 · 원고: [wiki/rival-gc-state.md](../../../wiki/rival-gc-state.md) · 6,813자 · 절 11개
 - 별칭: 대국 기준 상태, S3, 큰 건넘 최종 상태
 - 요약: 마지막 물때의 최종 세계 상태 S3. 큰 건넘 한 번 협소 개방·건넌 한 사람과 두 꾸러미·재폐쇄, 정식 지기 없음, 세오·윤다 손상과 제3세력 결과, 여섯 목표 결산.
 - 태그: 대국, 기준 상태, 큰 건넘
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `rival-play`, `scenario-great-crossing`, `rival-gc-t01-seo`, `rival-gc-t03-world`, `rival-gc-t04-seo`, `rival-gc-t05-yunda`, `rival-gc-t06-world`, `rival-gc-t07-seo`, `rival-gc-t08-yunda`, `rival-gc-t09-world`
+- 관련 문서: `rival-play`, `scenario-great-crossing`, `rival-gc-t01-seo`, `rival-gc-t03-world`, `rival-gc-t04-seo`, `rival-gc-t05-yunda`, `rival-gc-t06-world`, `rival-gc-t07-seo`, `rival-gc-t08-yunda`, `rival-gc-t09-world`, `reshaping`
 
 ## 절 목차
 
@@ -24,6 +24,7 @@
   - 제3세력 · L75–80 · 270자 · `3346d676` — 오린은 자기 전령의 현장 확인, 이번 철 긴급 개방에 붙인 실제 안전 조건, 좁은 통행 결과를 안다.
 - 진행자용 최종 진상 — 등장인물들은 모름 · L82–88 · 724자 · `52f8c9ba` — 큰 건넘은 하란 생전부터 줄어들고 있었다.
 - 최종 목표 결산 · L90–101 · 588자 · `353c0b0d` — (표)
+- 재편과 큰 건넘 — 진행자용 · L104–106 · 126자 · `96f541e9` — 큰 건넘의 축소는 재편의 일부다.
 
 ## 장부에 기록된 반영 지식
 

@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `binary-system` · 분류: 천체 · 공개 · 원고: [wiki/binary-system.md](../../../wiki/binary-system.md) · 5,363자 · 절 11개
+- id: `binary-system` · 분류: 천체 · 공개 · 원고: [wiki/binary-system.md](../../../wiki/binary-system.md) · 5,439자 · 절 12개
 - 별칭: 행성 설정, 두 해
 - 요약: 두 해(큰 해·작은 해)의 겉모습과 40날의 공전, P3 기준의 날·물때·철·겹침철·해, 여섯 행성(해곁별·샛별·누리·건너별·느림별·빈자리)의 물리 조건과 사람이 아는 한 귀퉁이, 모르는 땅.
 - 태그: 겹침, 물때, 미지의 땅, 쌍성계, 역법, 철, 행성
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `space-codes`, `sky-positions`, `open-setting-questions`, `magical-distance-and-passage`, `start-here`
+- 관련 문서: `space-codes`, `sky-positions`, `open-setting-questions`, `magical-distance-and-passage`, `start-here`, `reshaping`
 
 ## 절 목차
 
@@ -25,6 +25,7 @@
   - P5 느림별 · L86–91 · 318자 · `c33fbec5` — 행성 전체의 조건: 단단한 땅이 없는 거대한 가스 행성.
   - P6 빈자리 · L93–95 · 163자 · `20d80742` — 있는지 없는지가 논쟁 중인 행성.
 - 아직 정하지 않은 것 · L97–103 · 155자 · `73b6ad76` — 두 해의 이름과 그 유래, 두 해의 성질에 관한 여러 학파의 설명.
+- P6 빈자리 — 진행자용 참조 · L106–108 · 52자 · `7fe356de` — 진행자용 진상은 재편의 진행자용 절에 있다.
 
 ## 장부에 기록된 반영 지식
 

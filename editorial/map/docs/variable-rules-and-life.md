@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `variable-rules-and-life` · 분류: 사물·개념 · 공개 · 원고: [wiki/variable-rules-and-life.md](../../../wiki/variable-rules-and-life.md) · 3,008자 · 절 5개
+- id: `variable-rules-and-life` · 분류: 사물·개념 · 공개 · 원고: [wiki/variable-rules-and-life.md](../../../wiki/variable-rules-and-life.md) · 3,127자 · 절 6개
 - 별칭: 변화하는 세계의 규칙, 규칙의 변동과 생활
 - 요약: 장기간 지속되는 자연적·마법적 관계도 변할 수 있는 우주에서, 마법적 생활 안정과 지성·비지성 생명의 적응이 공존한다는 배경 설정. 이야기의 단일한 중심 테제는 아니다.
 - 태그: 환경, 자연의 규칙, 세계의 불확실성, 마법적 일상, 생명, 적응, 지식
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `start-here`, `magic-as-practice`, `grand-questions`, `causal-roleplay`, `knowledge-horizons`, `magic-senses`
+- 관련 문서: `start-here`, `magic-as-practice`, `grand-questions`, `causal-roleplay`, `knowledge-horizons`, `magic-senses`, `reshaping`
 
 ## 절 목차
 
@@ -19,6 +19,7 @@
 - 생명이 택해 온 여러 대응 · L23–31 · 552자 · `9c6daaf6` — 오랜 시간 불안정한 조건을 경험한 생명에게는 변화에 대응하는 다양한 성질이 유리했을 가능성이 있다.
 - 이해를 추구하는 문명, 그렇지 않은 삶 · L33–39 · 445자 · `b829fc13` — 환경의 변화와 그것을 설명하는 지식은 문명에 중요한 자원이 될 수 있다.
 - 소설과 세계 진행에서의 쓰임 · L41–47 · 621자 · `4d443f6d` — 이 설정은 매 장면에 등장시켜야 할 주제나 사건 발생 장치가 아니다.
+- 이야기의 시대와 재편 · L50–52 · 100자 · `ed255a8a` — 이 문서의 일반 원칙이 이야기의 시대에 실제로 어떤 흐름이 되었는지는 재편에 있다.
 
 ## 장부에 기록된 반영 지식
 

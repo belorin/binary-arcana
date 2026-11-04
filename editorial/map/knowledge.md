@@ -3,10 +3,16 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 80개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 100개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (0)
+## 보류 항목 (6)
 
+- 오래된 사물이 새 자리를 먼저 알아봄 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
+- 타는 건넘·고리의 그늘 전승 해석 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
+- 깊은 사이의 폐쇄와 세대 서열 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
+- 일곱 일족의 차별적 대응 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
+- 결의 역서 관측 기록 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
+- 비인간 지성의 선행 인지 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
 
 ## 운영 원칙 (26)
 
@@ -39,7 +45,7 @@
 - 설명문 속 skip-ci 표기가 실제로 배포를 건너뛰게 함 → `rival-gc-retrospective` § 커밋 규칙을 설명한 커밋이 그 규칙에 걸렸다 · `ing-20261103-rival-gc-retrospective-claude`
 - 사이트가 그리지 못하는 상대 경로·절 링크를 빌드 검사로 막자는 제안 → `rival-gc-retrospective` § 사이트가 그리지 못하는 링크가 되풀이된다 · `ing-20261103-rival-gc-retrospective-claude`
 
-## 개요 (13)
+## 개요 (16)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -56,6 +62,9 @@
 - 인구 규모와 기술·제도·마법적 문명 수준의 비동일성 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261103-low-cape-observer-session`
 - 종족 경계와 외형의 서사적 비중을 미리 고정하지 않음 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261103-low-cape-observer-session`
 - 저인구를 저발전으로 해석하는 오류를 배제한 지역 서술 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식; `low-cape` § 사람들과 생활; `aren-session-01` § 생활 도구와 제도에 관한 서술 원칙 · `ing-20261103-low-cape-observer-session`
+- 인류 수백만 명 임시 정본 → `open-setting-questions` § 인구와 종족의 미정 문제 · `ing-20261104-reshaping`
+- 누리에 비인간 지성 존재 공존 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261104-reshaping`
+- 세계의 규칙은 왜 바뀌는가 → `grand-questions` § 세계의 규칙은 왜 바뀌는가? · `ing-20261104-reshaping`
 
 ## 마법 (13)
 
@@ -74,6 +83,22 @@
 - 공통마법의 예: 불 맡기기, 물 나눔, 묵힘, 아물림, 길 묻기, 묶어 두기. 소식을 멀리 보내는 마법은 알려져 있지 않음 → `magic-senses` § 공통마법 몇 가지 · `ing-20261103-magic-senses`
 - 엮음과 기반 시설. 새 땅에는 사이가 없어서 가난하다 → `magic-senses` § 엮음 — 큰 마법은 여럿이 한다 · `ing-20261103-magic-senses`
 - 마법이 듣지 않을 때 원인을 가르는 법과 결바뀜 → `magic-senses` § 마법이 듣지 않을 때; `variable-rules-and-life` § 소설과 세계 진행에서의 쓰임 · `ing-20261103-magic-senses`
+
+## 사건 (11)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 이야기의 기본 시대는 길이 줄어드는 가운데 새 길을 여는 시대 → `reshaping` § 이야기의 기본 시대 · `ing-20261104-reshaping`
+- 규칙 자체가 한 방향으로 서서히 변함 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- 일상의 마법까지 변화가 미침 → `reshaping` § 세계 안에서 보이는 것 · `ing-20261104-reshaping`
+- 옛 자리가 닫히고 새 자리가 열림 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- 다른 생명과 사물에게 새 자리가 먼저 열림 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- 전체를 아는 인물은 없음 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- P6는 옛 자리가 돌아오는 중 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- 직전 재편은 수백 해 전 → `reshaping` § 연대의 골격 · `ing-20261104-reshaping`
+- 마왕들은 직전 재편을 겪음 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- 낮은곶은 T0보다 몇 해 앞 → `reshaping` § 연대의 골격 · `ing-20261104-reshaping`
+- 큰 건넘 축소는 재편의 사례 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
 
 ## 롤플레잉 (9)
 

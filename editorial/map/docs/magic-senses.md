@@ -6,8 +6,8 @@
 - 별칭: 사이와 결, 마법의 낱말, 마법 묘사
 - 요약: 마법을 사이·알아봄·울림·결·매듭·값·엮음으로 설명하는 열두 여울과 낮은곶의 말. 받는 자리로 드러나는 재능, 바깥에서 보이는 모습, 공통마법의 예, 마법이 듣지 않을 때 원인을 가르는 법, 묘사 점검표.
 - 태그: 마법, 공통마법, 묘사, 결, 매듭, 값
-- 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `magic-as-practice`, `variable-rules-and-life`, `scenario-great-crossing`, `low-cape`, `rival-gc-finale-fiction`, `aren-session-01`, `scene-fiction-principles`, `grand-questions`
+- 수정일: 2026-11-04 · 실제 증보일: 2026-11-03 · 검토: unassessed
+- 관련 문서: `magic-as-practice`, `variable-rules-and-life`, `scenario-great-crossing`, `low-cape`, `rival-gc-finale-fiction`, `aren-session-01`, `scene-fiction-principles`, `grand-questions`, `reshaping`, `open-setting-questions`
 
 ## 절 목차
 

@@ -8,7 +8,7 @@
 
 ## 개요
 
-- **[대의문](wiki/grand-questions.md)** · 별칭: 거대한 의문, 세계의 큰 수수께끼 · 수정: 2026-11-03 · 상태: 미정
+- **[대의문](wiki/grand-questions.md)** · 별칭: 거대한 의문, 세계의 큰 수수께끼 · 수정: 2026-11-04 · 상태: 미정
   - 인류의 기원, 마법적 우주의 토대, 비인간 행위자의 역할, 다른 행성으로의 진출 한계 등 세계를 관통하는 거대한 수수께끼의 후보.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/grand-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/grand-questions.md)
 - **[세계 개요](wiki/start-here.md)** · 별칭: 세계 개요 · 수정: 2026-11-03 · 상태: 정본
@@ -35,7 +35,7 @@
 - **[개인의 재능과 관계적 마법](wiki/magic-as-practice.md)** · 별칭: 개인 마법, 공통마법과 지역 마법 · 수정: 2026-11-03 · 상태: 초안
   - 마법의 폭넓은 가능성, 개인의 발견과 성장, 정형화되지 않은 전승과 공통마법의 조건, 나무와 돌 등의 관계적 참여.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/magic-as-practice/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-as-practice.md)
-- **[마법의 말과 감각](wiki/magic-senses.md)** · 별칭: 사이와 결, 마법의 낱말, 마법 묘사 · 수정: 2026-11-03 · 상태: 임시 정본
+- **[마법의 말과 감각](wiki/magic-senses.md)** · 별칭: 사이와 결, 마법의 낱말, 마법 묘사 · 수정: 2026-11-04 · 상태: 임시 정본
   - 마법을 사이·알아봄·울림·결·매듭·값·엮음으로 설명하는 열두 여울과 낮은곶의 말. 받는 자리로 드러나는 재능, 바깥에서 보이는 모습, 공통마법의 예, 마법이 듣지 않을 때 원인을 가르는 법, 묘사 점검표.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/magic-senses/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-senses.md)
 
@@ -77,7 +77,7 @@
 
 ## 장소
 
-- **[낮은곶](wiki/low-cape.md)** · 별칭: 낮은곶 경유지 · 수정: 2026-11-03 · 상태: 초안
+- **[낮은곶](wiki/low-cape.md)** · 별칭: 낮은곶 경유지 · 수정: 2026-11-04 · 상태: 초안
   - 낮은 인구에도 오래 축적된 물 공급과 마법적 통행 체계를 가진 해안 정착지. 샘 한 줄기가 손상되고 물턱을 봉합한 사건이 일어났다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/low-cape/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/low-cape.md)
 
@@ -86,6 +86,9 @@
 - **[일곱 마왕의 시대 — 대턴 시작 전 관측 단면 S00](wiki/demon-epoch-s00.md)** · 별칭: 마왕 시대 S00 · 수정: 2026-11-03 · 상태: S00 · 대턴 시작 전 초안
   - 마왕의 오래된 질서, 중간 현시, 모호한 관측을 배치한 대턴 시작 전 거시 세계 단면. 행성 위치와 시간표는 임시 배치다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-s00/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-s00.md)
+- **[재편 — 길이 닫히고 다시 열리는 시대](wiki/reshaping.md)** · 별칭: 재편, 이야기의 시대, 길이 줄어드는 시대 · 수정: 2026-11-04 · 상태: 임시 정본 · 진행자용 진상 포함
+  - 길들이 줄어드는 가운데 새 길을 여는 이야기의 기본 시대. 세계 안에서 보이는 징후, 연대의 순서, 진행자용 진상과 검토 대기 제안.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/reshaping/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/reshaping.md)
 
 ## 사물·개념
 
