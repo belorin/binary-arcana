@@ -1,0 +1,117 @@
+{
+  "id": "ing-20261104-demon-epoch-chronicle",
+  "processed_on": "2026-11-04",
+  "coverage": "visible-complete",
+  "limit_note": "사용자 위임으로 정한 일곱 마왕의 시대 임시 정본과 장면 소설. 사용자는 문답으로 인류의 처지와 무대만 정함",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "틈살이: 일곱 질서가 맞닿는 틈에서 사람이 겨우 살아남은 시대. 이 시대의 공포의 성격",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "demon-epoch-chronicle",
+          "section": "이 시대의 공포"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "틈살이가 부른 일곱 질서의 이름: 둘레·기둥·떼울음·허물·갈림·문그늘·나그네",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "demon-epoch-chronicle",
+          "section": "일곱 질서 — 틈살이가 부른 이름"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "사람 아닌 이웃: 겹살이, 결을 지키는 이들, 함께 숨쉬는 이들",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "demon-epoch-chronicle",
+          "section": "사람 아닌 이웃들"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "사람의 세 무리와 문 너머로 간 이들",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "demon-epoch-chronicle",
+          "section": "사람의 무리들"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "세대 순 연대기: 흩어진 세대에서 틈이 굳는 세대까지",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "demon-epoch-chronicle",
+          "section": "연대기 — 세대로 센다"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "값줄: 피로 산 규칙과 T0 무렵 남은 관습. 틀린 규칙도 지우지 않음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "demon-epoch-chronicle",
+          "section": "값줄 — 피로 산 규칙"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "other",
+      "title": "진행자용 진상: 기둥과 맹약을 지키는 이들, 잠든 둘레, 겹살이, 샛별의 후손, 틈이 굳은 까닭",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "demon-epoch-chronicle",
+          "section": "진행자용 — 인물들은 모름"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "fact",
+      "title": "새 공간 코드 P3-A5 기둥벌, P2-B 껍질땅, L05 문그늘 건넘, P3-A4의 옛 쓰임",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-codes",
+          "section": "일곱 마왕의 시대의 자리"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "example",
+      "title": "장면 소설: 기둥벌을 건너는 밤과 매듭 기록의 시작",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "demon-epoch-fiction-pillars",
+          "section": "4. 값줄"
+        }
+      ]
+    }
+  ]
+}

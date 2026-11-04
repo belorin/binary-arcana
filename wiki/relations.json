@@ -29,6 +29,27 @@
       "type": "elaborates",
       "evidence_section": "마법이 듣지 않을 때",
       "reason": "규칙의 변화와 미지 조건의 실패를 인물들이 실제로 가려 보는 방법을 정한다."
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "demon-epoch-framework",
+      "type": "elaborates",
+      "evidence_section": "한 문장으로",
+      "reason": "설계서가 비워 둔 일곱 마왕의 시대를 사람의 쪽에서 실제 연대기로 채운다."
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "reshaping",
+      "type": "elaborates",
+      "evidence_section": "7. 그 뒤",
+      "reason": "재편 연대표의 첫 줄인 일곱 마왕의 시대가 어떻게 끝나 직전 재편으로 이어지는지 적는다."
+    },
+    {
+      "from": "demon-epoch-fiction-pillars",
+      "to": "demon-epoch-chronicle",
+      "type": "elaborates",
+      "evidence_section": "4. 값줄",
+      "reason": "연대기의 첫 규칙의 세대와 매듭 기록의 시작을 장면으로 보여 준다."
     }
   ]
 }

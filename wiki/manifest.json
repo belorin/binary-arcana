@@ -185,7 +185,8 @@
         "knowledge-horizons",
         "scenario-great-crossing",
         "demon-epoch-framework",
-        "reshaping"
+        "reshaping",
+        "demon-epoch-chronicle"
       ],
       "aliases": [
         "칠마왕",
@@ -1127,6 +1128,37 @@
       "last_enriched_on": null
     },
     {
+      "path": "wiki/demon-epoch-fiction-pillars.md",
+      "publish": true,
+      "order": 22,
+      "id": "demon-epoch-fiction-pillars",
+      "title": "기둥벌을 건너는 밤",
+      "category": "소설",
+      "status": "장면 소설",
+      "updated": "2026-11-04",
+      "summary": "일곱 마왕의 시대, 말없는 이들의 무리가 말한 것이 지켜지는 들판 기둥벌을 건너다 둘을 잃고, 열일곱 살 이마가 처음으로 규칙을 매듭으로만 엮는 밤.",
+      "tags": [
+        "소설",
+        "일곱 마왕의 시대",
+        "기둥벌",
+        "매듭",
+        "우주적 공포"
+      ],
+      "source": "Claude가 쓴 장면 소설. 틈살이의 연대기를 따름",
+      "related": [
+        "demon-epoch-chronicle",
+        "demon-epoch-oath",
+        "magic-senses",
+        "scene-fiction-principles"
+      ],
+      "aliases": [
+        "기둥벌",
+        "이마와 고스"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-04"
+    },
+    {
       "path": "wiki/demon-epoch-framework.md",
       "publish": true,
       "order": 22,
@@ -1158,13 +1190,58 @@
         "demon-epoch-branching",
         "demon-epoch-hospitality",
         "demon-epoch-dream",
-        "space-codes"
+        "space-codes",
+        "demon-epoch-chronicle"
       ],
       "aliases": [
         "마왕 시대 설계"
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "path": "wiki/demon-epoch-chronicle.md",
+      "publish": true,
+      "order": 22,
+      "id": "demon-epoch-chronicle",
+      "title": "일곱 마왕의 시대 — 틈살이의 연대기",
+      "category": "사건",
+      "status": "임시 정본",
+      "updated": "2026-11-04",
+      "summary": "일곱 마왕의 질서가 맞닿는 틈에서 사람이 타협하고 저항하며 살아남은 시대를 세대 순으로 적은 연대기. 틈살이가 부른 일곱 질서의 이름, 사람 아닌 이웃, 세 무리, 피로 산 규칙(값줄)과 그것이 후대에 남긴 관습, 진행자용 진상, 생존물 진행 안내.",
+      "tags": [
+        "일곱 마왕의 시대",
+        "TA",
+        "틈살이",
+        "값줄",
+        "우주적 공포",
+        "생존"
+      ],
+      "source": "Claude가 사용자 위임으로 정한 임시 정본. 사용자가 문답으로 인류의 처지(마왕들의 틈에서 겨우 살아남음)와 무대(누리 중심, 샛별 하나 더)를 정함",
+      "related": [
+        "demon-epoch-fiction-pillars",
+        "demon-epoch-framework",
+        "seven-demon-lords",
+        "reshaping",
+        "magic-senses",
+        "space-codes",
+        "scenario-great-crossing",
+        "grand-questions",
+        "demon-epoch-harmony",
+        "demon-epoch-oath",
+        "demon-epoch-resonance",
+        "demon-epoch-shedding",
+        "demon-epoch-branching",
+        "demon-epoch-hospitality",
+        "demon-epoch-dream"
+      ],
+      "aliases": [
+        "틈살이",
+        "값줄",
+        "TA 연대기"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-04"
     },
     {
       "path": "wiki/demon-epoch-s00.md",
@@ -1224,7 +1301,8 @@
       "related": [
         "demon-epoch-framework",
         "demon-epoch-s00",
-        "seven-demon-lords"
+        "seven-demon-lords",
+        "demon-epoch-chronicle"
       ],
       "aliases": [
         "조화의 마왕"
@@ -1254,7 +1332,8 @@
       "related": [
         "demon-epoch-framework",
         "demon-epoch-s00",
-        "seven-demon-lords"
+        "seven-demon-lords",
+        "demon-epoch-chronicle"
       ],
       "aliases": [
         "서약의 마왕"
@@ -1506,7 +1585,8 @@
         "sky-positions",
         "scenario-great-crossing",
         "low-cape",
-        "demon-epoch-framework"
+        "demon-epoch-framework",
+        "demon-epoch-chronicle"
       ],
       "aliases": [
         "공간 코드",
@@ -1573,7 +1653,8 @@
         "low-cape",
         "seven-demon-lords",
         "grand-questions",
-        "open-setting-questions"
+        "open-setting-questions",
+        "demon-epoch-chronicle"
       ],
       "aliases": [
         "재편",
