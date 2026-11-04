@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 393,
+  "edge_count": 397,
   "edges": [
     {
       "from": "welcome",
@@ -2272,6 +2272,30 @@
     {
       "from": "reshaping",
       "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hosumun-eleven-days",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hosumun-eleven-days",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hosumun-eleven-days",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hosumun-eleven-days",
+      "to": "ships-and-gear",
       "type": "related_to",
       "basis": "manifest.related"
     },

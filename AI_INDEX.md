@@ -134,6 +134,9 @@
 - **[기둥벌을 건너는 밤](wiki/demon-epoch-fiction-pillars.md)** · 별칭: 기둥벌, 이마와 고스 · 수정: 2026-11-04 · 상태: 장면 소설
   - 일곱 마왕의 시대, 말없는 이들의 무리가 말한 것이 지켜지는 들판 기둥벌을 건너다 둘을 잃고, 열일곱 살 이마가 처음으로 규칙을 매듭으로만 엮는 밤.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-fiction-pillars/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-fiction-pillars.md)
+- **[호수문의 한 물때 — 만두가 식는 동안](wiki/hosumun-eleven-days.md)** · 별칭: 호수문의 열하루, 만두가 식는 동안 · 수정: 2026-11-05 · 상태: 일상 서사 실험 초고 · 신규 설정 미채택
+  - 항로력 212년 호수문 서쪽 시장에서 열줄 받침이 깨진 한 물때. 당번꾼과 상인, 수선공, 아이, 켜사람들이 서로 얽히되 각자의 일상을 살아가는 열하루.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/hosumun-eleven-days/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/hosumun-eleven-days.md)
 
 ## 롤플레잉
 
