@@ -1,0 +1,220 @@
+{
+  "id": "ing-20261105-archmage-maren",
+  "processed_on": "2026-11-05",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "관념과의 사이가 물질적 상대와 함께 온 세계에 적용되며 약한 재능이 모두에게 있음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conceptual-relations",
+          "section": "정의"
+        },
+        {
+          "doc_id": "conceptual-relations",
+          "section": "보편성과 편차"
+        },
+        {
+          "doc_id": "magic-as-practice",
+          "section": "관념과의 사이 — 세계 전체에 있는 재능"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "관념의 관계는 별도의 고정 속성 학파가 아니며 기존 관계 마법과 공존함",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "conceptual-relations",
+          "section": "기존의 사이와의 관계"
+        },
+        {
+          "doc_id": "magic-senses",
+          "section": "관념이라는 상대도 있다"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "여성 대마법사 마렌의 성별과 역사적 시대 및 세 갈래 재능",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "archmage-maren",
+          "section": "기본 정보"
+        },
+        {
+          "doc_id": "archmage-maren",
+          "section": "세 갈래의 재능"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "속담이 현실과 기억 및 과거를 소급해서 개변하고 없던 속담을 만들 수 있음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "archmage-maren",
+          "section": "세 갈래의 재능"
+        },
+        {
+          "doc_id": "conceptual-relations",
+          "section": "속담 — 세계가 오래 알고 있었던 말이 되다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "속담 개변에 본인도 휘말리며 준비에 많은 힘과 책임이 필요함",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "archmage-maren",
+          "section": "준비의 기술 — 개변 이후에도 자신을 잃지 않는 일"
+        },
+        {
+          "doc_id": "conceptual-relations",
+          "section": "속담의 준비, 값과 자기 개변"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "fact",
+      "title": "어린 시절 복수의 큰 개변 시행착오가 훗날의 책임감과 숙련을 낳음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "archmage-maren",
+          "section": "어린 시절 — 사고에서 배우는 책임"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "부모 또한 마법적 능력을 가진 사회 구성원으로서 딸의 성장을 대함",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "archmage-maren",
+          "section": "부모와 고향 — 보통의 마법적 생활"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "fact",
+      "title": "대마법사의 공적 위엄은 무게가 보여주는 물리적 스펙터클에서 나옴",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "archmage-maren",
+          "section": "세상이 기억하는 여인과 실제의 여인"
+        },
+        {
+          "doc_id": "conceptual-relations",
+          "section": "무게 — 눈으로 확인할 수 있는 관념"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "fact",
+      "title": "시간과의 사이는 후천적 성취이며 장수와 생존 가능성은 널리 알려지지 않음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "archmage-maren",
+          "section": "시간과의 사이 — 후천적으로 얻은 긴 생애"
+        },
+        {
+          "doc_id": "conceptual-relations",
+          "section": "시간 — 후천적으로 사귄 관념"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "argument",
+      "title": "대마법사는 강력한 능력을 지닌 인간이자 타인과 제도에 충돌하는 독립적인 행위자",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "archmage-maren",
+          "section": "세계와의 마찰 — 왜 그녀가 위험해졌는가"
+        },
+        {
+          "doc_id": "exceptional-generations",
+          "section": "예외적인 개인의 구체적 구상 — 마렌"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "example",
+      "title": "부모의 직업과 건넘터 산을 옮긴 사건을 실제 역사와 구분한 서사 가안으로 보존",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "archmage-maren",
+          "section": "사건 후보 — 건넘터와 산을 옮긴 날"
+        },
+        {
+          "doc_id": "archmage-maren",
+          "section": "부모와 고향 — 보통의 마법적 생활"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "question",
+      "title": "마왕들과의 대면 및 항로 시대까지의 생존 가능성을 확정 사실과 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "archmage-maren",
+          "section": "마왕들과의 만남"
+        },
+        {
+          "doc_id": "archmage-maren",
+          "section": "동시대와 후대의 지식은 다르다"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "대마법사 활동기의 시간적 배치를 재편의 별도 원인으로 만들지 않음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "reshaping",
+          "section": "검토 대기 제안 — 정본 아님"
+        },
+        {
+          "doc_id": "exceptional-generations",
+          "section": "예외적인 개인의 구체적 구상 — 마렌"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "question",
+      "title": "마렌의 본명과 출신, 사건 연대, 마왕과의 실제 만남, 항로 시대 생존 여부",
+      "status": "pending",
+      "targets": [],
+      "reason": "인물 문서에 가능한 서사와 미결 항목을 구분해 두었으며 개별 역사적 사건으로 아직 채택하지 않음"
+    }
+  ]
+}
