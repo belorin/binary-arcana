@@ -23,7 +23,11 @@
       "related": [
         "open-routes-era",
         "rulebook",
-        "start-here"
+        "start-here",
+        "mission-lost-freighter",
+        "mission-breathing-forest",
+        "ships-and-gear",
+        "route-era-life"
       ],
       "aliases": [
         "입구",
@@ -57,7 +61,11 @@
         "demon-epoch-chronicle",
         "space-codes",
         "binary-system",
-        "magic-senses"
+        "magic-senses",
+        "mission-lost-freighter",
+        "mission-breathing-forest",
+        "ships-and-gear",
+        "route-era-life"
       ],
       "aliases": [
         "항로 시대",
@@ -89,12 +97,148 @@
         "welcome",
         "open-routes-era",
         "magic-senses",
-        "demon-epoch-chronicle"
+        "demon-epoch-chronicle",
+        "mission-lost-freighter",
+        "mission-breathing-forest",
+        "ships-and-gear",
+        "route-era-life"
       ],
       "aliases": [
         "룰북",
         "탐사대",
         "조용한 우물"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-04"
+    },
+    {
+      "path": "wiki/mission-lost-freighter.md",
+      "publish": true,
+      "order": 1,
+      "id": "mission-lost-freighter",
+      "title": "임무: 바람 끝의 손님들",
+      "category": "탐사대",
+      "status": "룰북용 임무 · 진행자 전용",
+      "updated": "2026-11-04",
+      "summary": "사라진 고리운송 화물선 은실호를 찾는 중형 임무. 빼돌린 바람고원의 유물, 틈의 문그늘, 그늘 아래 백 해를 산 남쪽 행렬, 쫓기는 이만 나갈 수 있는 규칙.",
+      "tags": [
+        "임무",
+        "건너별",
+        "문그늘",
+        "바람고원",
+        "고리운송"
+      ],
+      "source": "사용자 요청으로 Claude가 쓴 항로 시대 놀이 자료. 임무 둘은 사용자가 Gemini로 놀 때 AI가 낸 의뢰를 바탕으로 함",
+      "related": [
+        "rulebook",
+        "ships-and-gear",
+        "route-era-life",
+        "open-routes-era",
+        "mission-breathing-forest",
+        "demon-epoch-chronicle"
+      ],
+      "aliases": [
+        "잃어버린 수송선",
+        "은실호",
+        "남쪽 행렬",
+        "비엘라의 돌"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-04"
+    },
+    {
+      "path": "wiki/mission-breathing-forest.md",
+      "publish": true,
+      "order": 2,
+      "id": "mission-breathing-forest",
+      "title": "임무: 숨 쉬는 숲",
+      "category": "탐사대",
+      "status": "룰북용 임무 · 진행자 전용",
+      "updated": "2026-11-04",
+      "summary": "샛별 균류 숲 깊은 곳의 마법 구조물을 찾는 중형 임무. 구조물은 마왕의 허물이고, 아들을 찾는 교수와 허물 조각을 노리는 회사와 아픔을 나누는 숨 쉬는 사람들이 얽힌다. 가장 큰 비밀은 그들이 누리에서 온 사람들의 후손이라는 것.",
+      "tags": [
+        "임무",
+        "샛별",
+        "허물",
+        "공명",
+        "결 학회"
+      ],
+      "source": "사용자 요청으로 Claude가 쓴 항로 시대 놀이 자료. 임무 둘은 사용자가 Gemini로 놀 때 AI가 낸 의뢰를 바탕으로 함",
+      "related": [
+        "rulebook",
+        "ships-and-gear",
+        "route-era-life",
+        "open-routes-era",
+        "mission-lost-freighter",
+        "demon-epoch-chronicle"
+      ],
+      "aliases": [
+        "균류 숲 유적",
+        "허물 조각",
+        "숨 쉬는 사람들",
+        "레오"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-04"
+    },
+    {
+      "path": "wiki/ships-and-gear.md",
+      "publish": true,
+      "order": 3,
+      "id": "ships-and-gear",
+      "title": "건넘선과 장비",
+      "category": "탐사대",
+      "status": "룰북용 사전",
+      "updated": "2026-11-04",
+      "summary": "건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.",
+      "tags": [
+        "건넘선",
+        "장비",
+        "아이템",
+        "탈것",
+        "자금"
+      ],
+      "source": "사용자 요청으로 Claude가 쓴 항로 시대 놀이 자료. 임무 둘은 사용자가 Gemini로 놀 때 AI가 낸 의뢰를 바탕으로 함",
+      "related": [
+        "rulebook",
+        "open-routes-era",
+        "route-era-life"
+      ],
+      "aliases": [
+        "배의 부분",
+        "아이템",
+        "장비 목록"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-04"
+    },
+    {
+      "path": "wiki/route-era-life.md",
+      "publish": true,
+      "order": 4,
+      "id": "route-era-life",
+      "title": "항로 시대의 생활",
+      "category": "탐사대",
+      "status": "룰북용 사전",
+      "updated": "2026-11-04",
+      "summary": "항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.",
+      "tags": [
+        "생활",
+        "음식",
+        "말버릇",
+        "축제",
+        "항구"
+      ],
+      "source": "사용자 요청으로 Claude가 쓴 항로 시대 놀이 자료. 임무 둘은 사용자가 Gemini로 놀 때 AI가 낸 의뢰를 바탕으로 함",
+      "related": [
+        "rulebook",
+        "open-routes-era",
+        "ships-and-gear"
+      ],
+      "aliases": [
+        "항구 생활",
+        "겹침날",
+        "틈에나 빠져라"
       ],
       "review_state": "unassessed",
       "last_enriched_on": "2026-11-04"

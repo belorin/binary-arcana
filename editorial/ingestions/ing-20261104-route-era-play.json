@@ -1,0 +1,117 @@
+{
+  "id": "ing-20261104-route-era-play",
+  "processed_on": "2026-11-04",
+  "coverage": "visible-complete",
+  "limit_note": "사용자 요청으로 Claude가 쓴 항로 시대 놀이 자료. 임무 둘은 사용자가 Gemini로 놀 때 AI가 낸 의뢰를 바탕으로 함",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "example",
+      "title": "임무: 바람 끝의 손님들 — 은실호, 비엘라의 돌, 문그늘, 남쪽 행렬",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mission-lost-freighter",
+          "section": "진상 — 진행자만"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "문그늘 아래의 규칙: 따뜻함, 쫓기는 이만 나감, 손님은 해치지 않음",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mission-lost-freighter",
+          "section": "넷째 겹: 그늘 아래의 규칙"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "example",
+      "title": "임무: 숨 쉬는 숲 — 허물, 레오와 이벨, 카렌과 허물 조각, 숨 쉬는 사람들",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mission-breathing-forest",
+          "section": "진상 — 진행자만"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "other",
+      "title": "숨 쉬는 사람들은 일곱 마왕의 시대에 샛별로 건너간 누리 사람들의 후손이다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mission-breathing-forest",
+          "section": "여섯째 겹 — 가장 큰 비밀: 그들은 사람이다"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "건넘선의 부분과 크기, 성깔, 손상 표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ships-and-gear",
+          "section": "건넘선은 어떻게 생겼나"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "자금 규칙과 장비 목록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "ships-and-gear",
+          "section": "돈 — 자금"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "fact",
+      "title": "항구의 직업, 음식, 말버릇, 미신, 축제, 지역 분위기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "route-era-life",
+          "section": "항구의 하루"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "룰북: 함께 받은 파일, 새로 정한 것 표시, 저장 블록",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rulebook",
+          "section": "함께 받은 파일, 새로 정한 것, 저장"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "fact",
+      "title": "새 공간 코드 P4-B, P4-B1, P2-B1",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-codes",
+          "section": "항로 시대의 자리"
+        }
+      ]
+    }
+  ]
+}

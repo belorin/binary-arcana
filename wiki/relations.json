@@ -78,6 +78,41 @@
       "type": "elaborates",
       "evidence_section": "다른 시대와의 관계",
       "reason": "재편 연대표의 다음 시대를 쉬운 말로 채운다."
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "rulebook",
+      "type": "elaborates",
+      "evidence_section": "진행자에게",
+      "reason": "룰북과 함께 쓰는 중형 임무다."
+    },
+    {
+      "from": "mission-breathing-forest",
+      "to": "rulebook",
+      "type": "elaborates",
+      "evidence_section": "진행자에게",
+      "reason": "룰북과 함께 쓰는 중형 임무다."
+    },
+    {
+      "from": "ships-and-gear",
+      "to": "rulebook",
+      "type": "elaborates",
+      "evidence_section": "돈 — 자금",
+      "reason": "룰북의 배, 자금, 장비를 자세히 푼 사전이다."
+    },
+    {
+      "from": "route-era-life",
+      "to": "open-routes-era",
+      "type": "elaborates",
+      "evidence_section": "항구의 하루",
+      "reason": "세계 안내의 생활을 장면용 세부로 푼다."
+    },
+    {
+      "from": "welcome",
+      "to": "mission-lost-freighter",
+      "type": "introduces",
+      "evidence_section": "더 넣을 수 있는 파일",
+      "reason": "룰북과 함께 넣을 임무 파일을 안내한다."
     }
   ]
 }
