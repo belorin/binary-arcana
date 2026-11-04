@@ -220,7 +220,7 @@
       "title": "항로 시대의 생활",
       "category": "탐사대",
       "status": "룰북용 사전",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "summary": "항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.",
       "tags": [
         "생활",
@@ -233,7 +233,8 @@
       "related": [
         "rulebook",
         "open-routes-era",
-        "ships-and-gear"
+        "ships-and-gear",
+        "hosumun-eleven-days"
       ],
       "aliases": [
         "항구 생활",
@@ -241,7 +242,7 @@
         "틈에나 빠져라"
       ],
       "review_state": "unassessed",
-      "last_enriched_on": "2026-11-04"
+      "last_enriched_on": "2026-11-05"
     },
     {
       "path": "wiki/grand-questions.md",
@@ -1917,7 +1918,7 @@
       "id": "hosumun-eleven-days",
       "title": "호수문의 한 물때 — 만두가 식는 동안",
       "category": "소설",
-      "status": "일상 서사 실험 초고 · 신규 설정 미채택",
+      "status": "정본 · 항로력 212년 호수문 일상 사건",
       "updated": "2026-11-05",
       "summary": "항로력 212년 호수문 서쪽 시장에서 열줄 받침이 깨진 한 물때. 당번꾼과 상인, 수선공, 아이, 켜사람들이 서로 얽히되 각자의 일상을 살아가는 열하루.",
       "tags": [
@@ -1929,7 +1930,7 @@
         "켜사람",
         "소설"
       ],
-      "source": "사용자 요청에 따라 GPT가 항로 시대 정본을 바탕으로 쓴 한 물때의 서사 실험. 신규 생활 세부는 미채택",
+      "source": "GPT가 집필한 호수문 서사. 2026-11-05 정본으로 승인됨",
       "related": [
         "open-routes-era",
         "route-era-life",
@@ -1941,7 +1942,7 @@
         "만두가 식는 동안"
       ],
       "review_state": "unassessed",
-      "last_enriched_on": null
+      "last_enriched_on": "2026-11-05"
     }
   ]
 }

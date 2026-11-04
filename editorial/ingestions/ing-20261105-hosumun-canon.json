@@ -1,0 +1,40 @@
+{
+  "id": "ing-20261105-hosumun-canon",
+  "processed_on": "2026-11-05",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "호수문 서쪽 시장의 한 물때와 등장인물을 정본으로 채택",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hosumun-eleven-days",
+          "section": "정본의 범위와 아직 열린 문제"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "열줄 받침 수리와 켜사람 수로 활동 등 지역 사건을 생활 설정에 반영",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "route-era-life",
+          "section": "호수문 서쪽 시장의 한 물때"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "question",
+      "title": "강력한 대마법사 개인의 세계사적 활동기와 행적",
+      "status": "pending",
+      "targets": [],
+      "reason": "시대 배치와 역할의 제안을 검토 중이며 구체적 역사적 사실은 아직 미승인"
+    }
+  ]
+}
