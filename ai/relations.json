@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 358,
+  "edge_count": 393,
   "edges": [
     {
       "from": "welcome",
@@ -28,6 +28,30 @@
     {
       "from": "welcome",
       "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "mission-breathing-forest",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "route-era-life",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -74,6 +98,30 @@
       "basis": "manifest.related"
     },
     {
+      "from": "open-routes-era",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "mission-breathing-forest",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "rulebook",
       "to": "welcome",
       "type": "related_to",
@@ -94,6 +142,30 @@
     {
       "from": "rulebook",
       "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "mission-breathing-forest",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "route-era-life",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -262,6 +334,42 @@
     {
       "from": "causal-roleplay",
       "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "mission-breathing-forest",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "demon-epoch-chronicle",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -568,6 +676,42 @@
     {
       "from": "aren-sheet",
       "to": "story-state",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-breathing-forest",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-breathing-forest",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-breathing-forest",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-breathing-forest",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-breathing-forest",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-breathing-forest",
+      "to": "demon-epoch-chronicle",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -752,6 +896,24 @@
       "basis": "manifest.related"
     },
     {
+      "from": "ships-and-gear",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ships-and-gear",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ships-and-gear",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "knowledge-horizons",
       "to": "seven-demon-lords",
       "type": "related_to",
@@ -808,6 +970,24 @@
     {
       "from": "knowledge-horizons",
       "to": "multi-ai-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "ships-and-gear",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2182,6 +2362,46 @@
       "basis": "curated",
       "evidence_section": "다른 시대와의 관계",
       "reason": "재편 연대표의 다음 시대를 쉬운 말로 채운다."
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "rulebook",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "진행자에게",
+      "reason": "룰북과 함께 쓰는 중형 임무다."
+    },
+    {
+      "from": "mission-breathing-forest",
+      "to": "rulebook",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "진행자에게",
+      "reason": "룰북과 함께 쓰는 중형 임무다."
+    },
+    {
+      "from": "ships-and-gear",
+      "to": "rulebook",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "돈 — 자금",
+      "reason": "룰북의 배, 자금, 장비를 자세히 푼 사전이다."
+    },
+    {
+      "from": "route-era-life",
+      "to": "open-routes-era",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "항구의 하루",
+      "reason": "세계 안내의 생활을 장면용 세부로 푼다."
+    },
+    {
+      "from": "welcome",
+      "to": "mission-lost-freighter",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "더 넣을 수 있는 파일",
+      "reason": "룰북과 함께 넣을 임무 파일을 안내한다."
     }
   ]
 }

@@ -7,7 +7,7 @@
 - 요약: T0에서 약 삼백 해 뒤, 닫힘의 세기를 지나 행성들이 나눔 사이의 정기 항로로 다시 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 지난 삼백 해와 남은 것, 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지.
 - 태그: 항로 시대, SF 판타지, 개척, 세계 안내
 - 수정일: 2026-11-04 · 실제 증보일: 2026-11-04 · 검토: unassessed
-- 관련 문서: `welcome`, `rulebook`, `reshaping`, `demon-epoch-chronicle`, `space-codes`, `binary-system`, `magic-senses`
+- 관련 문서: `welcome`, `rulebook`, `reshaping`, `demon-epoch-chronicle`, `space-codes`, `binary-system`, `magic-senses`, `mission-lost-freighter`, `mission-breathing-forest`, `ships-and-gear`, `route-era-life`
 
 ## 절 목차
 
@@ -52,3 +52,4 @@
 - ← `welcome` · introduces · 근거 절(welcome): 첫째 문 — 세계를 읽는다
 - ← `rulebook` · elaborates · 근거 절(rulebook): 1. 세계 한 장 요약
 - → `reshaping` · elaborates · 근거 절(open-routes-era): 다른 시대와의 관계
+- ← `route-era-life` · elaborates · 근거 절(route-era-life): 항구의 하루

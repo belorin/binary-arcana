@@ -18,6 +18,21 @@
   - AI에게 통째로 주면 진행자가 되어 개척지 탐사 롤플레잉을 진행하는 한 파일짜리 룰북. 진행자 지침, 2d6 판정, 탐사대원 만들기, 마법과 값, 신탁·시계·하늘 굴림·무작위 표, 첫 임무 「돌아온 별, 조용한 우물」.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rulebook/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md)
 
+## 탐사대
+
+- **[임무: 바람 끝의 손님들](wiki/mission-lost-freighter.md)** · 별칭: 잃어버린 수송선, 은실호, 남쪽 행렬, 비엘라의 돌 · 수정: 2026-11-04 · 상태: 룰북용 임무 · 진행자 전용
+  - 사라진 고리운송 화물선 은실호를 찾는 중형 임무. 빼돌린 바람고원의 유물, 틈의 문그늘, 그늘 아래 백 해를 산 남쪽 행렬, 쫓기는 이만 나갈 수 있는 규칙.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mission-lost-freighter/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-lost-freighter.md)
+- **[임무: 숨 쉬는 숲](wiki/mission-breathing-forest.md)** · 별칭: 균류 숲 유적, 허물 조각, 숨 쉬는 사람들, 레오 · 수정: 2026-11-04 · 상태: 룰북용 임무 · 진행자 전용
+  - 샛별 균류 숲 깊은 곳의 마법 구조물을 찾는 중형 임무. 구조물은 마왕의 허물이고, 아들을 찾는 교수와 허물 조각을 노리는 회사와 아픔을 나누는 숨 쉬는 사람들이 얽힌다. 가장 큰 비밀은 그들이 누리에서 온 사람들의 후손이라는 것.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mission-breathing-forest/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-breathing-forest.md)
+- **[건넘선과 장비](wiki/ships-and-gear.md)** · 별칭: 배의 부분, 아이템, 장비 목록 · 수정: 2026-11-04 · 상태: 룰북용 사전
+  - 건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/ships-and-gear/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/ships-and-gear.md)
+- **[항로 시대의 생활](wiki/route-era-life.md)** · 별칭: 항구 생활, 겹침날, 틈에나 빠져라 · 수정: 2026-11-04 · 상태: 룰북용 사전
+  - 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-life/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md)
+
 ## 개요
 
 - **[대의문](wiki/grand-questions.md)** · 별칭: 거대한 의문, 세계의 큰 수수께끼 · 수정: 2026-11-04 · 상태: 미정

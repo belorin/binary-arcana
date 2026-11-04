@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 52,
+  "document_count": 56,
   "documents": [
     {
       "id": "welcome",
@@ -32,7 +32,11 @@
       "related_ids": [
         "open-routes-era",
         "rulebook",
-        "start-here"
+        "start-here",
+        "mission-lost-freighter",
+        "mission-breathing-forest",
+        "ships-and-gear",
+        "route-era-life"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/welcome.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/welcome.md",
@@ -66,7 +70,11 @@
         "demon-epoch-chronicle",
         "space-codes",
         "binary-system",
-        "magic-senses"
+        "magic-senses",
+        "mission-lost-freighter",
+        "mission-breathing-forest",
+        "ships-and-gear",
+        "route-era-life"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-routes-era.md",
@@ -98,7 +106,11 @@
         "welcome",
         "open-routes-era",
         "magic-senses",
-        "demon-epoch-chronicle"
+        "demon-epoch-chronicle",
+        "mission-lost-freighter",
+        "mission-breathing-forest",
+        "ships-and-gear",
+        "route-era-life"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rulebook.md",
@@ -214,6 +226,41 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/causal-roleplay.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/causal-roleplay/",
       "app_url": "https://belorin.github.io/binary-arcana/#causal-roleplay"
+    },
+    {
+      "id": "mission-lost-freighter",
+      "title": "임무: 바람 끝의 손님들",
+      "aliases": [
+        "잃어버린 수송선",
+        "은실호",
+        "남쪽 행렬",
+        "비엘라의 돌"
+      ],
+      "category": "탐사대",
+      "tags": [
+        "임무",
+        "건너별",
+        "문그늘",
+        "바람고원",
+        "고리운송"
+      ],
+      "summary": "사라진 고리운송 화물선 은실호를 찾는 중형 임무. 빼돌린 바람고원의 유물, 틈의 문그늘, 그늘 아래 백 해를 산 남쪽 행렬, 쫓기는 이만 나갈 수 있는 규칙.",
+      "review_state": "unassessed",
+      "review_label": "룰북용 임무 · 진행자 전용",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
+      "related_ids": [
+        "rulebook",
+        "ships-and-gear",
+        "route-era-life",
+        "open-routes-era",
+        "mission-breathing-forest",
+        "demon-epoch-chronicle"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-lost-freighter.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mission-lost-freighter.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mission-lost-freighter/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mission-lost-freighter"
     },
     {
       "id": "start-here",
@@ -448,6 +495,41 @@
       "app_url": "https://belorin.github.io/binary-arcana/#aren-sheet"
     },
     {
+      "id": "mission-breathing-forest",
+      "title": "임무: 숨 쉬는 숲",
+      "aliases": [
+        "균류 숲 유적",
+        "허물 조각",
+        "숨 쉬는 사람들",
+        "레오"
+      ],
+      "category": "탐사대",
+      "tags": [
+        "임무",
+        "샛별",
+        "허물",
+        "공명",
+        "결 학회"
+      ],
+      "summary": "샛별 균류 숲 깊은 곳의 마법 구조물을 찾는 중형 임무. 구조물은 마왕의 허물이고, 아들을 찾는 교수와 허물 조각을 노리는 회사와 아픔을 나누는 숨 쉬는 사람들이 얽힌다. 가장 큰 비밀은 그들이 누리에서 온 사람들의 후손이라는 것.",
+      "review_state": "unassessed",
+      "review_label": "룰북용 임무 · 진행자 전용",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
+      "related_ids": [
+        "rulebook",
+        "ships-and-gear",
+        "route-era-life",
+        "open-routes-era",
+        "mission-lost-freighter",
+        "demon-epoch-chronicle"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-breathing-forest.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mission-breathing-forest.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mission-breathing-forest/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mission-breathing-forest"
+    },
+    {
       "id": "open-setting-questions",
       "title": "정해야 할 설정",
       "aliases": [
@@ -583,6 +665,37 @@
       "app_url": "https://belorin.github.io/binary-arcana/#aren-session-01"
     },
     {
+      "id": "ships-and-gear",
+      "title": "건넘선과 장비",
+      "aliases": [
+        "배의 부분",
+        "아이템",
+        "장비 목록"
+      ],
+      "category": "탐사대",
+      "tags": [
+        "건넘선",
+        "장비",
+        "아이템",
+        "탈것",
+        "자금"
+      ],
+      "summary": "건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.",
+      "review_state": "unassessed",
+      "review_label": "룰북용 사전",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
+      "related_ids": [
+        "rulebook",
+        "open-routes-era",
+        "route-era-life"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/ships-and-gear.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/ships-and-gear.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/ships-and-gear/",
+      "app_url": "https://belorin.github.io/binary-arcana/#ships-and-gear"
+    },
+    {
       "id": "knowledge-horizons",
       "title": "인식의 지평과 정보 비대칭",
       "aliases": [
@@ -620,6 +733,37 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/knowledge-horizons.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/knowledge-horizons/",
       "app_url": "https://belorin.github.io/binary-arcana/#knowledge-horizons"
+    },
+    {
+      "id": "route-era-life",
+      "title": "항로 시대의 생활",
+      "aliases": [
+        "항구 생활",
+        "겹침날",
+        "틈에나 빠져라"
+      ],
+      "category": "탐사대",
+      "tags": [
+        "생활",
+        "음식",
+        "말버릇",
+        "축제",
+        "항구"
+      ],
+      "summary": "항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.",
+      "review_state": "unassessed",
+      "review_label": "룰북용 사전",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
+      "related_ids": [
+        "rulebook",
+        "open-routes-era",
+        "ships-and-gear"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-life.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-life/",
+      "app_url": "https://belorin.github.io/binary-arcana/#route-era-life"
     },
     {
       "id": "story-state",
