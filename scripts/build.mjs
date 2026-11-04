@@ -29,4 +29,5 @@ if (check) {
   run("--check", "app.js");
   run("--check", "calendar.js");
   run("scripts/test-viewer.mjs");
+  run("scripts/test-calendar.mjs");
 }

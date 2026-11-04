@@ -1,5 +1,226 @@
 {
   "version": 1,
-  "description": "달력 보기(/#calendar)의 정본. 원년과 연도가 미정인 동안 항목을 비워 둔다. 날짜가 확정된 실제 사건만 점진적으로 추가한다. from/to는 연대형(YYYY 또는 YYYY-MM, 기원전 -YYYY), every는 절기형(MM 또는 MM-DD).",
-  "entries": []
+  "description": "달력 보기(/#calendar)의 정본. 원년이 없으므로 시간은 T0에서 P3 단위로 센다(1해 = 10철, 1철 = 4물때 = 44날, 1물때 = 11날). 큰 순서(era, when)는 날로 셀 수 없는 시대의 순서, T0 연대(from/to)는 T0+220이나 T0-1해2철 같은 날 셈, 한 해(every)는 N철·N철 M물때·N철 M물때 K날로 해마다 돌아오는 때다. 형식은 scripts/validate-calendar.mjs에 있다.",
+  "entries": [
+    {
+      "id": "c001",
+      "label": "일곱 마왕의 시대 — 틈살이",
+      "era": 1,
+      "when": "직전 재편보다 훨씬 앞. 간격 미상",
+      "doc": "demon-epoch-chronicle"
+    },
+    {
+      "id": "c002",
+      "label": "흩어진 세대",
+      "era": 1.1,
+      "when": "기억이 닿는 가장 먼 때",
+      "doc": "demon-epoch-chronicle",
+      "section": "1. 흩어진 세대"
+    },
+    {
+      "id": "c003",
+      "label": "첫 규칙의 세대",
+      "era": 1.2,
+      "when": "값줄에 처음 매듭이 엮인 때",
+      "doc": "demon-epoch-chronicle",
+      "section": "2. 첫 규칙의 세대"
+    },
+    {
+      "id": "c004",
+      "label": "기둥벌을 건너는 밤",
+      "era": 1.25,
+      "when": "첫 규칙의 세대",
+      "doc": "demon-epoch-fiction-pillars"
+    },
+    {
+      "id": "c005",
+      "label": "타협의 세대",
+      "era": 1.3,
+      "when": "살아남는 길이 셋으로 갈린 때",
+      "doc": "demon-epoch-chronicle",
+      "section": "3. 타협의 세대"
+    },
+    {
+      "id": "c006",
+      "label": "둘레가 넓어지는 세대 — 문그늘",
+      "era": 1.4,
+      "when": "샛별로 건너간 때",
+      "doc": "demon-epoch-chronicle",
+      "section": "4. 둘레가 넓어지는 세대 — 문그늘"
+    },
+    {
+      "id": "c007",
+      "label": "갈림의 세대",
+      "era": 1.5,
+      "when": "갈림길마다 매듭을 건 때",
+      "doc": "demon-epoch-chronicle",
+      "section": "5. 갈림의 세대"
+    },
+    {
+      "id": "c008",
+      "label": "틈이 굳는 세대",
+      "era": 1.6,
+      "when": "일곱 마왕의 시대의 끝",
+      "doc": "demon-epoch-chronicle",
+      "section": "6. 틈이 굳는 세대"
+    },
+    {
+      "id": "c009",
+      "label": "직전 재편",
+      "era": 2,
+      "when": "T0보다 수백 해 앞",
+      "doc": "reshaping",
+      "section": "연대의 골격"
+    },
+    {
+      "id": "c010",
+      "label": "낮은곶 물턱의 붕괴 — 아렌의 첫 세션",
+      "era": 3,
+      "when": "T0보다 몇 해 앞. 간격 미정",
+      "doc": "aren-session-01"
+    },
+    {
+      "id": "c011",
+      "label": "T0 — 큰 건넘 대국의 마지막 겹침",
+      "era": 4,
+      "when": "날로 세는 연대의 기준",
+      "doc": "rival-gc-state",
+      "section": "결말: 무엇이 실제로 일어났는가"
+    },
+    {
+      "id": "c012",
+      "label": "이야기의 기본 시대 — 재편",
+      "era": 5,
+      "when": "T0 둘레와 그 뒤",
+      "doc": "reshaping",
+      "section": "이야기의 기본 시대"
+    },
+    {
+      "id": "c020",
+      "label": "큰 건넘의 계승 대국",
+      "from": "T0-33",
+      "doc": "scenario-great-crossing",
+      "to": "T0",
+      "section": "시나리오 시작: 하란의 죽음"
+    },
+    {
+      "id": "c021",
+      "label": "첫째 물때 — 장소와 문구를 두고 다툼",
+      "from": "T0-33",
+      "doc": "rival-gc-t03-world",
+      "to": "T0-23",
+      "section": "첫째 물때의 결론"
+    },
+    {
+      "id": "c022",
+      "label": "둘째 물때 — 첫 맞섬이 성립하지 않음",
+      "from": "T0-22",
+      "doc": "rival-gc-t06-world",
+      "to": "T0-12",
+      "section": "판정의 핵심"
+    },
+    {
+      "id": "c023",
+      "label": "마지막 물때 — 승계와 길 열기를 나눔",
+      "from": "T0-11",
+      "doc": "rival-gc-t09-world",
+      "to": "T0",
+      "section": "확정 결말 — 열렸다. 그러나 한 번, 한 사람이 지나갈 만큼만"
+    },
+    {
+      "id": "c024",
+      "label": "마지막 겹침 — 큰 건넘이 한 사람의 폭으로 열림",
+      "from": "T0",
+      "doc": "rival-gc-finale-fiction"
+    },
+    {
+      "id": "c025",
+      "label": "하늘 기록 — T0의 천체 배치",
+      "from": "T0",
+      "doc": "sky-positions",
+      "section": "T0 — 큰 건넘 대국의 마지막 겹침"
+    },
+    {
+      "id": "c026",
+      "label": "하늘 기록 — 겹침철 사이의 한가운데",
+      "from": "T0+110",
+      "doc": "sky-positions",
+      "section": "T0+110 — 다음 겹침철 사이의 한가운데"
+    },
+    {
+      "id": "c027",
+      "label": "하늘 기록 — 다음 겹침철",
+      "from": "T0+220",
+      "doc": "sky-positions",
+      "section": "T0+220 — 다음 겹침철"
+    },
+    {
+      "id": "c028",
+      "label": "하늘 기록 — 한 해 뒤의 겹침",
+      "from": "T0+1해",
+      "doc": "sky-positions",
+      "section": "T0+440 — 한 해 뒤의 겹침"
+    },
+    {
+      "id": "c029",
+      "label": "하늘 기록 — 두 해 뒤의 겹침",
+      "from": "T0+2해",
+      "doc": "sky-positions",
+      "section": "T0+880 — 두 해 뒤의 겹침"
+    },
+    {
+      "id": "c040",
+      "label": "겹침철 — 큰 건넘이 넓게 열리는 철",
+      "every": {
+        "from": "1철"
+      },
+      "doc": "scenario-great-crossing",
+      "section": "무대: 열두 여울과 큰 건넘"
+    },
+    {
+      "id": "c041",
+      "label": "겹침철 — 큰 건넘이 넓게 열리는 철",
+      "every": {
+        "from": "6철"
+      },
+      "doc": "scenario-great-crossing",
+      "section": "무대: 열두 여울과 큰 건넘"
+    },
+    {
+      "id": "c042",
+      "label": "겹침 — 작은 해가 큰 해 앞을 지남",
+      "every": {
+        "from": "1철 1날"
+      },
+      "doc": "binary-system",
+      "section": "P3에서 쓰는 시간의 단위"
+    },
+    {
+      "id": "c043",
+      "label": "숨음 — 해가 하나만 뜨는 날",
+      "every": {
+        "from": "1철 23날"
+      },
+      "doc": "binary-system",
+      "section": "P3에서 쓰는 시간의 단위"
+    },
+    {
+      "id": "c044",
+      "label": "겹침 — 작은 해가 큰 해 앞을 지남",
+      "every": {
+        "from": "6철 1날"
+      },
+      "doc": "binary-system",
+      "section": "P3에서 쓰는 시간의 단위"
+    },
+    {
+      "id": "c045",
+      "label": "숨음 — 해가 하나만 뜨는 날",
+      "every": {
+        "from": "6철 23날"
+      },
+      "doc": "binary-system",
+      "section": "P3에서 쓰는 시간의 단위"
+    }
+  ]
 }
