@@ -47,6 +47,7 @@
 
 - [개인의 재능과 관계적 마법](https://belorin.github.io/binary-arcana/notes/magic-as-practice/): 마법의 폭넓은 가능성, 개인의 발견과 성장, 정형화되지 않은 전승과 공통마법의 조건, 나무와 돌 등의 관계적 참여.
 - [마법의 말과 감각](https://belorin.github.io/binary-arcana/notes/magic-senses/): 마법을 사이·알아봄·울림·결·매듭·값·엮음으로 설명하는 열두 여울과 낮은곶의 말. 받는 자리로 드러나는 재능, 바깥에서 보이는 모습, 공통마법의 예, 마법이 듣지 않을 때 원인을 가르는 법, 묘사 점검표.
+- [관념과의 사이 — 모든 사람에게 있는 또 하나의 관계](https://belorin.github.io/binary-arcana/notes/conceptual-relations/): 물질과 장소뿐 아니라 속담·무게·시간 등 관념과도 관계를 맺는 보편적인 마법. 모든 사람의 약한 재능, 개인별 깊이와 편차, 현실 개변의 소급성과 대가, 관계적 마법과의 연속성.
 
 ### 마법 공예·항행
 
@@ -58,6 +59,7 @@
 
 ### 인물
 
+- [마렌 — 산의 무게를 바꾼 여성 대마법사](https://belorin.github.io/binary-arcana/notes/archmage-maren/): T0 이전에 태어난 여성 대마법사 마렌(가칭). 속담의 소급 현실 개변, 무게의 거대한 물리적 위업, 구체적 존재의 사이, 시간과 맺은 후천적 관계, 어린 시절의 사고와 세계적 마찰을 다룬 인물 설정.
 - [조화의 마왕 — 거시 대턴 인물 시트](https://belorin.github.io/binary-arcana/notes/demon-epoch-harmony/): 조화의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
 - [서약의 마왕 — 거시 대턴 인물 시트](https://belorin.github.io/binary-arcana/notes/demon-epoch-oath/): 서약의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
 - [공명의 마왕 — 거시 대턴 인물 시트](https://belorin.github.io/binary-arcana/notes/demon-epoch-resonance/): 공명의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.

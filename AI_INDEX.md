@@ -38,7 +38,7 @@
 - **[대의문](wiki/grand-questions.md)** · 별칭: 거대한 의문, 세계의 큰 수수께끼 · 수정: 2026-11-04 · 상태: 미정
   - 인류의 기원, 마법적 우주의 토대, 비인간 행위자의 역할, 다른 행성으로의 진출 한계 등 세계를 관통하는 거대한 수수께끼의 후보.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/grand-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/grand-questions.md)
-- **[세계 개요](wiki/start-here.md)** · 별칭: 세계 개요 · 수정: 2026-11-04 · 상태: 정본
+- **[세계 개요](wiki/start-here.md)** · 별칭: 세계 개요 · 수정: 2026-11-05 · 상태: 정본
   - 쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/start-here/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md)
 - **[정해야 할 설정](wiki/open-setting-questions.md)** · 별칭: 미정 설정 목록 · 수정: 2026-11-03 · 상태: 미정
@@ -59,12 +59,15 @@
 
 ## 마법
 
-- **[개인의 재능과 관계적 마법](wiki/magic-as-practice.md)** · 별칭: 개인 마법, 공통마법과 지역 마법 · 수정: 2026-11-03 · 상태: 초안
+- **[개인의 재능과 관계적 마법](wiki/magic-as-practice.md)** · 별칭: 개인 마법, 공통마법과 지역 마법 · 수정: 2026-11-05 · 상태: 초안
   - 마법의 폭넓은 가능성, 개인의 발견과 성장, 정형화되지 않은 전승과 공통마법의 조건, 나무와 돌 등의 관계적 참여.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/magic-as-practice/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-as-practice.md)
-- **[마법의 말과 감각](wiki/magic-senses.md)** · 별칭: 사이와 결, 마법의 낱말, 마법 묘사 · 수정: 2026-11-04 · 상태: 임시 정본
+- **[마법의 말과 감각](wiki/magic-senses.md)** · 별칭: 사이와 결, 마법의 낱말, 마법 묘사 · 수정: 2026-11-05 · 상태: 임시 정본
   - 마법을 사이·알아봄·울림·결·매듭·값·엮음으로 설명하는 열두 여울과 낮은곶의 말. 받는 자리로 드러나는 재능, 바깥에서 보이는 모습, 공통마법의 예, 마법이 듣지 않을 때 원인을 가르는 법, 묘사 점검표.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/magic-senses/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-senses.md)
+- **[관념과의 사이 — 모든 사람에게 있는 또 하나의 관계](wiki/conceptual-relations.md)** · 별칭: 관념과의 관계, 개념 마법, 속담 마법 · 수정: 2026-11-05 · 상태: 정본 · 범세계적 원칙, 세부 작용 미정
+  - 물질과 장소뿐 아니라 속담·무게·시간 등 관념과도 관계를 맺는 보편적인 마법. 모든 사람의 약한 재능, 개인별 깊이와 편차, 현실 개변의 소급성과 대가, 관계적 마법과의 연속성.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/conceptual-relations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/conceptual-relations.md)
 
 ## 마법 공예·항행
 
@@ -80,6 +83,9 @@
 
 ## 인물
 
+- **[마렌 — 산의 무게를 바꾼 여성 대마법사](wiki/archmage-maren.md)** · 별칭: 여성 대마법사, 마렌, 무게의 대마법사 · 수정: 2026-11-05 · 상태: 초안 · 핵심 설정 확정, 사건·이름 가안
+  - T0 이전에 태어난 여성 대마법사 마렌(가칭). 속담의 소급 현실 개변, 무게의 거대한 물리적 위업, 구체적 존재의 사이, 시간과 맺은 후천적 관계, 어린 시절의 사고와 세계적 마찰을 다룬 인물 설정.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/archmage-maren/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/archmage-maren.md)
 - **[조화의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-harmony.md)** · 별칭: 조화의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
   - 조화의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-harmony/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-harmony.md)
@@ -116,7 +122,7 @@
 - **[일곱 마왕의 시대 — 대턴 시작 전 관측 단면 S00](wiki/demon-epoch-s00.md)** · 별칭: 마왕 시대 S00 · 수정: 2026-11-03 · 상태: S00 · 대턴 시작 전 초안
   - 마왕의 오래된 질서, 중간 현시, 모호한 관측을 배치한 대턴 시작 전 거시 세계 단면. 행성 위치와 시간표는 임시 배치다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-s00/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-s00.md)
-- **[재편 — 길이 닫히고 다시 열리는 시대](wiki/reshaping.md)** · 별칭: 재편, 이야기의 시대, 길이 줄어드는 시대 · 수정: 2026-11-04 · 상태: 임시 정본 · 진행자용 진상 포함
+- **[재편 — 길이 닫히고 다시 열리는 시대](wiki/reshaping.md)** · 별칭: 재편, 이야기의 시대, 길이 줄어드는 시대 · 수정: 2026-11-05 · 상태: 임시 정본 · 진행자용 진상 포함
   - 길들이 줄어드는 가운데 새 길을 여는 이야기의 기본 시대. 세계 안에서 보이는 징후, 연대의 순서, 진행자용 진상과 검토 대기 제안.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/reshaping/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/reshaping.md)
 
@@ -200,7 +206,7 @@
 - **[냉혹한 인과와 살아 움직이는 세계](wiki/causal-roleplay.md)** · 별칭: 소턴과 대턴, 세계 인과 규칙 · 수정: 2026-11-03 · 상태: 초안
   - 플레이어의 바람보다 기존 인과·역량·타자의 행위가 우선하는 공정한 진행, 소턴과 대턴, 인식 장부와 세대 변화.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/causal-roleplay/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md)
-- **[세대의 예외와 역사적 파급](wiki/exceptional-generations.md)** · 별칭: 세대별 예외, 높은 레이어 · 수정: 2026-11-03 · 상태: 초안
+- **[세대의 예외와 역사적 파급](wiki/exceptional-generations.md)** · 별칭: 세대별 예외, 높은 레이어 · 수정: 2026-11-05 · 상태: 초안
   - 집단과 세대를 거치며 등장하는 드문 개인이 타자와 관계 속에서 지역·행성·세계관의 높은 역사적 층위에 영향을 미치는 방식.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/exceptional-generations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/exceptional-generations.md)
 - **[인식의 지평과 정보 비대칭](wiki/knowledge-horizons.md)** · 별칭: 인물의 지식, 지식의 국소성, 정보 접근 규칙 · 수정: 2026-11-03 · 상태: 운영 문서

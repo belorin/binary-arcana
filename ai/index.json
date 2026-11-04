@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 57,
+  "document_count": 59,
   "documents": [
     {
       "id": "welcome",
@@ -278,8 +278,8 @@
       "summary": "쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.",
       "review_state": "reviewed",
       "review_label": "정본",
-      "last_updated_on": "2026-11-04",
-      "last_enriched_on": "2026-11-03",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
       "related_ids": [
         "grand-questions",
         "editing-guide",
@@ -295,7 +295,9 @@
         "binary-system",
         "reshaping",
         "welcome",
-        "open-routes-era"
+        "open-routes-era",
+        "conceptual-relations",
+        "archmage-maren"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/start-here.md",
@@ -345,8 +347,8 @@
       "summary": "마법의 폭넓은 가능성, 개인의 발견과 성장, 정형화되지 않은 전승과 공통마법의 조건, 나무와 돌 등의 관계적 참여.",
       "review_state": "unassessed",
       "review_label": "초안",
-      "last_updated_on": "2026-11-03",
-      "last_enriched_on": "2026-11-03",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
       "related_ids": [
         "start-here",
         "magical-distance-and-passage",
@@ -357,7 +359,9 @@
         "exceptional-generations",
         "scenario-great-crossing",
         "variable-rules-and-life",
-        "magic-senses"
+        "magic-senses",
+        "conceptual-relations",
+        "archmage-maren"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-as-practice.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magic-as-practice.md",
@@ -416,13 +420,15 @@
       "summary": "집단과 세대를 거치며 등장하는 드문 개인이 타자와 관계 속에서 지역·행성·세계관의 높은 역사적 층위에 영향을 미치는 방식.",
       "review_state": "unassessed",
       "review_label": "초안",
-      "last_updated_on": "2026-11-03",
-      "last_enriched_on": "2026-11-03",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
       "related_ids": [
         "causal-roleplay",
         "magic-as-practice",
         "start-here",
-        "open-setting-questions"
+        "open-setting-questions",
+        "archmage-maren",
+        "conceptual-relations"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/exceptional-generations.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/exceptional-generations.md",
@@ -493,6 +499,48 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/aren-sheet.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/aren-sheet/",
       "app_url": "https://belorin.github.io/binary-arcana/#aren-sheet"
+    },
+    {
+      "id": "archmage-maren",
+      "title": "마렌 — 산의 무게를 바꾼 여성 대마법사",
+      "aliases": [
+        "여성 대마법사",
+        "마렌",
+        "무게의 대마법사"
+      ],
+      "category": "인물",
+      "tags": [
+        "마렌",
+        "대마법사",
+        "여성",
+        "속담",
+        "무게",
+        "시간",
+        "관념과의 사이",
+        "현실 개변",
+        "인물 초안"
+      ],
+      "summary": "T0 이전에 태어난 여성 대마법사 마렌(가칭). 속담의 소급 현실 개변, 무게의 거대한 물리적 위업, 구체적 존재의 사이, 시간과 맺은 후천적 관계, 어린 시절의 사고와 세계적 마찰을 다룬 인물 설정.",
+      "review_state": "unassessed",
+      "review_label": "초안 · 핵심 설정 확정, 사건·이름 가안",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
+      "related_ids": [
+        "conceptual-relations",
+        "magic-as-practice",
+        "magic-senses",
+        "exceptional-generations",
+        "reshaping",
+        "demon-epoch-chronicle",
+        "demon-epoch-oath",
+        "demon-epoch-hospitality",
+        "open-routes-era",
+        "hosumun-eleven-days"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/archmage-maren.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/archmage-maren.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/archmage-maren/",
+      "app_url": "https://belorin.github.io/binary-arcana/#archmage-maren"
     },
     {
       "id": "mission-breathing-forest",
@@ -613,8 +661,8 @@
       "summary": "마법을 사이·알아봄·울림·결·매듭·값·엮음으로 설명하는 열두 여울과 낮은곶의 말. 받는 자리로 드러나는 재능, 바깥에서 보이는 모습, 공통마법의 예, 마법이 듣지 않을 때 원인을 가르는 법, 묘사 점검표.",
       "review_state": "unassessed",
       "review_label": "임시 정본",
-      "last_updated_on": "2026-11-04",
-      "last_enriched_on": "2026-11-03",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
       "related_ids": [
         "magic-as-practice",
         "variable-rules-and-life",
@@ -625,7 +673,9 @@
         "scene-fiction-principles",
         "grand-questions",
         "reshaping",
-        "open-setting-questions"
+        "open-setting-questions",
+        "conceptual-relations",
+        "archmage-maren"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magic-senses.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magic-senses.md",
@@ -733,6 +783,44 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/knowledge-horizons.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/knowledge-horizons/",
       "app_url": "https://belorin.github.io/binary-arcana/#knowledge-horizons"
+    },
+    {
+      "id": "conceptual-relations",
+      "title": "관념과의 사이 — 모든 사람에게 있는 또 하나의 관계",
+      "aliases": [
+        "관념과의 관계",
+        "개념 마법",
+        "속담 마법"
+      ],
+      "category": "마법",
+      "tags": [
+        "관념",
+        "마법",
+        "사이",
+        "속담",
+        "무게",
+        "시간",
+        "재능",
+        "현실 개변",
+        "보편적 재능"
+      ],
+      "summary": "물질과 장소뿐 아니라 속담·무게·시간 등 관념과도 관계를 맺는 보편적인 마법. 모든 사람의 약한 재능, 개인별 깊이와 편차, 현실 개변의 소급성과 대가, 관계적 마법과의 연속성.",
+      "review_state": "unassessed",
+      "review_label": "정본 · 범세계적 원칙, 세부 작용 미정",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
+      "related_ids": [
+        "archmage-maren",
+        "magic-as-practice",
+        "magic-senses",
+        "exceptional-generations",
+        "start-here",
+        "demon-epoch-oath"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/conceptual-relations.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/conceptual-relations.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/conceptual-relations/",
+      "app_url": "https://belorin.github.io/binary-arcana/#conceptual-relations"
     },
     {
       "id": "route-era-life",
@@ -1898,8 +1986,8 @@
       "summary": "길들이 줄어드는 가운데 새 길을 여는 이야기의 기본 시대. 세계 안에서 보이는 징후, 연대의 순서, 진행자용 진상과 검토 대기 제안.",
       "review_state": "unassessed",
       "review_label": "임시 정본 · 진행자용 진상 포함",
-      "last_updated_on": "2026-11-04",
-      "last_enriched_on": null,
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
       "related_ids": [
         "start-here",
         "variable-rules-and-life",
@@ -1913,7 +2001,8 @@
         "open-setting-questions",
         "demon-epoch-chronicle",
         "welcome",
-        "open-routes-era"
+        "open-routes-era",
+        "archmage-maren"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/reshaping.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/reshaping.md",

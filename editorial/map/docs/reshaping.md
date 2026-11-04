@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `reshaping` · 분류: 사건 · 공개 · 원고: [wiki/reshaping.md](../../../wiki/reshaping.md) · 4,099자 · 절 7개
+- id: `reshaping` · 분류: 사건 · 공개 · 원고: [wiki/reshaping.md](../../../wiki/reshaping.md) · 4,257자 · 절 7개
 - 별칭: 재편, 이야기의 시대, 길이 줄어드는 시대
 - 요약: 길들이 줄어드는 가운데 새 길을 여는 이야기의 기본 시대. 세계 안에서 보이는 징후, 연대의 순서, 진행자용 진상과 검토 대기 제안.
 - 태그: 재편, 이야기의 시대, 연대, 빈자리, 진행자용
-- 수정일: 2026-11-04 · 실제 증보일: 미확인 · 검토: 없음
-- 관련 문서: `start-here`, `variable-rules-and-life`, `magic-senses`, `binary-system`, `sky-positions`, `rival-gc-state`, `low-cape`, `seven-demon-lords`, `grand-questions`, `open-setting-questions`, `demon-epoch-chronicle`, `welcome`, `open-routes-era`
+- 수정일: 2026-11-05 · 실제 증보일: 2026-11-05 · 검토: 없음
+- 관련 문서: `start-here`, `variable-rules-and-life`, `magic-senses`, `binary-system`, `sky-positions`, `rival-gc-state`, `low-cape`, `seven-demon-lords`, `grand-questions`, `open-setting-questions`, `demon-epoch-chronicle`, `welcome`, `open-routes-era`, `archmage-maren`
 
 ## 절 목차
 
@@ -19,8 +19,8 @@
 - 연대의 골격 · L20–33 · 756자 · `7082db12` — 원년이 없으므로 큰 순서만 적는다.
 - 진행자용 — 인물들은 모름 · L35–46 · 1,012자 · `177198e1` — 원인: 우주의 규칙 자체가 바뀌고 있다.
 - 진행할 때 · L48–52 · 318자 · `efe340fb` — 재편은 시대의 배경이지 매 장면의 원인이 아니다.
-- 검토 대기 제안 — 정본 아님 · L54–63 · 522자 · `01c18bff` — Claude가 문답 중에 낸 해석이다.
-- 아직 정하지 않은 것 · L65–72 · 236자 · `1a64a448` — 낮은곶 사건과 T0의 정확한 간격.
+- 검토 대기 제안 — 정본 아님 · L54–64 · 680자 · `f4f8d82f` — Claude가 문답 중에 낸 해석이다.
+- 아직 정하지 않은 것 · L66–73 · 236자 · `1a64a448` — 낮은곶 사건과 T0의 정확한 간격.
 
 ## 장부에 기록된 반영 지식
 
@@ -39,6 +39,8 @@
 - **연대의 골격**
   - 직전 재편은 수백 해 전 · `ing-20261104-reshaping`
   - 낮은곶은 T0보다 몇 해 앞 · `ing-20261104-reshaping`
+- **검토 대기 제안 — 정본 아님**
+  - 대마법사 활동기의 시간적 배치를 재편의 별도 원인으로 만들지 않음 · `ing-20261105-archmage-maren`
 
 ## 확인된 의미 관계
 

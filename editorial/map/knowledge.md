@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 133개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 147개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (7)
+## 보류 항목 (8)
 
 - 오래된 사물이 새 자리를 먼저 알아봄 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
 - 타는 건넘·고리의 그늘 전승 해석 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
@@ -14,6 +14,7 @@
 - 결의 역서 관측 기록 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
 - 비인간 지성의 선행 인지 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
 - 강력한 대마법사 개인의 세계사적 활동기와 행적 → 반영 위치 없음 · `ing-20261105-hosumun-canon` · pending — 시대 배치와 역할의 제안을 검토 중이며 구체적 역사적 사실은 아직 미승인
+- 마렌의 본명과 출신, 사건 연대, 마왕과의 실제 만남, 항로 시대 생존 여부 → 반영 위치 없음 · `ing-20261105-archmage-maren` · pending — 인물 문서에 가능한 서사와 미결 항목을 구분해 두었으며 개별 역사적 사건으로 아직 채택하지 않음
 
 ## 운영 원칙 (26)
 
@@ -46,7 +47,7 @@
 - 설명문 속 skip-ci 표기가 실제로 배포를 건너뛰게 함 → `rival-gc-retrospective` § 커밋 규칙을 설명한 커밋이 그 규칙에 걸렸다 · `ing-20261103-rival-gc-retrospective-claude`
 - 사이트가 그리지 못하는 상대 경로·절 링크를 빌드 검사로 막자는 제안 → `rival-gc-retrospective` § 사이트가 그리지 못하는 링크가 되풀이된다 · `ing-20261103-rival-gc-retrospective-claude`
 
-## 사건 (18)
+## 사건 (19)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -68,6 +69,7 @@
 - 세대 순 연대기: 흩어진 세대에서 틈이 굳는 세대까지 → `demon-epoch-chronicle` § 연대기 — 세대로 센다 · `ing-20261104-demon-epoch-chronicle`
 - 값줄: 피로 산 규칙과 T0 무렵 남은 관습. 틀린 규칙도 지우지 않음 → `demon-epoch-chronicle` § 값줄 — 피로 산 규칙 · `ing-20261104-demon-epoch-chronicle`
 - 진행자용 진상: 기둥과 맹약을 지키는 이들, 잠든 둘레, 겹살이, 샛별의 후손, 틈이 굳은 까닭 → `demon-epoch-chronicle` § 진행자용 — 인물들은 모름 · `ing-20261104-demon-epoch-chronicle`
+- 대마법사 활동기의 시간적 배치를 재편의 별도 원인으로 만들지 않음 → `reshaping` § 검토 대기 제안 — 정본 아님; `exceptional-generations` § 예외적인 개인의 구체적 구상 — 마렌 · `ing-20261105-archmage-maren`
 
 ## 개요 (16)
 
@@ -90,7 +92,7 @@
 - 누리에 비인간 지성 존재 공존 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261104-reshaping`
 - 세계의 규칙은 왜 바뀌는가 → `grand-questions` § 세계의 규칙은 왜 바뀌는가? · `ing-20261104-reshaping`
 
-## 마법 (13)
+## 마법 (15)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -107,6 +109,8 @@
 - 공통마법의 예: 불 맡기기, 물 나눔, 묵힘, 아물림, 길 묻기, 묶어 두기. 소식을 멀리 보내는 마법은 알려져 있지 않음 → `magic-senses` § 공통마법 몇 가지 · `ing-20261103-magic-senses`
 - 엮음과 기반 시설. 새 땅에는 사이가 없어서 가난하다 → `magic-senses` § 엮음 — 큰 마법은 여럿이 한다 · `ing-20261103-magic-senses`
 - 마법이 듣지 않을 때 원인을 가르는 법과 결바뀜 → `magic-senses` § 마법이 듣지 않을 때; `variable-rules-and-life` § 소설과 세계 진행에서의 쓰임 · `ing-20261103-magic-senses`
+- 관념과의 사이가 물질적 상대와 함께 온 세계에 적용되며 약한 재능이 모두에게 있음 → `conceptual-relations` § 정의; `conceptual-relations` § 보편성과 편차; `magic-as-practice` § 관념과의 사이 — 세계 전체에 있는 재능 · `ing-20261105-archmage-maren`
+- 관념의 관계는 별도의 고정 속성 학파가 아니며 기존 관계 마법과 공존함 → `conceptual-relations` § 기존의 사이와의 관계; `magic-senses` § 관념이라는 상대도 있다 · `ing-20261105-archmage-maren`
 
 ## 시작하기 (12)
 
@@ -124,6 +128,21 @@
 - 처음 온 사람을 위한 입구와 서고 안내 → `welcome` § 셋째 문 — 서고에서 깊이 읽는다 · `ing-20261104-open-routes-era`
 - 지난 삼백 해: 닫힘의 세기, 새 자리, 항로청과 나눔 사이, 건너별 재접촉, 그늘역, 돌아온 별. 남은 것은 많지 않음 → `open-routes-era` § 지난 삼백 해 · `ing-20261104-open-routes-era`
 - 룰북: 함께 받은 파일, 새로 정한 것 표시, 저장 블록 → `rulebook` § 함께 받은 파일, 새로 정한 것, 저장 · `ing-20261104-route-era-play`
+
+## 인물 (10)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 여성 대마법사 마렌의 성별과 역사적 시대 및 세 갈래 재능 → `archmage-maren` § 기본 정보; `archmage-maren` § 세 갈래의 재능 · `ing-20261105-archmage-maren`
+- 속담이 현실과 기억 및 과거를 소급해서 개변하고 없던 속담을 만들 수 있음 → `archmage-maren` § 세 갈래의 재능; `conceptual-relations` § 속담 — 세계가 오래 알고 있었던 말이 되다 · `ing-20261105-archmage-maren`
+- 속담 개변에 본인도 휘말리며 준비에 많은 힘과 책임이 필요함 → `archmage-maren` § 준비의 기술 — 개변 이후에도 자신을 잃지 않는 일; `conceptual-relations` § 속담의 준비, 값과 자기 개변 · `ing-20261105-archmage-maren`
+- 어린 시절 복수의 큰 개변 시행착오가 훗날의 책임감과 숙련을 낳음 → `archmage-maren` § 어린 시절 — 사고에서 배우는 책임 · `ing-20261105-archmage-maren`
+- 부모 또한 마법적 능력을 가진 사회 구성원으로서 딸의 성장을 대함 → `archmage-maren` § 부모와 고향 — 보통의 마법적 생활 · `ing-20261105-archmage-maren`
+- 대마법사의 공적 위엄은 무게가 보여주는 물리적 스펙터클에서 나옴 → `archmage-maren` § 세상이 기억하는 여인과 실제의 여인; `conceptual-relations` § 무게 — 눈으로 확인할 수 있는 관념 · `ing-20261105-archmage-maren`
+- 시간과의 사이는 후천적 성취이며 장수와 생존 가능성은 널리 알려지지 않음 → `archmage-maren` § 시간과의 사이 — 후천적으로 얻은 긴 생애; `conceptual-relations` § 시간 — 후천적으로 사귄 관념 · `ing-20261105-archmage-maren`
+- 대마법사는 강력한 능력을 지닌 인간이자 타인과 제도에 충돌하는 독립적인 행위자 → `archmage-maren` § 세계와의 마찰 — 왜 그녀가 위험해졌는가; `exceptional-generations` § 예외적인 개인의 구체적 구상 — 마렌 · `ing-20261105-archmage-maren`
+- 부모의 직업과 건넘터 산을 옮긴 사건을 실제 역사와 구분한 서사 가안으로 보존 → `archmage-maren` § 사건 후보 — 건넘터와 산을 옮긴 날; `archmage-maren` § 부모와 고향 — 보통의 마법적 생활 · `ing-20261105-archmage-maren`
+- 마왕들과의 대면 및 항로 시대까지의 생존 가능성을 확정 사실과 구분 → `archmage-maren` § 마왕들과의 만남; `archmage-maren` § 동시대와 후대의 지식은 다르다 · `ing-20261105-archmage-maren`
 
 ## 롤플레잉 (9)
 

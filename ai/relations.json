@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 398,
+  "edge_count": 423,
   "edges": [
     {
       "from": "welcome",
@@ -464,6 +464,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "start-here",
+      "to": "conceptual-relations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "archmage-maren",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "editing-guide",
       "to": "start-here",
       "type": "related_to",
@@ -536,6 +548,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "magic-as-practice",
+      "to": "conceptual-relations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-as-practice",
+      "to": "archmage-maren",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "magical-distance-and-passage",
       "to": "start-here",
       "type": "related_to",
@@ -598,6 +622,18 @@
     {
       "from": "exceptional-generations",
       "to": "open-setting-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "exceptional-generations",
+      "to": "archmage-maren",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "exceptional-generations",
+      "to": "conceptual-relations",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -676,6 +712,66 @@
     {
       "from": "aren-sheet",
       "to": "story-state",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "conceptual-relations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "exceptional-generations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "demon-epoch-oath",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "demon-epoch-hospitality",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "hosumun-eleven-days",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -872,6 +968,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "magic-senses",
+      "to": "conceptual-relations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "magic-senses",
+      "to": "archmage-maren",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "aren-session-01",
       "to": "low-cape",
       "type": "related_to",
@@ -970,6 +1078,42 @@
     {
       "from": "knowledge-horizons",
       "to": "multi-ai-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conceptual-relations",
+      "to": "archmage-maren",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conceptual-relations",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conceptual-relations",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conceptual-relations",
+      "to": "exceptional-generations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conceptual-relations",
+      "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "conceptual-relations",
+      "to": "demon-epoch-oath",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2278,6 +2422,12 @@
     {
       "from": "reshaping",
       "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "archmage-maren",
       "type": "related_to",
       "basis": "manifest.related"
     },
