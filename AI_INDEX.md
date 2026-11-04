@@ -29,7 +29,7 @@
 - **[건넘선과 장비](wiki/ships-and-gear.md)** · 별칭: 배의 부분, 아이템, 장비 목록 · 수정: 2026-11-04 · 상태: 룰북용 사전
   - 건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/ships-and-gear/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/ships-and-gear.md)
-- **[항로 시대의 생활](wiki/route-era-life.md)** · 별칭: 항구 생활, 겹침날, 틈에나 빠져라 · 수정: 2026-11-04 · 상태: 룰북용 사전
+- **[항로 시대의 생활](wiki/route-era-life.md)** · 별칭: 항구 생활, 겹침날, 틈에나 빠져라 · 수정: 2026-11-05 · 상태: 룰북용 사전
   - 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-life/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md)
 
@@ -134,7 +134,7 @@
 - **[기둥벌을 건너는 밤](wiki/demon-epoch-fiction-pillars.md)** · 별칭: 기둥벌, 이마와 고스 · 수정: 2026-11-04 · 상태: 장면 소설
   - 일곱 마왕의 시대, 말없는 이들의 무리가 말한 것이 지켜지는 들판 기둥벌을 건너다 둘을 잃고, 열일곱 살 이마가 처음으로 규칙을 매듭으로만 엮는 밤.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-fiction-pillars/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-fiction-pillars.md)
-- **[호수문의 한 물때 — 만두가 식는 동안](wiki/hosumun-eleven-days.md)** · 별칭: 호수문의 열하루, 만두가 식는 동안 · 수정: 2026-11-05 · 상태: 일상 서사 실험 초고 · 신규 설정 미채택
+- **[호수문의 한 물때 — 만두가 식는 동안](wiki/hosumun-eleven-days.md)** · 별칭: 호수문의 열하루, 만두가 식는 동안 · 수정: 2026-11-05 · 상태: 정본 · 항로력 212년 호수문 일상 사건
   - 항로력 212년 호수문 서쪽 시장에서 열줄 받침이 깨진 한 물때. 당번꾼과 상인, 수선공, 아이, 켜사람들이 서로 얽히되 각자의 일상을 살아가는 열하루.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/hosumun-eleven-days/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/hosumun-eleven-days.md)
 

@@ -4,7 +4,7 @@
 
 마지막 정비: **M002** (2026-11-04) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 57개 · 변경 문서 18 · 고립 1 · 한쪽 연결 87 · 보류 6 · 열린 교차 제안 0
+원고 57개 · 변경 문서 18 · 고립 0 · 한쪽 연결 86 · 보류 7 · 열린 교차 제안 0
 
 ## 1. 지난 정비 이후 변경된 문서 (18)
 
@@ -20,13 +20,12 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - **안내** (1): `worldbuilding-guide`
 - **장소** (1): `low-cape`
 
-## 2. 들어오는 연결이 없는 문서 (1)
+## 2. 들어오는 연결이 없는 문서 (0)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
-- `hosumun-eleven-days` 호수문의 한 물때 — 만두가 식는 동안
 
-## 3. 한쪽에서만 건 관련 문서 (87)
+## 3. 한쪽에서만 건 관련 문서 (86)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -114,7 +113,6 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - `space-codes` → `welcome`
 - `reshaping` → `welcome`
 - `hosumun-eleven-days` → `open-routes-era`
-- `hosumun-eleven-days` → `route-era-life`
 - `hosumun-eleven-days` → `magic-senses`
 - `hosumun-eleven-days` → `ships-and-gear`
 
@@ -141,7 +139,7 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - `demon-epoch-oath` ↔ `demon-epoch-shedding` · 0.93
 - `demon-epoch-resonance` ↔ `demon-epoch-branching` · 0.93
 
-## 6. 보류 항목 (6)
+## 6. 보류 항목 (7)
 
 - 오래된 사물이 새 자리를 먼저 알아봄 · `ing-20261104-reshaping` — Claude의 제안. 사용자 승인 전 정본 제외
 - 타는 건넘·고리의 그늘 전승 해석 · `ing-20261104-reshaping` — Claude의 제안. 사용자 승인 전 정본 제외
@@ -149,6 +147,7 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - 일곱 일족의 차별적 대응 · `ing-20261104-reshaping` — Claude의 제안. 사용자 승인 전 정본 제외
 - 결의 역서 관측 기록 · `ing-20261104-reshaping` — Claude의 제안. 사용자 승인 전 정본 제외
 - 비인간 지성의 선행 인지 · `ing-20261104-reshaping` — Claude의 제안. 사용자 승인 전 정본 제외
+- 강력한 대마법사 개인의 세계사적 활동기와 행적 · `ing-20261105-hosumun-canon` — 시대 배치와 역할의 제안을 검토 중이며 구체적 역사적 사실은 아직 미승인
 
 ## 7. 열린 교차 편집 제안 (0)
 

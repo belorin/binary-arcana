@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 397,
+  "edge_count": 398,
   "edges": [
     {
       "from": "welcome",
@@ -988,6 +988,12 @@
     {
       "from": "route-era-life",
       "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "hosumun-eleven-days",
       "type": "related_to",
       "basis": "manifest.related"
     },

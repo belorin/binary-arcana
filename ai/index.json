@@ -753,12 +753,13 @@
       "summary": "항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.",
       "review_state": "unassessed",
       "review_label": "룰북용 사전",
-      "last_updated_on": "2026-11-04",
-      "last_enriched_on": "2026-11-04",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
       "related_ids": [
         "rulebook",
         "open-routes-era",
-        "ships-and-gear"
+        "ships-and-gear",
+        "hosumun-eleven-days"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-life.md",
@@ -1938,9 +1939,9 @@
       ],
       "summary": "항로력 212년 호수문 서쪽 시장에서 열줄 받침이 깨진 한 물때. 당번꾼과 상인, 수선공, 아이, 켜사람들이 서로 얽히되 각자의 일상을 살아가는 열하루.",
       "review_state": "unassessed",
-      "review_label": "일상 서사 실험 초고 · 신규 설정 미채택",
+      "review_label": "정본 · 항로력 212년 호수문 일상 사건",
       "last_updated_on": "2026-11-05",
-      "last_enriched_on": null,
+      "last_enriched_on": "2026-11-05",
       "related_ids": [
         "open-routes-era",
         "route-era-life",
