@@ -7,7 +7,7 @@
 - 요약: 기원을 알 수 없는 마왕과 일족의 철학적 행동양식 초안. 일곱 호칭은 저자용이며 세계 내부 인물들의 지식이 아니다.
 - 태그: 마왕, 일곱 마왕, 일족, 철학, 미정
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `grand-questions`, `start-here`, `knowledge-horizons`, `scenario-great-crossing`, `demon-epoch-framework`, `reshaping`
+- 관련 문서: `grand-questions`, `start-here`, `knowledge-horizons`, `scenario-great-crossing`, `demon-epoch-framework`, `reshaping`, `demon-epoch-chronicle`
 
 ## 절 목차
 

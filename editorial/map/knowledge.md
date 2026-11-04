@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 100개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 109개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (6)
 
@@ -45,6 +45,29 @@
 - 설명문 속 skip-ci 표기가 실제로 배포를 건너뛰게 함 → `rival-gc-retrospective` § 커밋 규칙을 설명한 커밋이 그 규칙에 걸렸다 · `ing-20261103-rival-gc-retrospective-claude`
 - 사이트가 그리지 못하는 상대 경로·절 링크를 빌드 검사로 막자는 제안 → `rival-gc-retrospective` § 사이트가 그리지 못하는 링크가 되풀이된다 · `ing-20261103-rival-gc-retrospective-claude`
 
+## 사건 (18)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 이야기의 기본 시대는 길이 줄어드는 가운데 새 길을 여는 시대 → `reshaping` § 이야기의 기본 시대 · `ing-20261104-reshaping`
+- 규칙 자체가 한 방향으로 서서히 변함 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- 일상의 마법까지 변화가 미침 → `reshaping` § 세계 안에서 보이는 것 · `ing-20261104-reshaping`
+- 옛 자리가 닫히고 새 자리가 열림 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- 다른 생명과 사물에게 새 자리가 먼저 열림 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- 전체를 아는 인물은 없음 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- P6는 옛 자리가 돌아오는 중 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- 직전 재편은 수백 해 전 → `reshaping` § 연대의 골격 · `ing-20261104-reshaping`
+- 마왕들은 직전 재편을 겪음 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- 낮은곶은 T0보다 몇 해 앞 → `reshaping` § 연대의 골격 · `ing-20261104-reshaping`
+- 큰 건넘 축소는 재편의 사례 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
+- 틈살이: 일곱 질서가 맞닿는 틈에서 사람이 겨우 살아남은 시대. 이 시대의 공포의 성격 → `demon-epoch-chronicle` § 이 시대의 공포 · `ing-20261104-demon-epoch-chronicle`
+- 틈살이가 부른 일곱 질서의 이름: 둘레·기둥·떼울음·허물·갈림·문그늘·나그네 → `demon-epoch-chronicle` § 일곱 질서 — 틈살이가 부른 이름 · `ing-20261104-demon-epoch-chronicle`
+- 사람 아닌 이웃: 겹살이, 결을 지키는 이들, 함께 숨쉬는 이들 → `demon-epoch-chronicle` § 사람 아닌 이웃들 · `ing-20261104-demon-epoch-chronicle`
+- 사람의 세 무리와 문 너머로 간 이들 → `demon-epoch-chronicle` § 사람의 무리들 · `ing-20261104-demon-epoch-chronicle`
+- 세대 순 연대기: 흩어진 세대에서 틈이 굳는 세대까지 → `demon-epoch-chronicle` § 연대기 — 세대로 센다 · `ing-20261104-demon-epoch-chronicle`
+- 값줄: 피로 산 규칙과 T0 무렵 남은 관습. 틀린 규칙도 지우지 않음 → `demon-epoch-chronicle` § 값줄 — 피로 산 규칙 · `ing-20261104-demon-epoch-chronicle`
+- 진행자용 진상: 기둥과 맹약을 지키는 이들, 잠든 둘레, 겹살이, 샛별의 후손, 틈이 굳은 까닭 → `demon-epoch-chronicle` § 진행자용 — 인물들은 모름 · `ing-20261104-demon-epoch-chronicle`
+
 ## 개요 (16)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -84,22 +107,6 @@
 - 엮음과 기반 시설. 새 땅에는 사이가 없어서 가난하다 → `magic-senses` § 엮음 — 큰 마법은 여럿이 한다 · `ing-20261103-magic-senses`
 - 마법이 듣지 않을 때 원인을 가르는 법과 결바뀜 → `magic-senses` § 마법이 듣지 않을 때; `variable-rules-and-life` § 소설과 세계 진행에서의 쓰임 · `ing-20261103-magic-senses`
 
-## 사건 (11)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 이야기의 기본 시대는 길이 줄어드는 가운데 새 길을 여는 시대 → `reshaping` § 이야기의 기본 시대 · `ing-20261104-reshaping`
-- 규칙 자체가 한 방향으로 서서히 변함 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
-- 일상의 마법까지 변화가 미침 → `reshaping` § 세계 안에서 보이는 것 · `ing-20261104-reshaping`
-- 옛 자리가 닫히고 새 자리가 열림 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
-- 다른 생명과 사물에게 새 자리가 먼저 열림 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
-- 전체를 아는 인물은 없음 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
-- P6는 옛 자리가 돌아오는 중 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
-- 직전 재편은 수백 해 전 → `reshaping` § 연대의 골격 · `ing-20261104-reshaping`
-- 마왕들은 직전 재편을 겪음 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
-- 낮은곶은 T0보다 몇 해 앞 → `reshaping` § 연대의 골격 · `ing-20261104-reshaping`
-- 큰 건넘 축소는 재편의 사례 → `reshaping` § 진행자용 — 인물들은 모름 · `ing-20261104-reshaping`
-
 ## 롤플레잉 (9)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -114,7 +121,7 @@
 - 큰 건넘: 두 태양이 가장 가까워지는 철에만 넓게 열리는 행성 간 길 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
 - 길의 지기가 평생의 관계를 대를 이어 물려줌 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
 
-## 천체 (6)
+## 천체 (7)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -124,6 +131,7 @@
 - 행성·땅·지역·위성·길·시점의 고유 코드 규칙 → `space-codes` § 코드 규칙 · `ing-20261103-binary-system-codes`
 - P3의 알려진 큰 땅 넷과 바다 둘, 기존 장소의 코드 대응 → `space-codes` § P3 누리; `space-codes` § 기존 문서의 장소와 코드 · `ing-20261103-binary-system-codes`
 - T0에 큰 건넘의 건너편 P4는 두 해 바로 뒤에 숨어 있었음 → `sky-positions` § T0 — 큰 건넘 대국의 마지막 겹침 · `ing-20261103-binary-system-codes`
+- 새 공간 코드 P3-A5 기둥벌, P2-B 껍질땅, L05 문그늘 건넘, P3-A4의 옛 쓰임 → `space-codes` § 일곱 마왕의 시대의 자리 · `ing-20261104-demon-epoch-chronicle`
 
 ## 사물·개념 (4)
 
@@ -156,6 +164,12 @@
 
 - 낮은곶의 소규모 해안 생활과 물턱 통행, 복잡한 마법적 물 공급 → `low-cape` § 사람들과 생활; `low-cape` § 통행과 지역 마법 · `ing-20261103-low-cape-observer-session`
 - 저인구 해안 정착지의 숙련된 마법적 물 공급 및 통행 봉합 → `low-cape` § 사람들과 생활; `low-cape` § 통행과 지역 마법 · `ing-20261103-aren-story-rewrite`
+
+## 소설 (1)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 장면 소설: 기둥벌을 건너는 밤과 매듭 기록의 시작 → `demon-epoch-fiction-pillars` § 4. 값줄 · `ing-20261104-demon-epoch-chronicle`
 
 ## 안내 (1)
 

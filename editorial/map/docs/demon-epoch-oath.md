@@ -7,7 +7,7 @@
 - 요약: 서약의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
 - 태그: 마왕, 일곱 마왕, 대턴, 거시 서사, 시대 스케치, 초안
 - 수정일: 2026-11-03 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `demon-epoch-framework`, `demon-epoch-s00`, `seven-demon-lords`
+- 관련 문서: `demon-epoch-framework`, `demon-epoch-s00`, `seven-demon-lords`, `demon-epoch-chronicle`
 
 ## 절 목차
 

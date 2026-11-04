@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 47,
+  "document_count": 49,
   "documents": [
     {
       "id": "grand-questions",
@@ -67,7 +67,8 @@
         "knowledge-horizons",
         "scenario-great-crossing",
         "demon-epoch-framework",
-        "reshaping"
+        "reshaping",
+        "demon-epoch-chronicle"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/seven-demon-lords.md",
@@ -1134,6 +1135,37 @@
       "app_url": "https://belorin.github.io/binary-arcana/#rival-gc-finale-fiction"
     },
     {
+      "id": "demon-epoch-fiction-pillars",
+      "title": "기둥벌을 건너는 밤",
+      "aliases": [
+        "기둥벌",
+        "이마와 고스"
+      ],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "일곱 마왕의 시대",
+        "기둥벌",
+        "매듭",
+        "우주적 공포"
+      ],
+      "summary": "일곱 마왕의 시대, 말없는 이들의 무리가 말한 것이 지켜지는 들판 기둥벌을 건너다 둘을 잃고, 열일곱 살 이마가 처음으로 규칙을 매듭으로만 엮는 밤.",
+      "review_state": "unassessed",
+      "review_label": "장면 소설",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
+      "related_ids": [
+        "demon-epoch-chronicle",
+        "demon-epoch-oath",
+        "magic-senses",
+        "scene-fiction-principles"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-fiction-pillars.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-fiction-pillars.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-fiction-pillars/",
+      "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-fiction-pillars"
+    },
+    {
       "id": "demon-epoch-framework",
       "title": "일곱 마왕의 시대 — 거시 서사 대턴 설계",
       "aliases": [
@@ -1166,12 +1198,57 @@
         "demon-epoch-branching",
         "demon-epoch-hospitality",
         "demon-epoch-dream",
-        "space-codes"
+        "space-codes",
+        "demon-epoch-chronicle"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-framework.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-framework.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-framework/",
       "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-framework"
+    },
+    {
+      "id": "demon-epoch-chronicle",
+      "title": "일곱 마왕의 시대 — 틈살이의 연대기",
+      "aliases": [
+        "틈살이",
+        "값줄",
+        "TA 연대기"
+      ],
+      "category": "사건",
+      "tags": [
+        "일곱 마왕의 시대",
+        "TA",
+        "틈살이",
+        "값줄",
+        "우주적 공포",
+        "생존"
+      ],
+      "summary": "일곱 마왕의 질서가 맞닿는 틈에서 사람이 타협하고 저항하며 살아남은 시대를 세대 순으로 적은 연대기. 틈살이가 부른 일곱 질서의 이름, 사람 아닌 이웃, 세 무리, 피로 산 규칙(값줄)과 그것이 후대에 남긴 관습, 진행자용 진상, 생존물 진행 안내.",
+      "review_state": "unassessed",
+      "review_label": "임시 정본",
+      "last_updated_on": "2026-11-04",
+      "last_enriched_on": "2026-11-04",
+      "related_ids": [
+        "demon-epoch-fiction-pillars",
+        "demon-epoch-framework",
+        "seven-demon-lords",
+        "reshaping",
+        "magic-senses",
+        "space-codes",
+        "scenario-great-crossing",
+        "grand-questions",
+        "demon-epoch-harmony",
+        "demon-epoch-oath",
+        "demon-epoch-resonance",
+        "demon-epoch-shedding",
+        "demon-epoch-branching",
+        "demon-epoch-hospitality",
+        "demon-epoch-dream"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-chronicle.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-chronicle.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/demon-epoch-chronicle/",
+      "app_url": "https://belorin.github.io/binary-arcana/#demon-epoch-chronicle"
     },
     {
       "id": "demon-epoch-s00",
@@ -1232,7 +1309,8 @@
       "related_ids": [
         "demon-epoch-framework",
         "demon-epoch-s00",
-        "seven-demon-lords"
+        "seven-demon-lords",
+        "demon-epoch-chronicle"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-harmony.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-harmony.md",
@@ -1262,7 +1340,8 @@
       "related_ids": [
         "demon-epoch-framework",
         "demon-epoch-s00",
-        "seven-demon-lords"
+        "seven-demon-lords",
+        "demon-epoch-chronicle"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-oath.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/demon-epoch-oath.md",
@@ -1515,7 +1594,8 @@
         "sky-positions",
         "scenario-great-crossing",
         "low-cape",
-        "demon-epoch-framework"
+        "demon-epoch-framework",
+        "demon-epoch-chronicle"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/space-codes.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/space-codes.md",
@@ -1583,7 +1663,8 @@
         "low-cape",
         "seven-demon-lords",
         "grand-questions",
-        "open-setting-questions"
+        "open-setting-questions",
+        "demon-epoch-chronicle"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/reshaping.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/reshaping.md",

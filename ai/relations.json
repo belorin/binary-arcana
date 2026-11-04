@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 304,
+  "edge_count": 332,
   "edges": [
     {
       "from": "grand-questions",
@@ -80,6 +80,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "seven-demon-lords",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "causal-roleplay",
       "to": "knowledge-horizons",
       "type": "related_to",
@@ -1364,6 +1370,30 @@
       "basis": "manifest.related"
     },
     {
+      "from": "demon-epoch-fiction-pillars",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-fiction-pillars",
+      "to": "demon-epoch-oath",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-fiction-pillars",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-fiction-pillars",
+      "to": "scene-fiction-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "demon-epoch-framework",
       "to": "seven-demon-lords",
       "type": "related_to",
@@ -1442,6 +1472,102 @@
       "basis": "manifest.related"
     },
     {
+      "from": "demon-epoch-framework",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "demon-epoch-fiction-pillars",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "demon-epoch-framework",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "space-codes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "scenario-great-crossing",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "grand-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "demon-epoch-harmony",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "demon-epoch-oath",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "demon-epoch-resonance",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "demon-epoch-shedding",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "demon-epoch-branching",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "demon-epoch-hospitality",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "demon-epoch-dream",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "demon-epoch-s00",
       "to": "demon-epoch-framework",
       "type": "related_to",
@@ -1514,6 +1640,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "demon-epoch-harmony",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "demon-epoch-oath",
       "to": "demon-epoch-framework",
       "type": "related_to",
@@ -1528,6 +1660,12 @@
     {
       "from": "demon-epoch-oath",
       "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "demon-epoch-oath",
+      "to": "demon-epoch-chronicle",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1730,6 +1868,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "space-codes",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "sky-positions",
       "to": "binary-system",
       "type": "related_to",
@@ -1810,6 +1954,12 @@
     {
       "from": "reshaping",
       "to": "open-setting-questions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "reshaping",
+      "to": "demon-epoch-chronicle",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1844,6 +1994,30 @@
       "basis": "curated",
       "evidence_section": "마법이 듣지 않을 때",
       "reason": "규칙의 변화와 미지 조건의 실패를 인물들이 실제로 가려 보는 방법을 정한다."
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "demon-epoch-framework",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "한 문장으로",
+      "reason": "설계서가 비워 둔 일곱 마왕의 시대를 사람의 쪽에서 실제 연대기로 채운다."
+    },
+    {
+      "from": "demon-epoch-chronicle",
+      "to": "reshaping",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "7. 그 뒤",
+      "reason": "재편 연대표의 첫 줄인 일곱 마왕의 시대가 어떻게 끝나 직전 재편으로 이어지는지 적는다."
+    },
+    {
+      "from": "demon-epoch-fiction-pillars",
+      "to": "demon-epoch-chronicle",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "4. 값줄",
+      "reason": "연대기의 첫 규칙의 세대와 매듭 기록의 시작을 장면으로 보여 준다."
     }
   ]
 }

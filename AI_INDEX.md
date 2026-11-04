@@ -83,6 +83,9 @@
 
 ## 사건
 
+- **[일곱 마왕의 시대 — 틈살이의 연대기](wiki/demon-epoch-chronicle.md)** · 별칭: 틈살이, 값줄, TA 연대기 · 수정: 2026-11-04 · 상태: 임시 정본
+  - 일곱 마왕의 질서가 맞닿는 틈에서 사람이 타협하고 저항하며 살아남은 시대를 세대 순으로 적은 연대기. 틈살이가 부른 일곱 질서의 이름, 사람 아닌 이웃, 세 무리, 피로 산 규칙(값줄)과 그것이 후대에 남긴 관습, 진행자용 진상, 생존물 진행 안내.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-chronicle/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-chronicle.md)
 - **[일곱 마왕의 시대 — 대턴 시작 전 관측 단면 S00](wiki/demon-epoch-s00.md)** · 별칭: 마왕 시대 S00 · 수정: 2026-11-03 · 상태: S00 · 대턴 시작 전 초안
   - 마왕의 오래된 질서, 중간 현시, 모호한 관측을 배치한 대턴 시작 전 거시 세계 단면. 행성 위치와 시간표는 임시 배치다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-s00/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-s00.md)
@@ -101,6 +104,9 @@
 - **[한 사람의 폭 — 큰 건넘 마지막 물때의 장면 소설](wiki/rival-gc-finale-fiction.md)** · 별칭: 큰 건넘 결말 소설, 한 사람의 폭 · 수정: 2026-11-03 · 상태: 판정 기반 독립 소설 · 연출 가안 포함
   - 늙은 지기가 죽은 뒤, 다른 땅으로 가는 문을 열 사람을 정하지 못한 호숫가 마을들의 마지막 물때. 호위 레완의 눈으로 두 자매의 고백과 회맹, 섬 아래에서 열린 한 사람 폭의 문, 그리고 건너편에서 그 숫자를 적는 비엘라를 그린 독립 장면 소설.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rival-gc-finale-fiction/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rival-gc-finale-fiction.md)
+- **[기둥벌을 건너는 밤](wiki/demon-epoch-fiction-pillars.md)** · 별칭: 기둥벌, 이마와 고스 · 수정: 2026-11-04 · 상태: 장면 소설
+  - 일곱 마왕의 시대, 말없는 이들의 무리가 말한 것이 지켜지는 들판 기둥벌을 건너다 둘을 잃고, 열일곱 살 이마가 처음으로 규칙을 매듭으로만 엮는 밤.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-fiction-pillars/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-fiction-pillars.md)
 
 ## 롤플레잉
 
