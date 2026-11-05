@@ -134,6 +134,27 @@
       "type": "introduces",
       "evidence_section": "첫째 문 — 세계를 읽는다",
       "reason": "항로 시대의 탐험 쪽 분위기를 보여 주는 소설로 안내한다."
+    },
+    {
+      "from": "open-routes-era",
+      "to": "hostile-beings",
+      "type": "introduces",
+      "evidence_section": "사람을 노리는 존재들",
+      "reason": "세계 안내에서 적대적 존재의 도감과 변이 원칙으로 안내한다."
+    },
+    {
+      "from": "hostile-beings",
+      "to": "variable-rules-and-life",
+      "type": "elaborates",
+      "evidence_section": "시대·개변·변종과 개체 변이",
+      "reason": "변동하는 환경과 규칙에 대한 생명의 대응을 적대적 존재의 변종과 개체 변화에 구체화한다."
+    },
+    {
+      "from": "rulebook",
+      "to": "hostile-beings",
+      "type": "introduces",
+      "evidence_section": "12. 선택 확장 — 적대적 존재와 변이",
+      "reason": "선택 확장 도감과 공정한 변이 운영 원칙을 안내한다."
     }
   ]
 }

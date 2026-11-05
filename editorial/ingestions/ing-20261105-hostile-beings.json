@@ -1,0 +1,252 @@
+{
+  "id": "ing-20261105-hostile-beings",
+  "processed_on": "2026-11-05",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "위해체의 범위와 마왕·지성체와의 관계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "정의와 범위"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "1. 되밟이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "1. 되밟이 — 돌아가는 사람을 사냥하는 짐승"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "2. 손등벌레",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "2. 손등벌레 — 귀한 도구에 붙는 기생체"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "concept",
+      "title": "3. 빈가죽",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "3. 빈가죽 — 죽은 몸을 입고 걷는 군체"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "concept",
+      "title": "4. 잠빌림",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "4. 잠빌림 — 꿈속에서 안전을 빌려주는 포식자"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "concept",
+      "title": "5. 집삼킴",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "5. 집삼킴 — 살게 해 준 뒤 먹는 장소"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "concept",
+      "title": "6. 묵은파수",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "6. 묵은파수 — 끝나지 않은 경비가 만든 사냥꾼"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "concept",
+      "title": "7. 빈당번",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "7. 빈당번 — 공동 관리 속에 생기는 가짜 동료"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "concept",
+      "title": "8. 닻먹이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "8. 닻먹이 — 배를 붙잡는 틈의 포식자"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "concept",
+      "title": "9. 숨거둠",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "9. 숨거둠 — 고향 공기를 훔치는 날짐승"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "concept",
+      "title": "10. 빌린입",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "10. 빌린입 — 말을 옮길수록 자라는 이야기"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "concept",
+      "title": "11. 기르는 자들",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "11. 기르는 자들 — 지성체를 사육하는 지성"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "kind": "concept",
+      "title": "12. 고요의 정원사들",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "12. 고요의 정원사들 — 지성의 재발을 막으려는 존재들"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "kind": "concept",
+      "title": "시대와 개변에 따른 변종·개체 변화와 다른 존재·규칙으로의 이행",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "시대·개변·변종과 개체 변이"
+        },
+        {
+          "doc_id": "variable-rules-and-life",
+          "section": "적대적 존재의 변이와 마법적 요소"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "kind": "concept",
+      "title": "종류와 개체에 따라 다른 마법적 요소의 조건과 한계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "일부가 지니는 마법적 요소"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "kind": "curation",
+      "title": "적대적 존재의 시대별 배치와 생존 지식의 단절·재발견",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "역사에 놓는 방법"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "kind": "concept",
+      "title": "탐사대의 위협 준비와 공정한 변이 운영",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "탐사대에서 쓰는 간단한 원칙"
+        },
+        {
+          "doc_id": "hostile-beings",
+          "section": "변이와 달라진 규칙을 쓰는 법"
+        },
+        {
+          "doc_id": "rulebook",
+          "section": "12. 선택 확장 — 적대적 존재와 변이"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "kind": "concept",
+      "title": "항로 시대 안내의 위해체와 변이 소개",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-routes-era",
+          "section": "사람을 노리는 존재들"
+        }
+      ]
+    },
+    {
+      "id": "k19",
+      "kind": "question",
+      "title": "기존 수수께끼 보존과 미정인 기원·계통의 경계",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "hostile-beings",
+          "section": "기존 수수께끼와의 경계"
+        },
+        {
+          "doc_id": "hostile-beings",
+          "section": "모순과 미정"
+        }
+      ]
+    }
+  ]
+}
