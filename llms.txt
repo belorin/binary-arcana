@@ -6,7 +6,7 @@
 
 링크를 따라 문서를 하나씩 열 수 없는 도구라도, 아래 주소 하나만 열면 그 일에 필요한 문서가 다 들어 있다.
 
-- [Binary Arcana 놀이 묶음 — 전부](https://belorin.github.io/binary-arcana/ai/play.md): 탐사대 룰북으로 롤플레잉을 진행하는 데 필요한 모든 것. 룰북, 세계 안내, 사전 둘, 임무 셋. 임무에는 진상이 적혀 있으니 플레이어는 읽지 않고 AI에게 넘긴다.
+- [Binary Arcana 놀이 묶음 — 전부](https://belorin.github.io/binary-arcana/ai/play.md): 탐사대 룰북으로 롤플레잉을 진행하는 데 필요한 모든 것. 룰북, 세계 안내, 사전 둘, 임무 넷. 임무에는 진상이 적혀 있으니 플레이어는 읽지 않고 AI에게 넘긴다.
 - [Binary Arcana 놀이 묶음 — 기본](https://belorin.github.io/binary-arcana/ai/play-core.md): 룰북, 세계 안내, 사전 둘. 임무 파일을 빼서 가볍다. 긴 글을 다 읽지 못하는 도구에 쓴다. 룰북 안의 첫 임무와 임무 만드는 법으로 진행할 수 있다.
 
 ## 이 위키를 읽는 AI에게
@@ -38,10 +38,12 @@
 - [임무: 바람 끝의 손님들](https://belorin.github.io/binary-arcana/notes/mission-lost-freighter/): 사라진 고리운송 화물선 은실호를 찾는 중형 임무. 빼돌린 바람고원의 유물, 틈의 문그늘, 그늘 아래 백 해를 산 남쪽 행렬, 쫓기는 이만 나갈 수 있는 규칙.
 - [임무: 숨 쉬는 숲](https://belorin.github.io/binary-arcana/notes/mission-breathing-forest/): 샛별 균류 숲 깊은 곳의 마법 구조물을 찾는 중형 임무. 구조물은 마왕의 허물이고, 아들을 찾는 교수와 허물 조각을 노리는 회사와 아픔을 나누는 숨 쉬는 사람들이 얽힌다. 가장 큰 비밀은 그들이 누리에서 온 사람들의 후손이라는 것.
 - [짧은 의뢰 여섯](https://belorin.github.io/binary-arcana/notes/mission-seeds/): 한 세션에 끝나는 의뢰 여섯 개. 이름을 바꾼 배, 스무 해를 기다린 사람, 해곁별의 그늘 채굴단, 겹침날의 약속, 역서가 틀린 날, 주인을 잃은 걸음틀. 의뢰마다 숨은 사정과 꼬임과 이어지는 실이 있다.
+- [방금 떠난 야영지 — 소금 평원의 기록](https://belorin.github.io/binary-arcana/notes/mission-salt-plain/): 돌아온 별 남쪽 소금 평원에 스물몇 해 전 조사대의 야영지가 지금 막 나타났다. 머문 것을 소금에 새기고 늦게 읽어 주는 평원, 시간의 고리, 소금을 파는 자유 길잡이, 한가운데의 오래된 매듭.
 - [건넘선과 장비](https://belorin.github.io/binary-arcana/notes/ships-and-gear/): 건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.
 - [항로 시대의 생활](https://belorin.github.io/binary-arcana/notes/route-era-life/): 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
-- [소엘 — 탐사대 기록관 시트](https://belorin.github.io/binary-arcana/notes/soel-sheet/): 물새호 탐사대의 기록관 소엘. 매듭 읽기 책과의 사이가 깊음이고, 첫 의뢰 뒤의 저장 블록을 담았다.
+- [소엘 — 탐사대 기록관 시트](https://belorin.github.io/binary-arcana/notes/soel-sheet/): 물새호 탐사대의 기록관 소엘. 매듭 읽기 책과의 사이가 깊음이고, 돌아온 별의 옛 매듭을 처음 읽었다. 외형과 둘째 의뢰 뒤의 저장 블록을 담았다.
 - [소엘의 첫 의뢰 — 이름을 바꾼 배](https://belorin.github.io/binary-arcana/notes/soel-session-01/): 물새호의 기록관 소엘이 이름을 빼앗긴 화물선 늙은갈매기호의 용골 매듭을 되살리고, 옛 길잡이 리나가 짝돌로 배와 작별하게 해 새 길잡이를 받아들이게 한 첫 의뢰.
+- [소엘의 둘째 의뢰 — 방금 떠난 야영지](https://belorin.github.io/binary-arcana/notes/soel-session-02/): 소엘이 돌아온 별 남쪽 소금 평원에서 머문 것을 새기고 늦게 읽어 주는 평원의 규칙을 알아내고, 한가운데의 오래된 늦게 옴 매듭과 백로대의 묻어 둠 매듭을 읽은 둘째 의뢰.
 
 ### 개요
 

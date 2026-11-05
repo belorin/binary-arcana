@@ -7,7 +7,7 @@
 - 요약: 한 세션에 끝나는 의뢰 여섯 개. 이름을 바꾼 배, 스무 해를 기다린 사람, 해곁별의 그늘 채굴단, 겹침날의 약속, 역서가 틀린 날, 주인을 잃은 걸음틀. 의뢰마다 숨은 사정과 꼬임과 이어지는 실이 있다.
 - 태그: 임무, 단편, 관념 사이, 맹약, 재편
 - 수정일: 2026-11-05 · 실제 증보일: 2026-11-05 · 검토: unassessed
-- 관련 문서: `rulebook`, `mission-lost-freighter`, `mission-breathing-forest`, `route-era-life`, `ships-and-gear`, `conceptual-relations`, `soel-session-01`
+- 관련 문서: `rulebook`, `mission-lost-freighter`, `mission-breathing-forest`, `route-era-life`, `ships-and-gear`, `conceptual-relations`, `soel-session-01`, `mission-salt-plain`
 
 ## 절 목차
 

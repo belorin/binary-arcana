@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 509,
+  "edge_count": 523,
   "edges": [
     {
       "from": "welcome",
@@ -70,6 +70,12 @@
     {
       "from": "welcome",
       "to": "first-gate",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "mission-salt-plain",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -232,6 +238,12 @@
     {
       "from": "rulebook",
       "to": "hostile-beings",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "mission-salt-plain",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1136,6 +1148,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "mission-seeds",
+      "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "knowledge-horizons",
       "to": "seven-demon-lords",
       "type": "related_to",
@@ -1228,6 +1246,36 @@
     {
       "from": "conceptual-relations",
       "to": "demon-epoch-oath",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-salt-plain",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-salt-plain",
+      "to": "mission-seeds",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-salt-plain",
+      "to": "soel-session-02",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-salt-plain",
+      "to": "soel-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-salt-plain",
+      "to": "ships-and-gear",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2678,6 +2726,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "soel-sheet",
+      "to": "soel-session-02",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-sheet",
+      "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "soel-session-01",
       "to": "soel-sheet",
       "type": "related_to",
@@ -2890,6 +2950,30 @@
     {
       "from": "regional-threats",
       "to": "low-cape",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-02",
+      "to": "soel-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-02",
+      "to": "soel-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-02",
+      "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-02",
+      "to": "rulebook",
       "type": "related_to",
       "basis": "manifest.related"
     },
