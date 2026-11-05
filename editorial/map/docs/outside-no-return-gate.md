@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `outside-no-return-gate` · 분류: 탐사대 · 공개 · 원고: [wiki/outside-no-return-gate.md](../../../wiki/outside-no-return-gate.md) · 2,158자 · 절 6개
+- id: `outside-no-return-gate` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/outside-no-return-gate.md](../../../wiki/outside-no-return-gate.md) · 2,158자 · 절 6개
 - 요약: 항로력 210년대 이후 30~100년짜리 외부 이주 시나리오. 미지의 통행망에서 열린 편도 문이 수세대의 피난과 정착 문제를 가져온다.
 - 태그: 외부 압력, 피난, 이주, 새로운 문, 30~100년, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

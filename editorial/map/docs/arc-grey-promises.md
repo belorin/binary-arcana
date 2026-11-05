@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `arc-grey-promises` · 분류: 탐사대 · 공개 · 원고: [wiki/arc-grey-promises.md](../../../wiki/arc-grey-promises.md) · 1,975자 · 절 8개
+- id: `arc-grey-promises` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/arc-grey-promises.md](../../../wiki/arc-grey-promises.md) · 1,975자 · 절 8개
 - 요약: 항로력 212~272년의 60년 장기 시나리오. 양립할 수 없는 맹약의 남용과 회색 자국에 대한 제도적 배제가 사회를 갈라놓는다.
 - 태그: 60년, 맹약소, 회색 증인, 법, 세대, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

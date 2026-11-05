@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `route-era-bright-turns` · 분류: 탐사대 · 공개 · 원고: [wiki/route-era-bright-turns.md](../../../wiki/route-era-bright-turns.md) · 3,272자 · 절 7개
+- id: `route-era-bright-turns` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/route-era-bright-turns.md](../../../wiki/route-era-bright-turns.md) · 3,272자 · 절 7개
 - 요약: 항로력 212년 전후 시작할 수 있는 여섯 선대적·건설적 장기 시나리오. 마렌의 귀환, 마법 공예혁명, 영웅적 재능, 기록 공유, 다종 협약, 생태 복구.
 - 태그: 장기 시나리오, 희망, 마법혁명, 마렌, 영웅, 진행자 전용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

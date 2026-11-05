@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `outside-nine-sails` · 분류: 탐사대 · 공개 · 원고: [wiki/outside-nine-sails.md](../../../wiki/outside-nine-sails.md) · 2,266자 · 절 6개
+- id: `outside-nine-sails` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/outside-nine-sails.md](../../../wiki/outside-nine-sails.md) · 2,266자 · 절 6개
 - 요약: 항로력 210년대 이후 20~60년짜리 외부 침입 시나리오. 다른 통행망에서 온 아홉 척의 무장 선단이 그늘역의 항로 관리권을 요구한다.
 - 태그: 외부 압력, 침입, 무장 선단, 그늘역, 20~60년, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

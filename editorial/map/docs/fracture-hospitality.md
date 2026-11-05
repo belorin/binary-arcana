@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `fracture-hospitality` · 분류: 탐사대 · 공개 · 원고: [wiki/fracture-hospitality.md](../../../wiki/fracture-hospitality.md) · 1,233자 · 절 5개
+- id: `fracture-hospitality` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/fracture-hospitality.md](../../../wiki/fracture-hospitality.md) · 1,233자 · 절 5개
 - 요약: 환대의 일족이 새 손님을 맞느라 오래 살던 주민의 거처와 생존을 밀어내는 20~80년 관계 파열 위기.
 - 태그: 환대, 피난처, 거처, 이웃, 진행자 전용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

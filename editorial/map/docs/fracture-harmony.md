@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `fracture-harmony` · 분류: 탐사대 · 공개 · 원고: [wiki/fracture-harmony.md](../../../wiki/fracture-harmony.md) · 1,215자 · 절 6개
+- id: `fracture-harmony` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/fracture-harmony.md](../../../wiki/fracture-harmony.md) · 1,215자 · 절 6개
 - 요약: 조화 일족이 오래된 물가의 공생을 새로 맞추면서 인간 정착지를 밀어내고 유역 전쟁으로 치달을 수 있는 40~80년 위기.
 - 태그: 조화, 공생, 추방, 유역 전쟁, 진행자 전용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

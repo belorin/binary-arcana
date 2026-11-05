@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `outside-walking-sea` · 분류: 탐사대 · 공개 · 원고: [wiki/outside-walking-sea.md](../../../wiki/outside-walking-sea.md) · 1,976자 · 절 6개
+- id: `outside-walking-sea` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/outside-walking-sea.md](../../../wiki/outside-walking-sea.md) · 1,976자 · 절 6개
 - 요약: 40~90년짜리 거대 비인간 생태 이동 시나리오. 누리 미답 대양에서 도착하는 이동 군체가 항구와 바다 생태를 바꾼다.
 - 태그: 외부 압력, 바다, 비인간 생명, 생태 이동, 40~90년, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

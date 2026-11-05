@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `outside-black-ice` · 분류: 탐사대 · 공개 · 원고: [wiki/outside-black-ice.md](../../../wiki/outside-black-ice.md) · 1,814자 · 절 6개
+- id: `outside-black-ice` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/outside-black-ice.md](../../../wiki/outside-black-ice.md) · 1,814자 · 절 6개
 - 요약: 항로력 210년대 이후 나타날 수 있는 외부 천체 파편과 낙하 위험. 단기간 물리 재난과 수십 년 후유증을 구분한 진행자용 시나리오.
 - 태그: 외부 압력, 천체, 낙하, 재난, 세대, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

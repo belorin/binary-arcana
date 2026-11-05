@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `bright-living-harvest` · 분류: 탐사대 · 공개 · 원고: [wiki/bright-living-harvest.md](../../../wiki/bright-living-harvest.md) · 1,410자 · 절 5개
+- id: `bright-living-harvest` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/bright-living-harvest.md](../../../wiki/bright-living-harvest.md) · 1,410자 · 절 5개
 - 요약: 25~90년 동안 다른 생명·새 농경 관계·물의 관리 기술로 식량과 거주 환경을 안정시키는 지역적 풍요의 장기 시나리오.
 - 태그: 생태 복구, 풍요, 식량, 공생, 새 경작, 진행자 전용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

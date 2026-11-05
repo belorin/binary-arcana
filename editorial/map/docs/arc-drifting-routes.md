@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `arc-drifting-routes` · 분류: 탐사대 · 공개 · 원고: [wiki/arc-drifting-routes.md](../../../wiki/arc-drifting-routes.md) · 2,010자 · 절 7개
+- id: `arc-drifting-routes` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/arc-drifting-routes.md](../../../wiki/arc-drifting-routes.md) · 2,010자 · 절 7개
 - 요약: 항로력 212~292년의 80년 장기 시나리오. 낡은 역서와 새로운 결의 불일치가 항만과 공동체의 지형을 바꾼다.
 - 태그: 80년, 항로 역서, 재편, 철새, 개척, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

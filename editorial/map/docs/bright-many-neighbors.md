@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `bright-many-neighbors` · 분류: 탐사대 · 공개 · 원고: [wiki/bright-many-neighbors.md](../../../wiki/bright-many-neighbors.md) · 1,447자 · 절 5개
+- id: `bright-many-neighbors` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/bright-many-neighbors.md](../../../wiki/bright-many-neighbors.md) · 1,447자 · 절 5개
 - 요약: 30~90년 동안 서로 다른 인간·비인간 공동체가 항만과 물줄·통행을 공동 운영하여 안정과 외교적 번영을 만드는 장기 시나리오.
 - 태그: 비인간 이웃, 다종 동맹, 켜사람, 항만, 공존, 진행자 전용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `route-era-outside-pressures` · 분류: 탐사대 · 공개 · 원고: [wiki/route-era-outside-pressures.md](../../../wiki/route-era-outside-pressures.md) · 2,701자 · 절 7개
+- id: `route-era-outside-pressures` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/route-era-outside-pressures.md](../../../wiki/route-era-outside-pressures.md) · 2,701자 · 절 7개
 - 요약: 항로력 210년대 이후 외부에서 불쑥 도착하는 다섯 독립 위기. 무장 선단, 피난 통로, 천체 파편, 유영하는 생태계, 오래된 토대의 반환 요구를 다룬 진행자 지도.
 - 태그: 외부 압력, 항로 시대, 장기 시나리오, 진행자용, 돌발 사건
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

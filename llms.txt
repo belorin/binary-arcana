@@ -34,18 +34,14 @@
 - [항로 시대 — 세계 안내](https://belorin.github.io/binary-arcana/notes/open-routes-era/): T0에서 약 삼백 해 뒤, 닫힘의 세기를 지나 행성들이 나눔 사이의 정기 항로로 다시 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 지난 삼백 해와 남은 것, 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지. 사람을 노리는 존재와 시대·개체별 변이를 안내한다.
 - [탐사대 룰북](https://belorin.github.io/binary-arcana/notes/rulebook/): AI에게 통째로 주면 진행자가 되어 개척지 탐사 롤플레잉을 진행하는 한 파일짜리 룰북. 진행자 지침, 2d6 판정, 탐사대원 만들기, 마법과 값, 신탁·시계·하늘 굴림·무작위 표, 첫 임무 「돌아온 별, 조용한 우물」.
 
-### 탐사대
+### 개요
 
-- [임무: 바람 끝의 손님들](https://belorin.github.io/binary-arcana/notes/mission-lost-freighter/): 사라진 고리운송 화물선 은실호를 찾는 중형 임무. 빼돌린 바람고원의 유물, 틈의 문그늘, 그늘 아래 백 해를 산 남쪽 행렬, 쫓기는 이만 나갈 수 있는 규칙.
-- [임무: 숨 쉬는 숲](https://belorin.github.io/binary-arcana/notes/mission-breathing-forest/): 샛별 균류 숲 깊은 곳의 마법 구조물을 찾는 중형 임무. 구조물은 마왕의 허물이고, 아들을 찾는 교수와 허물 조각을 노리는 회사와 아픔을 나누는 숨 쉬는 사람들이 얽힌다. 가장 큰 비밀은 그들이 누리에서 온 사람들의 후손이라는 것.
-- [짧은 의뢰 여섯](https://belorin.github.io/binary-arcana/notes/mission-seeds/): 한 세션에 끝나는 의뢰 여섯 개. 이름을 바꾼 배, 스무 해를 기다린 사람, 해곁별의 그늘 채굴단, 겹침날의 약속, 역서가 틀린 날, 주인을 잃은 걸음틀. 의뢰마다 숨은 사정과 꼬임과 이어지는 실이 있다.
-- [방금 떠난 야영지 — 소금 평원의 기록](https://belorin.github.io/binary-arcana/notes/mission-salt-plain/): 돌아온 별 남쪽 소금 평원에 스물몇 해 전 조사대의 야영지가 지금 막 나타났다. 머문 것을 소금에 새기고 늦게 읽어 주는 평원, 시간의 고리, 소금을 파는 자유 길잡이, 한가운데의 오래된 매듭.
-- [건넘선과 장비](https://belorin.github.io/binary-arcana/notes/ships-and-gear/): 건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.
-- [항로 시대의 생활](https://belorin.github.io/binary-arcana/notes/route-era-life/): 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
-- [소엘 — 탐사대 기록관 시트](https://belorin.github.io/binary-arcana/notes/soel-sheet/): 물새호 탐사대의 기록관 소엘. 매듭 읽기 책(깊음), 학회 서고, 관념 맹약과 사이가 있다. 외형과 셋째 의뢰 뒤의 저장 블록을 담았다.
-- [소엘의 첫 의뢰 — 이름을 바꾼 배](https://belorin.github.io/binary-arcana/notes/soel-session-01/): 물새호의 기록관 소엘이 이름을 빼앗긴 화물선 늙은갈매기호의 용골 매듭을 되살리고, 옛 길잡이 리나가 짝돌로 배와 작별하게 해 새 길잡이를 받아들이게 한 첫 의뢰.
-- [소엘의 둘째 의뢰 — 방금 떠난 야영지](https://belorin.github.io/binary-arcana/notes/soel-session-02/): 소엘이 돌아온 별 남쪽 소금 평원에서 머문 것을 새기고 늦게 읽어 주는 평원의 규칙을 알아내고, 한가운데의 오래된 늦게 옴 매듭과 백로대의 묻어 둠 매듭을 읽은 둘째 의뢰.
-- [소엘의 셋째 의뢰 — 바람 끝의 손님들](https://belorin.github.io/binary-arcana/notes/soel-session-03/): 소엘이 고리운송과 맹약소 계약을 맺고 문그늘 아래 바람 끝에 들어가, 맹약의 실로 그늘을 빠져나오고 은실호 선원과 남쪽 행렬의 이든을 데리고 나온 셋째 의뢰. 앞에 그늘역 작은 겹침 막간이 있다.
+- [대의문](https://belorin.github.io/binary-arcana/notes/grand-questions/): 인류의 기원, 마법적 우주의 토대, 비인간 행위자의 역할, 다른 행성으로의 진출 한계 등 세계를 관통하는 거대한 수수께끼의 후보.
+- [세계 개요](https://belorin.github.io/binary-arcana/notes/start-here/): 쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.
+- [정해야 할 설정](https://belorin.github.io/binary-arcana/notes/open-setting-questions/): 쌍성계와 마법, 낮은 인류 인구에도 발달한 마법 문명, 종족과 이주의 미정 문제.
+
+### 시대의 흐름
+
 - [항로력 210년대의 다섯 장기 위기 — 진행자 지도](https://belorin.github.io/binary-arcana/notes/route-era-long-arcs/): 항로력 212년 전후를 시작으로 30~100년간 독립적으로 전개될 수 있는 다섯 장기 위기의 진행자용 지도.
 - [일곱 문의 분쟁 — 서른 해의 항로 전쟁](https://belorin.github.io/binary-arcana/notes/arc-seven-gates/): 항로력 212~242년의 30년 장기 시나리오. 항로 운영권과 사고 배상 갈등이 다행성 항만 봉쇄와 기근을 낳을 수 있다.
 - [빈 당번의 시대 — 사십오 해의 따뜻한 도시](https://belorin.github.io/binary-arcana/notes/arc-empty-shifts/): 항로력 212~257년의 45년 장기 시나리오. 나눔 사이 시설의 기록 누락과 인력 축소가 빈당번의 독점으로 발전한다.
@@ -74,11 +70,18 @@
 - [여섯 물가의 동맹 — 함께 만드는 새로운 시민권](https://belorin.github.io/binary-arcana/notes/bright-many-neighbors/): 30~90년 동안 서로 다른 인간·비인간 공동체가 항만과 물줄·통행을 공동 운영하여 안정과 외교적 번영을 만드는 장기 시나리오.
 - [다시 열리는 들판 — 풍요의 두 번째 발견](https://belorin.github.io/binary-arcana/notes/bright-living-harvest/): 25~90년 동안 다른 생명·새 농경 관계·물의 관리 기술로 식량과 거주 환경을 안정시키는 지역적 풍요의 장기 시나리오.
 
-### 개요
+### 탐사대
 
-- [대의문](https://belorin.github.io/binary-arcana/notes/grand-questions/): 인류의 기원, 마법적 우주의 토대, 비인간 행위자의 역할, 다른 행성으로의 진출 한계 등 세계를 관통하는 거대한 수수께끼의 후보.
-- [세계 개요](https://belorin.github.io/binary-arcana/notes/start-here/): 쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.
-- [정해야 할 설정](https://belorin.github.io/binary-arcana/notes/open-setting-questions/): 쌍성계와 마법, 낮은 인류 인구에도 발달한 마법 문명, 종족과 이주의 미정 문제.
+- [임무: 바람 끝의 손님들](https://belorin.github.io/binary-arcana/notes/mission-lost-freighter/): 사라진 고리운송 화물선 은실호를 찾는 중형 임무. 빼돌린 바람고원의 유물, 틈의 문그늘, 그늘 아래 백 해를 산 남쪽 행렬, 쫓기는 이만 나갈 수 있는 규칙.
+- [임무: 숨 쉬는 숲](https://belorin.github.io/binary-arcana/notes/mission-breathing-forest/): 샛별 균류 숲 깊은 곳의 마법 구조물을 찾는 중형 임무. 구조물은 마왕의 허물이고, 아들을 찾는 교수와 허물 조각을 노리는 회사와 아픔을 나누는 숨 쉬는 사람들이 얽힌다. 가장 큰 비밀은 그들이 누리에서 온 사람들의 후손이라는 것.
+- [짧은 의뢰 여섯](https://belorin.github.io/binary-arcana/notes/mission-seeds/): 한 세션에 끝나는 의뢰 여섯 개. 이름을 바꾼 배, 스무 해를 기다린 사람, 해곁별의 그늘 채굴단, 겹침날의 약속, 역서가 틀린 날, 주인을 잃은 걸음틀. 의뢰마다 숨은 사정과 꼬임과 이어지는 실이 있다.
+- [방금 떠난 야영지 — 소금 평원의 기록](https://belorin.github.io/binary-arcana/notes/mission-salt-plain/): 돌아온 별 남쪽 소금 평원에 스물몇 해 전 조사대의 야영지가 지금 막 나타났다. 머문 것을 소금에 새기고 늦게 읽어 주는 평원, 시간의 고리, 소금을 파는 자유 길잡이, 한가운데의 오래된 매듭.
+- [건넘선과 장비](https://belorin.github.io/binary-arcana/notes/ships-and-gear/): 건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.
+- [항로 시대의 생활](https://belorin.github.io/binary-arcana/notes/route-era-life/): 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
+- [소엘 — 탐사대 기록관 시트](https://belorin.github.io/binary-arcana/notes/soel-sheet/): 물새호 탐사대의 기록관 소엘. 매듭 읽기 책(깊음), 학회 서고, 관념 맹약과 사이가 있다. 외형과 셋째 의뢰 뒤의 저장 블록을 담았다.
+- [소엘의 첫 의뢰 — 이름을 바꾼 배](https://belorin.github.io/binary-arcana/notes/soel-session-01/): 물새호의 기록관 소엘이 이름을 빼앗긴 화물선 늙은갈매기호의 용골 매듭을 되살리고, 옛 길잡이 리나가 짝돌로 배와 작별하게 해 새 길잡이를 받아들이게 한 첫 의뢰.
+- [소엘의 둘째 의뢰 — 방금 떠난 야영지](https://belorin.github.io/binary-arcana/notes/soel-session-02/): 소엘이 돌아온 별 남쪽 소금 평원에서 머문 것을 새기고 늦게 읽어 주는 평원의 규칙을 알아내고, 한가운데의 오래된 늦게 옴 매듭과 백로대의 묻어 둠 매듭을 읽은 둘째 의뢰.
+- [소엘의 셋째 의뢰 — 바람 끝의 손님들](https://belorin.github.io/binary-arcana/notes/soel-session-03/): 소엘이 고리운송과 맹약소 계약을 맺고 문그늘 아래 바람 끝에 들어가, 맹약의 실로 그늘을 빠져나오고 은실호 선원과 남쪽 행렬의 이든을 데리고 나온 셋째 의뢰. 앞에 그늘역 작은 겹침 막간이 있다.
 
 ### 천체
 

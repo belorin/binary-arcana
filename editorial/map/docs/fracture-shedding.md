@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `fracture-shedding` · 분류: 탐사대 · 공개 · 원고: [wiki/fracture-shedding.md](../../../wiki/fracture-shedding.md) · 1,133자 · 절 5개
+- id: `fracture-shedding` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/fracture-shedding.md](../../../wiki/fracture-shedding.md) · 1,133자 · 절 5개
 - 요약: 탈피의 일족이 인간 항구의 유지 업무를 스스로 떠나면서 수십 년에 걸친 도시의 인프라와 거주 방식 변화를 야기하는 50~100년 위기.
 - 태그: 탈피, 철수, 항만, 기술 전승, 진행자 전용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

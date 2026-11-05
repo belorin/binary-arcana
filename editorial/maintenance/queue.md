@@ -10,7 +10,8 @@
 
 manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
-- **탐사대** (37): `mission-lost-freighter`, `mission-breathing-forest`, `mission-seeds`, `ships-and-gear`, `route-era-life`, `soel-sheet`, `soel-session-01`, `mission-salt-plain`, `soel-session-02`, `soel-session-03`, `route-era-long-arcs`, `arc-seven-gates`, `arc-empty-shifts`, `arc-grey-promises`, `arc-drifting-routes`, `arc-quiet-harvest`, `route-era-outside-pressures`, `outside-nine-sails`, `outside-no-return-gate`, `outside-black-ice`, `outside-walking-sea`, `outside-returning-stone`, `route-era-seven-fractures`, `fracture-harmony`, `fracture-oath`, `fracture-resonance`, `fracture-shedding`, `fracture-branching`, `fracture-hospitality`, `fracture-dream`, `route-era-bright-turns`, `bright-maren`, `bright-craft-revolution`, `bright-hero`, `bright-open-knowledge`, `bright-many-neighbors`, `bright-living-harvest`
+- **시대의 흐름** (27): `route-era-long-arcs`, `arc-seven-gates`, `arc-empty-shifts`, `arc-grey-promises`, `arc-drifting-routes`, `arc-quiet-harvest`, `route-era-outside-pressures`, `outside-nine-sails`, `outside-no-return-gate`, `outside-black-ice`, `outside-walking-sea`, `outside-returning-stone`, `route-era-seven-fractures`, `fracture-harmony`, `fracture-oath`, `fracture-resonance`, `fracture-shedding`, `fracture-branching`, `fracture-hospitality`, `fracture-dream`, `route-era-bright-turns`, `bright-maren`, `bright-craft-revolution`, `bright-hero`, `bright-open-knowledge`, `bright-many-neighbors`, `bright-living-harvest`
+- **탐사대** (10): `mission-lost-freighter`, `mission-breathing-forest`, `mission-seeds`, `ships-and-gear`, `route-era-life`, `soel-sheet`, `soel-session-01`, `mission-salt-plain`, `soel-session-02`, `soel-session-03`
 - **사물·개념** (4): `variable-rules-and-life`, `hostile-beings`, `regional-life`, `regional-threats`
 - **마법** (3): `magic-as-practice`, `magic-senses`, `conceptual-relations`
 - **소설** (3): `demon-epoch-fiction-pillars`, `hosumun-eleven-days`, `first-gate`
@@ -332,5 +333,5 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 16개: 탐사대 37, 대국 기록 10, 인물 8, 롤플레잉 7, 운영 원칙 6, 소설 4, 사물·개념 4, 시작하기 3, 개요 3, 마법 3, 사건 3, 천체 3, 안내 2, 세력 1, 마법 공예·항행 1, 장소 1
+분류 17개: 시대의 흐름 27, 탐사대 10, 대국 기록 10, 인물 8, 롤플레잉 7, 운영 원칙 6, 소설 4, 사물·개념 4, 시작하기 3, 개요 3, 마법 3, 사건 3, 천체 3, 안내 2, 세력 1, 마법 공예·항행 1, 장소 1
 문서가 하나뿐인 분류 3개: 세력, 마법 공예·항행, 장소. 분류 체계 변경은 제안만 한다.

@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `arc-empty-shifts` · 분류: 탐사대 · 공개 · 원고: [wiki/arc-empty-shifts.md](../../../wiki/arc-empty-shifts.md) · 1,992자 · 절 7개
+- id: `arc-empty-shifts` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/arc-empty-shifts.md](../../../wiki/arc-empty-shifts.md) · 1,992자 · 절 7개
 - 요약: 항로력 212~257년의 45년 장기 시나리오. 나눔 사이 시설의 기록 누락과 인력 축소가 빈당번의 독점으로 발전한다.
 - 태그: 45년, 빈당번, 나눔 사이, 열줄, 도시, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

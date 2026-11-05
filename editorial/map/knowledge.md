@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 231개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 233개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (8)
 
@@ -299,6 +299,13 @@
 
 - 마법적 거리와 물리적 길의 공존, 행성 간 이동의 제약 → `magical-distance-and-passage` § 공간의 거리와 갈 수 있는 거리; `magical-distance-and-passage` § 물리적으로 길을 내야 하는 때; `magical-distance-and-passage` § 행성 사이의 통행은 여전히 어렵다 · `ing-20261103-magic-travel-worldturns`
 - 여섯 행성의 초기 설계와 나중에 드러나는 행성의 가능성 → `magical-distance-and-passage` § 첫 설계 범위와 미지의 행성 · `ing-20261103-magic-travel-worldturns`
+
+## 시대의 흐름 (2)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 세계사적 장기 동인과 대·소세션의 구분 → `route-era-long-arcs` § 세계사 동인과 세션의 경계 · `ing-20261106-era-flow-reclassification`
+- 네 갈래 장기 동인 지도와 27개 원고의 분류 정비 → `route-era-long-arcs` § 세계사 동인과 세션의 경계 · `ing-20261106-era-flow-reclassification`
 
 ## 안내 (2)
 

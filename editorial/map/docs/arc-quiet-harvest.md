@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `arc-quiet-harvest` · 분류: 탐사대 · 공개 · 원고: [wiki/arc-quiet-harvest.md](../../../wiki/arc-quiet-harvest.md) · 2,221자 · 절 7개
+- id: `arc-quiet-harvest` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/arc-quiet-harvest.md](../../../wiki/arc-quiet-harvest.md) · 2,221자 · 절 7개
 - 요약: 항로력 212~312년의 100년 장기 시나리오. 돌아온 별의 정원사들이 실제 표본 운송을 따라 퍼져 배움과 기록의 전승을 위협한다.
 - 태그: 100년, 고요의 정원사들, 돌아온 별, 기록, 생태, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `fracture-branching` · 분류: 탐사대 · 공개 · 원고: [wiki/fracture-branching.md](../../../wiki/fracture-branching.md) · 1,130자 · 절 5개
+- id: `fracture-branching` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/fracture-branching.md](../../../wiki/fracture-branching.md) · 1,130자 · 절 5개
 - 요약: 분기의 일족이 새로운 길과 생태를 지키며 기존 항로와 도시의 반복 가능성을 흔드는 35~90년 위기.
 - 태그: 분기, 항로, 생태, 갈림, 진행자 전용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

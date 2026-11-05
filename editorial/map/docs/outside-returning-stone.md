@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `outside-returning-stone` · 분류: 탐사대 · 공개 · 원고: [wiki/outside-returning-stone.md](../../../wiki/outside-returning-stone.md) · 2,320자 · 절 6개
+- id: `outside-returning-stone` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/outside-returning-stone.md](../../../wiki/outside-returning-stone.md) · 2,320자 · 절 6개
 - 요약: 항로력 210년대 이후 10~50년짜리 외부 행위자 시나리오. 도시 토대의 돌을 친족으로 부르는 방문자가 찾아와 관계적 소유와 생존이 충돌한다.
 - 태그: 외부 압력, 낯선 존재, 반환 요구, 도시, 10~50년, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

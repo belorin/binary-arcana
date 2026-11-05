@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `route-era-seven-fractures` · 분류: 탐사대 · 공개 · 원고: [wiki/route-era-seven-fractures.md](../../../wiki/route-era-seven-fractures.md) · 3,401자 · 절 8개
+- id: `route-era-seven-fractures` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/route-era-seven-fractures.md](../../../wiki/route-era-seven-fractures.md) · 3,401자 · 절 8개
 - 요약: 항로력 212년 전후부터 30~100년간 일곱 마왕 계열과의 공존이 무너질 수도 있는 세계. 일곱 독립적인 진행자용 장기 시나리오 지도.
 - 태그: 일곱 마왕, 항로 시대, 세대, 진행자 전용, 장기 시나리오
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

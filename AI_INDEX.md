@@ -18,6 +18,102 @@
   - AI에게 통째로 주면 진행자가 되어 개척지 탐사 롤플레잉을 진행하는 한 파일짜리 룰북. 진행자 지침, 2d6 판정, 탐사대원 만들기, 마법과 값, 신탁·시계·하늘 굴림·무작위 표, 첫 임무 「돌아온 별, 조용한 우물」.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/rulebook/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md)
 
+## 개요
+
+- **[대의문](wiki/grand-questions.md)** · 별칭: 거대한 의문, 세계의 큰 수수께끼 · 수정: 2026-11-04 · 상태: 미정
+  - 인류의 기원, 마법적 우주의 토대, 비인간 행위자의 역할, 다른 행성으로의 진출 한계 등 세계를 관통하는 거대한 수수께끼의 후보.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/grand-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/grand-questions.md)
+- **[세계 개요](wiki/start-here.md)** · 별칭: 세계 개요 · 수정: 2026-11-05 · 상태: 정본
+  - 쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/start-here/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md)
+- **[정해야 할 설정](wiki/open-setting-questions.md)** · 별칭: 미정 설정 목록 · 수정: 2026-11-03 · 상태: 미정
+  - 쌍성계와 마법, 낮은 인류 인구에도 발달한 마법 문명, 종족과 이주의 미정 문제.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/open-setting-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md)
+
+## 시대의 흐름
+
+- **[항로력 210년대의 다섯 장기 위기 — 진행자 지도](wiki/route-era-long-arcs.md)** · 수정: 2026-11-06 · 상태: 장기 위기 동인 후보 · 진행자 전용
+  - 항로력 212년 전후를 시작으로 30~100년간 독립적으로 전개될 수 있는 다섯 장기 위기의 진행자용 지도.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-long-arcs/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-long-arcs.md)
+- **[일곱 문의 분쟁 — 서른 해의 항로 전쟁](wiki/arc-seven-gates.md)** · 수정: 2026-11-06 · 상태: 장기 위기 동인 후보 · 진행자 전용
+  - 항로력 212~242년의 30년 장기 시나리오. 항로 운영권과 사고 배상 갈등이 다행성 항만 봉쇄와 기근을 낳을 수 있다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-seven-gates/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-seven-gates.md)
+- **[빈 당번의 시대 — 사십오 해의 따뜻한 도시](wiki/arc-empty-shifts.md)** · 수정: 2026-11-06 · 상태: 장기 위기 동인 후보 · 진행자 전용
+  - 항로력 212~257년의 45년 장기 시나리오. 나눔 사이 시설의 기록 누락과 인력 축소가 빈당번의 독점으로 발전한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-empty-shifts/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-empty-shifts.md)
+- **[회색 앞에 선 마지막 사람들 — 육십 해의 맹약](wiki/arc-grey-promises.md)** · 수정: 2026-11-06 · 상태: 장기 위기 동인 후보 · 진행자 전용
+  - 항로력 212~272년의 60년 장기 시나리오. 양립할 수 없는 맹약의 남용과 회색 자국에 대한 제도적 배제가 사회를 갈라놓는다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-grey-promises/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-grey-promises.md)
+- **[뒤처진 역서 — 팔십 해의 길 찾기](wiki/arc-drifting-routes.md)** · 수정: 2026-11-06 · 상태: 장기 위기 동인 후보 · 진행자 전용
+  - 항로력 212~292년의 80년 장기 시나리오. 낡은 역서와 새로운 결의 불일치가 항만과 공동체의 지형을 바꾼다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-drifting-routes/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-drifting-routes.md)
+- **[고요한 수확 — 백 해의 정원사들](wiki/arc-quiet-harvest.md)** · 수정: 2026-11-06 · 상태: 장기 위기 동인 후보 · 진행자 전용
+  - 항로력 212~312년의 100년 장기 시나리오. 돌아온 별의 정원사들이 실제 표본 운송을 따라 퍼져 배움과 기록의 전승을 위협한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-quiet-harvest/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-quiet-harvest.md)
+- **[항로 시대의 외부 압력 — 지도 밖에서 끼어드는 다섯 사건](wiki/route-era-outside-pressures.md)** · 수정: 2026-11-06 · 상태: 외부 압력 동인 후보 · 진행자 전용
+  - 항로력 210년대 이후 외부에서 불쑥 도착하는 다섯 독립 위기. 무장 선단, 피난 통로, 천체 파편, 유영하는 생태계, 오래된 토대의 반환 요구를 다룬 진행자 지도.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-outside-pressures/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-outside-pressures.md)
+- **[아홉 척의 흰 돛 — 지도 밖 함대의 칙령](wiki/outside-nine-sails.md)** · 수정: 2026-11-06 · 상태: 외부 압력 동인 후보 · 진행자 전용
+  - 항로력 210년대 이후 20~60년짜리 외부 침입 시나리오. 다른 통행망에서 온 아홉 척의 무장 선단이 그늘역의 항로 관리권을 요구한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-nine-sails/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-nine-sails.md)
+- **[돌아갈 문이 없는 사람들 — 누가 그들을 맞을 것인가](wiki/outside-no-return-gate.md)** · 수정: 2026-11-06 · 상태: 외부 압력 동인 후보 · 진행자 전용
+  - 항로력 210년대 이후 30~100년짜리 외부 이주 시나리오. 미지의 통행망에서 열린 편도 문이 수세대의 피난과 정착 문제를 가져온다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-no-return-gate/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-no-return-gate.md)
+- **[검은 얼음의 방문 — 두 해를 지나가는 낙하의 시간](wiki/outside-black-ice.md)** · 수정: 2026-11-06 · 상태: 외부 압력 동인 후보 · 진행자 전용
+  - 항로력 210년대 이후 나타날 수 있는 외부 천체 파편과 낙하 위험. 단기간 물리 재난과 수십 년 후유증을 구분한 진행자용 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-black-ice/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-black-ice.md)
+- **[걸어오는 바다 — 지도의 바깥에서 옮겨 다니는 해안](wiki/outside-walking-sea.md)** · 수정: 2026-11-06 · 상태: 외부 압력 동인 후보 · 진행자 전용
+  - 40~90년짜리 거대 비인간 생태 이동 시나리오. 누리 미답 대양에서 도착하는 이동 군체가 항구와 바다 생태를 바꾼다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-walking-sea/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-walking-sea.md)
+- **[돌을 돌려달라는 손님 — 도시 아래의 타인](wiki/outside-returning-stone.md)** · 수정: 2026-11-06 · 상태: 외부 압력 동인 후보 · 진행자 전용
+  - 항로력 210년대 이후 10~50년짜리 외부 행위자 시나리오. 도시 토대의 돌을 친족으로 부르는 방문자가 찾아와 관계적 소유와 생존이 충돌한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-returning-stone/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-returning-stone.md)
+- **[마왕과 어긋나는 세기 — 일곱 관계의 파열](wiki/route-era-seven-fractures.md)** · 수정: 2026-11-06 · 상태: 마왕 관계 동인 후보 · 진행자 전용
+  - 항로력 212년 전후부터 30~100년간 일곱 마왕 계열과의 공존이 무너질 수도 있는 세계. 일곱 독립적인 진행자용 장기 시나리오 지도.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-seven-fractures/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-seven-fractures.md)
+- **[조화의 파열 — 아무도 미워하지 않는 추방](wiki/fracture-harmony.md)** · 수정: 2026-11-06 · 상태: 마왕 관계 동인 후보 · 진행자 전용
+  - 조화 일족이 오래된 물가의 공생을 새로 맞추면서 인간 정착지를 밀어내고 유역 전쟁으로 치달을 수 있는 40~80년 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-harmony/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-harmony.md)
+- **[서약의 파열 — 구해 주지 않겠다는 약속](wiki/fracture-oath.md)** · 수정: 2026-11-06 · 상태: 마왕 관계 동인 후보 · 진행자 전용
+  - 회색 증인과 오래된 장소의 유효한 약속이 구조선의 통과를 막아 사회적 분열과 장기 법적·물리적 충돌을 낳는 20~70년 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-oath/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-oath.md)
+- **[공명의 파열 — 모두의 슬픔은 누구의 것인가](wiki/fracture-resonance.md)** · 수정: 2026-11-06 · 상태: 마왕 관계 동인 후보 · 진행자 전용
+  - 공명의 일족이 돌봄과 애도의 연결을 확대하면서 감정의 자율성과 연대의 가치가 충돌하는 30~60년 장기 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-resonance/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-resonance.md)
+- **[탈피의 파열 — 도시가 벗어 놓은 피부](wiki/fracture-shedding.md)** · 수정: 2026-11-06 · 상태: 마왕 관계 동인 후보 · 진행자 전용
+  - 탈피의 일족이 인간 항구의 유지 업무를 스스로 떠나면서 수십 년에 걸친 도시의 인프라와 거주 방식 변화를 야기하는 50~100년 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-shedding/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-shedding.md)
+- **[분기의 파열 — 어제와 다른 문](wiki/fracture-branching.md)** · 수정: 2026-11-06 · 상태: 마왕 관계 동인 후보 · 진행자 전용
+  - 분기의 일족이 새로운 길과 생태를 지키며 기존 항로와 도시의 반복 가능성을 흔드는 35~90년 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-branching/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-branching.md)
+- **[환대의 파열 — 주인은 누구인가](wiki/fracture-hospitality.md)** · 수정: 2026-11-06 · 상태: 마왕 관계 동인 후보 · 진행자 전용
+  - 환대의 일족이 새 손님을 맞느라 오래 살던 주민의 거처와 생존을 밀어내는 20~80년 관계 파열 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-hospitality/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-hospitality.md)
+- **[몽환의 파열 — 돌아온 자를 돌려보내라](wiki/fracture-dream.md)** · 수정: 2026-11-06 · 상태: 마왕 관계 동인 후보 · 진행자 전용
+  - 몽환의 일족과 접촉한 귀환자의 동일성 변화가 가족, 법정, 시민권과 증언을 흔드는 30~70년 장기 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-dream/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-dream.md)
+- **[시대를 밝히는 여섯 전환 — 항로력 210년대의 가능 세계](wiki/route-era-bright-turns.md)** · 수정: 2026-11-06 · 상태: 긍정적 전환 동인 후보 · 진행자 전용
+  - 항로력 212년 전후 시작할 수 있는 여섯 선대적·건설적 장기 시나리오. 마렌의 귀환, 마법 공예혁명, 영웅적 재능, 기록 공유, 다종 협약, 생태 복구.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-bright-turns/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-bright-turns.md)
+- **[마렌이 다시 고개를 들 때 — 한 인간의 세계 개입](wiki/bright-maren.md)** · 수정: 2026-11-06 · 상태: 긍정적 전환 동인 후보 · 진행자 전용
+  - 항로력 210년대 이후 마렌이 살아 있고 스스로 개입하기로 선택한 경우의 거대한 선대적 변화. 지형 구호, 통행 조정, 후대의 기술과 기록을 다룬다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-maren/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-maren.md)
+- **[열줄 너머의 공방 — 마법 공예혁명](wiki/bright-craft-revolution.md)** · 수정: 2026-11-06 · 상태: 긍정적 전환 동인 후보 · 진행자 전용
+  - 작업장 간 재현 가능한 마법적 유지·생산·구호 기술의 확산이 30~100년 동안 산업혁명급 풍요를 낳을 수 있는 장기 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-craft-revolution/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-craft-revolution.md)
+- **[아직 이름 없는 용사 — 한 사람의 뜻밖의 역사](wiki/bright-hero.md)** · 수정: 2026-11-06 · 상태: 긍정적 전환 동인 후보 · 진행자 전용
+  - 20~60년 규모의 뛰어난 개인 등장 시나리오. 전투력보다 현장에서 구원과 통행의 불가능을 실제로 뒤집는 관계적 재능과 선택을 다룬다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-hero/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-hero.md)
+- **[읽을 수 있는 실패들 — 지식의 공공망](wiki/bright-open-knowledge.md)** · 수정: 2026-11-06 · 상태: 긍정적 전환 동인 후보 · 진행자 전용
+  - 서로 다른 지역의 마법 실천 실패와 관측을 기록·비교하는 제도가 25~70년에 걸쳐 대규모 구호와 안전 향상으로 이어지는 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-open-knowledge/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-open-knowledge.md)
+- **[여섯 물가의 동맹 — 함께 만드는 새로운 시민권](wiki/bright-many-neighbors.md)** · 수정: 2026-11-06 · 상태: 긍정적 전환 동인 후보 · 진행자 전용
+  - 30~90년 동안 서로 다른 인간·비인간 공동체가 항만과 물줄·통행을 공동 운영하여 안정과 외교적 번영을 만드는 장기 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-many-neighbors/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-many-neighbors.md)
+- **[다시 열리는 들판 — 풍요의 두 번째 발견](wiki/bright-living-harvest.md)** · 수정: 2026-11-06 · 상태: 긍정적 전환 동인 후보 · 진행자 전용
+  - 25~90년 동안 다른 생명·새 농경 관계·물의 관리 기술로 식량과 거주 환경을 안정시키는 지역적 풍요의 장기 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-living-harvest/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-living-harvest.md)
+
 ## 탐사대
 
 - **[임무: 바람 끝의 손님들](wiki/mission-lost-freighter.md)** · 별칭: 잃어버린 수송선, 은실호, 남쪽 행렬, 비엘라의 돌 · 수정: 2026-11-06 · 상태: 룰북용 임무 · 진행자 전용
@@ -50,99 +146,6 @@
 - **[소엘의 셋째 의뢰 — 바람 끝의 손님들](wiki/soel-session-03.md)** · 별칭: 바람 끝의 손님들 세션, 소엘 셋째 의뢰 · 수정: 2026-11-06 · 상태: 진행함
   - 소엘이 고리운송과 맹약소 계약을 맺고 문그늘 아래 바람 끝에 들어가, 맹약의 실로 그늘을 빠져나오고 은실호 선원과 남쪽 행렬의 이든을 데리고 나온 셋째 의뢰. 앞에 그늘역 작은 겹침 막간이 있다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-03/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-03.md)
-- **[항로력 210년대의 다섯 장기 위기 — 진행자 지도](wiki/route-era-long-arcs.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
-  - 항로력 212년 전후를 시작으로 30~100년간 독립적으로 전개될 수 있는 다섯 장기 위기의 진행자용 지도.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-long-arcs/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-long-arcs.md)
-- **[일곱 문의 분쟁 — 서른 해의 항로 전쟁](wiki/arc-seven-gates.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
-  - 항로력 212~242년의 30년 장기 시나리오. 항로 운영권과 사고 배상 갈등이 다행성 항만 봉쇄와 기근을 낳을 수 있다.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-seven-gates/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-seven-gates.md)
-- **[빈 당번의 시대 — 사십오 해의 따뜻한 도시](wiki/arc-empty-shifts.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
-  - 항로력 212~257년의 45년 장기 시나리오. 나눔 사이 시설의 기록 누락과 인력 축소가 빈당번의 독점으로 발전한다.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-empty-shifts/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-empty-shifts.md)
-- **[회색 앞에 선 마지막 사람들 — 육십 해의 맹약](wiki/arc-grey-promises.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
-  - 항로력 212~272년의 60년 장기 시나리오. 양립할 수 없는 맹약의 남용과 회색 자국에 대한 제도적 배제가 사회를 갈라놓는다.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-grey-promises/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-grey-promises.md)
-- **[뒤처진 역서 — 팔십 해의 길 찾기](wiki/arc-drifting-routes.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
-  - 항로력 212~292년의 80년 장기 시나리오. 낡은 역서와 새로운 결의 불일치가 항만과 공동체의 지형을 바꾼다.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-drifting-routes/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-drifting-routes.md)
-- **[고요한 수확 — 백 해의 정원사들](wiki/arc-quiet-harvest.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
-  - 항로력 212~312년의 100년 장기 시나리오. 돌아온 별의 정원사들이 실제 표본 운송을 따라 퍼져 배움과 기록의 전승을 위협한다.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-quiet-harvest/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-quiet-harvest.md)
-- **[항로 시대의 외부 압력 — 지도 밖에서 끼어드는 다섯 사건](wiki/route-era-outside-pressures.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 항로력 210년대 이후 외부에서 불쑥 도착하는 다섯 독립 위기. 무장 선단, 피난 통로, 천체 파편, 유영하는 생태계, 오래된 토대의 반환 요구를 다룬 진행자 지도.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-outside-pressures/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-outside-pressures.md)
-- **[아홉 척의 흰 돛 — 지도 밖 함대의 칙령](wiki/outside-nine-sails.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 항로력 210년대 이후 20~60년짜리 외부 침입 시나리오. 다른 통행망에서 온 아홉 척의 무장 선단이 그늘역의 항로 관리권을 요구한다.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-nine-sails/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-nine-sails.md)
-- **[돌아갈 문이 없는 사람들 — 누가 그들을 맞을 것인가](wiki/outside-no-return-gate.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 항로력 210년대 이후 30~100년짜리 외부 이주 시나리오. 미지의 통행망에서 열린 편도 문이 수세대의 피난과 정착 문제를 가져온다.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-no-return-gate/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-no-return-gate.md)
-- **[검은 얼음의 방문 — 두 해를 지나가는 낙하의 시간](wiki/outside-black-ice.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 항로력 210년대 이후 나타날 수 있는 외부 천체 파편과 낙하 위험. 단기간 물리 재난과 수십 년 후유증을 구분한 진행자용 시나리오.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-black-ice/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-black-ice.md)
-- **[걸어오는 바다 — 지도의 바깥에서 옮겨 다니는 해안](wiki/outside-walking-sea.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 40~90년짜리 거대 비인간 생태 이동 시나리오. 누리 미답 대양에서 도착하는 이동 군체가 항구와 바다 생태를 바꾼다.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-walking-sea/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-walking-sea.md)
-- **[돌을 돌려달라는 손님 — 도시 아래의 타인](wiki/outside-returning-stone.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 항로력 210년대 이후 10~50년짜리 외부 행위자 시나리오. 도시 토대의 돌을 친족으로 부르는 방문자가 찾아와 관계적 소유와 생존이 충돌한다.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-returning-stone/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-returning-stone.md)
-- **[마왕과 어긋나는 세기 — 일곱 관계의 파열](wiki/route-era-seven-fractures.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 항로력 212년 전후부터 30~100년간 일곱 마왕 계열과의 공존이 무너질 수도 있는 세계. 일곱 독립적인 진행자용 장기 시나리오 지도.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-seven-fractures/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-seven-fractures.md)
-- **[조화의 파열 — 아무도 미워하지 않는 추방](wiki/fracture-harmony.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 조화 일족이 오래된 물가의 공생을 새로 맞추면서 인간 정착지를 밀어내고 유역 전쟁으로 치달을 수 있는 40~80년 위기.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-harmony/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-harmony.md)
-- **[서약의 파열 — 구해 주지 않겠다는 약속](wiki/fracture-oath.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 회색 증인과 오래된 장소의 유효한 약속이 구조선의 통과를 막아 사회적 분열과 장기 법적·물리적 충돌을 낳는 20~70년 시나리오.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-oath/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-oath.md)
-- **[공명의 파열 — 모두의 슬픔은 누구의 것인가](wiki/fracture-resonance.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 공명의 일족이 돌봄과 애도의 연결을 확대하면서 감정의 자율성과 연대의 가치가 충돌하는 30~60년 장기 위기.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-resonance/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-resonance.md)
-- **[탈피의 파열 — 도시가 벗어 놓은 피부](wiki/fracture-shedding.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 탈피의 일족이 인간 항구의 유지 업무를 스스로 떠나면서 수십 년에 걸친 도시의 인프라와 거주 방식 변화를 야기하는 50~100년 위기.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-shedding/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-shedding.md)
-- **[분기의 파열 — 어제와 다른 문](wiki/fracture-branching.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 분기의 일족이 새로운 길과 생태를 지키며 기존 항로와 도시의 반복 가능성을 흔드는 35~90년 위기.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-branching/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-branching.md)
-- **[환대의 파열 — 주인은 누구인가](wiki/fracture-hospitality.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 환대의 일족이 새 손님을 맞느라 오래 살던 주민의 거처와 생존을 밀어내는 20~80년 관계 파열 위기.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-hospitality/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-hospitality.md)
-- **[몽환의 파열 — 돌아온 자를 돌려보내라](wiki/fracture-dream.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
-  - 몽환의 일족과 접촉한 귀환자의 동일성 변화가 가족, 법정, 시민권과 증언을 흔드는 30~70년 장기 위기.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-dream/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-dream.md)
-- **[시대를 밝히는 여섯 전환 — 항로력 210년대의 가능 세계](wiki/route-era-bright-turns.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
-  - 항로력 212년 전후 시작할 수 있는 여섯 선대적·건설적 장기 시나리오. 마렌의 귀환, 마법 공예혁명, 영웅적 재능, 기록 공유, 다종 협약, 생태 복구.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-bright-turns/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-bright-turns.md)
-- **[마렌이 다시 고개를 들 때 — 한 인간의 세계 개입](wiki/bright-maren.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
-  - 항로력 210년대 이후 마렌이 살아 있고 스스로 개입하기로 선택한 경우의 거대한 선대적 변화. 지형 구호, 통행 조정, 후대의 기술과 기록을 다룬다.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-maren/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-maren.md)
-- **[열줄 너머의 공방 — 마법 공예혁명](wiki/bright-craft-revolution.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
-  - 작업장 간 재현 가능한 마법적 유지·생산·구호 기술의 확산이 30~100년 동안 산업혁명급 풍요를 낳을 수 있는 장기 시나리오.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-craft-revolution/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-craft-revolution.md)
-- **[아직 이름 없는 용사 — 한 사람의 뜻밖의 역사](wiki/bright-hero.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
-  - 20~60년 규모의 뛰어난 개인 등장 시나리오. 전투력보다 현장에서 구원과 통행의 불가능을 실제로 뒤집는 관계적 재능과 선택을 다룬다.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-hero/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-hero.md)
-- **[읽을 수 있는 실패들 — 지식의 공공망](wiki/bright-open-knowledge.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
-  - 서로 다른 지역의 마법 실천 실패와 관측을 기록·비교하는 제도가 25~70년에 걸쳐 대규모 구호와 안전 향상으로 이어지는 시나리오.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-open-knowledge/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-open-knowledge.md)
-- **[여섯 물가의 동맹 — 함께 만드는 새로운 시민권](wiki/bright-many-neighbors.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
-  - 30~90년 동안 서로 다른 인간·비인간 공동체가 항만과 물줄·통행을 공동 운영하여 안정과 외교적 번영을 만드는 장기 시나리오.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-many-neighbors/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-many-neighbors.md)
-- **[다시 열리는 들판 — 풍요의 두 번째 발견](wiki/bright-living-harvest.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
-  - 25~90년 동안 다른 생명·새 농경 관계·물의 관리 기술로 식량과 거주 환경을 안정시키는 지역적 풍요의 장기 시나리오.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-living-harvest/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-living-harvest.md)
-
-## 개요
-
-- **[대의문](wiki/grand-questions.md)** · 별칭: 거대한 의문, 세계의 큰 수수께끼 · 수정: 2026-11-04 · 상태: 미정
-  - 인류의 기원, 마법적 우주의 토대, 비인간 행위자의 역할, 다른 행성으로의 진출 한계 등 세계를 관통하는 거대한 수수께끼의 후보.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/grand-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/grand-questions.md)
-- **[세계 개요](wiki/start-here.md)** · 별칭: 세계 개요 · 수정: 2026-11-05 · 상태: 정본
-  - 쌍성계의 마법적 우주와 소규모 인류 인구, 기술·제도 수준과 독립적인 인구 규모, 비인간 행위자 및 행성 진출에 관한 세계 원칙.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/start-here/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/start-here.md)
-- **[정해야 할 설정](wiki/open-setting-questions.md)** · 별칭: 미정 설정 목록 · 수정: 2026-11-03 · 상태: 미정
-  - 쌍성계와 마법, 낮은 인류 인구에도 발달한 마법 문명, 종족과 이주의 미정 문제.
-  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/open-setting-questions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-setting-questions.md)
 
 ## 천체
 

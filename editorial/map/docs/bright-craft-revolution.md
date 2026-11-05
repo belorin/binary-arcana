@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `bright-craft-revolution` · 분류: 탐사대 · 공개 · 원고: [wiki/bright-craft-revolution.md](../../../wiki/bright-craft-revolution.md) · 1,591자 · 절 5개
+- id: `bright-craft-revolution` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/bright-craft-revolution.md](../../../wiki/bright-craft-revolution.md) · 1,591자 · 절 5개
 - 요약: 작업장 간 재현 가능한 마법적 유지·생산·구호 기술의 확산이 30~100년 동안 산업혁명급 풍요를 낳을 수 있는 장기 시나리오.
 - 태그: 마법 공예, 산업혁명, 엮음, 공방, 생산, 진행자 전용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed

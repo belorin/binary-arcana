@@ -2,7 +2,7 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `fracture-resonance` · 분류: 탐사대 · 공개 · 원고: [wiki/fracture-resonance.md](../../../wiki/fracture-resonance.md) · 1,107자 · 절 5개
+- id: `fracture-resonance` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/fracture-resonance.md](../../../wiki/fracture-resonance.md) · 1,107자 · 절 5개
 - 요약: 공명의 일족이 돌봄과 애도의 연결을 확대하면서 감정의 자율성과 연대의 가치가 충돌하는 30~60년 장기 위기.
 - 태그: 공명, 돌봄, 정서, 자유, 진행자 전용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed
