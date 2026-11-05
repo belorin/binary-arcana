@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 154개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 173개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (8)
 
@@ -46,6 +46,33 @@
 - 선언 잠금은 공개 순서가 아니라 원문 지문으로 검증 → `rival-gc-retrospective` § 잠금은 순서가 아니라 지문으로 확인한다 · `ing-20261103-rival-gc-retrospective-claude`
 - 설명문 속 skip-ci 표기가 실제로 배포를 건너뛰게 함 → `rival-gc-retrospective` § 커밋 규칙을 설명한 커밋이 그 규칙에 걸렸다 · `ing-20261103-rival-gc-retrospective-claude`
 - 사이트가 그리지 못하는 상대 경로·절 링크를 빌드 검사로 막자는 제안 → `rival-gc-retrospective` § 사이트가 그리지 못하는 링크가 되풀이된다 · `ing-20261103-rival-gc-retrospective-claude`
+
+## 사물·개념 (22)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 반복 가능한 규칙과 실제 규칙 변화 가능성의 공존 → `variable-rules-and-life` § 오래 지속되지만 영원하다고 보장되지 않는 질서 · `ing-20261103-variable-rules-and-life`
+- 마법적 생활 편의와 지역별 비대칭, 평범한 일상의 공존 → `variable-rules-and-life` § 풍요로울 수 있는 일상 · `ing-20261103-variable-rules-and-life`
+- 지성·비지성 생명의 탐색·견고함·변형이라는 서로 다른 대응 → `variable-rules-and-life` § 생명이 택해 온 여러 대응 · `ing-20261103-variable-rules-and-life`
+- 세계 이해는 배경적 압력이지 모든 이야기의 근본 주제가 아님 → `variable-rules-and-life` § 소설과 세계 진행에서의 쓰임 · `ing-20261103-variable-rules-and-life`
+- 위해체의 범위와 마왕·지성체와의 관계 → `hostile-beings` § 정의와 범위 · `ing-20261105-hostile-beings`
+- 1. 되밟이 → `hostile-beings` § 1. 되밟이 — 돌아가는 사람을 사냥하는 짐승 · `ing-20261105-hostile-beings`
+- 2. 손등벌레 → `hostile-beings` § 2. 손등벌레 — 귀한 도구에 붙는 기생체 · `ing-20261105-hostile-beings`
+- 3. 빈가죽 → `hostile-beings` § 3. 빈가죽 — 죽은 몸을 입고 걷는 군체 · `ing-20261105-hostile-beings`
+- 4. 잠빌림 → `hostile-beings` § 4. 잠빌림 — 꿈속에서 안전을 빌려주는 포식자 · `ing-20261105-hostile-beings`
+- 5. 집삼킴 → `hostile-beings` § 5. 집삼킴 — 살게 해 준 뒤 먹는 장소 · `ing-20261105-hostile-beings`
+- 6. 묵은파수 → `hostile-beings` § 6. 묵은파수 — 끝나지 않은 경비가 만든 사냥꾼 · `ing-20261105-hostile-beings`
+- 7. 빈당번 → `hostile-beings` § 7. 빈당번 — 공동 관리 속에 생기는 가짜 동료 · `ing-20261105-hostile-beings`
+- 8. 닻먹이 → `hostile-beings` § 8. 닻먹이 — 배를 붙잡는 틈의 포식자 · `ing-20261105-hostile-beings`
+- 9. 숨거둠 → `hostile-beings` § 9. 숨거둠 — 고향 공기를 훔치는 날짐승 · `ing-20261105-hostile-beings`
+- 10. 빌린입 → `hostile-beings` § 10. 빌린입 — 말을 옮길수록 자라는 이야기 · `ing-20261105-hostile-beings`
+- 11. 기르는 자들 → `hostile-beings` § 11. 기르는 자들 — 지성체를 사육하는 지성 · `ing-20261105-hostile-beings`
+- 12. 고요의 정원사들 → `hostile-beings` § 12. 고요의 정원사들 — 지성의 재발을 막으려는 존재들 · `ing-20261105-hostile-beings`
+- 시대와 개변에 따른 변종·개체 변화와 다른 존재·규칙으로의 이행 → `hostile-beings` § 시대·개변·변종과 개체 변이; `variable-rules-and-life` § 적대적 존재의 변이와 마법적 요소 · `ing-20261105-hostile-beings`
+- 종류와 개체에 따라 다른 마법적 요소의 조건과 한계 → `hostile-beings` § 일부가 지니는 마법적 요소 · `ing-20261105-hostile-beings`
+- 적대적 존재의 시대별 배치와 생존 지식의 단절·재발견 → `hostile-beings` § 역사에 놓는 방법 · `ing-20261105-hostile-beings`
+- 탐사대의 위협 준비와 공정한 변이 운영 → `hostile-beings` § 탐사대에서 쓰는 간단한 원칙; `hostile-beings` § 변이와 달라진 규칙을 쓰는 법; `rulebook` § 12. 선택 확장 — 적대적 존재와 변이 · `ing-20261105-hostile-beings`
+- 기존 수수께끼 보존과 미정인 기원·계통의 경계 → `hostile-beings` § 기존 수수께끼와의 경계; `hostile-beings` § 모순과 미정 · `ing-20261105-hostile-beings`
 
 ## 사건 (19)
 
@@ -112,7 +139,7 @@
 - 관념과의 사이가 물질적 상대와 함께 온 세계에 적용되며 약한 재능이 모두에게 있음 → `conceptual-relations` § 정의; `conceptual-relations` § 보편성과 편차; `magic-as-practice` § 관념과의 사이 — 세계 전체에 있는 재능 · `ing-20261105-archmage-maren`
 - 관념의 관계는 별도의 고정 속성 학파가 아니며 기존 관계 마법과 공존함 → `conceptual-relations` § 기존의 사이와의 관계; `magic-senses` § 관념이라는 상대도 있다 · `ing-20261105-archmage-maren`
 
-## 시작하기 (14)
+## 시작하기 (15)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -130,6 +157,7 @@
 - 룰북: 함께 받은 파일, 새로 정한 것 표시, 저장 블록 → `rulebook` § 함께 받은 파일, 새로 정한 것, 저장 · `ing-20261104-route-era-play`
 - 룰북: 관념과의 사이를 대원의 사이로 고르는 선택지와 예 → `rulebook` § ③ 사이 두 개 정하기 · `ing-20261105-route-era-extras`
 - 전설 속의 무게의 대마법사와 진행자 지침 → `open-routes-era` § 전설 속의 사람 · `ing-20261105-route-era-extras`
+- 항로 시대 안내의 위해체와 변이 소개 → `open-routes-era` § 사람을 노리는 존재들 · `ing-20261105-hostile-beings`
 
 ## 인물 (10)
 
@@ -189,15 +217,6 @@
 - 맞섬: 관계의 힘으로 겨루며 장소·날·건 것이 승패를 가름 → `scenario-great-crossing` § 맞섬의 방식 · `ing-20261103-great-crossing-scenario`
 - 큰 건넘: 두 태양이 가장 가까워지는 철에만 넓게 열리는 행성 간 길 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
 - 길의 지기가 평생의 관계를 대를 이어 물려줌 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
-
-## 사물·개념 (4)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 반복 가능한 규칙과 실제 규칙 변화 가능성의 공존 → `variable-rules-and-life` § 오래 지속되지만 영원하다고 보장되지 않는 질서 · `ing-20261103-variable-rules-and-life`
-- 마법적 생활 편의와 지역별 비대칭, 평범한 일상의 공존 → `variable-rules-and-life` § 풍요로울 수 있는 일상 · `ing-20261103-variable-rules-and-life`
-- 지성·비지성 생명의 탐색·견고함·변형이라는 서로 다른 대응 → `variable-rules-and-life` § 생명이 택해 온 여러 대응 · `ing-20261103-variable-rules-and-life`
-- 세계 이해는 배경적 압력이지 모든 이야기의 근본 주제가 아님 → `variable-rules-and-life` § 소설과 세계 진행에서의 쓰임 · `ing-20261103-variable-rules-and-life`
 
 ## 세력 (4)
 

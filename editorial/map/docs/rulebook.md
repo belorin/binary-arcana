@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `rulebook` · 분류: 시작하기 · 공개 · 원고: [wiki/rulebook.md](../../../wiki/rulebook.md) · 15,292자 · 절 33개
+- id: `rulebook` · 분류: 시작하기 · 공개 · 원고: [wiki/rulebook.md](../../../wiki/rulebook.md) · 15,774자 · 절 34개
 - 별칭: 룰북, 탐사대, 조용한 우물
 - 요약: AI에게 통째로 주면 진행자가 되어 개척지 탐사 롤플레잉을 진행하는 한 파일짜리 룰북. 진행자 지침, 2d6 판정, 탐사대원 만들기, 마법과 값, 신탁·시계·하늘 굴림·무작위 표, 첫 임무 「돌아온 별, 조용한 우물」.
 - 태그: 룰북, 롤플레잉, 2d6, 탐사대, Gemini
-- 수정일: 2026-11-05 · 실제 증보일: 2026-11-04 · 검토: unassessed
-- 관련 문서: `welcome`, `open-routes-era`, `magic-senses`, `demon-epoch-chronicle`, `mission-lost-freighter`, `mission-breathing-forest`, `ships-and-gear`, `route-era-life`, `mission-seeds`, `conceptual-relations`
+- 수정일: 2026-11-05 · 실제 증보일: 2026-11-05 · 검토: unassessed
+- 관련 문서: `welcome`, `open-routes-era`, `magic-senses`, `demon-epoch-chronicle`, `mission-lost-freighter`, `mission-breathing-forest`, `ships-and-gear`, `route-era-life`, `mission-seeds`, `conceptual-relations`, `hostile-beings`
 
 ## 절 목차
 
@@ -47,6 +47,7 @@
   - 첫 임무 — 돌아온 별, 조용한 우물 · L337–363 · 1,711자 · `9598dbf6` — 의뢰. 그늘역. 결 학회와 고리운송이 함께 돈을 댄 탐사대 황새호(다섯 명)가 돌아온 별의 "우물 유적"을 조사하러 갔다.
 - 10. 진행자만 아는 것 · L365–373 · 492자 · `5c16ef48` — 캐릭터가 알아내기 전에는 말하지 않는다.
 - 11. 진행 예시 · L375–392 · 577자 · `b816111f` — 플레이어: 카이로 기둥 사이를 들여다볼게.
+- 12. 선택 확장 — 적대적 존재와 변이 · L394–400 · 453자 · `19cbba36` — 마왕의 금지 구역 밖에도 사람을 사냥하거나 생활을 무너뜨리는 존재가 있다.
 
 ## 장부에 기록된 반영 지식
 
@@ -58,6 +59,8 @@
   - 룰북: 함께 받은 파일, 새로 정한 것 표시, 저장 블록 · `ing-20261104-route-era-play`
 - **③ 사이 두 개 정하기**
   - 룰북: 관념과의 사이를 대원의 사이로 고르는 선택지와 예 · `ing-20261105-route-era-extras`
+- **12. 선택 확장 — 적대적 존재와 변이**
+  - 탐사대의 위협 준비와 공정한 변이 운영 · `ing-20261105-hostile-beings`
 
 ## 확인된 의미 관계
 
@@ -67,3 +70,4 @@
 - ← `mission-breathing-forest` · elaborates · 근거 절(mission-breathing-forest): 진행자에게
 - ← `ships-and-gear` · elaborates · 근거 절(ships-and-gear): 돈 — 자금
 - ← `mission-seeds` · elaborates · 근거 절(mission-seeds): 쓰는 법
+- → `hostile-beings` · introduces · 근거 절(rulebook): 12. 선택 확장 — 적대적 존재와 변이

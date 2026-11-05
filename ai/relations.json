@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 454,
+  "edge_count": 472,
   "edges": [
     {
       "from": "welcome",
@@ -152,6 +152,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "open-routes-era",
+      "to": "hostile-beings",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "rulebook",
       "to": "welcome",
       "type": "related_to",
@@ -208,6 +214,12 @@
     {
       "from": "rulebook",
       "to": "conceptual-relations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "hostile-beings",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2312,6 +2324,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "variable-rules-and-life",
+      "to": "hostile-beings",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "binary-system",
       "to": "space-codes",
       "type": "related_to",
@@ -2624,6 +2642,78 @@
       "basis": "manifest.related"
     },
     {
+      "from": "hostile-beings",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "variable-rules-and-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "conceptual-relations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "first-gate",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "start-here",
       "to": "editing-guide",
       "type": "introduces",
@@ -2774,6 +2864,30 @@
       "basis": "curated",
       "evidence_section": "첫째 문 — 세계를 읽는다",
       "reason": "항로 시대의 탐험 쪽 분위기를 보여 주는 소설로 안내한다."
+    },
+    {
+      "from": "open-routes-era",
+      "to": "hostile-beings",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "사람을 노리는 존재들",
+      "reason": "세계 안내에서 적대적 존재의 도감과 변이 원칙으로 안내한다."
+    },
+    {
+      "from": "hostile-beings",
+      "to": "variable-rules-and-life",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "시대·개변·변종과 개체 변이",
+      "reason": "변동하는 환경과 규칙에 대한 생명의 대응을 적대적 존재의 변종과 개체 변화에 구체화한다."
+    },
+    {
+      "from": "rulebook",
+      "to": "hostile-beings",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "12. 선택 확장 — 적대적 존재와 변이",
+      "reason": "선택 확장 도감과 공정한 변이 운영 원칙을 안내한다."
     }
   ]
 }

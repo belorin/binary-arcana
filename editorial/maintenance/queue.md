@@ -4,9 +4,9 @@
 
 마지막 정비: **M002** (2026-11-04) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 63개 · 변경 문서 26 · 고립 0 · 한쪽 연결 111 · 보류 8 · 열린 교차 제안 0
+원고 64개 · 변경 문서 28 · 고립 0 · 한쪽 연결 120 · 보류 8 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (26)
+## 1. 지난 정비 이후 변경된 문서 (28)
 
 manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -16,6 +16,7 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - **시작하기** (3): `welcome`, `open-routes-era`, `rulebook`
 - **개요** (2): `grand-questions`, `start-here`
 - **사건** (2): `demon-epoch-chronicle`, `reshaping`
+- **사물·개념** (2): `variable-rules-and-life`, `hostile-beings`
 - **천체** (2): `binary-system`, `space-codes`
 - **안내** (1): `worldbuilding-guide`
 - **운영 원칙** (1): `exceptional-generations`
@@ -27,7 +28,7 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (111)
+## 3. 한쪽에서만 건 관련 문서 (120)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -142,6 +143,15 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - `soel-sheet` → `mission-seeds`
 - `soel-session-01` → `rulebook`
 - `soel-session-01` → `mission-lost-freighter`
+- `hostile-beings` → `seven-demon-lords`
+- `hostile-beings` → `demon-epoch-chronicle`
+- `hostile-beings` → `reshaping`
+- `hostile-beings` → `magic-as-practice`
+- `hostile-beings` → `magic-senses`
+- `hostile-beings` → `conceptual-relations`
+- `hostile-beings` → `knowledge-horizons`
+- `hostile-beings` → `causal-roleplay`
+- `hostile-beings` → `first-gate`
 
 ## 4. 관련 문서가 없는 문서 (0)
 
@@ -186,10 +196,10 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (9): `rival-gc-t09-world` 19,396자, `rival-gc-t06-world` 15,310자, `rulebook` 15,292자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,793자, `rival-gc-t03-world` 10,529자, `magic-senses` 10,122자
+- 긴 문서 (10): `rival-gc-t09-world` 19,396자, `rulebook` 15,774자, `rival-gc-t06-world` 15,310자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `hostile-beings` 12,970자, `rival-play` 12,302자, `archmage-maren` 11,793자, `rival-gc-t03-world` 10,529자, `magic-senses` 10,122자
 - 짧은 문서 (2): `editing-guide` 763자, `soel-sheet` 1,401자
 
 ## 9. 분류 참고
 
-분류 16개: 대국 기록 10, 인물 8, 탐사대 7, 롤플레잉 7, 운영 원칙 6, 소설 4, 시작하기 3, 개요 3, 마법 3, 사건 3, 천체 3, 안내 2, 세력 1, 마법 공예·항행 1, 장소 1, 사물·개념 1
-문서가 하나뿐인 분류 4개: 세력, 마법 공예·항행, 장소, 사물·개념. 분류 체계 변경은 제안만 한다.
+분류 16개: 대국 기록 10, 인물 8, 탐사대 7, 롤플레잉 7, 운영 원칙 6, 소설 4, 시작하기 3, 개요 3, 마법 3, 사건 3, 천체 3, 안내 2, 사물·개념 2, 세력 1, 마법 공예·항행 1, 장소 1
+문서가 하나뿐인 분류 3개: 세력, 마법 공예·항행, 장소. 분류 체계 변경은 제안만 한다.

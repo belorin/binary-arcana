@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 63,
+  "document_count": 64,
   "documents": [
     {
       "id": "welcome",
@@ -61,11 +61,11 @@
         "개척",
         "세계 안내"
       ],
-      "summary": "T0에서 약 삼백 해 뒤, 닫힘의 세기를 지나 행성들이 나눔 사이의 정기 항로로 다시 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 지난 삼백 해와 남은 것, 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지.",
+      "summary": "T0에서 약 삼백 해 뒤, 닫힘의 세기를 지나 행성들이 나눔 사이의 정기 항로로 다시 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 지난 삼백 해와 남은 것, 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지. 사람을 노리는 존재와 시대·개체별 변이를 안내한다.",
       "review_state": "unassessed",
       "review_label": "임시 정본 · 쉬운 말 안내",
       "last_updated_on": "2026-11-05",
-      "last_enriched_on": "2026-11-04",
+      "last_enriched_on": "2026-11-05",
       "related_ids": [
         "welcome",
         "rulebook",
@@ -79,7 +79,8 @@
         "ships-and-gear",
         "route-era-life",
         "conceptual-relations",
-        "archmage-maren"
+        "archmage-maren",
+        "hostile-beings"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-routes-era.md",
@@ -106,7 +107,7 @@
       "review_state": "unassessed",
       "review_label": "룰북",
       "last_updated_on": "2026-11-05",
-      "last_enriched_on": "2026-11-04",
+      "last_enriched_on": "2026-11-05",
       "related_ids": [
         "welcome",
         "open-routes-era",
@@ -117,7 +118,8 @@
         "ships-and-gear",
         "route-era-life",
         "mission-seeds",
-        "conceptual-relations"
+        "conceptual-relations",
+        "hostile-beings"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rulebook.md",
@@ -1890,11 +1892,11 @@
         "적응",
         "지식"
       ],
-      "summary": "장기간 지속되는 자연적·마법적 관계도 변할 수 있는 우주에서, 마법적 생활 안정과 지성·비지성 생명의 적응이 공존한다는 배경 설정. 이야기의 단일한 중심 테제는 아니다.",
+      "summary": "장기간 지속되는 자연적·마법적 관계도 변할 수 있는 우주에서, 마법적 생활 안정과 지성·비지성 생명의 적응이 공존한다는 배경 설정. 이야기의 단일한 중심 테제는 아니다. 적대적 존재의 변종·개체 변화와 마법적 요소의 비일률성을 포함한다.",
       "review_state": "unassessed",
       "review_label": "정본 · 배경 조건 (작동 방식 미정)",
-      "last_updated_on": "2026-11-03",
-      "last_enriched_on": "2026-11-03",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
       "related_ids": [
         "start-here",
         "magic-as-practice",
@@ -1902,7 +1904,8 @@
         "causal-roleplay",
         "knowledge-horizons",
         "magic-senses",
-        "reshaping"
+        "reshaping",
+        "hostile-beings"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/variable-rules-and-life.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/variable-rules-and-life.md",
@@ -2182,6 +2185,61 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-01.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/soel-session-01/",
       "app_url": "https://belorin.github.io/binary-arcana/#soel-session-01"
+    },
+    {
+      "id": "hostile-beings",
+      "title": "사람의 불빛을 따라오는 것들 — 적대적 존재들",
+      "aliases": [
+        "괴물 도감",
+        "위해체",
+        "적대적 행위자",
+        "되밟이",
+        "손등벌레",
+        "빈가죽",
+        "잠빌림",
+        "집삼킴",
+        "묵은파수",
+        "빈당번",
+        "닻먹이",
+        "숨거둠",
+        "빌린입",
+        "기르는 자들",
+        "고요의 정원사들"
+      ],
+      "category": "사물·개념",
+      "tags": [
+        "적대적 존재",
+        "위해체",
+        "괴물",
+        "변종",
+        "개체 변이",
+        "개변",
+        "마법",
+        "탐사대"
+      ],
+      "summary": "틈살이 시대부터 항로력 212년까지의 적대적 존재 열두 종류. 포식자·기생체·살아 있는 장소·침입자·사육 집단·절멸 세력의 징후와 대응, 시대와 개변에 따른 변종·개체 변화 및 마법적 요소를 다룬다.",
+      "review_state": "unassessed",
+      "review_label": "정본",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
+      "related_ids": [
+        "open-routes-era",
+        "variable-rules-and-life",
+        "rulebook",
+        "seven-demon-lords",
+        "demon-epoch-chronicle",
+        "reshaping",
+        "magic-as-practice",
+        "magic-senses",
+        "conceptual-relations",
+        "knowledge-horizons",
+        "causal-roleplay",
+        "first-gate"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/hostile-beings.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/hostile-beings.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/hostile-beings/",
+      "app_url": "https://belorin.github.io/binary-arcana/#hostile-beings"
     }
   ]
 }
