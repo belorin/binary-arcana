@@ -155,6 +155,55 @@
       "type": "introduces",
       "evidence_section": "12. 선택 확장 — 적대적 존재와 변이",
       "reason": "선택 확장 도감과 공정한 변이 운영 원칙을 안내한다."
+    },
+    {
+      "from": "start-here",
+      "to": "regional-life",
+      "type": "introduces",
+      "evidence_section": "넓은 세계와 얽힌 행위자들",
+      "reason": "세계 전제의 다양성과 복잡한 관계를 지역 생명 기록으로 연결한다."
+    },
+    {
+      "from": "binary-system",
+      "to": "regional-life",
+      "type": "introduces",
+      "evidence_section": "행성은 하나의 그림이 아니다",
+      "reason": "행성의 국소 관찰 원칙을 생물과 행위자의 기록에 연결한다."
+    },
+    {
+      "from": "regional-life",
+      "to": "variable-rules-and-life",
+      "type": "elaborates",
+      "evidence_section": "옛 여울에서 항로력 212년까지",
+      "reason": "같은 호안의 생물·시설·공동체 변화와 기록의 단절을 구체적으로 설명한다."
+    },
+    {
+      "from": "regional-life",
+      "to": "space-codes",
+      "type": "elaborates",
+      "evidence_section": "여섯 관찰 범위",
+      "reason": "기존 지역 코드 안에서 생명 관찰의 국소 범위와 시기를 지정한다."
+    },
+    {
+      "from": "regional-threats",
+      "to": "regional-life",
+      "type": "elaborates",
+      "evidence_section": "지역의 관계가 바뀔 때 — 진행자용 사례",
+      "reason": "기본종·시설·집단의 관계 변화가 위협과 접촉에 미치는 인과를 예시한다."
+    },
+    {
+      "from": "hostile-beings",
+      "to": "regional-threats",
+      "type": "introduces",
+      "evidence_section": "이 목록이 세계를 채우지는 않는다",
+      "reason": "열두 위해체 밖의 지역별 추가 사례로 안내한다."
+    },
+    {
+      "from": "worldbuilding-guide",
+      "to": "regional-life",
+      "type": "introduces",
+      "evidence_section": "지역의 생명과 행위자를 추가할 때",
+      "reason": "향후 집필에서 기본종의 지역성과 역사, 행위자 얽힘을 유지하도록 안내한다."
     }
   ]
 }
