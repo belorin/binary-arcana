@@ -2488,7 +2488,8 @@
         "arc-quiet-harvest",
         "route-era-outside-pressures",
         "route-era-seven-fractures",
-        "route-era-bright-turns"
+        "route-era-bright-turns",
+        "route-era-compound-scenarios"
       ],
       "aliases": [],
       "review_state": "unassessed",
@@ -2672,7 +2673,8 @@
         "outside-returning-stone",
         "causal-roleplay",
         "magical-distance-and-passage",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "route-era-compound-scenarios"
       ],
       "aliases": [],
       "review_state": "unassessed",
@@ -2860,7 +2862,8 @@
         "fracture-hospitality",
         "fracture-dream",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "route-era-compound-scenarios"
       ],
       "aliases": [],
       "review_state": "unassessed",
@@ -3099,7 +3102,8 @@
         "bright-many-neighbors",
         "bright-living-harvest",
         "exceptional-generations",
-        "magic-as-practice"
+        "magic-as-practice",
+        "route-era-compound-scenarios"
       ],
       "aliases": [],
       "review_state": "unassessed",
@@ -3280,6 +3284,47 @@
         "variable-rules-and-life",
         "magic-as-practice",
         "arc-quiet-harvest"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/route-era-compound-scenarios.md",
+      "publish": true,
+      "order": 83,
+      "id": "route-era-compound-scenarios",
+      "title": "두 사건이 만나는 자리 — 항로 시대 복합 시나리오 일곱 가지",
+      "category": "롤플레잉",
+      "status": "복합 시나리오 샘플 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "장기 동인들의 악재+호재 네 조합과 악재+악재 세 조합에 대한 진행자용 대·소세션 발생 예시.",
+      "tags": [
+        "장기 동인",
+        "복합 시나리오",
+        "대세션",
+        "소세션",
+        "진행자 전용"
+      ],
+      "source": "사용자의 장기 동인 연결 샘플 시나리오 요청",
+      "related": [
+        "route-era-long-arcs",
+        "route-era-outside-pressures",
+        "route-era-seven-fractures",
+        "route-era-bright-turns",
+        "arc-empty-shifts",
+        "bright-craft-revolution",
+        "arc-drifting-routes",
+        "bright-open-knowledge",
+        "fracture-shedding",
+        "bright-many-neighbors",
+        "outside-black-ice",
+        "bright-maren",
+        "arc-seven-gates",
+        "outside-nine-sails",
+        "outside-no-return-gate",
+        "fracture-hospitality",
+        "outside-walking-sea"
       ],
       "aliases": [],
       "review_state": "unassessed",

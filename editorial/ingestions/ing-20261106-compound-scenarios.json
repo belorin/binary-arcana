@@ -1,0 +1,44 @@
+{
+  "id": "ing-20261106-compound-scenarios",
+  "processed_on": "2026-11-06",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "example",
+      "title": "악재와 호재가 만나는 네 복합 시나리오",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "route-era-compound-scenarios",
+          "section": "진행자용 — 인물들은 모름"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "example",
+      "title": "악재 둘이 만나는 세 복합 시나리오",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "route-era-compound-scenarios",
+          "section": "진행자용 — 인물들은 모름"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "concept",
+      "title": "복합 사건에서 대세션과 소세션의 독립적 파생",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "route-era-compound-scenarios",
+          "section": "샘플에서 실제 세션을 열기 전"
+        }
+      ]
+    }
+  ]
+}
