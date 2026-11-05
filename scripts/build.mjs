@@ -30,4 +30,5 @@ if (check) {
   run("--check", "calendar.js");
   run("scripts/test-viewer.mjs");
   run("scripts/test-calendar.mjs");
+  run("scripts/test-roll.mjs");
 }
