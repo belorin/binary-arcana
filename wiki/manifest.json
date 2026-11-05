@@ -30,7 +30,8 @@
         "route-era-life",
         "mission-seeds",
         "hosumun-eleven-days",
-        "first-gate"
+        "first-gate",
+        "mission-salt-plain"
       ],
       "aliases": [
         "입구",
@@ -112,7 +113,8 @@
         "route-era-life",
         "mission-seeds",
         "conceptual-relations",
-        "hostile-beings"
+        "hostile-beings",
+        "mission-salt-plain"
       ],
       "aliases": [
         "룰북",
@@ -217,7 +219,8 @@
         "route-era-life",
         "ships-and-gear",
         "conceptual-relations",
-        "soel-session-01"
+        "soel-session-01",
+        "mission-salt-plain"
       ],
       "aliases": [
         "단편 임무",
@@ -2134,7 +2137,7 @@
       "category": "탐사대",
       "status": "사용 중",
       "updated": "2026-11-05",
-      "summary": "물새호 탐사대의 기록관 소엘. 매듭 읽기 책과의 사이가 깊음이고, 첫 의뢰 뒤의 저장 블록을 담았다.",
+      "summary": "물새호 탐사대의 기록관 소엘. 매듭 읽기 책과의 사이가 깊음이고, 돌아온 별의 옛 매듭을 처음 읽었다. 외형과 둘째 의뢰 뒤의 저장 블록을 담았다.",
       "tags": [
         "소엘",
         "시트",
@@ -2146,7 +2149,9 @@
       "related": [
         "rulebook",
         "soel-session-01",
-        "mission-seeds"
+        "mission-seeds",
+        "soel-session-02",
+        "mission-salt-plain"
       ],
       "aliases": [
         "소엘",
@@ -2331,6 +2336,73 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": "2026-11-05"
+    },
+    {
+      "path": "wiki/mission-salt-plain.md",
+      "publish": true,
+      "order": 3,
+      "id": "mission-salt-plain",
+      "title": "방금 떠난 야영지 — 소금 평원의 기록",
+      "category": "탐사대",
+      "status": "룰북용 단편 임무 · 진행자 전용",
+      "updated": "2026-11-05",
+      "summary": "돌아온 별 남쪽 소금 평원에 스물몇 해 전 조사대의 야영지가 지금 막 나타났다. 머문 것을 소금에 새기고 늦게 읽어 주는 평원, 시간의 고리, 소금을 파는 자유 길잡이, 한가운데의 오래된 매듭.",
+      "tags": [
+        "임무",
+        "단편",
+        "돌아온 별",
+        "소금 평원",
+        "늦게 옴",
+        "머묾"
+      ],
+      "source": "사용자가 탐사대 룰북 세션에서 소엘을 맡고 Claude가 진행하며 만든 임무",
+      "related": [
+        "rulebook",
+        "mission-seeds",
+        "soel-session-02",
+        "soel-sheet",
+        "ships-and-gear"
+      ],
+      "aliases": [
+        "방금 떠난 야영지",
+        "소금 평원",
+        "기록 평원",
+        "백로대"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/soel-session-02.md",
+      "publish": true,
+      "order": 54,
+      "id": "soel-session-02",
+      "title": "소엘의 둘째 의뢰 — 방금 떠난 야영지",
+      "category": "탐사대",
+      "status": "진행함",
+      "updated": "2026-11-05",
+      "summary": "소엘이 돌아온 별 남쪽 소금 평원에서 머문 것을 새기고 늦게 읽어 주는 평원의 규칙을 알아내고, 한가운데의 오래된 늦게 옴 매듭과 백로대의 묻어 둠 매듭을 읽은 둘째 의뢰.",
+      "tags": [
+        "소엘",
+        "세션",
+        "돌아온 별",
+        "소금 평원",
+        "늦게 옴",
+        "오미르"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)",
+      "related": [
+        "soel-sheet",
+        "soel-session-01",
+        "mission-salt-plain",
+        "rulebook"
+      ],
+      "aliases": [
+        "방금 떠난 야영지 세션",
+        "소엘 둘째 의뢰"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }

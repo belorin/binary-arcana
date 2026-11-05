@@ -102,6 +102,11 @@
             "desc": "한 세션이면 끝나는 의뢰들. 이름을 바꾼 배, 스무 해를 기다린 사람, 겹침날의 약속."
           },
           {
+            "id": "mission-salt-plain",
+            "kicker": "임무 · 단편",
+            "desc": "돌아온 별 남쪽 소금 평원. 아무도 없는 야영지의 재가 아직 따뜻하고, 소리가 한참 뒤에야 들린다."
+          },
+          {
             "id": "ships-and-gear",
             "kicker": "사전",
             "desc": "건넘선의 부분과 성깔, 탈것, 장비와 아이템."
@@ -330,7 +335,7 @@
     {
       "file": "play.md",
       "title": "Binary Arcana 놀이 묶음 — 전부",
-      "lead": "탐사대 룰북으로 롤플레잉을 진행하는 데 필요한 모든 것. 룰북, 세계 안내, 사전 둘, 임무 셋. 임무에는 진상이 적혀 있으니 플레이어는 읽지 않고 AI에게 넘긴다.",
+      "lead": "탐사대 룰북으로 롤플레잉을 진행하는 데 필요한 모든 것. 룰북, 세계 안내, 사전 둘, 임무 넷. 임무에는 진상이 적혀 있으니 플레이어는 읽지 않고 AI에게 넘긴다.",
       "docs": [
         "rulebook",
         "open-routes-era",
@@ -338,7 +343,8 @@
         "route-era-life",
         "mission-lost-freighter",
         "mission-breathing-forest",
-        "mission-seeds"
+        "mission-seeds",
+        "mission-salt-plain"
       ]
     },
     {

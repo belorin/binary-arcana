@@ -60,7 +60,7 @@ PLAY.md의 「탐사대 룰북 세션」 절을 따르고, 주사위는 scripts/
 
 | 묶음 | 들어 있는 것 | 크기 | 주소 |
 | --- | --- | --- | --- |
-| 전부 | 룰북, 세계 안내, 사전 둘, 임무 셋 | 약 130KB | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/ai/play.md) · `https://belorin.github.io/binary-arcana/ai/play.md` |
+| 전부 | 룰북, 세계 안내, 사전 둘, 임무 넷 | 약 140KB | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/ai/play.md) · `https://belorin.github.io/binary-arcana/ai/play.md` |
 | 기본 | 룰북, 세계 안내, 사전 둘 | 약 80KB | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/ai/play-core.md) · `https://belorin.github.io/binary-arcana/ai/play-core.md` |
 | 룰북만 | 룰북 하나 | 약 35KB | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md) |
 
@@ -84,6 +84,7 @@ AI가 "열 수 없다"고 하거나 읽지 않고 지어내는 것 같으면, �
 | 바람 끝의 손님들 | 중형 임무. 사라진 화물선과 건너별 얼음땅의 비밀 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-lost-freighter.md) |
 | 숨 쉬는 숲 | 중형 임무. 샛별 균류 숲 깊은 곳의 유적과 숨 쉬는 사람들 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-breathing-forest.md) |
 | 짧은 의뢰 여섯 | 한 세션에 끝나는 의뢰 여섯. 이름을 바꾼 배, 스무 해를 기다린 사람, 겹침날의 약속 등 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-seeds.md) |
+| 방금 떠난 야영지 | 한 세션짜리 임무. 돌아온 별 남쪽 소금 평원, 머문 것을 새기고 늦게 읽어 주는 땅 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-salt-plain.md) |
 | 건넘선과 장비 | 배의 부분과 성깔, 탈것, 자금, 장비와 아이템 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/ships-and-gear.md) |
 | 항로 시대의 생활 | 항구, 직업, 음식, 말버릇, 미신, 축제, 지역 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md) |
 
