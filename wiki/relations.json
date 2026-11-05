@@ -111,7 +111,7 @@
       "from": "welcome",
       "to": "mission-lost-freighter",
       "type": "introduces",
-      "evidence_section": "더 넣을 수 있는 파일",
+      "evidence_section": "따로 넣을 수 있는 파일",
       "reason": "룰북과 함께 넣을 임무 파일을 안내한다."
     },
     {

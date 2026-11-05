@@ -25,10 +25,9 @@
 
 ### 시작하는 법
 
-1. **룰북 파일을 받는다.** [룰북 원문 열기](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md)를 누르면 룰북 글이 그대로 나온다. 전체를 복사하거나, 파일로 저장한다(주소: `raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md`).
-2. **AI를 연다.** Gemini(gemini.google.com), ChatGPT, Claude 무엇이든 된다.
-3. **룰북을 넣는다.** 파일을 첨부하거나, 복사한 글을 그대로 붙여 넣는다.
-4. **첫 메시지를 보낸다.** 예를 들면 이렇게.
+1. **AI를 연다.** Gemini(gemini.google.com), ChatGPT, Claude 무엇이든 된다.
+2. **자료를 넣는다.** 아래 "AI에게 자료를 주는 세 가지 방법" 가운데 하나를 쓴다. 가장 확실한 것은 파일로 넣기다.
+3. **첫 메시지를 보낸다.** 예를 들면 이렇게.
 
 ```
 이 룰북으로 진행자가 되어 줘. 준비된 대원으로 바로 시작하고 싶어.
@@ -36,7 +35,34 @@
 첫 임무 "돌아온 별, 조용한 우물"로 시작하자.
 ```
 
-### 더 넣을 수 있는 파일
+### AI에게 자료를 주는 세 가지 방법
+
+| 방법 | 어떻게 | 알아 둘 것 |
+| --- | --- | --- |
+| **파일로 넣기** (가장 확실) | 아래 원문 주소를 열어 글 전체를 복사해 붙여 넣거나, 파일로 저장해 첨부한다 | 어떤 AI에서도 된다 |
+| **주소 하나 주기** | 웹을 열 수 있는 AI라면 첫 메시지에 묶음 주소를 그대로 적는다 | AI는 대개 **사용자가 메시지에 직접 쓴 주소만** 연다. 위키 첫 화면 주소만 주면 그 안의 링크를 따라가지 못하는 AI가 많다. 그래서 필요한 것을 모두 담은 묶음 주소를 바로 준다 |
+| **저장소 통째로 받기** | Claude Code처럼 명령을 실행할 수 있는 AI에게 `git clone https://github.com/belorin/binary-arcana`을 시킨다 | 위키 전체를 읽을 수 있다 |
+
+**놀이 묶음.** 위키 원고에서 자동으로 만드는 한 파일짜리 묶음이다. 원고가 바뀌면 묶음도 바뀐다.
+
+| 묶음 | 들어 있는 것 | 크기 | 주소 |
+| --- | --- | --- | --- |
+| 전부 | 룰북, 세계 안내, 사전 둘, 임무 셋 | 약 130KB | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/ai/play.md) · `https://belorin.github.io/binary-arcana/ai/play.md` |
+| 기본 | 룰북, 세계 안내, 사전 둘 | 약 80KB | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/ai/play-core.md) · `https://belorin.github.io/binary-arcana/ai/play-core.md` |
+| 룰북만 | 룰북 하나 | 약 35KB | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md) |
+
+주소를 줄 때 첫 메시지 예시:
+
+```
+https://belorin.github.io/binary-arcana/ai/play.md
+이 파일을 읽고 진행자가 되어 줘. 준비된 대원으로 바로 시작할게.
+```
+
+AI가 "열 수 없다"고 하거나 읽지 않고 지어내는 것 같으면, 파일로 넣기로 바꾼다. 긴 글을 끝까지 못 읽는 것 같으면 "기본" 묶음이나 룰북만 넣는다.
+
+### 따로 넣을 수 있는 파일
+
+묶음 대신 필요한 것만 골라 넣어도 된다.
 
 룰북만으로도 놀 수 있다. 아래 파일을 **룰북과 함께** 넣으면 이야기가 더 깊어진다. 임무 파일에는 진상이 적혀 있으니 플레이어로 놀 사람은 열어 읽지 말고 그대로 AI에게 넣는다.
 

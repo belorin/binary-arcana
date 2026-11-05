@@ -58,7 +58,7 @@ function staticArticle(note) {
 }
 
 const cssVersion = version("style.css", "app.js", "calendar.js");
-function page({ title, description, canonical, body, jsonLd, type = "article" }) {
+function page({ title, description, canonical, body, jsonLd, type = "article", markdown }) {
   return `<!doctype html>
 <html lang="${esc(c.lang)}">
 <head>
@@ -67,7 +67,7 @@ function page({ title, description, canonical, body, jsonLd, type = "article" })
   <title>${esc(title)}</title>
   <meta name="description" content="${esc(description)}">
   <link rel="canonical" href="${canonical}">
-  <meta property="og:type" content="${type}">
+${markdown ? `  <link rel="alternate" type="text/markdown" href="${markdown}">\n` : ""}  <meta property="og:type" content="${type}">
   <meta property="og:site_name" content="${esc(c.name)}">
   <meta property="og:title" content="${esc(title)}">
   <meta property="og:description" content="${esc(description)}">
@@ -97,6 +97,7 @@ const write = (rel, text) => {
 for (const note of notes) {
   const html = page({
     title: `${note.title} · ${c.name}`, description: note.summary, canonical: pageUrl(note.id), body: staticArticle(note),
+    markdown: `${c.rawUrl}wiki/${note.id}.md`,
     jsonLd: {
       "@context": "https://schema.org", "@type": "Article", headline: note.title, description: note.summary,
       dateModified: note.updated, inLanguage: c.lang, url: pageUrl(note.id),
@@ -105,6 +106,7 @@ for (const note of notes) {
     },
   });
   assert.ok(html.includes(`<h1>${esc(note.title)}</h1>`), note.id + ": title missing");
+  assert.ok(html.includes(`rel="alternate" type="text/markdown" href="${c.rawUrl}wiki/${note.id}.md"`), note.id + ": markdown alternate missing");
   assert.ok(!/data-(jump|copy|random)/.test(html), note.id + ": interactive control left in static page");
   assert.ok(![...html.matchAll(/href="#([a-z0-9-]+)"/g)].some(m => ids.has(m[1])), note.id + ": hash link to a note left");
   write(`notes/${note.id}/index.html`, html);

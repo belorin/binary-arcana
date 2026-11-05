@@ -29,7 +29,7 @@ Markdown 원고를 정본으로 두고, GitHub Actions가 사이트 데이터·A
 | `editorial/map/` | **생성물.** 편집 지도: 전체 지도, 문서 카드(절 목차·줄 범위·해시), 지식 표제 역색인 |
 | `editorial/maintenance/queue.md` | **생성물.** 정비 대기열: 고립·한쪽 연결·비슷한 쌍·보류·열린 제안 신호 |
 | `notes.json`, `index.html`, `robots.txt` | **생성물.** 사이트 데이터와 껍데기 |
-| `AI_INDEX.md`, `ai/*`, `llms.txt` | **생성물.** 외부 AI용 공개 색인 |
+| `AI_INDEX.md`, `ai/*`, `llms.txt` | **생성물.** 외부 AI용 공개 색인과 한 파일 묶음(`ai/<file>`, `bundles` 설정) |
 | `notes/`, `sitemap.xml` | 배포 때만 만드는 정적 페이지(커밋하지 않음) |
 
 생성물을 고치지 말고 정본을 고친 뒤 `node scripts/build.mjs`를 실행한다.
@@ -74,6 +74,7 @@ node scripts/validate-editorial.mjs --report           # 장부 검사와 보류
 | `home`, `about` | 첫 화면과 소개 화면. `home.hero`는 표지(`kicker`, `title`, `lead`, `actions: [{href, label}]`), `home.sections`는 차례대로 그릴 칸 목록이다: `cards`(`items: [{id, kicker, label, desc}]`, `style: "compact"`), `topics`(주제 타일, 문서 없는 주제는 점선), `random`, `recent`(`limit`). 없는 문서를 가리키는 카드와 버튼은 자동으로 빠진다. `sections`가 없으면 기본 화면 |
 | `sidebarLinks` | 왼쪽 탐색에 더할 링크 `{href, label}` |
 | `features.calendar` | `true`면 `/#calendar` 달력을 켠다 |
+| `bundles` | 한 파일 묶음 목록. `[{"file":"play.md","title":"…","lead":"…","docs":["문서-id", …]}]`. 빌드가 `ai/<file>`에 문서들을 순서대로 이어 붙이고, 묶음 안의 링크는 「제목」(이 파일 안)으로, 밖의 링크는 절대 주소로 바꾼다. 링크를 따라가지 못하는 AI 도구에 주소 하나로 필요한 문서를 다 주기 위한 것이다. `llms.txt` 맨 위와 첫 화면의 AI 안내에도 나온다 |
 | `features.comments` | giscus 댓글. `{"repoId", "category", "categoryId"}` (giscus.app에서 확인) |
 | `types` | 새 문서 유형 `{label, template, category, status}` |
 | `verification` | 검색엔진 소유 확인 `{google, naver}` |

@@ -325,5 +325,32 @@
     }
   },
   "verification": {},
-  "preset": "worldbuilding"
+  "preset": "worldbuilding",
+  "bundles": [
+    {
+      "file": "play.md",
+      "title": "Binary Arcana 놀이 묶음 — 전부",
+      "lead": "탐사대 룰북으로 롤플레잉을 진행하는 데 필요한 모든 것. 룰북, 세계 안내, 사전 둘, 임무 셋. 임무에는 진상이 적혀 있으니 플레이어는 읽지 않고 AI에게 넘긴다.",
+      "docs": [
+        "rulebook",
+        "open-routes-era",
+        "ships-and-gear",
+        "route-era-life",
+        "mission-lost-freighter",
+        "mission-breathing-forest",
+        "mission-seeds"
+      ]
+    },
+    {
+      "file": "play-core.md",
+      "title": "Binary Arcana 놀이 묶음 — 기본",
+      "lead": "룰북, 세계 안내, 사전 둘. 임무 파일을 빼서 가볍다. 긴 글을 다 읽지 못하는 도구에 쓴다. 룰북 안의 첫 임무와 임무 만드는 법으로 진행할 수 있다.",
+      "docs": [
+        "rulebook",
+        "open-routes-era",
+        "ships-and-gear",
+        "route-era-life"
+      ]
+    }
+  ]
 }

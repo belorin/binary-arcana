@@ -2,7 +2,9 @@
 /**
  * Generate the public AI navigation files from wiki/manifest.json and
  * wiki/relations.json (published documents only, no network or LLM calls):
- *   AI_INDEX.md, ai/index.json, ai/relations.json, llms.txt
+ *   AI_INDEX.md, ai/index.json, ai/relations.json, llms.txt, and the one-file
+ *   bundles listed under "bundles" in site.config.json (ai/<file>), so an AI whose
+ *   tools cannot follow links can still read everything a task needs from one address.
  *
  *   node scripts/build-ai-index.mjs [--check]
  */
@@ -67,7 +69,43 @@ const cats = [...new Set(docs.map(d => d.category))].sort((a, b) =>
 const md = ["# AI 탐색 색인", "",
   "> Markdown이 지식의 정본이다. 이 문서는 탐색용이며 본문을 대체하지 않는다. 공개 문서만 나열한다.", "",
   "- [기계용 색인](ai/index.json)", "- [관계](ai/relations.json)", "- [llms.txt](llms.txt)", ""];
+// One-file bundles: the listed documents in order, with links between them
+// rewritten as in-file references and other links made absolute.
+const byId = new Map(docs.map(d => [d.id, d]));
+const bundles = (c.bundles ?? []).map(b => {
+  if (!/^[a-z0-9-]+\.md$/.test(b.file ?? "")) fail("site.config.json bundles: file must be <name>.md, got " + b.file);
+  if (!Array.isArray(b.docs) || !b.docs.length) fail("site.config.json bundles: " + b.file + " needs docs");
+  for (const id of b.docs) if (!byId.has(id)) fail("site.config.json bundles: " + b.file + " lists unpublished or unknown " + id);
+  return b;
+});
+function bundleText(b) {
+  const inside = new Set(b.docs);
+  const list = b.docs.map(id => byId.get(id));
+  const out = ["# " + b.title, "", "> " + b.lead, "",
+    "## 이 파일을 받은 AI에게", "",
+    "- 이 파일 하나에 필요한 문서가 모두 들어 있다. 다른 주소를 열지 않아도 된다.",
+    "- 문서 사이의 링크는 「제목」(이 파일 안)으로 바꿔 적었다. 이 파일 밖의 문서는 주소를 남겼지만, 열지 않아도 된다.",
+    "- 문서는 아래 순서로 들어 있다. 각 문서는 `# 제목`으로 시작한다.", ""];
+  for (const d of list) out.push("1. " + d.title + " (" + d.id + ", 수정 " + d.updated + ")");
+  out.push("", "이 파일은 " + c.url + " 의 원고에서 자동으로 만들었다. 원고가 바뀌면 이 파일도 바뀐다.", "");
+  for (const d of list) {
+    const text = fs.readFileSync(path.join(root, d.path), "utf8")
+      .replace(/!\[([^\]]*)\]\(\.\/images\/([^)\s]+)\)/g, (_m, alt, file) => "![" + alt + "](" + c.url + "wiki/images/" + file + ")")
+      .replace(/\[([^\]]+)\]\(\.\/([a-z0-9-]+)\.md\)/g, (_m, text, id) => {
+        const target = byId.get(id);
+        if (!target) return text;
+        if (!inside.has(id)) return "[" + text + "](" + c.url + "notes/" + id + "/)";
+        return target.title.includes(text) ? "「" + text + "」(이 파일 안)" : text + "(이 파일 안 「" + target.title + "」)";
+      });
+    out.push("---", "", "<!-- 문서: " + d.id + " -->", "", text.trim(), "");
+  }
+  return out.join("\n").trimEnd() + "\n";
+}
+
 const ll = ["# " + c.name, "", "> " + c.description, "",
+  ...(bundles.length ? ["## 한 파일로 읽기", "",
+    "링크를 따라 문서를 하나씩 열 수 없는 도구라도, 아래 주소 하나만 열면 그 일에 필요한 문서가 다 들어 있다.", "",
+    ...bundles.map(b => "- [" + b.title + "](" + c.url + "ai/" + b.file + "): " + b.lead), ""] : []),
   "## 이 위키를 읽는 AI에게", "",
   "1. 아래 목록의 제목과 설명에서 질문과 관련된 문서를 고른다.",
   "2. 고른 문서의 링크(본문이 들어 있는 문서 페이지)를 실제로 열어 읽는다. 한 줄 설명만으로 내용을 단정하지 않는다.",
@@ -93,6 +131,7 @@ const outputs = {
   "ai/relations.json": JSON.stringify(relations, null, 2) + "\n",
   "AI_INDEX.md": md.join("\n").trimEnd() + "\n",
   "llms.txt": ll.join("\n").trimEnd() + "\n",
+  ...Object.fromEntries(bundles.map(b => ["ai/" + b.file, bundleText(b)])),
 };
 let changes = 0;
 for (const [file, body] of Object.entries(outputs)) {
@@ -102,4 +141,4 @@ for (const [file, body] of Object.entries(outputs)) {
   fs.mkdirSync(path.dirname(target), { recursive: true });
   fs.writeFileSync(target, body); changes++;
 }
-console.log("AI index: " + docs.length + " public articles, " + edges.length + " relations; " + changes + " files updated");
+console.log("AI index: " + docs.length + " public articles, " + edges.length + " relations, " + bundles.length + " bundles; " + changes + " files updated");
