@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 68,
+  "document_count": 69,
   "documents": [
     {
       "id": "welcome",
@@ -273,7 +273,8 @@
         "route-era-life",
         "open-routes-era",
         "mission-breathing-forest",
-        "demon-epoch-chronicle"
+        "demon-epoch-chronicle",
+        "soel-session-03"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-lost-freighter.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mission-lost-freighter.md",
@@ -2191,17 +2192,19 @@
         "탐사대",
         "저장"
       ],
-      "summary": "물새호 탐사대의 기록관 소엘. 매듭 읽기 책과의 사이가 깊음이고, 돌아온 별의 옛 매듭을 처음 읽었다. 외형과 둘째 의뢰 뒤의 저장 블록을 담았다.",
+      "summary": "물새호 탐사대의 기록관 소엘. 매듭 읽기 책(깊음), 학회 서고, 관념 맹약과 사이가 있다. 외형과 셋째 의뢰 뒤의 저장 블록을 담았다.",
       "review_state": "unassessed",
       "review_label": "사용 중",
-      "last_updated_on": "2026-11-05",
+      "last_updated_on": "2026-11-06",
       "last_enriched_on": null,
       "related_ids": [
         "rulebook",
         "soel-session-01",
         "mission-seeds",
         "soel-session-02",
-        "mission-salt-plain"
+        "mission-salt-plain",
+        "soel-session-03",
+        "mission-lost-freighter"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-sheet.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-sheet.md",
@@ -2416,6 +2419,39 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-02.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/soel-session-02/",
       "app_url": "https://belorin.github.io/binary-arcana/#soel-session-02"
+    },
+    {
+      "id": "soel-session-03",
+      "title": "소엘의 셋째 의뢰 — 바람 끝의 손님들",
+      "aliases": [
+        "바람 끝의 손님들 세션",
+        "소엘 셋째 의뢰"
+      ],
+      "category": "탐사대",
+      "tags": [
+        "소엘",
+        "세션",
+        "문그늘",
+        "맹약",
+        "은실호",
+        "바람고원",
+        "남쪽 행렬"
+      ],
+      "summary": "소엘이 고리운송과 맹약소 계약을 맺고 문그늘 아래 바람 끝에 들어가, 맹약의 실로 그늘을 빠져나오고 은실호 선원과 남쪽 행렬의 이든을 데리고 나온 셋째 의뢰. 앞에 그늘역 작은 겹침 막간이 있다.",
+      "review_state": "unassessed",
+      "review_label": "진행함",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "soel-sheet",
+        "soel-session-02",
+        "mission-lost-freighter",
+        "rulebook"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-03.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-03.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/soel-session-03/",
+      "app_url": "https://belorin.github.io/binary-arcana/#soel-session-03"
     }
   ]
 }

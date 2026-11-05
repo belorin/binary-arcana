@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 528,
+  "edge_count": 535,
   "edges": [
     {
       "from": "welcome",
@@ -478,6 +478,12 @@
     {
       "from": "mission-lost-freighter",
       "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "soel-session-03",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2768,6 +2774,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "soel-sheet",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-sheet",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "soel-session-01",
       "to": "soel-sheet",
       "type": "related_to",
@@ -3003,6 +3021,30 @@
     },
     {
       "from": "soel-session-02",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-03",
+      "to": "soel-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-03",
+      "to": "soel-session-02",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-03",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-03",
       "to": "rulebook",
       "type": "related_to",
       "basis": "manifest.related"

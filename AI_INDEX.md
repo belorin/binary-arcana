@@ -38,8 +38,8 @@
 - **[항로 시대의 생활](wiki/route-era-life.md)** · 별칭: 항구 생활, 겹침날, 틈에나 빠져라 · 수정: 2026-11-05 · 상태: 룰북용 사전
   - 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-life/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md)
-- **[소엘 — 탐사대 기록관 시트](wiki/soel-sheet.md)** · 별칭: 소엘, 소엘 시트 · 수정: 2026-11-05 · 상태: 사용 중
-  - 물새호 탐사대의 기록관 소엘. 매듭 읽기 책과의 사이가 깊음이고, 돌아온 별의 옛 매듭을 처음 읽었다. 외형과 둘째 의뢰 뒤의 저장 블록을 담았다.
+- **[소엘 — 탐사대 기록관 시트](wiki/soel-sheet.md)** · 별칭: 소엘, 소엘 시트 · 수정: 2026-11-06 · 상태: 사용 중
+  - 물새호 탐사대의 기록관 소엘. 매듭 읽기 책(깊음), 학회 서고, 관념 맹약과 사이가 있다. 외형과 셋째 의뢰 뒤의 저장 블록을 담았다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-sheet/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-sheet.md)
 - **[소엘의 첫 의뢰 — 이름을 바꾼 배](wiki/soel-session-01.md)** · 별칭: 이름을 바꾼 배 세션, 소엘 첫 의뢰, 고리 7호 · 수정: 2026-11-05 · 상태: 진행함
   - 물새호의 기록관 소엘이 이름을 빼앗긴 화물선 늙은갈매기호의 용골 매듭을 되살리고, 옛 길잡이 리나가 짝돌로 배와 작별하게 해 새 길잡이를 받아들이게 한 첫 의뢰.
@@ -47,6 +47,9 @@
 - **[소엘의 둘째 의뢰 — 방금 떠난 야영지](wiki/soel-session-02.md)** · 별칭: 방금 떠난 야영지 세션, 소엘 둘째 의뢰 · 수정: 2026-11-05 · 상태: 진행함
   - 소엘이 돌아온 별 남쪽 소금 평원에서 머문 것을 새기고 늦게 읽어 주는 평원의 규칙을 알아내고, 한가운데의 오래된 늦게 옴 매듭과 백로대의 묻어 둠 매듭을 읽은 둘째 의뢰.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-02/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-02.md)
+- **[소엘의 셋째 의뢰 — 바람 끝의 손님들](wiki/soel-session-03.md)** · 별칭: 바람 끝의 손님들 세션, 소엘 셋째 의뢰 · 수정: 2026-11-06 · 상태: 진행함
+  - 소엘이 고리운송과 맹약소 계약을 맺고 문그늘 아래 바람 끝에 들어가, 맹약의 실로 그늘을 빠져나오고 은실호 선원과 남쪽 행렬의 이든을 데리고 나온 셋째 의뢰. 앞에 그늘역 작은 겹침 막간이 있다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-03/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-03.md)
 
 ## 개요
 

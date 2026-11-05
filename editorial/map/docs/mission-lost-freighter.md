@@ -7,7 +7,7 @@
 - 요약: 사라진 고리운송 화물선 은실호를 찾는 중형 임무. 빼돌린 바람고원의 유물, 틈의 문그늘, 그늘 아래 백 해를 산 남쪽 행렬, 쫓기는 이만 나갈 수 있는 규칙.
 - 태그: 임무, 건너별, 문그늘, 바람고원, 고리운송
 - 수정일: 2026-11-04 · 실제 증보일: 2026-11-04 · 검토: unassessed
-- 관련 문서: `rulebook`, `ships-and-gear`, `route-era-life`, `open-routes-era`, `mission-breathing-forest`, `demon-epoch-chronicle`
+- 관련 문서: `rulebook`, `ships-and-gear`, `route-era-life`, `open-routes-era`, `mission-breathing-forest`, `demon-epoch-chronicle`, `soel-session-03`
 
 ## 절 목차
 
