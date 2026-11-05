@@ -113,6 +113,20 @@
       "type": "introduces",
       "evidence_section": "더 넣을 수 있는 파일",
       "reason": "룰북과 함께 넣을 임무 파일을 안내한다."
+    },
+    {
+      "from": "mission-seeds",
+      "to": "rulebook",
+      "type": "elaborates",
+      "evidence_section": "쓰는 법",
+      "reason": "룰북과 함께 쓰는 단편 임무 모음이다."
+    },
+    {
+      "from": "welcome",
+      "to": "hosumun-eleven-days",
+      "type": "introduces",
+      "evidence_section": "첫째 문 — 세계를 읽는다",
+      "reason": "항로 시대의 일상을 보여 주는 소설로 안내한다."
     }
   ]
 }

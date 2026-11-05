@@ -1,0 +1,69 @@
+{
+  "id": "ing-20261105-route-era-extras",
+  "processed_on": "2026-11-05",
+  "coverage": "visible-complete",
+  "limit_note": "사용자가 자유 작업을 맡겨 Claude가 쓴 항로 시대 놀이 자료",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "example",
+      "title": "단편 임무 여섯과 각 임무의 숨은 사정·꼬임·이어지는 실",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mission-seeds",
+          "section": "쓰는 법"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "룰북: 관념과의 사이를 대원의 사이로 고르는 선택지와 예",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "rulebook",
+          "section": "③ 사이 두 개 정하기"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "전설 속의 무게의 대마법사와 진행자 지침",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-routes-era",
+          "section": "전설 속의 사람"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "돈(닢, 바람돈, 자금 환산), 지역별 이름 표, 항구 사건 표, 떠도는 소문 표",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "route-era-life",
+          "section": "돈"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "항로력 212년 별계 항로도와 해곁별 그늘 쪽 코드 P1-A",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "space-codes",
+          "section": "항로 시대의 자리"
+        }
+      ]
+    }
+  ]
+}

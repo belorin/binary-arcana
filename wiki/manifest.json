@@ -11,7 +11,7 @@
       "title": "처음 오셨나요",
       "category": "시작하기",
       "status": "입구",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "summary": "처음 온 사람을 위한 입구. 세계를 쉬운 말로 읽는 문, 룰북을 AI에게 넣어 롤플레잉하는 문, 깊은 설정 문서의 서고로 가는 문.",
       "tags": [
         "입구",
@@ -27,7 +27,9 @@
         "mission-lost-freighter",
         "mission-breathing-forest",
         "ships-and-gear",
-        "route-era-life"
+        "route-era-life",
+        "mission-seeds",
+        "hosumun-eleven-days"
       ],
       "aliases": [
         "입구",
@@ -45,7 +47,7 @@
       "title": "항로 시대 — 세계 안내",
       "category": "시작하기",
       "status": "임시 정본 · 쉬운 말 안내",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "summary": "T0에서 약 삼백 해 뒤, 닫힘의 세기를 지나 행성들이 나눔 사이의 정기 항로로 다시 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 지난 삼백 해와 남은 것, 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지.",
       "tags": [
         "항로 시대",
@@ -65,7 +67,9 @@
         "mission-lost-freighter",
         "mission-breathing-forest",
         "ships-and-gear",
-        "route-era-life"
+        "route-era-life",
+        "conceptual-relations",
+        "archmage-maren"
       ],
       "aliases": [
         "항로 시대",
@@ -83,7 +87,7 @@
       "title": "탐사대 룰북",
       "category": "시작하기",
       "status": "룰북",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "summary": "AI에게 통째로 주면 진행자가 되어 개척지 탐사 롤플레잉을 진행하는 한 파일짜리 룰북. 진행자 지침, 2d6 판정, 탐사대원 만들기, 마법과 값, 신탁·시계·하늘 굴림·무작위 표, 첫 임무 「돌아온 별, 조용한 우물」.",
       "tags": [
         "룰북",
@@ -101,7 +105,9 @@
         "mission-lost-freighter",
         "mission-breathing-forest",
         "ships-and-gear",
-        "route-era-life"
+        "route-era-life",
+        "mission-seeds",
+        "conceptual-relations"
       ],
       "aliases": [
         "룰북",
@@ -182,14 +188,50 @@
       "last_enriched_on": "2026-11-04"
     },
     {
-      "path": "wiki/ships-and-gear.md",
+      "path": "wiki/mission-seeds.md",
       "publish": true,
       "order": 3,
+      "id": "mission-seeds",
+      "title": "짧은 의뢰 여섯",
+      "category": "탐사대",
+      "status": "룰북용 단편 임무 · 진행자 전용",
+      "updated": "2026-11-05",
+      "summary": "한 세션에 끝나는 의뢰 여섯 개. 이름을 바꾼 배, 스무 해를 기다린 사람, 해곁별의 그늘 채굴단, 겹침날의 약속, 역서가 틀린 날, 주인을 잃은 걸음틀. 의뢰마다 숨은 사정과 꼬임과 이어지는 실이 있다.",
+      "tags": [
+        "임무",
+        "단편",
+        "관념 사이",
+        "맹약",
+        "재편"
+      ],
+      "source": "사용자가 자유 작업을 맡겨 Claude가 쓴 항로 시대 놀이 자료",
+      "related": [
+        "rulebook",
+        "mission-lost-freighter",
+        "mission-breathing-forest",
+        "route-era-life",
+        "ships-and-gear",
+        "conceptual-relations"
+      ],
+      "aliases": [
+        "단편 임무",
+        "늙은갈매기호",
+        "푸른실호",
+        "겹침날의 약속",
+        "역서가 틀린 날"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-05"
+    },
+    {
+      "path": "wiki/ships-and-gear.md",
+      "publish": true,
+      "order": 4,
       "id": "ships-and-gear",
       "title": "건넘선과 장비",
       "category": "탐사대",
       "status": "룰북용 사전",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "summary": "건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.",
       "tags": [
         "건넘선",
@@ -215,7 +257,7 @@
     {
       "path": "wiki/route-era-life.md",
       "publish": true,
-      "order": 4,
+      "order": 5,
       "id": "route-era-life",
       "title": "항로 시대의 생활",
       "category": "탐사대",
@@ -1823,7 +1865,7 @@
       "title": "공간 코드표",
       "category": "천체",
       "status": "임시 정본",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "summary": "행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 이름 붙이는 원칙. 다른 행성은 사람이 아는 곳에만 코드를 붙인다. 기존 장소의 대응과 일곱 마왕의 시대 영향권에 대한 제안.",
       "tags": [
         "코드",

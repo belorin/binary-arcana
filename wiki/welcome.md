@@ -12,6 +12,10 @@
 
 [항로 시대 — 세계 안내](./open-routes-era.md)부터 읽는다. 행성들, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕까지 쉬운 말로 한 번에 정리했다. 십 분이면 읽는다.
 
+![항로력 212년 별계 항로도](./images/route-map-212.svg)
+
+이 시대의 하루가 어떤 느낌인지 보고 싶으면 소설 [호수문의 한 물때 — 만두가 식는 동안](./hosumun-eleven-days.md)을 읽는다. 열줄이 식은 시장 모퉁이에서 만두 장수와 당번꾼과 수선공과 아이가 보내는 열하루다.
+
 ## 둘째 문 — AI와 롤플레잉을 한다
 
 [탐사대 룰북](./rulebook.md) 하나를 AI에게 주면, AI가 진행자가 되어 개척지 탐사 롤플레잉을 진행한다. 플레이어는 작은 건넘선의 탐사대원이 되어 돌아온 별로 간다. 무료 Gemini에서도 돌아가도록 만들었다.
@@ -37,6 +41,7 @@
 | --- | --- | --- |
 | 바람 끝의 손님들 | 중형 임무. 사라진 화물선과 건너별 얼음땅의 비밀 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-lost-freighter.md) |
 | 숨 쉬는 숲 | 중형 임무. 샛별 균류 숲 깊은 곳의 유적과 숨 쉬는 사람들 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-breathing-forest.md) |
+| 짧은 의뢰 여섯 | 한 세션에 끝나는 의뢰 여섯. 이름을 바꾼 배, 스무 해를 기다린 사람, 겹침날의 약속 등 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-seeds.md) |
 | 건넘선과 장비 | 배의 부분과 성깔, 탈것, 자금, 장비와 아이템 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/ships-and-gear.md) |
 | 항로 시대의 생활 | 항구, 직업, 음식, 말버릇, 미신, 축제, 지역 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md) |
 
