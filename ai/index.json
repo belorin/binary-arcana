@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 89,
+  "document_count": 96,
   "documents": [
     {
       "id": "welcome",
@@ -90,7 +90,8 @@
         "soel-session-03",
         "route-era-long-arcs",
         "route-era-outside-pressures",
-        "route-era-seven-fractures"
+        "route-era-seven-fractures",
+        "route-era-bright-turns"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-routes-era.md",
@@ -447,7 +448,7 @@
       "summary": "집단과 세대를 거치며 등장하는 드문 개인이 타자와 관계 속에서 지역·행성·세계관의 높은 역사적 층위에 영향을 미치는 방식.",
       "review_state": "unassessed",
       "review_label": "초안",
-      "last_updated_on": "2026-11-05",
+      "last_updated_on": "2026-11-06",
       "last_enriched_on": "2026-11-05",
       "related_ids": [
         "causal-roleplay",
@@ -455,7 +456,9 @@
         "start-here",
         "open-setting-questions",
         "archmage-maren",
-        "conceptual-relations"
+        "conceptual-relations",
+        "bright-hero",
+        "route-era-bright-turns"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/exceptional-generations.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/exceptional-generations.md",
@@ -550,7 +553,7 @@
       "summary": "T0 이전에 태어난 여성 대마법사 마렌(가칭). 속담의 소급 현실 개변, 무게의 거대한 물리적 위업, 구체적 존재의 사이, 시간과 맺은 후천적 관계, 어린 시절의 사고와 세계적 마찰을 다룬 인물 설정.",
       "review_state": "unassessed",
       "review_label": "초안 · 핵심 설정 확정, 사건·이름 가안",
-      "last_updated_on": "2026-11-05",
+      "last_updated_on": "2026-11-06",
       "last_enriched_on": "2026-11-05",
       "related_ids": [
         "conceptual-relations",
@@ -562,7 +565,9 @@
         "demon-epoch-oath",
         "demon-epoch-hospitality",
         "open-routes-era",
-        "hosumun-eleven-days"
+        "hosumun-eleven-days",
+        "bright-maren",
+        "route-era-bright-turns"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/archmage-maren.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/archmage-maren.md",
@@ -2489,7 +2494,8 @@
         "arc-drifting-routes",
         "arc-quiet-harvest",
         "route-era-outside-pressures",
-        "route-era-seven-fractures"
+        "route-era-seven-fractures",
+        "route-era-bright-turns"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-long-arcs.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-long-arcs.md",
@@ -3070,6 +3076,222 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/fracture-dream.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/fracture-dream/",
       "app_url": "https://belorin.github.io/binary-arcana/#fracture-dream"
+    },
+    {
+      "id": "route-era-bright-turns",
+      "title": "시대를 밝히는 여섯 전환 — 항로력 210년대의 가능 세계",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "장기 시나리오",
+        "희망",
+        "마법혁명",
+        "마렌",
+        "영웅",
+        "진행자 전용"
+      ],
+      "summary": "항로력 212년 전후 시작할 수 있는 여섯 선대적·건설적 장기 시나리오. 마렌의 귀환, 마법 공예혁명, 영웅적 재능, 기록 공유, 다종 협약, 생태 복구.",
+      "review_state": "unassessed",
+      "review_label": "장기 호재 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-long-arcs",
+        "route-era-outside-pressures",
+        "route-era-seven-fractures",
+        "bright-maren",
+        "bright-craft-revolution",
+        "bright-hero",
+        "bright-open-knowledge",
+        "bright-many-neighbors",
+        "bright-living-harvest",
+        "exceptional-generations",
+        "magic-as-practice"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-bright-turns.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-bright-turns.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-bright-turns/",
+      "app_url": "https://belorin.github.io/binary-arcana/#route-era-bright-turns"
+    },
+    {
+      "id": "bright-maren",
+      "title": "마렌이 다시 고개를 들 때 — 한 인간의 세계 개입",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "마렌",
+        "대마법사",
+        "무게",
+        "속담",
+        "시간",
+        "진행자 전용"
+      ],
+      "summary": "항로력 210년대 이후 마렌이 살아 있고 스스로 개입하기로 선택한 경우의 거대한 선대적 변화. 지형 구호, 통행 조정, 후대의 기술과 기록을 다룬다.",
+      "review_state": "unassessed",
+      "review_label": "장기 호재 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-bright-turns",
+        "archmage-maren",
+        "conceptual-relations",
+        "exceptional-generations",
+        "arc-seven-gates"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-maren.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/bright-maren.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/bright-maren/",
+      "app_url": "https://belorin.github.io/binary-arcana/#bright-maren"
+    },
+    {
+      "id": "bright-craft-revolution",
+      "title": "열줄 너머의 공방 — 마법 공예혁명",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "마법 공예",
+        "산업혁명",
+        "엮음",
+        "공방",
+        "생산",
+        "진행자 전용"
+      ],
+      "summary": "작업장 간 재현 가능한 마법적 유지·생산·구호 기술의 확산이 30~100년 동안 산업혁명급 풍요를 낳을 수 있는 장기 시나리오.",
+      "review_state": "unassessed",
+      "review_label": "장기 호재 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-bright-turns",
+        "magic-as-practice",
+        "magic-senses",
+        "ships-and-gear",
+        "arc-empty-shifts"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-craft-revolution.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/bright-craft-revolution.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/bright-craft-revolution/",
+      "app_url": "https://belorin.github.io/binary-arcana/#bright-craft-revolution"
+    },
+    {
+      "id": "bright-hero",
+      "title": "아직 이름 없는 용사 — 한 사람의 뜻밖의 역사",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "영웅",
+        "용사",
+        "특별한 재능",
+        "성장",
+        "진행자 전용"
+      ],
+      "summary": "20~60년 규모의 뛰어난 개인 등장 시나리오. 전투력보다 현장에서 구원과 통행의 불가능을 실제로 뒤집는 관계적 재능과 선택을 다룬다.",
+      "review_state": "unassessed",
+      "review_label": "장기 호재 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-bright-turns",
+        "exceptional-generations",
+        "magic-as-practice",
+        "causal-roleplay",
+        "fracture-harmony"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-hero.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/bright-hero.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/bright-hero/",
+      "app_url": "https://belorin.github.io/binary-arcana/#bright-hero"
+    },
+    {
+      "id": "bright-open-knowledge",
+      "title": "읽을 수 있는 실패들 — 지식의 공공망",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "연구",
+        "공공 지식",
+        "역서",
+        "기록",
+        "예방",
+        "진행자 전용"
+      ],
+      "summary": "서로 다른 지역의 마법 실천 실패와 관측을 기록·비교하는 제도가 25~70년에 걸쳐 대규모 구호와 안전 향상으로 이어지는 시나리오.",
+      "review_state": "unassessed",
+      "review_label": "장기 호재 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-bright-turns",
+        "knowledge-horizons",
+        "magic-senses",
+        "mission-salt-plain",
+        "arc-drifting-routes"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-open-knowledge.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/bright-open-knowledge.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/bright-open-knowledge/",
+      "app_url": "https://belorin.github.io/binary-arcana/#bright-open-knowledge"
+    },
+    {
+      "id": "bright-many-neighbors",
+      "title": "여섯 물가의 동맹 — 함께 만드는 새로운 시민권",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "비인간 이웃",
+        "다종 동맹",
+        "켜사람",
+        "항만",
+        "공존",
+        "진행자 전용"
+      ],
+      "summary": "30~90년 동안 서로 다른 인간·비인간 공동체가 항만과 물줄·통행을 공동 운영하여 안정과 외교적 번영을 만드는 장기 시나리오.",
+      "review_state": "unassessed",
+      "review_label": "장기 호재 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-bright-turns",
+        "open-routes-era",
+        "regional-life",
+        "demon-epoch-chronicle",
+        "fracture-harmony",
+        "fracture-hospitality"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-many-neighbors.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/bright-many-neighbors.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/bright-many-neighbors/",
+      "app_url": "https://belorin.github.io/binary-arcana/#bright-many-neighbors"
+    },
+    {
+      "id": "bright-living-harvest",
+      "title": "다시 열리는 들판 — 풍요의 두 번째 발견",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "생태 복구",
+        "풍요",
+        "식량",
+        "공생",
+        "새 경작",
+        "진행자 전용"
+      ],
+      "summary": "25~90년 동안 다른 생명·새 농경 관계·물의 관리 기술로 식량과 거주 환경을 안정시키는 지역적 풍요의 장기 시나리오.",
+      "review_state": "unassessed",
+      "review_label": "장기 호재 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-bright-turns",
+        "regional-life",
+        "variable-rules-and-life",
+        "magic-as-practice",
+        "arc-quiet-harvest"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-living-harvest.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/bright-living-harvest.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/bright-living-harvest/",
+      "app_url": "https://belorin.github.io/binary-arcana/#bright-living-harvest"
     }
   ]
 }

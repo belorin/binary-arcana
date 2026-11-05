@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `open-routes-era` · 분류: 시작하기 · 공개 · 원고: [wiki/open-routes-era.md](../../../wiki/open-routes-era.md) · 9,459자 · 절 15개
+- id: `open-routes-era` · 분류: 시작하기 · 공개 · 원고: [wiki/open-routes-era.md](../../../wiki/open-routes-era.md) · 9,621자 · 절 15개
 - 별칭: 항로 시대, 항로력, 돌아온 별
 - 요약: T0에서 약 삼백 해 뒤, 닫힘의 세기를 지나 행성들이 나눔 사이의 정기 항로로 다시 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 지난 삼백 해와 남은 것, 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지. 사람을 노리는 존재와 시대·개체별 변이를 안내한다.
 - 태그: 항로 시대, SF 판타지, 개척, 세계 안내
 - 수정일: 2026-11-06 · 실제 증보일: 2026-11-06 · 검토: unassessed
-- 관련 문서: `welcome`, `rulebook`, `reshaping`, `demon-epoch-chronicle`, `space-codes`, `binary-system`, `magic-senses`, `mission-lost-freighter`, `mission-breathing-forest`, `ships-and-gear`, `route-era-life`, `conceptual-relations`, `archmage-maren`, `hostile-beings`, `regional-life`, `regional-threats`, `soel-session-03`, `route-era-long-arcs`, `route-era-outside-pressures`, `route-era-seven-fractures`
+- 관련 문서: `welcome`, `rulebook`, `reshaping`, `demon-epoch-chronicle`, `space-codes`, `binary-system`, `magic-senses`, `mission-lost-freighter`, `mission-breathing-forest`, `ships-and-gear`, `route-era-life`, `conceptual-relations`, `archmage-maren`, `hostile-beings`, `regional-life`, `regional-threats`, `soel-session-03`, `route-era-long-arcs`, `route-era-outside-pressures`, `route-era-seven-fractures`, `route-era-bright-turns`
 
 ## 절 목차
 
@@ -28,7 +28,7 @@
 - 지금 이 시대의 이야기 · L125–131 · 396자 · `87f6d2a7` — 돌아온 별의 개척.
 - 낱말 몇 개 · L133–145 · 510자 · `3023199c` — (표)
 - 다른 시대와의 관계 · L147–149 · 284자 · `f1e001d8` — 이 시대는 위키의 다른 문서들(일곱 마왕의 시대, 큰 건넘 대국, 재편)보다 뒤다.
-- 진행자용 — 인물들은 모름 · L151–163 · 1,112자 · `4e323365` — 틈의 정체. 먼 항로가 지나는 틈은 마왕들의 질서가 서로 맞물린 자리의 이음매다(틈살이의 연대기).
+- 진행자용 — 인물들은 모름 · L151–165 · 1,274자 · `c2292256` — 틈의 정체. 먼 항로가 지나는 틈은 마왕들의 질서가 서로 맞물린 자리의 이음매다(틈살이의 연대기).
 
 ## 장부에 기록된 반영 지식
 

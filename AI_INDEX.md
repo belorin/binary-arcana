@@ -110,6 +110,27 @@
 - **[몽환의 파열 — 돌아온 자를 돌려보내라](wiki/fracture-dream.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
   - 몽환의 일족과 접촉한 귀환자의 동일성 변화가 가족, 법정, 시민권과 증언을 흔드는 30~70년 장기 위기.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-dream/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-dream.md)
+- **[시대를 밝히는 여섯 전환 — 항로력 210년대의 가능 세계](wiki/route-era-bright-turns.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
+  - 항로력 212년 전후 시작할 수 있는 여섯 선대적·건설적 장기 시나리오. 마렌의 귀환, 마법 공예혁명, 영웅적 재능, 기록 공유, 다종 협약, 생태 복구.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-bright-turns/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-bright-turns.md)
+- **[마렌이 다시 고개를 들 때 — 한 인간의 세계 개입](wiki/bright-maren.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
+  - 항로력 210년대 이후 마렌이 살아 있고 스스로 개입하기로 선택한 경우의 거대한 선대적 변화. 지형 구호, 통행 조정, 후대의 기술과 기록을 다룬다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-maren/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-maren.md)
+- **[열줄 너머의 공방 — 마법 공예혁명](wiki/bright-craft-revolution.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
+  - 작업장 간 재현 가능한 마법적 유지·생산·구호 기술의 확산이 30~100년 동안 산업혁명급 풍요를 낳을 수 있는 장기 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-craft-revolution/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-craft-revolution.md)
+- **[아직 이름 없는 용사 — 한 사람의 뜻밖의 역사](wiki/bright-hero.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
+  - 20~60년 규모의 뛰어난 개인 등장 시나리오. 전투력보다 현장에서 구원과 통행의 불가능을 실제로 뒤집는 관계적 재능과 선택을 다룬다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-hero/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-hero.md)
+- **[읽을 수 있는 실패들 — 지식의 공공망](wiki/bright-open-knowledge.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
+  - 서로 다른 지역의 마법 실천 실패와 관측을 기록·비교하는 제도가 25~70년에 걸쳐 대규모 구호와 안전 향상으로 이어지는 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-open-knowledge/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-open-knowledge.md)
+- **[여섯 물가의 동맹 — 함께 만드는 새로운 시민권](wiki/bright-many-neighbors.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
+  - 30~90년 동안 서로 다른 인간·비인간 공동체가 항만과 물줄·통행을 공동 운영하여 안정과 외교적 번영을 만드는 장기 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-many-neighbors/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-many-neighbors.md)
+- **[다시 열리는 들판 — 풍요의 두 번째 발견](wiki/bright-living-harvest.md)** · 수정: 2026-11-06 · 상태: 장기 호재 후보 · 진행자 전용
+  - 25~90년 동안 다른 생명·새 농경 관계·물의 관리 기술로 식량과 거주 환경을 안정시키는 지역적 풍요의 장기 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/bright-living-harvest/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/bright-living-harvest.md)
 
 ## 개요
 
@@ -161,7 +182,7 @@
 
 ## 인물
 
-- **[마렌 — 산의 무게를 바꾼 여성 대마법사](wiki/archmage-maren.md)** · 별칭: 여성 대마법사, 마렌, 무게의 대마법사 · 수정: 2026-11-05 · 상태: 초안 · 핵심 설정 확정, 사건·이름 가안
+- **[마렌 — 산의 무게를 바꾼 여성 대마법사](wiki/archmage-maren.md)** · 별칭: 여성 대마법사, 마렌, 무게의 대마법사 · 수정: 2026-11-06 · 상태: 초안 · 핵심 설정 확정, 사건·이름 가안
   - T0 이전에 태어난 여성 대마법사 마렌(가칭). 속담의 소급 현실 개변, 무게의 거대한 물리적 위업, 구체적 존재의 사이, 시간과 맺은 후천적 관계, 어린 시절의 사고와 세계적 마찰을 다룬 인물 설정.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/archmage-maren/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/archmage-maren.md)
 - **[조화의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-harmony.md)** · 별칭: 조화의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
@@ -296,7 +317,7 @@
 - **[냉혹한 인과와 살아 움직이는 세계](wiki/causal-roleplay.md)** · 별칭: 소턴과 대턴, 세계 인과 규칙 · 수정: 2026-11-03 · 상태: 초안
   - 플레이어의 바람보다 기존 인과·역량·타자의 행위가 우선하는 공정한 진행, 소턴과 대턴, 인식 장부와 세대 변화.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/causal-roleplay/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/causal-roleplay.md)
-- **[세대의 예외와 역사적 파급](wiki/exceptional-generations.md)** · 별칭: 세대별 예외, 높은 레이어 · 수정: 2026-11-05 · 상태: 초안
+- **[세대의 예외와 역사적 파급](wiki/exceptional-generations.md)** · 별칭: 세대별 예외, 높은 레이어 · 수정: 2026-11-06 · 상태: 초안
   - 집단과 세대를 거치며 등장하는 드문 개인이 타자와 관계 속에서 지역·행성·세계관의 높은 역사적 층위에 영향을 미치는 방식.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/exceptional-generations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/exceptional-generations.md)
 - **[인식의 지평과 정보 비대칭](wiki/knowledge-horizons.md)** · 별칭: 인물의 지식, 지식의 국소성, 정보 접근 규칙 · 수정: 2026-11-03 · 상태: 운영 문서

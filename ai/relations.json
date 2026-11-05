@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 663,
+  "edge_count": 711,
   "edges": [
     {
       "from": "welcome",
@@ -214,6 +214,12 @@
     {
       "from": "open-routes-era",
       "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "route-era-bright-turns",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -800,6 +806,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "exceptional-generations",
+      "to": "bright-hero",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "exceptional-generations",
+      "to": "route-era-bright-turns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "low-cape",
       "to": "aren-sheet",
       "type": "related_to",
@@ -934,6 +952,18 @@
     {
       "from": "archmage-maren",
       "to": "hosumun-eleven-days",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "bright-maren",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "archmage-maren",
+      "to": "route-era-bright-turns",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3164,6 +3194,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "route-era-long-arcs",
+      "to": "route-era-bright-turns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "arc-seven-gates",
       "to": "route-era-long-arcs",
       "type": "related_to",
@@ -3814,6 +3850,258 @@
     {
       "from": "fracture-dream",
       "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-bright-turns",
+      "to": "route-era-long-arcs",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-bright-turns",
+      "to": "route-era-outside-pressures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-bright-turns",
+      "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-bright-turns",
+      "to": "bright-maren",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-bright-turns",
+      "to": "bright-craft-revolution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-bright-turns",
+      "to": "bright-hero",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-bright-turns",
+      "to": "bright-open-knowledge",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-bright-turns",
+      "to": "bright-many-neighbors",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-bright-turns",
+      "to": "bright-living-harvest",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-bright-turns",
+      "to": "exceptional-generations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-bright-turns",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-maren",
+      "to": "route-era-bright-turns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-maren",
+      "to": "archmage-maren",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-maren",
+      "to": "conceptual-relations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-maren",
+      "to": "exceptional-generations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-maren",
+      "to": "arc-seven-gates",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-craft-revolution",
+      "to": "route-era-bright-turns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-craft-revolution",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-craft-revolution",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-craft-revolution",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-craft-revolution",
+      "to": "arc-empty-shifts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-hero",
+      "to": "route-era-bright-turns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-hero",
+      "to": "exceptional-generations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-hero",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-hero",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-hero",
+      "to": "fracture-harmony",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-open-knowledge",
+      "to": "route-era-bright-turns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-open-knowledge",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-open-knowledge",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-open-knowledge",
+      "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-open-knowledge",
+      "to": "arc-drifting-routes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-many-neighbors",
+      "to": "route-era-bright-turns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-many-neighbors",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-many-neighbors",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-many-neighbors",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-many-neighbors",
+      "to": "fracture-harmony",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-many-neighbors",
+      "to": "fracture-hospitality",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-living-harvest",
+      "to": "route-era-bright-turns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-living-harvest",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-living-harvest",
+      "to": "variable-rules-and-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-living-harvest",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "bright-living-harvest",
+      "to": "arc-quiet-harvest",
       "type": "related_to",
       "basis": "manifest.related"
     },

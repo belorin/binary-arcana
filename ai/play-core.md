@@ -598,6 +598,8 @@
 
 - **일곱 관계의 파열 가능성:** 마왕의 일족이 인간 사회에 등을 돌리거나 인간이 관계를 거절하면서 벌어질 수 있는 장기 위기는 [마왕과 어긋나는 세기](https://belorin.github.io/binary-arcana/notes/route-era-seven-fractures/)에 분리했다. 각 갈래는 독립적이며 마왕 일곱의 연합이나 예정된 미래가 아니다.
 
+- **장기적인 좋은 전환:** [시대를 밝히는 여섯 전환](https://belorin.github.io/binary-arcana/notes/route-era-bright-turns/)은 마렌, 마법 공예혁명, 영웅적 개인, 공공 지식, 다종 동맹, 경작의 풍요 같은 후보를 다룬다. 모두 선택형 진행자용 미래이며 이미 발생한 항로력 212년의 사실은 아니다.
+
 ---
 
 <!-- 문서: ships-and-gear -->

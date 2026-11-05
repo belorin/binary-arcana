@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `archmage-maren` · 분류: 인물 · 공개 · 원고: [wiki/archmage-maren.md](../../../wiki/archmage-maren.md) · 11,793자 · 절 19개
+- id: `archmage-maren` · 분류: 인물 · 공개 · 원고: [wiki/archmage-maren.md](../../../wiki/archmage-maren.md) · 11,953자 · 절 19개
 - 별칭: 여성 대마법사, 마렌, 무게의 대마법사
 - 요약: T0 이전에 태어난 여성 대마법사 마렌(가칭). 속담의 소급 현실 개변, 무게의 거대한 물리적 위업, 구체적 존재의 사이, 시간과 맺은 후천적 관계, 어린 시절의 사고와 세계적 마찰을 다룬 인물 설정.
 - 태그: 마렌, 대마법사, 여성, 속담, 무게, 시간, 관념과의 사이, 현실 개변, 인물 초안
-- 수정일: 2026-11-05 · 실제 증보일: 2026-11-05 · 검토: unassessed
-- 관련 문서: `conceptual-relations`, `magic-as-practice`, `magic-senses`, `exceptional-generations`, `reshaping`, `demon-epoch-chronicle`, `demon-epoch-oath`, `demon-epoch-hospitality`, `open-routes-era`, `hosumun-eleven-days`
+- 수정일: 2026-11-06 · 실제 증보일: 2026-11-05 · 검토: unassessed
+- 관련 문서: `conceptual-relations`, `magic-as-practice`, `magic-senses`, `exceptional-generations`, `reshaping`, `demon-epoch-chronicle`, `demon-epoch-oath`, `demon-epoch-hospitality`, `open-routes-era`, `hosumun-eleven-days`, `bright-maren`, `route-era-bright-turns`
 
 ## 절 목차
 
@@ -32,7 +32,7 @@
 - 시간과의 사이 — 후천적으로 얻은 긴 생애 · L144–152 · 645자 · `54438126` — 오래 살 수 있는 까닭은 선천적인 '장수 종족'이거나 단순한 생명력 보너스가 아니다.
 - 마왕들과의 만남 · L154–162 · 596자 · `4ad27c4e` — 그녀가 태어난 시기는 일곱 마왕의 시대보다 훨씬 뒤다.
 - 동시대와 후대의 지식은 다르다 · L164–172 · 630자 · `50dc70ce` — 그녀의 무게 마법을 본 사람은 그 규모를 증언할 수 있지만, 속담으로 개변한 과거를 개변 이전의 사실과 비교할 수 있는 사람은 드물 수 있다.
-- 확정된 중심과 남은 결정 · L174–195 · 1,004자 · `7641441e` — 중심 설정으로 채택한 것
+- 확정된 중심과 남은 결정 · L174–197 · 1,164자 · `be4ebe6a` — 중심 설정으로 채택한 것
 
 ## 장부에 기록된 반영 지식
 

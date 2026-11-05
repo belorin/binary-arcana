@@ -66,6 +66,13 @@
 - [분기의 파열 — 어제와 다른 문](https://belorin.github.io/binary-arcana/notes/fracture-branching/): 분기의 일족이 새로운 길과 생태를 지키며 기존 항로와 도시의 반복 가능성을 흔드는 35~90년 위기.
 - [환대의 파열 — 주인은 누구인가](https://belorin.github.io/binary-arcana/notes/fracture-hospitality/): 환대의 일족이 새 손님을 맞느라 오래 살던 주민의 거처와 생존을 밀어내는 20~80년 관계 파열 위기.
 - [몽환의 파열 — 돌아온 자를 돌려보내라](https://belorin.github.io/binary-arcana/notes/fracture-dream/): 몽환의 일족과 접촉한 귀환자의 동일성 변화가 가족, 법정, 시민권과 증언을 흔드는 30~70년 장기 위기.
+- [시대를 밝히는 여섯 전환 — 항로력 210년대의 가능 세계](https://belorin.github.io/binary-arcana/notes/route-era-bright-turns/): 항로력 212년 전후 시작할 수 있는 여섯 선대적·건설적 장기 시나리오. 마렌의 귀환, 마법 공예혁명, 영웅적 재능, 기록 공유, 다종 협약, 생태 복구.
+- [마렌이 다시 고개를 들 때 — 한 인간의 세계 개입](https://belorin.github.io/binary-arcana/notes/bright-maren/): 항로력 210년대 이후 마렌이 살아 있고 스스로 개입하기로 선택한 경우의 거대한 선대적 변화. 지형 구호, 통행 조정, 후대의 기술과 기록을 다룬다.
+- [열줄 너머의 공방 — 마법 공예혁명](https://belorin.github.io/binary-arcana/notes/bright-craft-revolution/): 작업장 간 재현 가능한 마법적 유지·생산·구호 기술의 확산이 30~100년 동안 산업혁명급 풍요를 낳을 수 있는 장기 시나리오.
+- [아직 이름 없는 용사 — 한 사람의 뜻밖의 역사](https://belorin.github.io/binary-arcana/notes/bright-hero/): 20~60년 규모의 뛰어난 개인 등장 시나리오. 전투력보다 현장에서 구원과 통행의 불가능을 실제로 뒤집는 관계적 재능과 선택을 다룬다.
+- [읽을 수 있는 실패들 — 지식의 공공망](https://belorin.github.io/binary-arcana/notes/bright-open-knowledge/): 서로 다른 지역의 마법 실천 실패와 관측을 기록·비교하는 제도가 25~70년에 걸쳐 대규모 구호와 안전 향상으로 이어지는 시나리오.
+- [여섯 물가의 동맹 — 함께 만드는 새로운 시민권](https://belorin.github.io/binary-arcana/notes/bright-many-neighbors/): 30~90년 동안 서로 다른 인간·비인간 공동체가 항만과 물줄·통행을 공동 운영하여 안정과 외교적 번영을 만드는 장기 시나리오.
+- [다시 열리는 들판 — 풍요의 두 번째 발견](https://belorin.github.io/binary-arcana/notes/bright-living-harvest/): 25~90년 동안 다른 생명·새 농경 관계·물의 관리 기술로 식량과 거주 환경을 안정시키는 지역적 풍요의 장기 시나리오.
 
 ### 개요
 
