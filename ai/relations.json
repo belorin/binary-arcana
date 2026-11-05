@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 437,
+  "edge_count": 446,
   "edges": [
     {
       "from": "welcome",
@@ -64,6 +64,12 @@
     {
       "from": "welcome",
       "to": "hosumun-eleven-days",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "first-gate",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2528,6 +2534,48 @@
       "basis": "manifest.related"
     },
     {
+      "from": "first-gate",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-gate",
+      "to": "hosumun-eleven-days",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-gate",
+      "to": "welcome",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-gate",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-gate",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-gate",
+      "to": "mission-seeds",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-gate",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "start-here",
       "to": "editing-guide",
       "type": "introduces",
@@ -2670,6 +2718,14 @@
       "basis": "curated",
       "evidence_section": "첫째 문 — 세계를 읽는다",
       "reason": "항로 시대의 일상을 보여 주는 소설로 안내한다."
+    },
+    {
+      "from": "welcome",
+      "to": "first-gate",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "첫째 문 — 세계를 읽는다",
+      "reason": "항로 시대의 탐험 쪽 분위기를 보여 주는 소설로 안내한다."
     }
   ]
 }

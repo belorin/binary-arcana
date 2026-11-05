@@ -146,6 +146,9 @@
 - **[호수문의 한 물때 — 만두가 식는 동안](wiki/hosumun-eleven-days.md)** · 별칭: 호수문의 열하루, 만두가 식는 동안 · 수정: 2026-11-05 · 상태: 정본 · 항로력 212년 호수문 일상 사건
   - 항로력 212년 호수문 서쪽 시장에서 열줄 받침이 깨진 한 물때. 당번꾼과 상인, 수선공, 아이, 켜사람들이 서로 얽히되 각자의 일상을 살아가는 열하루.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/hosumun-eleven-days/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/hosumun-eleven-days.md)
+- **[첫 문 — 길잡이 면허 시험](wiki/first-gate.md)** · 별칭: 길잡이 면허 시험, 참새호, 주아와 미르 · 수정: 2026-11-05 · 상태: 맛보기 소설 · 정본
+  - 신참 길잡이 주아가 연습선 참새호로 그늘역에서 늪항까지 처음 항로를 열고, 틈에서 일 분을 버티는 면허 시험. 이름을 부르는 목소리와 등 꺼진 화물선.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/first-gate/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-gate.md)
 
 ## 롤플레잉
 

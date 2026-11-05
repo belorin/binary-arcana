@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 60,
+  "document_count": 61,
   "documents": [
     {
       "id": "welcome",
@@ -38,7 +38,8 @@
         "ships-and-gear",
         "route-era-life",
         "mission-seeds",
-        "hosumun-eleven-days"
+        "hosumun-eleven-days",
+        "first-gate"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/welcome.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/welcome.md",
@@ -2083,6 +2084,40 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/hosumun-eleven-days.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/hosumun-eleven-days/",
       "app_url": "https://belorin.github.io/binary-arcana/#hosumun-eleven-days"
+    },
+    {
+      "id": "first-gate",
+      "title": "첫 문 — 길잡이 면허 시험",
+      "aliases": [
+        "길잡이 면허 시험",
+        "참새호",
+        "주아와 미르"
+      ],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "항로 시대",
+        "길잡이",
+        "틈"
+      ],
+      "summary": "신참 길잡이 주아가 연습선 참새호로 그늘역에서 늪항까지 처음 항로를 열고, 틈에서 일 분을 버티는 면허 시험. 이름을 부르는 목소리와 등 꺼진 화물선.",
+      "review_state": "unassessed",
+      "review_label": "맛보기 소설 · 정본",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
+      "related_ids": [
+        "open-routes-era",
+        "hosumun-eleven-days",
+        "welcome",
+        "rulebook",
+        "mission-lost-freighter",
+        "mission-seeds",
+        "route-era-life"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-gate.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/first-gate.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/first-gate/",
+      "app_url": "https://belorin.github.io/binary-arcana/#first-gate"
     }
   ]
 }
