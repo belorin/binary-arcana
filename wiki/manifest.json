@@ -212,7 +212,8 @@
         "mission-breathing-forest",
         "route-era-life",
         "ships-and-gear",
-        "conceptual-relations"
+        "conceptual-relations",
+        "soel-session-01"
       ],
       "aliases": [
         "단편 임무",
@@ -2110,6 +2111,69 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": "2026-11-05"
+    },
+    {
+      "path": "wiki/soel-sheet.md",
+      "publish": true,
+      "order": 50,
+      "id": "soel-sheet",
+      "title": "소엘 — 탐사대 기록관 시트",
+      "category": "탐사대",
+      "status": "사용 중",
+      "updated": "2026-11-05",
+      "summary": "물새호 탐사대의 기록관 소엘. 매듭 읽기 책과의 사이가 깊음이고, 첫 의뢰 뒤의 저장 블록을 담았다.",
+      "tags": [
+        "소엘",
+        "시트",
+        "기록관",
+        "탐사대",
+        "저장"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)",
+      "related": [
+        "rulebook",
+        "soel-session-01",
+        "mission-seeds"
+      ],
+      "aliases": [
+        "소엘",
+        "소엘 시트"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/soel-session-01.md",
+      "publish": true,
+      "order": 51,
+      "id": "soel-session-01",
+      "title": "소엘의 첫 의뢰 — 이름을 바꾼 배",
+      "category": "탐사대",
+      "status": "진행함",
+      "updated": "2026-11-05",
+      "summary": "물새호의 기록관 소엘이 이름을 빼앗긴 화물선 늙은갈매기호의 용골 매듭을 되살리고, 옛 길잡이 리나가 짝돌로 배와 작별하게 해 새 길잡이를 받아들이게 한 첫 의뢰.",
+      "tags": [
+        "소엘",
+        "세션",
+        "늙은갈매기호",
+        "재회",
+        "짝돌",
+        "그늘역"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)",
+      "related": [
+        "soel-sheet",
+        "mission-seeds",
+        "rulebook",
+        "mission-lost-freighter"
+      ],
+      "aliases": [
+        "이름을 바꾼 배 세션",
+        "소엘 첫 의뢰",
+        "고리 7호"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }
