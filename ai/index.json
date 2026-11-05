@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 69,
+  "document_count": 75,
   "documents": [
     {
       "id": "welcome",
@@ -87,7 +87,8 @@
         "hostile-beings",
         "regional-life",
         "regional-threats",
-        "soel-session-03"
+        "soel-session-03",
+        "route-era-long-arcs"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-routes-era.md",
@@ -275,7 +276,8 @@
         "open-routes-era",
         "mission-breathing-forest",
         "demon-epoch-chronicle",
-        "soel-session-03"
+        "soel-session-03",
+        "arc-seven-gates"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-lost-freighter.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mission-lost-freighter.md",
@@ -2455,6 +2457,190 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-03.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/soel-session-03/",
       "app_url": "https://belorin.github.io/binary-arcana/#soel-session-03"
+    },
+    {
+      "id": "route-era-long-arcs",
+      "title": "항로력 210년대의 다섯 장기 위기 — 진행자 지도",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "항로 시대",
+        "장기 캠페인",
+        "세대",
+        "대턴",
+        "진행자용"
+      ],
+      "summary": "항로력 212년 전후를 시작으로 30~100년간 독립적으로 전개될 수 있는 다섯 장기 위기의 진행자용 지도.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "open-routes-era",
+        "rulebook",
+        "causal-roleplay",
+        "knowledge-horizons",
+        "arc-seven-gates",
+        "arc-empty-shifts",
+        "arc-grey-promises",
+        "arc-drifting-routes",
+        "arc-quiet-harvest"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-long-arcs.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-long-arcs.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-long-arcs/",
+      "app_url": "https://belorin.github.io/binary-arcana/#route-era-long-arcs"
+    },
+    {
+      "id": "arc-seven-gates",
+      "title": "일곱 문의 분쟁 — 서른 해의 항로 전쟁",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "30년",
+        "고리운송",
+        "바람고원",
+        "항로 정치",
+        "전쟁",
+        "진행자용"
+      ],
+      "summary": "항로력 212~242년의 30년 장기 시나리오. 항로 운영권과 사고 배상 갈등이 다행성 항만 봉쇄와 기근을 낳을 수 있다.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-long-arcs",
+        "open-routes-era",
+        "mission-lost-freighter",
+        "soel-session-03",
+        "route-era-life"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-seven-gates.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/arc-seven-gates.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/arc-seven-gates/",
+      "app_url": "https://belorin.github.io/binary-arcana/#arc-seven-gates"
+    },
+    {
+      "id": "arc-empty-shifts",
+      "title": "빈 당번의 시대 — 사십오 해의 따뜻한 도시",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "45년",
+        "빈당번",
+        "나눔 사이",
+        "열줄",
+        "도시",
+        "진행자용"
+      ],
+      "summary": "항로력 212~257년의 45년 장기 시나리오. 나눔 사이 시설의 기록 누락과 인력 축소가 빈당번의 독점으로 발전한다.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-long-arcs",
+        "hostile-beings",
+        "route-era-life",
+        "open-routes-era",
+        "causal-roleplay"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-empty-shifts.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/arc-empty-shifts.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/arc-empty-shifts/",
+      "app_url": "https://belorin.github.io/binary-arcana/#arc-empty-shifts"
+    },
+    {
+      "id": "arc-grey-promises",
+      "title": "회색 앞에 선 마지막 사람들 — 육십 해의 맹약",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "60년",
+        "맹약소",
+        "회색 증인",
+        "법",
+        "세대",
+        "진행자용"
+      ],
+      "summary": "항로력 212~272년의 60년 장기 시나리오. 양립할 수 없는 맹약의 남용과 회색 자국에 대한 제도적 배제가 사회를 갈라놓는다.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-long-arcs",
+        "route-era-life",
+        "open-routes-era",
+        "demon-epoch-chronicle",
+        "soel-session-03"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-grey-promises.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/arc-grey-promises.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/arc-grey-promises/",
+      "app_url": "https://belorin.github.io/binary-arcana/#arc-grey-promises"
+    },
+    {
+      "id": "arc-drifting-routes",
+      "title": "뒤처진 역서 — 팔십 해의 길 찾기",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "80년",
+        "항로 역서",
+        "재편",
+        "철새",
+        "개척",
+        "진행자용"
+      ],
+      "summary": "항로력 212~292년의 80년 장기 시나리오. 낡은 역서와 새로운 결의 불일치가 항만과 공동체의 지형을 바꾼다.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-long-arcs",
+        "open-routes-era",
+        "reshaping",
+        "variable-rules-and-life",
+        "mission-lost-freighter",
+        "magical-distance-and-passage"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-drifting-routes.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/arc-drifting-routes.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/arc-drifting-routes/",
+      "app_url": "https://belorin.github.io/binary-arcana/#arc-drifting-routes"
+    },
+    {
+      "id": "arc-quiet-harvest",
+      "title": "고요한 수확 — 백 해의 정원사들",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "100년",
+        "고요의 정원사들",
+        "돌아온 별",
+        "기록",
+        "생태",
+        "진행자용"
+      ],
+      "summary": "항로력 212~312년의 100년 장기 시나리오. 돌아온 별의 정원사들이 실제 표본 운송을 따라 퍼져 배움과 기록의 전승을 위협한다.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-long-arcs",
+        "hostile-beings",
+        "open-routes-era",
+        "mission-salt-plain",
+        "causal-roleplay"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-quiet-harvest.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/arc-quiet-harvest.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/arc-quiet-harvest/",
+      "app_url": "https://belorin.github.io/binary-arcana/#arc-quiet-harvest"
     }
   ]
 }

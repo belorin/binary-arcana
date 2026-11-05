@@ -50,6 +50,24 @@
 - **[소엘의 셋째 의뢰 — 바람 끝의 손님들](wiki/soel-session-03.md)** · 별칭: 바람 끝의 손님들 세션, 소엘 셋째 의뢰 · 수정: 2026-11-06 · 상태: 진행함
   - 소엘이 고리운송과 맹약소 계약을 맺고 문그늘 아래 바람 끝에 들어가, 맹약의 실로 그늘을 빠져나오고 은실호 선원과 남쪽 행렬의 이든을 데리고 나온 셋째 의뢰. 앞에 그늘역 작은 겹침 막간이 있다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-03/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-03.md)
+- **[항로력 210년대의 다섯 장기 위기 — 진행자 지도](wiki/route-era-long-arcs.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
+  - 항로력 212년 전후를 시작으로 30~100년간 독립적으로 전개될 수 있는 다섯 장기 위기의 진행자용 지도.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-long-arcs/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-long-arcs.md)
+- **[일곱 문의 분쟁 — 서른 해의 항로 전쟁](wiki/arc-seven-gates.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
+  - 항로력 212~242년의 30년 장기 시나리오. 항로 운영권과 사고 배상 갈등이 다행성 항만 봉쇄와 기근을 낳을 수 있다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-seven-gates/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-seven-gates.md)
+- **[빈 당번의 시대 — 사십오 해의 따뜻한 도시](wiki/arc-empty-shifts.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
+  - 항로력 212~257년의 45년 장기 시나리오. 나눔 사이 시설의 기록 누락과 인력 축소가 빈당번의 독점으로 발전한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-empty-shifts/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-empty-shifts.md)
+- **[회색 앞에 선 마지막 사람들 — 육십 해의 맹약](wiki/arc-grey-promises.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
+  - 항로력 212~272년의 60년 장기 시나리오. 양립할 수 없는 맹약의 남용과 회색 자국에 대한 제도적 배제가 사회를 갈라놓는다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-grey-promises/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-grey-promises.md)
+- **[뒤처진 역서 — 팔십 해의 길 찾기](wiki/arc-drifting-routes.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
+  - 항로력 212~292년의 80년 장기 시나리오. 낡은 역서와 새로운 결의 불일치가 항만과 공동체의 지형을 바꾼다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-drifting-routes/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-drifting-routes.md)
+- **[고요한 수확 — 백 해의 정원사들](wiki/arc-quiet-harvest.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
+  - 항로력 212~312년의 100년 장기 시나리오. 돌아온 별의 정원사들이 실제 표본 운송을 따라 퍼져 배움과 기록의 전승을 위협한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-quiet-harvest/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-quiet-harvest.md)
 
 ## 개요
 

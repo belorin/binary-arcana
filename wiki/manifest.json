@@ -78,7 +78,8 @@
         "hostile-beings",
         "regional-life",
         "regional-threats",
-        "soel-session-03"
+        "soel-session-03",
+        "route-era-long-arcs"
       ],
       "aliases": [
         "항로 시대",
@@ -155,7 +156,8 @@
         "open-routes-era",
         "mission-breathing-forest",
         "demon-epoch-chronicle",
-        "soel-session-03"
+        "soel-session-03",
+        "arc-seven-gates"
       ],
       "aliases": [
         "잃어버린 수송선",
@@ -2447,6 +2449,190 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": "2026-11-06"
+    },
+    {
+      "path": "wiki/route-era-long-arcs.md",
+      "publish": true,
+      "order": 56,
+      "id": "route-era-long-arcs",
+      "title": "항로력 210년대의 다섯 장기 위기 — 진행자 지도",
+      "category": "탐사대",
+      "status": "장기 시나리오 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "항로력 212년 전후를 시작으로 30~100년간 독립적으로 전개될 수 있는 다섯 장기 위기의 진행자용 지도.",
+      "tags": [
+        "항로 시대",
+        "장기 캠페인",
+        "세대",
+        "대턴",
+        "진행자용"
+      ],
+      "source": "항로력 210년대 장기 세계 위기 구상(진행자용)",
+      "related": [
+        "open-routes-era",
+        "rulebook",
+        "causal-roleplay",
+        "knowledge-horizons",
+        "arc-seven-gates",
+        "arc-empty-shifts",
+        "arc-grey-promises",
+        "arc-drifting-routes",
+        "arc-quiet-harvest"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/arc-seven-gates.md",
+      "publish": true,
+      "order": 57,
+      "id": "arc-seven-gates",
+      "title": "일곱 문의 분쟁 — 서른 해의 항로 전쟁",
+      "category": "탐사대",
+      "status": "장기 시나리오 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "항로력 212~242년의 30년 장기 시나리오. 항로 운영권과 사고 배상 갈등이 다행성 항만 봉쇄와 기근을 낳을 수 있다.",
+      "tags": [
+        "30년",
+        "고리운송",
+        "바람고원",
+        "항로 정치",
+        "전쟁",
+        "진행자용"
+      ],
+      "source": "항로력 210년대 장기 세계 위기 구상(진행자용)",
+      "related": [
+        "route-era-long-arcs",
+        "open-routes-era",
+        "mission-lost-freighter",
+        "soel-session-03",
+        "route-era-life"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/arc-empty-shifts.md",
+      "publish": true,
+      "order": 58,
+      "id": "arc-empty-shifts",
+      "title": "빈 당번의 시대 — 사십오 해의 따뜻한 도시",
+      "category": "탐사대",
+      "status": "장기 시나리오 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "항로력 212~257년의 45년 장기 시나리오. 나눔 사이 시설의 기록 누락과 인력 축소가 빈당번의 독점으로 발전한다.",
+      "tags": [
+        "45년",
+        "빈당번",
+        "나눔 사이",
+        "열줄",
+        "도시",
+        "진행자용"
+      ],
+      "source": "항로력 210년대 장기 세계 위기 구상(진행자용)",
+      "related": [
+        "route-era-long-arcs",
+        "hostile-beings",
+        "route-era-life",
+        "open-routes-era",
+        "causal-roleplay"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/arc-grey-promises.md",
+      "publish": true,
+      "order": 59,
+      "id": "arc-grey-promises",
+      "title": "회색 앞에 선 마지막 사람들 — 육십 해의 맹약",
+      "category": "탐사대",
+      "status": "장기 시나리오 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "항로력 212~272년의 60년 장기 시나리오. 양립할 수 없는 맹약의 남용과 회색 자국에 대한 제도적 배제가 사회를 갈라놓는다.",
+      "tags": [
+        "60년",
+        "맹약소",
+        "회색 증인",
+        "법",
+        "세대",
+        "진행자용"
+      ],
+      "source": "항로력 210년대 장기 세계 위기 구상(진행자용)",
+      "related": [
+        "route-era-long-arcs",
+        "route-era-life",
+        "open-routes-era",
+        "demon-epoch-chronicle",
+        "soel-session-03"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/arc-drifting-routes.md",
+      "publish": true,
+      "order": 60,
+      "id": "arc-drifting-routes",
+      "title": "뒤처진 역서 — 팔십 해의 길 찾기",
+      "category": "탐사대",
+      "status": "장기 시나리오 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "항로력 212~292년의 80년 장기 시나리오. 낡은 역서와 새로운 결의 불일치가 항만과 공동체의 지형을 바꾼다.",
+      "tags": [
+        "80년",
+        "항로 역서",
+        "재편",
+        "철새",
+        "개척",
+        "진행자용"
+      ],
+      "source": "항로력 210년대 장기 세계 위기 구상(진행자용)",
+      "related": [
+        "route-era-long-arcs",
+        "open-routes-era",
+        "reshaping",
+        "variable-rules-and-life",
+        "mission-lost-freighter",
+        "magical-distance-and-passage"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/arc-quiet-harvest.md",
+      "publish": true,
+      "order": 61,
+      "id": "arc-quiet-harvest",
+      "title": "고요한 수확 — 백 해의 정원사들",
+      "category": "탐사대",
+      "status": "장기 시나리오 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "항로력 212~312년의 100년 장기 시나리오. 돌아온 별의 정원사들이 실제 표본 운송을 따라 퍼져 배움과 기록의 전승을 위협한다.",
+      "tags": [
+        "100년",
+        "고요의 정원사들",
+        "돌아온 별",
+        "기록",
+        "생태",
+        "진행자용"
+      ],
+      "source": "항로력 210년대 장기 세계 위기 구상(진행자용)",
+      "related": [
+        "route-era-long-arcs",
+        "hostile-beings",
+        "open-routes-era",
+        "mission-salt-plain",
+        "causal-roleplay"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }

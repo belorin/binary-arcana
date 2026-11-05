@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 538,
+  "edge_count": 575,
   "edges": [
     {
       "from": "welcome",
@@ -196,6 +196,12 @@
     {
       "from": "open-routes-era",
       "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "route-era-long-arcs",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -490,6 +496,12 @@
     {
       "from": "mission-lost-freighter",
       "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "arc-seven-gates",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3064,6 +3076,216 @@
     {
       "from": "soel-session-03",
       "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-long-arcs",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-long-arcs",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-long-arcs",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-long-arcs",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-long-arcs",
+      "to": "arc-seven-gates",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-long-arcs",
+      "to": "arc-empty-shifts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-long-arcs",
+      "to": "arc-grey-promises",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-long-arcs",
+      "to": "arc-drifting-routes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-long-arcs",
+      "to": "arc-quiet-harvest",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-seven-gates",
+      "to": "route-era-long-arcs",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-seven-gates",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-seven-gates",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-seven-gates",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-seven-gates",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-empty-shifts",
+      "to": "route-era-long-arcs",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-empty-shifts",
+      "to": "hostile-beings",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-empty-shifts",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-empty-shifts",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-empty-shifts",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-grey-promises",
+      "to": "route-era-long-arcs",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-grey-promises",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-grey-promises",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-grey-promises",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-grey-promises",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-drifting-routes",
+      "to": "route-era-long-arcs",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-drifting-routes",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-drifting-routes",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-drifting-routes",
+      "to": "variable-rules-and-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-drifting-routes",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-drifting-routes",
+      "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-quiet-harvest",
+      "to": "route-era-long-arcs",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-quiet-harvest",
+      "to": "hostile-beings",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-quiet-harvest",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-quiet-harvest",
+      "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-quiet-harvest",
+      "to": "causal-roleplay",
       "type": "related_to",
       "basis": "manifest.related"
     },

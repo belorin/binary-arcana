@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `mission-lost-freighter` · 분류: 탐사대 · 공개 · 원고: [wiki/mission-lost-freighter.md](../../../wiki/mission-lost-freighter.md) · 8,964자 · 절 19개
+- id: `mission-lost-freighter` · 분류: 탐사대 · 공개 · 원고: [wiki/mission-lost-freighter.md](../../../wiki/mission-lost-freighter.md) · 9,091자 · 절 19개
 - 별칭: 잃어버린 수송선, 은실호, 남쪽 행렬, 비엘라의 돌
 - 요약: 사라진 고리운송 화물선 은실호를 찾는 중형 임무. 빼돌린 바람고원의 유물, 틈의 문그늘, 그늘 아래 백 해를 산 남쪽 행렬, 쫓기는 이만 나갈 수 있는 규칙.
 - 태그: 임무, 건너별, 문그늘, 바람고원, 고리운송
 - 수정일: 2026-11-06 · 실제 증보일: 2026-11-06 · 검토: unassessed
-- 관련 문서: `rulebook`, `ships-and-gear`, `route-era-life`, `open-routes-era`, `mission-breathing-forest`, `demon-epoch-chronicle`, `soel-session-03`
+- 관련 문서: `rulebook`, `ships-and-gear`, `route-era-life`, `open-routes-era`, `mission-breathing-forest`, `demon-epoch-chronicle`, `soel-session-03`, `arc-seven-gates`
 
 ## 절 목차
 
@@ -32,7 +32,7 @@
 - 아무도 손대지 않으면 · L147–151 · 140자 · `9ebe7fb4` — 고리운송은 은실호를 "틈에서 사고"로 처리하고, 네아에게 화물 분실 책임을 묻는다.
 - 결말 갈래 · L153–158 · 418자 · `1c1c6c19` — 돌을 바람고원에 돌려준다.
 - 보수와 남는 것 · L160–165 · 228자 · `cf33ff94` — 마델의 보수(자금 5)는 은실호와 선원을 찾았다는 증거만으로도 받을 수 있다.
-- 다음 이야기로 이어지는 실 · L167–171 · 182자 · `10081911` — 문그늘은 바람 끝에만 있지 않다.
+- 다음 이야기로 이어지는 실 · L167–173 · 309자 · `2e02b05d` — 문그늘은 바람 끝에만 있지 않다.
 
 ## 장부에 기록된 반영 지식
 
