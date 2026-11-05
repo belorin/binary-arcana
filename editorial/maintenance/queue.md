@@ -186,7 +186,7 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (9): `rival-gc-t09-world` 19,396자, `rival-gc-t06-world` 15,310자, `rulebook` 15,291자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,793자, `rival-gc-t03-world` 10,529자, `magic-senses` 10,122자
+- 긴 문서 (9): `rival-gc-t09-world` 19,396자, `rival-gc-t06-world` 15,310자, `rulebook` 15,292자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,793자, `rival-gc-t03-world` 10,529자, `magic-senses` 10,122자
 - 짧은 문서 (2): `editing-guide` 763자, `soel-sheet` 1,401자
 
 ## 9. 분류 참고

@@ -44,4 +44,4 @@
 ## 확인된 의미 관계
 
 - → `rulebook` · elaborates · 근거 절(mission-lost-freighter): 진행자에게
-- ← `welcome` · introduces · 근거 절(welcome): 더 넣을 수 있는 파일
+- ← `welcome` · introduces · 근거 절(welcome): 따로 넣을 수 있는 파일
