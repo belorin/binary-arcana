@@ -8,6 +8,8 @@
 2. 고른 문서의 링크(본문이 들어 있는 문서 페이지)를 실제로 열어 읽는다. 한 줄 설명만으로 내용을 단정하지 않는다.
 3. 문서 페이지 `https://belorin.github.io/binary-arcana/notes/<문서-id>/`에 본문이 있다. 원문 Markdown은 `https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/<문서-id>.md`이다.
 4. 답할 때 근거가 된 문서와 절 제목을 밝히고, 위키 밖의 지식이나 추론은 구분한다.
+5. 롤플레잉 진행을 부탁받았다면 [처음 오셨나요](https://belorin.github.io/binary-arcana/notes/welcome/)와 [탐사대 룰북](https://belorin.github.io/binary-arcana/notes/rulebook/)부터 읽는다. 룰북 세션(항로 시대 탐사대)과 [이야기 현재 상태](https://belorin.github.io/binary-arcana/notes/story-state/)를 쓰는 아렌 서사는 서로 다른 체계다.
+6. 문서 링크를 하나씩 열 수 없는 도구라면 저장소를 통째로 받는다: `git clone https://github.com/belorin/binary-arcana`. 본문의 정본은 `wiki/*.md`, 메타데이터는 `wiki/manifest.json`이다.
 
 ## Navigation
 
@@ -31,6 +33,8 @@
 - [짧은 의뢰 여섯](https://belorin.github.io/binary-arcana/notes/mission-seeds/): 한 세션에 끝나는 의뢰 여섯 개. 이름을 바꾼 배, 스무 해를 기다린 사람, 해곁별의 그늘 채굴단, 겹침날의 약속, 역서가 틀린 날, 주인을 잃은 걸음틀. 의뢰마다 숨은 사정과 꼬임과 이어지는 실이 있다.
 - [건넘선과 장비](https://belorin.github.io/binary-arcana/notes/ships-and-gear/): 건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.
 - [항로 시대의 생활](https://belorin.github.io/binary-arcana/notes/route-era-life/): 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
+- [소엘 — 탐사대 기록관 시트](https://belorin.github.io/binary-arcana/notes/soel-sheet/): 물새호 탐사대의 기록관 소엘. 매듭 읽기 책과의 사이가 깊음이고, 첫 의뢰 뒤의 저장 블록을 담았다.
+- [소엘의 첫 의뢰 — 이름을 바꾼 배](https://belorin.github.io/binary-arcana/notes/soel-session-01/): 물새호의 기록관 소엘이 이름을 빼앗긴 화물선 늙은갈매기호의 용골 매듭을 되살리고, 옛 길잡이 리나가 짝돌로 배와 작별하게 해 새 길잡이를 받아들이게 한 첫 의뢰.
 
 ### 개요
 

@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 446,
+  "edge_count": 454,
   "edges": [
     {
       "from": "welcome",
@@ -1078,6 +1078,12 @@
     {
       "from": "mission-seeds",
       "to": "conceptual-relations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-seeds",
+      "to": "soel-session-01",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2572,6 +2578,48 @@
     {
       "from": "first-gate",
       "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-sheet",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-sheet",
+      "to": "soel-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-sheet",
+      "to": "mission-seeds",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-01",
+      "to": "soel-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-01",
+      "to": "mission-seeds",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-01",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-01",
+      "to": "mission-lost-freighter",
       "type": "related_to",
       "basis": "manifest.related"
     },

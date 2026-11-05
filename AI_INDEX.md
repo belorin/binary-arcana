@@ -35,6 +35,12 @@
 - **[항로 시대의 생활](wiki/route-era-life.md)** · 별칭: 항구 생활, 겹침날, 틈에나 빠져라 · 수정: 2026-11-05 · 상태: 룰북용 사전
   - 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-life/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md)
+- **[소엘 — 탐사대 기록관 시트](wiki/soel-sheet.md)** · 별칭: 소엘, 소엘 시트 · 수정: 2026-11-05 · 상태: 사용 중
+  - 물새호 탐사대의 기록관 소엘. 매듭 읽기 책과의 사이가 깊음이고, 첫 의뢰 뒤의 저장 블록을 담았다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-sheet/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-sheet.md)
+- **[소엘의 첫 의뢰 — 이름을 바꾼 배](wiki/soel-session-01.md)** · 별칭: 이름을 바꾼 배 세션, 소엘 첫 의뢰, 고리 7호 · 수정: 2026-11-05 · 상태: 진행함
+  - 물새호의 기록관 소엘이 이름을 빼앗긴 화물선 늙은갈매기호의 용골 매듭을 되살리고, 옛 길잡이 리나가 짝돌로 배와 작별하게 해 새 길잡이를 받아들이게 한 첫 의뢰.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-01/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-01.md)
 
 ## 개요
 
