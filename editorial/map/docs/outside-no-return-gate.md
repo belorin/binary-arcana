@@ -6,7 +6,7 @@
 - 요약: 항로력 210년대 이후 30~100년짜리 외부 이주 시나리오. 미지의 통행망에서 열린 편도 문이 수세대의 피난과 정착 문제를 가져온다.
 - 태그: 외부 압력, 피난, 이주, 새로운 문, 30~100년, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `route-era-outside-pressures`, `magical-distance-and-passage`, `open-routes-era`, `knowledge-horizons`, `causal-roleplay`
+- 관련 문서: `route-era-outside-pressures`, `magical-distance-and-passage`, `open-routes-era`, `knowledge-horizons`, `causal-roleplay`, `fracture-hospitality`
 
 ## 절 목차
 

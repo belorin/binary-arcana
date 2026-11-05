@@ -6,7 +6,7 @@
 - 요약: 항로력 212~257년의 45년 장기 시나리오. 나눔 사이 시설의 기록 누락과 인력 축소가 빈당번의 독점으로 발전한다.
 - 태그: 45년, 빈당번, 나눔 사이, 열줄, 도시, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `route-era-long-arcs`, `hostile-beings`, `route-era-life`, `open-routes-era`, `causal-roleplay`
+- 관련 문서: `route-era-long-arcs`, `hostile-beings`, `route-era-life`, `open-routes-era`, `causal-roleplay`, `bright-craft-revolution`
 
 ## 절 목차
 

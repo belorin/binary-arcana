@@ -6,7 +6,7 @@
 - 요약: 항로력 212~242년의 30년 장기 시나리오. 항로 운영권과 사고 배상 갈등이 다행성 항만 봉쇄와 기근을 낳을 수 있다.
 - 태그: 30년, 고리운송, 바람고원, 항로 정치, 전쟁, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `route-era-long-arcs`, `open-routes-era`, `mission-lost-freighter`, `soel-session-03`, `route-era-life`
+- 관련 문서: `route-era-long-arcs`, `open-routes-era`, `mission-lost-freighter`, `soel-session-03`, `route-era-life`, `outside-nine-sails`
 
 ## 절 목차
 

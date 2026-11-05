@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 732,
+  "edge_count": 736,
   "edges": [
     {
       "from": "welcome",
@@ -3236,6 +3236,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "arc-seven-gates",
+      "to": "outside-nine-sails",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "arc-empty-shifts",
       "to": "route-era-long-arcs",
       "type": "related_to",
@@ -3262,6 +3268,12 @@
     {
       "from": "arc-empty-shifts",
       "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-empty-shifts",
+      "to": "bright-craft-revolution",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3328,6 +3340,12 @@
     {
       "from": "arc-drifting-routes",
       "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "arc-drifting-routes",
+      "to": "bright-open-knowledge",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3484,6 +3502,12 @@
     {
       "from": "outside-no-return-gate",
       "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-no-return-gate",
+      "to": "fracture-hospitality",
       "type": "related_to",
       "basis": "manifest.related"
     },

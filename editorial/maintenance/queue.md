@@ -2,36 +2,28 @@
 
 > 자동 생성(`scripts/build-maintenance-queue.mjs`). 직접 수정하지 않는다. 기계가 원고 전체에서 찾은 **신호**일 뿐이며, 무엇을 고칠지는 [정비 절차](../../MAINTENANCE.md)에 따라 원고를 읽고 판단한다.
 
-마지막 정비: **M002** (2026-11-04) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
+마지막 정비: **M003** (2026-11-06) · [보고서](reports/M003.md) · 다음 정비 버전: **M004**
 
-원고 97개 · 변경 문서 62 · 고립 0 · 한쪽 연결 263 · 보류 8 · 열린 교차 제안 0
+원고 97개 · 변경 문서 37 · 고립 0 · 한쪽 연결 259 · 보류 8 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (62)
+## 1. 지난 정비 이후 변경된 문서 (37)
 
-manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
+manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **시대의 흐름** (27): `route-era-long-arcs`, `arc-seven-gates`, `arc-empty-shifts`, `arc-grey-promises`, `arc-drifting-routes`, `arc-quiet-harvest`, `route-era-outside-pressures`, `outside-nine-sails`, `outside-no-return-gate`, `outside-black-ice`, `outside-walking-sea`, `outside-returning-stone`, `route-era-seven-fractures`, `fracture-harmony`, `fracture-oath`, `fracture-resonance`, `fracture-shedding`, `fracture-branching`, `fracture-hospitality`, `fracture-dream`, `route-era-bright-turns`, `bright-maren`, `bright-craft-revolution`, `bright-hero`, `bright-open-knowledge`, `bright-many-neighbors`, `bright-living-harvest`
-- **탐사대** (10): `mission-lost-freighter`, `mission-breathing-forest`, `mission-seeds`, `ships-and-gear`, `route-era-life`, `soel-sheet`, `soel-session-01`, `mission-salt-plain`, `soel-session-02`, `soel-session-03`
-- **사물·개념** (4): `variable-rules-and-life`, `hostile-beings`, `regional-life`, `regional-threats`
-- **마법** (3): `magic-as-practice`, `magic-senses`, `conceptual-relations`
-- **소설** (3): `demon-epoch-fiction-pillars`, `hosumun-eleven-days`, `first-gate`
-- **시작하기** (3): `welcome`, `open-routes-era`, `rulebook`
-- **개요** (2): `grand-questions`, `start-here`
-- **사건** (2): `demon-epoch-chronicle`, `reshaping`
-- **천체** (2): `binary-system`, `space-codes`
+- **탐사대** (5): `mission-lost-freighter`, `route-era-life`, `soel-sheet`, `mission-salt-plain`, `soel-session-03`
 - **롤플레잉** (1): `route-era-compound-scenarios`
 - **세력** (1): `seven-demon-lords`
-- **안내** (1): `worldbuilding-guide`
+- **시작하기** (1): `open-routes-era`
 - **운영 원칙** (1): `exceptional-generations`
 - **인물** (1): `archmage-maren`
-- **장소** (1): `low-cape`
 
 ## 2. 들어오는 연결이 없는 문서 (0)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (263)
+## 3. 한쪽에서만 건 관련 문서 (259)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -214,7 +206,6 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - `outside-nine-sails` → `open-routes-era`
 - `outside-nine-sails` → `magical-distance-and-passage`
 - `outside-nine-sails` → `space-codes`
-- `outside-nine-sails` → `arc-seven-gates`
 - `outside-no-return-gate` → `magical-distance-and-passage`
 - `outside-no-return-gate` → `open-routes-era`
 - `outside-no-return-gate` → `knowledge-horizons`
@@ -254,7 +245,6 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - `fracture-hospitality` → `seven-demon-lords`
 - `fracture-hospitality` → `demon-epoch-hospitality`
 - `fracture-hospitality` → `mission-lost-freighter`
-- `fracture-hospitality` → `outside-no-return-gate`
 - `fracture-dream` → `seven-demon-lords`
 - `fracture-dream` → `demon-epoch-dream`
 - `fracture-dream` → `demon-epoch-chronicle`
@@ -268,14 +258,12 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - `bright-craft-revolution` → `magic-as-practice`
 - `bright-craft-revolution` → `magic-senses`
 - `bright-craft-revolution` → `ships-and-gear`
-- `bright-craft-revolution` → `arc-empty-shifts`
 - `bright-hero` → `magic-as-practice`
 - `bright-hero` → `causal-roleplay`
 - `bright-hero` → `fracture-harmony`
 - `bright-open-knowledge` → `knowledge-horizons`
 - `bright-open-knowledge` → `magic-senses`
 - `bright-open-knowledge` → `mission-salt-plain`
-- `bright-open-knowledge` → `arc-drifting-routes`
 - `bright-many-neighbors` → `open-routes-era`
 - `bright-many-neighbors` → `regional-life`
 - `bright-many-neighbors` → `demon-epoch-chronicle`
