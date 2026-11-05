@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 612,
+  "edge_count": 663,
   "edges": [
     {
       "from": "welcome",
@@ -212,6 +212,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "open-routes-era",
+      "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "rulebook",
       "to": "welcome",
       "type": "related_to",
@@ -364,6 +370,12 @@
     {
       "from": "seven-demon-lords",
       "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "seven-demon-lords",
+      "to": "route-era-seven-fractures",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3146,6 +3158,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "route-era-long-arcs",
+      "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "arc-seven-gates",
       "to": "route-era-long-arcs",
       "type": "related_to",
@@ -3508,6 +3526,294 @@
     {
       "from": "outside-returning-stone",
       "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "route-era-long-arcs",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "route-era-outside-pressures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "fracture-harmony",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "fracture-oath",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "fracture-resonance",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "fracture-shedding",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "fracture-branching",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "fracture-hospitality",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "fracture-dream",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-harmony",
+      "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-harmony",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-harmony",
+      "to": "demon-epoch-harmony",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-harmony",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-oath",
+      "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-oath",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-oath",
+      "to": "demon-epoch-oath",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-oath",
+      "to": "arc-grey-promises",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-oath",
+      "to": "fracture-hospitality",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-oath",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-resonance",
+      "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-resonance",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-resonance",
+      "to": "demon-epoch-resonance",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-resonance",
+      "to": "fracture-shedding",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-shedding",
+      "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-shedding",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-shedding",
+      "to": "demon-epoch-shedding",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-shedding",
+      "to": "arc-empty-shifts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-shedding",
+      "to": "fracture-resonance",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-branching",
+      "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-branching",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-branching",
+      "to": "demon-epoch-branching",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-branching",
+      "to": "arc-drifting-routes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-branching",
+      "to": "fracture-harmony",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-hospitality",
+      "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-hospitality",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-hospitality",
+      "to": "demon-epoch-hospitality",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-hospitality",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-hospitality",
+      "to": "outside-no-return-gate",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-hospitality",
+      "to": "fracture-oath",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-dream",
+      "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-dream",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-dream",
+      "to": "demon-epoch-dream",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-dream",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "fracture-dream",
+      "to": "knowledge-horizons",
       "type": "related_to",
       "basis": "manifest.related"
     },

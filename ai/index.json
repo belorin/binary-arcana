@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 81,
+  "document_count": 89,
   "documents": [
     {
       "id": "welcome",
@@ -89,7 +89,8 @@
         "regional-threats",
         "soel-session-03",
         "route-era-long-arcs",
-        "route-era-outside-pressures"
+        "route-era-outside-pressures",
+        "route-era-seven-fractures"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-routes-era.md",
@@ -188,7 +189,7 @@
       "summary": "기원을 알 수 없는 마왕과 일족의 철학적 행동양식 초안. 일곱 호칭은 저자용이며 세계 내부 인물들의 지식이 아니다.",
       "review_state": "unassessed",
       "review_label": "초안",
-      "last_updated_on": "2026-11-03",
+      "last_updated_on": "2026-11-06",
       "last_enriched_on": "2026-11-03",
       "related_ids": [
         "grand-questions",
@@ -197,7 +198,8 @@
         "scenario-great-crossing",
         "demon-epoch-framework",
         "reshaping",
-        "demon-epoch-chronicle"
+        "demon-epoch-chronicle",
+        "route-era-seven-fractures"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/seven-demon-lords.md",
@@ -2486,7 +2488,8 @@
         "arc-grey-promises",
         "arc-drifting-routes",
         "arc-quiet-harvest",
-        "route-era-outside-pressures"
+        "route-era-outside-pressures",
+        "route-era-seven-fractures"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-long-arcs.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-long-arcs.md",
@@ -2827,6 +2830,246 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/outside-returning-stone.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/outside-returning-stone/",
       "app_url": "https://belorin.github.io/binary-arcana/#outside-returning-stone"
+    },
+    {
+      "id": "route-era-seven-fractures",
+      "title": "마왕과 어긋나는 세기 — 일곱 관계의 파열",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "일곱 마왕",
+        "항로 시대",
+        "세대",
+        "진행자 전용",
+        "장기 시나리오"
+      ],
+      "summary": "항로력 212년 전후부터 30~100년간 일곱 마왕 계열과의 공존이 무너질 수도 있는 세계. 일곱 독립적인 진행자용 장기 시나리오 지도.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-long-arcs",
+        "route-era-outside-pressures",
+        "seven-demon-lords",
+        "demon-epoch-chronicle",
+        "fracture-harmony",
+        "fracture-oath",
+        "fracture-resonance",
+        "fracture-shedding",
+        "fracture-branching",
+        "fracture-hospitality",
+        "fracture-dream",
+        "causal-roleplay",
+        "knowledge-horizons"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-seven-fractures.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-seven-fractures.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-seven-fractures/",
+      "app_url": "https://belorin.github.io/binary-arcana/#route-era-seven-fractures"
+    },
+    {
+      "id": "fracture-harmony",
+      "title": "조화의 파열 — 아무도 미워하지 않는 추방",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "조화",
+        "공생",
+        "추방",
+        "유역 전쟁",
+        "진행자 전용"
+      ],
+      "summary": "조화 일족이 오래된 물가의 공생을 새로 맞추면서 인간 정착지를 밀어내고 유역 전쟁으로 치달을 수 있는 40~80년 위기.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-seven-fractures",
+        "seven-demon-lords",
+        "demon-epoch-harmony",
+        "regional-life"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-harmony.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/fracture-harmony.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/fracture-harmony/",
+      "app_url": "https://belorin.github.io/binary-arcana/#fracture-harmony"
+    },
+    {
+      "id": "fracture-oath",
+      "title": "서약의 파열 — 구해 주지 않겠다는 약속",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "서약",
+        "맹약소",
+        "피난",
+        "법",
+        "진행자 전용"
+      ],
+      "summary": "회색 증인과 오래된 장소의 유효한 약속이 구조선의 통과를 막아 사회적 분열과 장기 법적·물리적 충돌을 낳는 20~70년 시나리오.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-seven-fractures",
+        "seven-demon-lords",
+        "demon-epoch-oath",
+        "arc-grey-promises",
+        "fracture-hospitality",
+        "route-era-life"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-oath.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/fracture-oath.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/fracture-oath/",
+      "app_url": "https://belorin.github.io/binary-arcana/#fracture-oath"
+    },
+    {
+      "id": "fracture-resonance",
+      "title": "공명의 파열 — 모두의 슬픔은 누구의 것인가",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "공명",
+        "돌봄",
+        "정서",
+        "자유",
+        "진행자 전용"
+      ],
+      "summary": "공명의 일족이 돌봄과 애도의 연결을 확대하면서 감정의 자율성과 연대의 가치가 충돌하는 30~60년 장기 위기.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-seven-fractures",
+        "seven-demon-lords",
+        "demon-epoch-resonance",
+        "fracture-shedding"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-resonance.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/fracture-resonance.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/fracture-resonance/",
+      "app_url": "https://belorin.github.io/binary-arcana/#fracture-resonance"
+    },
+    {
+      "id": "fracture-shedding",
+      "title": "탈피의 파열 — 도시가 벗어 놓은 피부",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "탈피",
+        "철수",
+        "항만",
+        "기술 전승",
+        "진행자 전용"
+      ],
+      "summary": "탈피의 일족이 인간 항구의 유지 업무를 스스로 떠나면서 수십 년에 걸친 도시의 인프라와 거주 방식 변화를 야기하는 50~100년 위기.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-seven-fractures",
+        "seven-demon-lords",
+        "demon-epoch-shedding",
+        "arc-empty-shifts",
+        "fracture-resonance"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-shedding.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/fracture-shedding.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/fracture-shedding/",
+      "app_url": "https://belorin.github.io/binary-arcana/#fracture-shedding"
+    },
+    {
+      "id": "fracture-branching",
+      "title": "분기의 파열 — 어제와 다른 문",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "분기",
+        "항로",
+        "생태",
+        "갈림",
+        "진행자 전용"
+      ],
+      "summary": "분기의 일족이 새로운 길과 생태를 지키며 기존 항로와 도시의 반복 가능성을 흔드는 35~90년 위기.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-seven-fractures",
+        "seven-demon-lords",
+        "demon-epoch-branching",
+        "arc-drifting-routes",
+        "fracture-harmony"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-branching.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/fracture-branching.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/fracture-branching/",
+      "app_url": "https://belorin.github.io/binary-arcana/#fracture-branching"
+    },
+    {
+      "id": "fracture-hospitality",
+      "title": "환대의 파열 — 주인은 누구인가",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "환대",
+        "피난처",
+        "거처",
+        "이웃",
+        "진행자 전용"
+      ],
+      "summary": "환대의 일족이 새 손님을 맞느라 오래 살던 주민의 거처와 생존을 밀어내는 20~80년 관계 파열 위기.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-seven-fractures",
+        "seven-demon-lords",
+        "demon-epoch-hospitality",
+        "mission-lost-freighter",
+        "outside-no-return-gate",
+        "fracture-oath"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-hospitality.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/fracture-hospitality.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/fracture-hospitality/",
+      "app_url": "https://belorin.github.io/binary-arcana/#fracture-hospitality"
+    },
+    {
+      "id": "fracture-dream",
+      "title": "몽환의 파열 — 돌아온 자를 돌려보내라",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "몽환",
+        "귀환",
+        "기억",
+        "동일성",
+        "진행자 전용"
+      ],
+      "summary": "몽환의 일족과 접촉한 귀환자의 동일성 변화가 가족, 법정, 시민권과 증언을 흔드는 30~70년 장기 위기.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-seven-fractures",
+        "seven-demon-lords",
+        "demon-epoch-dream",
+        "demon-epoch-chronicle",
+        "knowledge-horizons"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-dream.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/fracture-dream.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/fracture-dream/",
+      "app_url": "https://belorin.github.io/binary-arcana/#fracture-dream"
     }
   ]
 }

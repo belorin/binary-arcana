@@ -600,6 +600,8 @@
 
 - **예기치 않은 바깥의 압력:** 항로 사회 내부의 장기 위기와 별도로, 지도 밖의 세력·피난민·천체·비인간 생태·반환 청구가 끼어들 수 있다([외부 압력 — 진행자 지도](https://belorin.github.io/binary-arcana/notes/route-era-outside-pressures/)). 어느 사건이 실제로 발생하는지는 시작 전에 진행자가 고르며 정해진 미래 역사는 아니다.
 
+- **일곱 관계의 파열 가능성:** 마왕의 일족이 인간 사회에 등을 돌리거나 인간이 관계를 거절하면서 벌어질 수 있는 장기 위기는 [마왕과 어긋나는 세기](https://belorin.github.io/binary-arcana/notes/route-era-seven-fractures/)에 분리했다. 각 갈래는 독립적이며 마왕 일곱의 연합이나 예정된 미래가 아니다.
+
 ---
 
 <!-- 문서: ships-and-gear -->

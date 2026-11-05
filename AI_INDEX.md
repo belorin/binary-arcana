@@ -86,6 +86,30 @@
 - **[돌을 돌려달라는 손님 — 도시 아래의 타인](wiki/outside-returning-stone.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
   - 항로력 210년대 이후 10~50년짜리 외부 행위자 시나리오. 도시 토대의 돌을 친족으로 부르는 방문자가 찾아와 관계적 소유와 생존이 충돌한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-returning-stone/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-returning-stone.md)
+- **[마왕과 어긋나는 세기 — 일곱 관계의 파열](wiki/route-era-seven-fractures.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 항로력 212년 전후부터 30~100년간 일곱 마왕 계열과의 공존이 무너질 수도 있는 세계. 일곱 독립적인 진행자용 장기 시나리오 지도.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-seven-fractures/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-seven-fractures.md)
+- **[조화의 파열 — 아무도 미워하지 않는 추방](wiki/fracture-harmony.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 조화 일족이 오래된 물가의 공생을 새로 맞추면서 인간 정착지를 밀어내고 유역 전쟁으로 치달을 수 있는 40~80년 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-harmony/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-harmony.md)
+- **[서약의 파열 — 구해 주지 않겠다는 약속](wiki/fracture-oath.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 회색 증인과 오래된 장소의 유효한 약속이 구조선의 통과를 막아 사회적 분열과 장기 법적·물리적 충돌을 낳는 20~70년 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-oath/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-oath.md)
+- **[공명의 파열 — 모두의 슬픔은 누구의 것인가](wiki/fracture-resonance.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 공명의 일족이 돌봄과 애도의 연결을 확대하면서 감정의 자율성과 연대의 가치가 충돌하는 30~60년 장기 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-resonance/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-resonance.md)
+- **[탈피의 파열 — 도시가 벗어 놓은 피부](wiki/fracture-shedding.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 탈피의 일족이 인간 항구의 유지 업무를 스스로 떠나면서 수십 년에 걸친 도시의 인프라와 거주 방식 변화를 야기하는 50~100년 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-shedding/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-shedding.md)
+- **[분기의 파열 — 어제와 다른 문](wiki/fracture-branching.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 분기의 일족이 새로운 길과 생태를 지키며 기존 항로와 도시의 반복 가능성을 흔드는 35~90년 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-branching/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-branching.md)
+- **[환대의 파열 — 주인은 누구인가](wiki/fracture-hospitality.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 환대의 일족이 새 손님을 맞느라 오래 살던 주민의 거처와 생존을 밀어내는 20~80년 관계 파열 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-hospitality/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-hospitality.md)
+- **[몽환의 파열 — 돌아온 자를 돌려보내라](wiki/fracture-dream.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 몽환의 일족과 접촉한 귀환자의 동일성 변화가 가족, 법정, 시민권과 증언을 흔드는 30~70년 장기 위기.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/fracture-dream/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/fracture-dream.md)
 
 ## 개요
 
@@ -131,7 +155,7 @@
 
 ## 세력
 
-- **[일곱 마왕과 그 일족](wiki/seven-demon-lords.md)** · 별칭: 칠마왕, 마왕 일족 · 수정: 2026-11-03 · 상태: 초안
+- **[일곱 마왕과 그 일족](wiki/seven-demon-lords.md)** · 별칭: 칠마왕, 마왕 일족 · 수정: 2026-11-06 · 상태: 초안
   - 기원을 알 수 없는 마왕과 일족의 철학적 행동양식 초안. 일곱 호칭은 저자용이며 세계 내부 인물들의 지식이 아니다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/seven-demon-lords/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md)
 

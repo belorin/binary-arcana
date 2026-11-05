@@ -58,6 +58,14 @@
 - [검은 얼음의 방문 — 두 해를 지나가는 낙하의 시간](https://belorin.github.io/binary-arcana/notes/outside-black-ice/): 항로력 210년대 이후 나타날 수 있는 외부 천체 파편과 낙하 위험. 단기간 물리 재난과 수십 년 후유증을 구분한 진행자용 시나리오.
 - [걸어오는 바다 — 지도의 바깥에서 옮겨 다니는 해안](https://belorin.github.io/binary-arcana/notes/outside-walking-sea/): 40~90년짜리 거대 비인간 생태 이동 시나리오. 누리 미답 대양에서 도착하는 이동 군체가 항구와 바다 생태를 바꾼다.
 - [돌을 돌려달라는 손님 — 도시 아래의 타인](https://belorin.github.io/binary-arcana/notes/outside-returning-stone/): 항로력 210년대 이후 10~50년짜리 외부 행위자 시나리오. 도시 토대의 돌을 친족으로 부르는 방문자가 찾아와 관계적 소유와 생존이 충돌한다.
+- [마왕과 어긋나는 세기 — 일곱 관계의 파열](https://belorin.github.io/binary-arcana/notes/route-era-seven-fractures/): 항로력 212년 전후부터 30~100년간 일곱 마왕 계열과의 공존이 무너질 수도 있는 세계. 일곱 독립적인 진행자용 장기 시나리오 지도.
+- [조화의 파열 — 아무도 미워하지 않는 추방](https://belorin.github.io/binary-arcana/notes/fracture-harmony/): 조화 일족이 오래된 물가의 공생을 새로 맞추면서 인간 정착지를 밀어내고 유역 전쟁으로 치달을 수 있는 40~80년 위기.
+- [서약의 파열 — 구해 주지 않겠다는 약속](https://belorin.github.io/binary-arcana/notes/fracture-oath/): 회색 증인과 오래된 장소의 유효한 약속이 구조선의 통과를 막아 사회적 분열과 장기 법적·물리적 충돌을 낳는 20~70년 시나리오.
+- [공명의 파열 — 모두의 슬픔은 누구의 것인가](https://belorin.github.io/binary-arcana/notes/fracture-resonance/): 공명의 일족이 돌봄과 애도의 연결을 확대하면서 감정의 자율성과 연대의 가치가 충돌하는 30~60년 장기 위기.
+- [탈피의 파열 — 도시가 벗어 놓은 피부](https://belorin.github.io/binary-arcana/notes/fracture-shedding/): 탈피의 일족이 인간 항구의 유지 업무를 스스로 떠나면서 수십 년에 걸친 도시의 인프라와 거주 방식 변화를 야기하는 50~100년 위기.
+- [분기의 파열 — 어제와 다른 문](https://belorin.github.io/binary-arcana/notes/fracture-branching/): 분기의 일족이 새로운 길과 생태를 지키며 기존 항로와 도시의 반복 가능성을 흔드는 35~90년 위기.
+- [환대의 파열 — 주인은 누구인가](https://belorin.github.io/binary-arcana/notes/fracture-hospitality/): 환대의 일족이 새 손님을 맞느라 오래 살던 주민의 거처와 생존을 밀어내는 20~80년 관계 파열 위기.
+- [몽환의 파열 — 돌아온 자를 돌려보내라](https://belorin.github.io/binary-arcana/notes/fracture-dream/): 몽환의 일족과 접촉한 귀환자의 동일성 변화가 가족, 법정, 시민권과 증언을 흔드는 30~70년 장기 위기.
 
 ### 개요
 
