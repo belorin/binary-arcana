@@ -127,6 +127,13 @@
       "type": "introduces",
       "evidence_section": "첫째 문 — 세계를 읽는다",
       "reason": "항로 시대의 일상을 보여 주는 소설로 안내한다."
+    },
+    {
+      "from": "welcome",
+      "to": "first-gate",
+      "type": "introduces",
+      "evidence_section": "첫째 문 — 세계를 읽는다",
+      "reason": "항로 시대의 탐험 쪽 분위기를 보여 주는 소설로 안내한다."
     }
   ]
 }

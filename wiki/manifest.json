@@ -29,7 +29,8 @@
         "ships-and-gear",
         "route-era-life",
         "mission-seeds",
-        "hosumun-eleven-days"
+        "hosumun-eleven-days",
+        "first-gate"
       ],
       "aliases": [
         "입구",
@@ -1992,6 +1993,40 @@
       "aliases": [
         "호수문의 열하루",
         "만두가 식는 동안"
+      ],
+      "review_state": "unassessed",
+      "last_enriched_on": "2026-11-05"
+    },
+    {
+      "path": "wiki/first-gate.md",
+      "publish": true,
+      "order": 49,
+      "id": "first-gate",
+      "title": "첫 문 — 길잡이 면허 시험",
+      "category": "소설",
+      "status": "맛보기 소설 · 정본",
+      "updated": "2026-11-05",
+      "summary": "신참 길잡이 주아가 연습선 참새호로 그늘역에서 늪항까지 처음 항로를 열고, 틈에서 일 분을 버티는 면허 시험. 이름을 부르는 목소리와 등 꺼진 화물선.",
+      "tags": [
+        "소설",
+        "항로 시대",
+        "길잡이",
+        "틈"
+      ],
+      "source": "사용자가 자유 작업을 맡겨 Claude가 쓴 맛보기 소설",
+      "related": [
+        "open-routes-era",
+        "hosumun-eleven-days",
+        "welcome",
+        "rulebook",
+        "mission-lost-freighter",
+        "mission-seeds",
+        "route-era-life"
+      ],
+      "aliases": [
+        "길잡이 면허 시험",
+        "참새호",
+        "주아와 미르"
       ],
       "review_state": "unassessed",
       "last_enriched_on": "2026-11-05"

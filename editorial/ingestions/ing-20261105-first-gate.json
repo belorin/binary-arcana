@@ -1,0 +1,33 @@
+{
+  "id": "ing-20261105-first-gate",
+  "processed_on": "2026-11-05",
+  "coverage": "visible-complete",
+  "limit_note": "사용자가 자유 작업을 맡겨 Claude가 쓴 맛보기 소설",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "길잡이 면허 실기 시험의 방식과 연습선 참새호, 시험관 미르, 신참 길잡이 주아",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "first-gate",
+          "section": "정본의 범위"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "연습선은 여러 사람과 얕게 사이를 맺는다. 틈의 목소리는 듣는 사람마다 다르다. 길잡이들은 틈에서 본 것을 각자 수첩에 적는다",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "first-gate",
+          "section": "정본의 범위"
+        }
+      ]
+    }
+  ]
+}
