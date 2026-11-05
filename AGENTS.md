@@ -6,7 +6,8 @@
 
 | 작업 | 읽을 문서 |
 | --- | --- |
-| 소설·롤플레잉 세션 진행과 기록 | [PLAY.md](./PLAY.md) — 이것부터. 세션 끝에 `inbox/` 묶음 하나만 커밋 |
+| 탐사대 룰북 세션(항로 시대) 진행과 기록 | [wiki/welcome.md](./wiki/welcome.md) + [wiki/rulebook.md](./wiki/rulebook.md) + 고른 임무 파일. 기록은 [PLAY.md](./PLAY.md)의 「탐사대 룰북 세션」 절. `story-state`는 쓰지 않는다 |
+| 아렌 서사 등 자유 소설·롤플레잉 세션 진행과 기록 | [PLAY.md](./PLAY.md) — 이것부터. 세션 끝에 `inbox/` 묶음 하나만 커밋 |
 | 두 AI가 적대 세력을 맡는 대국 | [wiki/rival-play.md](./wiki/rival-play.md)(확정 규칙) + [wiki/rival-gc-state.md](./wiki/rival-gc-state.md)(현재 기준 상태). 자기 역할의 문서만 쓴다 |
 | 대화·자료의 지식을 위키에 반영 | [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md) + [GUIDE.md](./GUIDE.md) |
 | 위키 전체 정비 | [WIKI_PROTOCOL.md](./WIKI_PROTOCOL.md) + [MAINTENANCE.md](./MAINTENANCE.md) |
