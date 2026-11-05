@@ -115,6 +115,11 @@
             "id": "route-era-life",
             "kicker": "사전",
             "desc": "항구의 하루, 음식, 말버릇, 미신, 축제."
+          },
+          {
+            "id": "hostile-beings",
+            "kicker": "사전 · 생물과 위협",
+            "desc": "사람의 불빛을 따라오는 열두 종류. 지역의 기본종과 국소 위협 문서로 이어진다."
           }
         ]
       },
@@ -356,6 +361,16 @@
         "open-routes-era",
         "ships-and-gear",
         "route-era-life"
+      ]
+    },
+    {
+      "file": "play-creatures.md",
+      "title": "Binary Arcana 놀이 묶음 — 생물과 위협",
+      "lead": "적대적 존재 열두 종류, 여섯 지역의 기본종과 생활, 지역 위협 여덟. \"전부\"나 \"기본\" 묶음과 함께 주면 진행자가 만남과 위협을 이 안에서 고른다.",
+      "docs": [
+        "hostile-beings",
+        "regional-life",
+        "regional-threats"
       ]
     }
   ]

@@ -62,6 +62,7 @@ PLAY.md의 「탐사대 룰북 세션」 절을 따르고, 주사위는 scripts/
 | --- | --- | --- | --- |
 | 전부 | 룰북, 세계 안내, 사전 둘, 임무 넷 | 약 140KB | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/ai/play.md) · `https://belorin.github.io/binary-arcana/ai/play.md` |
 | 기본 | 룰북, 세계 안내, 사전 둘 | 약 80KB | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/ai/play-core.md) · `https://belorin.github.io/binary-arcana/ai/play-core.md` |
+| 생물과 위협 | 적대적 존재 열둘, 지역의 기본종과 생활, 지역 위협 여덟. "전부"나 "기본"과 함께 준다 | 약 75KB | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/ai/play-creatures.md) · `https://belorin.github.io/binary-arcana/ai/play-creatures.md` |
 | 룰북만 | 룰북 하나 | 약 35KB | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md) |
 
 주소를 줄 때 첫 메시지 예시:
@@ -87,6 +88,9 @@ AI가 "열 수 없다"고 하거나 읽지 않고 지어내는 것 같으면, �
 | 방금 떠난 야영지 | 한 세션짜리 임무. 돌아온 별 남쪽 소금 평원, 머문 것을 새기고 늦게 읽어 주는 땅 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-salt-plain.md) |
 | 건넘선과 장비 | 배의 부분과 성깔, 탈것, 자금, 장비와 아이템 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/ships-and-gear.md) |
 | 항로 시대의 생활 | 항구, 직업, 음식, 말버릇, 미신, 축제, 지역 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md) |
+| 사람의 불빛을 따라오는 것들 | 적대적 존재 열두 종류와 변이 원칙 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/hostile-beings.md) |
+| 지역과 시대의 생명들 | 여섯 지역의 기본종과 얽힌 생활 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/regional-life.md) |
+| 지역에서 마주치는 위협 | 지역과 시대가 정해진 위협 여덟 | [원문](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/regional-threats.md) |
 
 임무 파일을 넣었다면 첫 메시지를 이렇게 바꾼다: "함께 준 임무 「바람 끝의 손님들」로 시작하자."
 

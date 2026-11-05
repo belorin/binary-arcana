@@ -31,7 +31,10 @@
         "mission-seeds",
         "hosumun-eleven-days",
         "first-gate",
-        "mission-salt-plain"
+        "mission-salt-plain",
+        "hostile-beings",
+        "regional-life",
+        "regional-threats"
       ],
       "aliases": [
         "입구",
@@ -114,7 +117,9 @@
         "mission-seeds",
         "conceptual-relations",
         "hostile-beings",
-        "mission-salt-plain"
+        "mission-salt-plain",
+        "regional-life",
+        "regional-threats"
       ],
       "aliases": [
         "룰북",
