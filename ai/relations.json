@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 575,
+  "edge_count": 612,
   "edges": [
     {
       "from": "welcome",
@@ -202,6 +202,12 @@
     {
       "from": "open-routes-era",
       "to": "route-era-long-arcs",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "route-era-outside-pressures",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3134,6 +3140,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "route-era-long-arcs",
+      "to": "route-era-outside-pressures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "arc-seven-gates",
       "to": "route-era-long-arcs",
       "type": "related_to",
@@ -3285,6 +3297,216 @@
     },
     {
       "from": "arc-quiet-harvest",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-outside-pressures",
+      "to": "route-era-long-arcs",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-outside-pressures",
+      "to": "outside-nine-sails",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-outside-pressures",
+      "to": "outside-no-return-gate",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-outside-pressures",
+      "to": "outside-black-ice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-outside-pressures",
+      "to": "outside-walking-sea",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-outside-pressures",
+      "to": "outside-returning-stone",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-outside-pressures",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-outside-pressures",
+      "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-outside-pressures",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-nine-sails",
+      "to": "route-era-outside-pressures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-nine-sails",
+      "to": "route-era-long-arcs",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-nine-sails",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-nine-sails",
+      "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-nine-sails",
+      "to": "space-codes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-nine-sails",
+      "to": "arc-seven-gates",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-no-return-gate",
+      "to": "route-era-outside-pressures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-no-return-gate",
+      "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-no-return-gate",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-no-return-gate",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-no-return-gate",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-black-ice",
+      "to": "route-era-outside-pressures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-black-ice",
+      "to": "binary-system",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-black-ice",
+      "to": "sky-positions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-black-ice",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-black-ice",
+      "to": "causal-roleplay",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-walking-sea",
+      "to": "route-era-outside-pressures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-walking-sea",
+      "to": "binary-system",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-walking-sea",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-walking-sea",
+      "to": "regional-threats",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-walking-sea",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-returning-stone",
+      "to": "route-era-outside-pressures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-returning-stone",
+      "to": "magic-as-practice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-returning-stone",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-returning-stone",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "outside-returning-stone",
       "to": "causal-roleplay",
       "type": "related_to",
       "basis": "manifest.related"

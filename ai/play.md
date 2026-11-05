@@ -598,6 +598,8 @@
 
 - **항로력 210년대의 장기 위기:** 212년 전후에 시작해 30~100년간 전개될 수 있는 다섯 진행자용 시나리오는 [장기 위기 지도](https://belorin.github.io/binary-arcana/notes/route-era-long-arcs/)에 둔다. 미래 사건과 결과는 아직 실제 역사로 확정하지 않는다.
 
+- **예기치 않은 바깥의 압력:** 항로 사회 내부의 장기 위기와 별도로, 지도 밖의 세력·피난민·천체·비인간 생태·반환 청구가 끼어들 수 있다([외부 압력 — 진행자 지도](https://belorin.github.io/binary-arcana/notes/route-era-outside-pressures/)). 어느 사건이 실제로 발생하는지는 시작 전에 진행자가 고르며 정해진 미래 역사는 아니다.
+
 ---
 
 <!-- 문서: ships-and-gear -->

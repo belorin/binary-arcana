@@ -79,7 +79,8 @@
         "regional-life",
         "regional-threats",
         "soel-session-03",
-        "route-era-long-arcs"
+        "route-era-long-arcs",
+        "route-era-outside-pressures"
       ],
       "aliases": [
         "항로 시대",
@@ -2477,7 +2478,8 @@
         "arc-empty-shifts",
         "arc-grey-promises",
         "arc-drifting-routes",
-        "arc-quiet-harvest"
+        "arc-quiet-harvest",
+        "route-era-outside-pressures"
       ],
       "aliases": [],
       "review_state": "unassessed",
@@ -2628,6 +2630,190 @@
         "hostile-beings",
         "open-routes-era",
         "mission-salt-plain",
+        "causal-roleplay"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/route-era-outside-pressures.md",
+      "publish": true,
+      "order": 62,
+      "id": "route-era-outside-pressures",
+      "title": "항로 시대의 외부 압력 — 지도 밖에서 끼어드는 다섯 사건",
+      "category": "탐사대",
+      "status": "장기 시나리오 후보 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "항로력 210년대 이후 외부에서 불쑥 도착하는 다섯 독립 위기. 무장 선단, 피난 통로, 천체 파편, 유영하는 생태계, 오래된 토대의 반환 요구를 다룬 진행자 지도.",
+      "tags": [
+        "외부 압력",
+        "항로 시대",
+        "장기 시나리오",
+        "진행자용",
+        "돌발 사건"
+      ],
+      "source": "항로력 210년대의 독립적 외부 압력 구상",
+      "related": [
+        "route-era-long-arcs",
+        "outside-nine-sails",
+        "outside-no-return-gate",
+        "outside-black-ice",
+        "outside-walking-sea",
+        "outside-returning-stone",
+        "causal-roleplay",
+        "magical-distance-and-passage",
+        "knowledge-horizons"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/outside-nine-sails.md",
+      "publish": true,
+      "order": 63,
+      "id": "outside-nine-sails",
+      "title": "아홉 척의 흰 돛 — 지도 밖 함대의 칙령",
+      "category": "탐사대",
+      "status": "장기 시나리오 후보 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "항로력 210년대 이후 20~60년짜리 외부 침입 시나리오. 다른 통행망에서 온 아홉 척의 무장 선단이 그늘역의 항로 관리권을 요구한다.",
+      "tags": [
+        "외부 압력",
+        "침입",
+        "무장 선단",
+        "그늘역",
+        "20~60년",
+        "진행자용"
+      ],
+      "source": "항로력 210년대의 독립적 외부 압력 구상",
+      "related": [
+        "route-era-outside-pressures",
+        "route-era-long-arcs",
+        "open-routes-era",
+        "magical-distance-and-passage",
+        "space-codes",
+        "arc-seven-gates"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/outside-no-return-gate.md",
+      "publish": true,
+      "order": 64,
+      "id": "outside-no-return-gate",
+      "title": "돌아갈 문이 없는 사람들 — 누가 그들을 맞을 것인가",
+      "category": "탐사대",
+      "status": "장기 시나리오 후보 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "항로력 210년대 이후 30~100년짜리 외부 이주 시나리오. 미지의 통행망에서 열린 편도 문이 수세대의 피난과 정착 문제를 가져온다.",
+      "tags": [
+        "외부 압력",
+        "피난",
+        "이주",
+        "새로운 문",
+        "30~100년",
+        "진행자용"
+      ],
+      "source": "항로력 210년대의 독립적 외부 압력 구상",
+      "related": [
+        "route-era-outside-pressures",
+        "magical-distance-and-passage",
+        "open-routes-era",
+        "knowledge-horizons",
+        "causal-roleplay"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/outside-black-ice.md",
+      "publish": true,
+      "order": 65,
+      "id": "outside-black-ice",
+      "title": "검은 얼음의 방문 — 두 해를 지나가는 낙하의 시간",
+      "category": "탐사대",
+      "status": "장기 시나리오 후보 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "항로력 210년대 이후 나타날 수 있는 외부 천체 파편과 낙하 위험. 단기간 물리 재난과 수십 년 후유증을 구분한 진행자용 시나리오.",
+      "tags": [
+        "외부 압력",
+        "천체",
+        "낙하",
+        "재난",
+        "세대",
+        "진행자용"
+      ],
+      "source": "항로력 210년대의 독립적 외부 압력 구상",
+      "related": [
+        "route-era-outside-pressures",
+        "binary-system",
+        "sky-positions",
+        "open-routes-era",
+        "causal-roleplay"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/outside-walking-sea.md",
+      "publish": true,
+      "order": 66,
+      "id": "outside-walking-sea",
+      "title": "걸어오는 바다 — 지도의 바깥에서 옮겨 다니는 해안",
+      "category": "탐사대",
+      "status": "장기 시나리오 후보 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "40~90년짜리 거대 비인간 생태 이동 시나리오. 누리 미답 대양에서 도착하는 이동 군체가 항구와 바다 생태를 바꾼다.",
+      "tags": [
+        "외부 압력",
+        "바다",
+        "비인간 생명",
+        "생태 이동",
+        "40~90년",
+        "진행자용"
+      ],
+      "source": "항로력 210년대의 독립적 외부 압력 구상",
+      "related": [
+        "route-era-outside-pressures",
+        "binary-system",
+        "regional-life",
+        "regional-threats",
+        "knowledge-horizons"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/outside-returning-stone.md",
+      "publish": true,
+      "order": 67,
+      "id": "outside-returning-stone",
+      "title": "돌을 돌려달라는 손님 — 도시 아래의 타인",
+      "category": "탐사대",
+      "status": "장기 시나리오 후보 · 진행자 전용",
+      "updated": "2026-11-06",
+      "summary": "항로력 210년대 이후 10~50년짜리 외부 행위자 시나리오. 도시 토대의 돌을 친족으로 부르는 방문자가 찾아와 관계적 소유와 생존이 충돌한다.",
+      "tags": [
+        "외부 압력",
+        "낯선 존재",
+        "반환 요구",
+        "도시",
+        "10~50년",
+        "진행자용"
+      ],
+      "source": "항로력 210년대의 독립적 외부 압력 구상",
+      "related": [
+        "route-era-outside-pressures",
+        "magic-as-practice",
+        "open-routes-era",
+        "knowledge-horizons",
         "causal-roleplay"
       ],
       "aliases": [],

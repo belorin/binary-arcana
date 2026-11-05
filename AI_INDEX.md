@@ -68,6 +68,24 @@
 - **[고요한 수확 — 백 해의 정원사들](wiki/arc-quiet-harvest.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 · 진행자 전용
   - 항로력 212~312년의 100년 장기 시나리오. 돌아온 별의 정원사들이 실제 표본 운송을 따라 퍼져 배움과 기록의 전승을 위협한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/arc-quiet-harvest/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/arc-quiet-harvest.md)
+- **[항로 시대의 외부 압력 — 지도 밖에서 끼어드는 다섯 사건](wiki/route-era-outside-pressures.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 항로력 210년대 이후 외부에서 불쑥 도착하는 다섯 독립 위기. 무장 선단, 피난 통로, 천체 파편, 유영하는 생태계, 오래된 토대의 반환 요구를 다룬 진행자 지도.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-outside-pressures/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-outside-pressures.md)
+- **[아홉 척의 흰 돛 — 지도 밖 함대의 칙령](wiki/outside-nine-sails.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 항로력 210년대 이후 20~60년짜리 외부 침입 시나리오. 다른 통행망에서 온 아홉 척의 무장 선단이 그늘역의 항로 관리권을 요구한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-nine-sails/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-nine-sails.md)
+- **[돌아갈 문이 없는 사람들 — 누가 그들을 맞을 것인가](wiki/outside-no-return-gate.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 항로력 210년대 이후 30~100년짜리 외부 이주 시나리오. 미지의 통행망에서 열린 편도 문이 수세대의 피난과 정착 문제를 가져온다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-no-return-gate/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-no-return-gate.md)
+- **[검은 얼음의 방문 — 두 해를 지나가는 낙하의 시간](wiki/outside-black-ice.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 항로력 210년대 이후 나타날 수 있는 외부 천체 파편과 낙하 위험. 단기간 물리 재난과 수십 년 후유증을 구분한 진행자용 시나리오.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-black-ice/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-black-ice.md)
+- **[걸어오는 바다 — 지도의 바깥에서 옮겨 다니는 해안](wiki/outside-walking-sea.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 40~90년짜리 거대 비인간 생태 이동 시나리오. 누리 미답 대양에서 도착하는 이동 군체가 항구와 바다 생태를 바꾼다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-walking-sea/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-walking-sea.md)
+- **[돌을 돌려달라는 손님 — 도시 아래의 타인](wiki/outside-returning-stone.md)** · 수정: 2026-11-06 · 상태: 장기 시나리오 후보 · 진행자 전용
+  - 항로력 210년대 이후 10~50년짜리 외부 행위자 시나리오. 도시 토대의 돌을 친족으로 부르는 방문자가 찾아와 관계적 소유와 생존이 충돌한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/outside-returning-stone/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-returning-stone.md)
 
 ## 개요
 

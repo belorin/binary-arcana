@@ -2,11 +2,11 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `route-era-long-arcs` · 분류: 탐사대 · 공개 · 원고: [wiki/route-era-long-arcs.md](../../../wiki/route-era-long-arcs.md) · 2,548자 · 절 5개
+- id: `route-era-long-arcs` · 분류: 탐사대 · 공개 · 원고: [wiki/route-era-long-arcs.md](../../../wiki/route-era-long-arcs.md) · 2,741자 · 절 5개
 - 요약: 항로력 212년 전후를 시작으로 30~100년간 독립적으로 전개될 수 있는 다섯 장기 위기의 진행자용 지도.
 - 태그: 항로 시대, 장기 캠페인, 세대, 대턴, 진행자용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `open-routes-era`, `rulebook`, `causal-roleplay`, `knowledge-horizons`, `arc-seven-gates`, `arc-empty-shifts`, `arc-grey-promises`, `arc-drifting-routes`, `arc-quiet-harvest`
+- 관련 문서: `open-routes-era`, `rulebook`, `causal-roleplay`, `knowledge-horizons`, `arc-seven-gates`, `arc-empty-shifts`, `arc-grey-promises`, `arc-drifting-routes`, `arc-quiet-harvest`, `route-era-outside-pressures`
 
 ## 절 목차
 
@@ -17,7 +17,7 @@
   - 위기들의 지도 · L7–17 · 761자 · `170382f8` — (표)
   - 정본, 새 출발점, 미정의 경계 · L19–24 · 555자 · `94623ae5` — 기존 정본: 나눔 사이는 실제 교대와 관계에 의존한다.
   - 세대 단위 진행법 · L26–33 · 705자 · `ab098122` — 캠페인에서는 보통 전면 위기 하나, 기삿거리·물가·가족사처럼 드문드문 들리는 주변 위기 하나만 굴린다.
-  - 서로 스칠 때 · L35–39 · 242자 · `04b4f3c3` — 문 분쟁이 당번꾼을 떠나게 했다면 그 구역에서 빈당번이 자랄 수 있다.
+  - 서로 스칠 때 · L35–41 · 435자 · `0736c915` — 문 분쟁이 당번꾼을 떠나게 했다면 그 구역에서 빈당번이 자랄 수 있다.
 
 ## 장부에 기록된 반영 지식
 

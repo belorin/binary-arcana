@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 75,
+  "document_count": 81,
   "documents": [
     {
       "id": "welcome",
@@ -88,7 +88,8 @@
         "regional-life",
         "regional-threats",
         "soel-session-03",
-        "route-era-long-arcs"
+        "route-era-long-arcs",
+        "route-era-outside-pressures"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-routes-era.md",
@@ -2484,7 +2485,8 @@
         "arc-empty-shifts",
         "arc-grey-promises",
         "arc-drifting-routes",
-        "arc-quiet-harvest"
+        "arc-quiet-harvest",
+        "route-era-outside-pressures"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-long-arcs.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-long-arcs.md",
@@ -2641,6 +2643,190 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/arc-quiet-harvest.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/arc-quiet-harvest/",
       "app_url": "https://belorin.github.io/binary-arcana/#arc-quiet-harvest"
+    },
+    {
+      "id": "route-era-outside-pressures",
+      "title": "항로 시대의 외부 압력 — 지도 밖에서 끼어드는 다섯 사건",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "외부 압력",
+        "항로 시대",
+        "장기 시나리오",
+        "진행자용",
+        "돌발 사건"
+      ],
+      "summary": "항로력 210년대 이후 외부에서 불쑥 도착하는 다섯 독립 위기. 무장 선단, 피난 통로, 천체 파편, 유영하는 생태계, 오래된 토대의 반환 요구를 다룬 진행자 지도.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-long-arcs",
+        "outside-nine-sails",
+        "outside-no-return-gate",
+        "outside-black-ice",
+        "outside-walking-sea",
+        "outside-returning-stone",
+        "causal-roleplay",
+        "magical-distance-and-passage",
+        "knowledge-horizons"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-outside-pressures.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-outside-pressures.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-outside-pressures/",
+      "app_url": "https://belorin.github.io/binary-arcana/#route-era-outside-pressures"
+    },
+    {
+      "id": "outside-nine-sails",
+      "title": "아홉 척의 흰 돛 — 지도 밖 함대의 칙령",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "외부 압력",
+        "침입",
+        "무장 선단",
+        "그늘역",
+        "20~60년",
+        "진행자용"
+      ],
+      "summary": "항로력 210년대 이후 20~60년짜리 외부 침입 시나리오. 다른 통행망에서 온 아홉 척의 무장 선단이 그늘역의 항로 관리권을 요구한다.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-outside-pressures",
+        "route-era-long-arcs",
+        "open-routes-era",
+        "magical-distance-and-passage",
+        "space-codes",
+        "arc-seven-gates"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-nine-sails.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/outside-nine-sails.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/outside-nine-sails/",
+      "app_url": "https://belorin.github.io/binary-arcana/#outside-nine-sails"
+    },
+    {
+      "id": "outside-no-return-gate",
+      "title": "돌아갈 문이 없는 사람들 — 누가 그들을 맞을 것인가",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "외부 압력",
+        "피난",
+        "이주",
+        "새로운 문",
+        "30~100년",
+        "진행자용"
+      ],
+      "summary": "항로력 210년대 이후 30~100년짜리 외부 이주 시나리오. 미지의 통행망에서 열린 편도 문이 수세대의 피난과 정착 문제를 가져온다.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-outside-pressures",
+        "magical-distance-and-passage",
+        "open-routes-era",
+        "knowledge-horizons",
+        "causal-roleplay"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-no-return-gate.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/outside-no-return-gate.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/outside-no-return-gate/",
+      "app_url": "https://belorin.github.io/binary-arcana/#outside-no-return-gate"
+    },
+    {
+      "id": "outside-black-ice",
+      "title": "검은 얼음의 방문 — 두 해를 지나가는 낙하의 시간",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "외부 압력",
+        "천체",
+        "낙하",
+        "재난",
+        "세대",
+        "진행자용"
+      ],
+      "summary": "항로력 210년대 이후 나타날 수 있는 외부 천체 파편과 낙하 위험. 단기간 물리 재난과 수십 년 후유증을 구분한 진행자용 시나리오.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-outside-pressures",
+        "binary-system",
+        "sky-positions",
+        "open-routes-era",
+        "causal-roleplay"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-black-ice.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/outside-black-ice.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/outside-black-ice/",
+      "app_url": "https://belorin.github.io/binary-arcana/#outside-black-ice"
+    },
+    {
+      "id": "outside-walking-sea",
+      "title": "걸어오는 바다 — 지도의 바깥에서 옮겨 다니는 해안",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "외부 압력",
+        "바다",
+        "비인간 생명",
+        "생태 이동",
+        "40~90년",
+        "진행자용"
+      ],
+      "summary": "40~90년짜리 거대 비인간 생태 이동 시나리오. 누리 미답 대양에서 도착하는 이동 군체가 항구와 바다 생태를 바꾼다.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-outside-pressures",
+        "binary-system",
+        "regional-life",
+        "regional-threats",
+        "knowledge-horizons"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-walking-sea.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/outside-walking-sea.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/outside-walking-sea/",
+      "app_url": "https://belorin.github.io/binary-arcana/#outside-walking-sea"
+    },
+    {
+      "id": "outside-returning-stone",
+      "title": "돌을 돌려달라는 손님 — 도시 아래의 타인",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "외부 압력",
+        "낯선 존재",
+        "반환 요구",
+        "도시",
+        "10~50년",
+        "진행자용"
+      ],
+      "summary": "항로력 210년대 이후 10~50년짜리 외부 행위자 시나리오. 도시 토대의 돌을 친족으로 부르는 방문자가 찾아와 관계적 소유와 생존이 충돌한다.",
+      "review_state": "unassessed",
+      "review_label": "장기 시나리오 후보 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-outside-pressures",
+        "magic-as-practice",
+        "open-routes-era",
+        "knowledge-horizons",
+        "causal-roleplay"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/outside-returning-stone.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/outside-returning-stone.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/outside-returning-stone/",
+      "app_url": "https://belorin.github.io/binary-arcana/#outside-returning-stone"
     }
   ]
 }
