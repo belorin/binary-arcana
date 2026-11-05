@@ -4,9 +4,9 @@
 
 마지막 정비: **M002** (2026-11-04) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 96개 · 변경 문서 61 · 고립 0 · 한쪽 연결 250 · 보류 8 · 열린 교차 제안 0
+원고 97개 · 변경 문서 62 · 고립 0 · 한쪽 연결 263 · 보류 8 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (61)
+## 1. 지난 정비 이후 변경된 문서 (62)
 
 manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -19,6 +19,7 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - **개요** (2): `grand-questions`, `start-here`
 - **사건** (2): `demon-epoch-chronicle`, `reshaping`
 - **천체** (2): `binary-system`, `space-codes`
+- **롤플레잉** (1): `route-era-compound-scenarios`
 - **세력** (1): `seven-demon-lords`
 - **안내** (1): `worldbuilding-guide`
 - **운영 원칙** (1): `exceptional-generations`
@@ -30,7 +31,7 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (250)
+## 3. 한쪽에서만 건 관련 문서 (263)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -284,6 +285,19 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - `bright-living-harvest` → `variable-rules-and-life`
 - `bright-living-harvest` → `magic-as-practice`
 - `bright-living-harvest` → `arc-quiet-harvest`
+- `route-era-compound-scenarios` → `arc-empty-shifts`
+- `route-era-compound-scenarios` → `bright-craft-revolution`
+- `route-era-compound-scenarios` → `arc-drifting-routes`
+- `route-era-compound-scenarios` → `bright-open-knowledge`
+- `route-era-compound-scenarios` → `fracture-shedding`
+- `route-era-compound-scenarios` → `bright-many-neighbors`
+- `route-era-compound-scenarios` → `outside-black-ice`
+- `route-era-compound-scenarios` → `bright-maren`
+- `route-era-compound-scenarios` → `arc-seven-gates`
+- `route-era-compound-scenarios` → `outside-nine-sails`
+- `route-era-compound-scenarios` → `outside-no-return-gate`
+- `route-era-compound-scenarios` → `fracture-hospitality`
+- `route-era-compound-scenarios` → `outside-walking-sea`
 
 ## 4. 관련 문서가 없는 문서 (0)
 
@@ -333,5 +347,5 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 17개: 시대의 흐름 27, 탐사대 10, 대국 기록 10, 인물 8, 롤플레잉 7, 운영 원칙 6, 소설 4, 사물·개념 4, 시작하기 3, 개요 3, 마법 3, 사건 3, 천체 3, 안내 2, 세력 1, 마법 공예·항행 1, 장소 1
+분류 17개: 시대의 흐름 27, 탐사대 10, 대국 기록 10, 롤플레잉 8, 인물 8, 운영 원칙 6, 소설 4, 사물·개념 4, 시작하기 3, 개요 3, 마법 3, 사건 3, 천체 3, 안내 2, 세력 1, 마법 공예·항행 1, 장소 1
 문서가 하나뿐인 분류 3개: 세력, 마법 공예·항행, 장소. 분류 체계 변경은 제안만 한다.

@@ -2,11 +2,11 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `route-era-seven-fractures` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/route-era-seven-fractures.md](../../../wiki/route-era-seven-fractures.md) · 3,401자 · 절 8개
+- id: `route-era-seven-fractures` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/route-era-seven-fractures.md](../../../wiki/route-era-seven-fractures.md) · 3,539자 · 절 8개
 - 요약: 항로력 212년 전후부터 30~100년간 일곱 마왕 계열과의 공존이 무너질 수도 있는 세계. 일곱 독립적인 진행자용 장기 시나리오 지도.
 - 태그: 일곱 마왕, 항로 시대, 세대, 진행자 전용, 장기 시나리오
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `route-era-long-arcs`, `route-era-outside-pressures`, `seven-demon-lords`, `demon-epoch-chronicle`, `fracture-harmony`, `fracture-oath`, `fracture-resonance`, `fracture-shedding`, `fracture-branching`, `fracture-hospitality`, `fracture-dream`, `causal-roleplay`, `knowledge-horizons`
+- 관련 문서: `route-era-long-arcs`, `route-era-outside-pressures`, `seven-demon-lords`, `demon-epoch-chronicle`, `fracture-harmony`, `fracture-oath`, `fracture-resonance`, `fracture-shedding`, `fracture-branching`, `fracture-hospitality`, `fracture-dream`, `causal-roleplay`, `knowledge-horizons`, `route-era-compound-scenarios`
 
 ## 절 목차
 
@@ -20,7 +20,7 @@
   - 문명의 균열은 어떻게 확대되는가 · L33–38 · 309자 · `11e1579c` — 기묘한 변화: 지역 주민은 마왕 이름보다 바뀐 물길, 알 수 없는 노래, 낯선 새 항로를 먼저 본다.
   - 일곱의 만남은 자동 발생하지 않는다 · L40–47 · 385자 · `baa650f9` — 조화와 분기: 공생의 질서를 유지하려는 일족이 새 갈래가 사는 땅에서 진짜로 맞닥뜨려야 충돌한다.
   - 100년의 가능 세계 · L49–58 · 497자 · `717a4970` — (표)
-  - 대턴 운영 · L60–62 · 178자 · `14bcf7db` — 각 갈래마다 사건 전 기록으로 현재 위치, 유효한 사이·거주 조건, 각 주체가 아는 사실, 사람 쪽 요구, 비인간 쪽 요구, 독립적 다음 행동, 진행 시계와 중단 조건을 적는다.
+  - 대턴 운영 · L60–64 · 316자 · `ff5d1f55` — 각 갈래마다 사건 전 기록으로 현재 위치, 유효한 사이·거주 조건, 각 주체가 아는 사실, 사람 쪽 요구, 비인간 쪽 요구, 독립적 다음 행동, 진행 시계와 중단 조건을 적는다.
 
 ## 장부에 기록된 반영 지식
 

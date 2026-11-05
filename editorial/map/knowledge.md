@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 233개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 236개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (8)
 
@@ -231,6 +231,23 @@
 - 관념과의 사이가 물질적 상대와 함께 온 세계에 적용되며 약한 재능이 모두에게 있음 → `conceptual-relations` § 정의; `conceptual-relations` § 보편성과 편차; `magic-as-practice` § 관념과의 사이 — 세계 전체에 있는 재능 · `ing-20261105-archmage-maren`
 - 관념의 관계는 별도의 고정 속성 학파가 아니며 기존 관계 마법과 공존함 → `conceptual-relations` § 기존의 사이와의 관계; `magic-senses` § 관념이라는 상대도 있다 · `ing-20261105-archmage-maren`
 
+## 롤플레잉 (12)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 아렌의 초기 역량과 지식의 한계, 생업과 마법 → `aren-sheet` § 확인된 역량; `aren-sheet` § 인식 장부 · `ing-20261103-low-cape-observer-session`
+- 아렌 첫 시범 서사의 전면 개편에 따라 구조 선택과 샘 손실로 대체된 첫날 → `aren-session-01` § 진행 기록 — 소턴; `aren-session-01` § 세계의 다른 움직임 · `ing-20261103-low-cape-observer-session`
+- 두 해안 붕괴와 세 생존자의 갈등으로 시작하는 새 첫 장 → `aren-session-01` § 소설 — 닫아야 하는 바다 · `ing-20261103-aren-story-rewrite`
+- 자율적인 구조 시도가 남긴 개인의 부상과 마을의 물 손실 → `aren-session-01` § 진행 기록 — 소턴; `aren-sheet` § 성장 기록 · `ing-20261103-aren-story-rewrite`
+- 서로 독립적으로 판단하는 여러 행위자와 제한된 인식 → `aren-session-01` § 세계의 다른 움직임; `aren-sheet` § 인식 장부 · `ing-20261103-aren-story-rewrite`
+- 적은 인구 때문에 큰 다툼을 대리인의 겨룸과 맹약으로 좁히는 관습 → `scenario-great-crossing` § 왜 이 세계에서는 결투로 다투는가 · `ing-20261103-great-crossing-scenario`
+- 맞섬: 관계의 힘으로 겨루며 장소·날·건 것이 승패를 가름 → `scenario-great-crossing` § 맞섬의 방식 · `ing-20261103-great-crossing-scenario`
+- 큰 건넘: 두 태양이 가장 가까워지는 철에만 넓게 열리는 행성 간 길 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
+- 길의 지기가 평생의 관계를 대를 이어 물려줌 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
+- 악재와 호재가 만나는 네 복합 시나리오 → `route-era-compound-scenarios` § 진행자용 — 인물들은 모름 · `ing-20261106-compound-scenarios`
+- 악재 둘이 만나는 세 복합 시나리오 → `route-era-compound-scenarios` § 진행자용 — 인물들은 모름 · `ing-20261106-compound-scenarios`
+- 복합 사건에서 대세션과 소세션의 독립적 파생 → `route-era-compound-scenarios` § 샘플에서 실제 세션을 열기 전 · `ing-20261106-compound-scenarios`
+
 ## 인물 (10)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -260,20 +277,6 @@
 - 옛 이름의 정리: 호수문과 서항, 고리운송, 바람고원 자유시, 큰 건넘의 완전한 닫힘 → `space-codes` § 항로 시대의 자리 · `ing-20261104-open-routes-era`
 - 새 공간 코드 P4-B, P4-B1, P2-B1 → `space-codes` § 항로 시대의 자리 · `ing-20261104-route-era-play`
 - 항로력 212년 별계 항로도와 해곁별 그늘 쪽 코드 P1-A → `space-codes` § 항로 시대의 자리 · `ing-20261105-route-era-extras`
-
-## 롤플레잉 (9)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 아렌의 초기 역량과 지식의 한계, 생업과 마법 → `aren-sheet` § 확인된 역량; `aren-sheet` § 인식 장부 · `ing-20261103-low-cape-observer-session`
-- 아렌 첫 시범 서사의 전면 개편에 따라 구조 선택과 샘 손실로 대체된 첫날 → `aren-session-01` § 진행 기록 — 소턴; `aren-session-01` § 세계의 다른 움직임 · `ing-20261103-low-cape-observer-session`
-- 두 해안 붕괴와 세 생존자의 갈등으로 시작하는 새 첫 장 → `aren-session-01` § 소설 — 닫아야 하는 바다 · `ing-20261103-aren-story-rewrite`
-- 자율적인 구조 시도가 남긴 개인의 부상과 마을의 물 손실 → `aren-session-01` § 진행 기록 — 소턴; `aren-sheet` § 성장 기록 · `ing-20261103-aren-story-rewrite`
-- 서로 독립적으로 판단하는 여러 행위자와 제한된 인식 → `aren-session-01` § 세계의 다른 움직임; `aren-sheet` § 인식 장부 · `ing-20261103-aren-story-rewrite`
-- 적은 인구 때문에 큰 다툼을 대리인의 겨룸과 맹약으로 좁히는 관습 → `scenario-great-crossing` § 왜 이 세계에서는 결투로 다투는가 · `ing-20261103-great-crossing-scenario`
-- 맞섬: 관계의 힘으로 겨루며 장소·날·건 것이 승패를 가름 → `scenario-great-crossing` § 맞섬의 방식 · `ing-20261103-great-crossing-scenario`
-- 큰 건넘: 두 태양이 가장 가까워지는 철에만 넓게 열리는 행성 간 길 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
-- 길의 지기가 평생의 관계를 대를 이어 물려줌 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
 
 ## 세력 (4)
 

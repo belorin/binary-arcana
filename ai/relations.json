@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 711,
+  "edge_count": 732,
   "edges": [
     {
       "from": "welcome",
@@ -3200,6 +3200,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "route-era-long-arcs",
+      "to": "route-era-compound-scenarios",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "arc-seven-gates",
       "to": "route-era-long-arcs",
       "type": "related_to",
@@ -3406,6 +3412,12 @@
     {
       "from": "route-era-outside-pressures",
       "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-outside-pressures",
+      "to": "route-era-compound-scenarios",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3640,6 +3652,12 @@
     {
       "from": "route-era-seven-fractures",
       "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-seven-fractures",
+      "to": "route-era-compound-scenarios",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -3920,6 +3938,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "route-era-bright-turns",
+      "to": "route-era-compound-scenarios",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "bright-maren",
       "to": "route-era-bright-turns",
       "type": "related_to",
@@ -4102,6 +4126,108 @@
     {
       "from": "bright-living-harvest",
       "to": "arc-quiet-harvest",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "route-era-long-arcs",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "route-era-outside-pressures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "route-era-seven-fractures",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "route-era-bright-turns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "arc-empty-shifts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "bright-craft-revolution",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "arc-drifting-routes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "bright-open-knowledge",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "fracture-shedding",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "bright-many-neighbors",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "outside-black-ice",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "bright-maren",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "arc-seven-gates",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "outside-nine-sails",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "outside-no-return-gate",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "fracture-hospitality",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-compound-scenarios",
+      "to": "outside-walking-sea",
       "type": "related_to",
       "basis": "manifest.related"
     },

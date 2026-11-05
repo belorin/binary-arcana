@@ -147,6 +147,7 @@
 - [대결 — 두 AI가 맞서는 세력 대국](https://belorin.github.io/binary-arcana/notes/rival-play/): 첫 세력 대국 T01–T09에 적용한 확정 규칙의 역사적 기록. 이후 새 다수 AI 대국에는 multi-ai-roleplay 제2판을 우선 적용한다.
 - [다수 AI 참여 롤플레잉 — 세계 진행과 합성 판정 규칙](https://belorin.github.io/binary-arcana/notes/multi-ai-roleplay/): 두 명 이상 AI 참가자의 독립 선언과 후반 세계 진행자의 창의적 총합 판정, 제3세력 자율성·감정 동기·실제 비용·독립 장면 소설을 규정한 차기 대국 운영 원칙.
 - [일곱 마왕의 시대 — 거시 서사 대턴 설계](https://belorin.github.io/binary-arcana/notes/demon-epoch-framework/): 일곱 마왕의 시대를 2·2·3 구도로 세 AI와 세계 진행자가 두세 대턴에 걸쳐 겹쳐 그리는 거시 서사 설계. 승패 대신 재사용 가능한 시대 단면을 만든다.
+- [두 사건이 만나는 자리 — 항로 시대 복합 시나리오 일곱 가지](https://belorin.github.io/binary-arcana/notes/route-era-compound-scenarios/): 장기 동인들의 악재+호재 네 조합과 악재+악재 세 조합에 대한 진행자용 대·소세션 발생 예시.
 
 ### 대국 기록
 

@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 96,
+  "document_count": 97,
   "documents": [
     {
       "id": "welcome",
@@ -2495,7 +2495,8 @@
         "arc-quiet-harvest",
         "route-era-outside-pressures",
         "route-era-seven-fractures",
-        "route-era-bright-turns"
+        "route-era-bright-turns",
+        "route-era-compound-scenarios"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-long-arcs.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-long-arcs.md",
@@ -2679,7 +2680,8 @@
         "outside-returning-stone",
         "causal-roleplay",
         "magical-distance-and-passage",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "route-era-compound-scenarios"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-outside-pressures.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-outside-pressures.md",
@@ -2867,7 +2869,8 @@
         "fracture-hospitality",
         "fracture-dream",
         "causal-roleplay",
-        "knowledge-horizons"
+        "knowledge-horizons",
+        "route-era-compound-scenarios"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-seven-fractures.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-seven-fractures.md",
@@ -3106,7 +3109,8 @@
         "bright-many-neighbors",
         "bright-living-harvest",
         "exceptional-generations",
-        "magic-as-practice"
+        "magic-as-practice",
+        "route-era-compound-scenarios"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-bright-turns.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-bright-turns.md",
@@ -3292,6 +3296,47 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/bright-living-harvest.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/bright-living-harvest/",
       "app_url": "https://belorin.github.io/binary-arcana/#bright-living-harvest"
+    },
+    {
+      "id": "route-era-compound-scenarios",
+      "title": "두 사건이 만나는 자리 — 항로 시대 복합 시나리오 일곱 가지",
+      "aliases": [],
+      "category": "롤플레잉",
+      "tags": [
+        "장기 동인",
+        "복합 시나리오",
+        "대세션",
+        "소세션",
+        "진행자 전용"
+      ],
+      "summary": "장기 동인들의 악재+호재 네 조합과 악재+악재 세 조합에 대한 진행자용 대·소세션 발생 예시.",
+      "review_state": "unassessed",
+      "review_label": "복합 시나리오 샘플 · 진행자 전용",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-long-arcs",
+        "route-era-outside-pressures",
+        "route-era-seven-fractures",
+        "route-era-bright-turns",
+        "arc-empty-shifts",
+        "bright-craft-revolution",
+        "arc-drifting-routes",
+        "bright-open-knowledge",
+        "fracture-shedding",
+        "bright-many-neighbors",
+        "outside-black-ice",
+        "bright-maren",
+        "arc-seven-gates",
+        "outside-nine-sails",
+        "outside-no-return-gate",
+        "fracture-hospitality",
+        "outside-walking-sea"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-compound-scenarios.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-compound-scenarios.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-compound-scenarios/",
+      "app_url": "https://belorin.github.io/binary-arcana/#route-era-compound-scenarios"
     }
   ]
 }

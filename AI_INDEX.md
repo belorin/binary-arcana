@@ -281,6 +281,9 @@
 - **[일곱 마왕의 시대 — 거시 서사 대턴 설계](wiki/demon-epoch-framework.md)** · 별칭: 마왕 시대 설계 · 수정: 2026-11-03 · 상태: 거시 시대 형성 초안
   - 일곱 마왕의 시대를 2·2·3 구도로 세 AI와 세계 진행자가 두세 대턴에 걸쳐 겹쳐 그리는 거시 서사 설계. 승패 대신 재사용 가능한 시대 단면을 만든다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-framework/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-framework.md)
+- **[두 사건이 만나는 자리 — 항로 시대 복합 시나리오 일곱 가지](wiki/route-era-compound-scenarios.md)** · 수정: 2026-11-06 · 상태: 복합 시나리오 샘플 · 진행자 전용
+  - 장기 동인들의 악재+호재 네 조합과 악재+악재 세 조합에 대한 진행자용 대·소세션 발생 예시.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-compound-scenarios/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-compound-scenarios.md)
 
 ## 대국 기록
 

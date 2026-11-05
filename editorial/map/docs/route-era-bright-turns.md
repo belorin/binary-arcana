@@ -2,11 +2,11 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `route-era-bright-turns` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/route-era-bright-turns.md](../../../wiki/route-era-bright-turns.md) · 3,272자 · 절 7개
+- id: `route-era-bright-turns` · 분류: 시대의 흐름 · 공개 · 원고: [wiki/route-era-bright-turns.md](../../../wiki/route-era-bright-turns.md) · 3,410자 · 절 7개
 - 요약: 항로력 212년 전후 시작할 수 있는 여섯 선대적·건설적 장기 시나리오. 마렌의 귀환, 마법 공예혁명, 영웅적 재능, 기록 공유, 다종 협약, 생태 복구.
 - 태그: 장기 시나리오, 희망, 마법혁명, 마렌, 영웅, 진행자 전용
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `route-era-long-arcs`, `route-era-outside-pressures`, `route-era-seven-fractures`, `bright-maren`, `bright-craft-revolution`, `bright-hero`, `bright-open-knowledge`, `bright-many-neighbors`, `bright-living-harvest`, `exceptional-generations`, `magic-as-practice`
+- 관련 문서: `route-era-long-arcs`, `route-era-outside-pressures`, `route-era-seven-fractures`, `bright-maren`, `bright-craft-revolution`, `bright-hero`, `bright-open-knowledge`, `bright-many-neighbors`, `bright-living-harvest`, `exceptional-generations`, `magic-as-practice`, `route-era-compound-scenarios`
 
 ## 절 목차
 
@@ -19,7 +19,7 @@
   - 출발 조건과 경계 · L24–28 · 482자 · `605ccc04` — 이미 정한 사실: 마렌은 무게·속담·구체적 존재와의 사이에서 압도적이고 시간과의 관계를 얻었지만, 212년 생존 여부는 미정이다.
   - 위기와의 관계는 단선적이지 않다 · L30–34 · 475자 · `44d11aa4` — 마렌의 개입은 한 항구를 구하면서 항로 분쟁을 무의미하게 만들 수도 있다.
   - 성공의 판정 · L36–42 · 423자 · `07b53f03` — 시계는 부정적 사건과 동일하게 실제 조건이 달성될 때만 오른다.
-  - 100년의 세 가지 가능한 풍경 · L44–50 · 285자 · `bef4aafe` — 조용한 번영: 성공한 공방의 방식을 여러 항구가 배우고, 큰 전쟁 없이 생활비와 사고가 줄어든다.
+  - 100년의 세 가지 가능한 풍경 · L44–52 · 423자 · `11439990` — 조용한 번영: 성공한 공방의 방식을 여러 항구가 배우고, 큰 전쟁 없이 생활비와 사고가 줄어든다.
 
 ## 장부에 기록된 반영 지식
 
