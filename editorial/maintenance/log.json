@@ -25,6 +25,18 @@
         "proposed": 1,
         "deferred": 4
       }
+    },
+    {
+      "version": "M003",
+      "date": "2026-11-06",
+      "scope": "대기열 1절 시대의 흐름 27개·롤플레잉 복합 1개 중심, 3절 4건, 5절 상위 15쌍, 6·7절, 2·4·8·9절 개관; 나머지 이월",
+      "report": "editorial/maintenance/reports/M003.md",
+      "counts": {
+        "fixed": 4,
+        "reported": 4,
+        "proposed": 3,
+        "deferred": 3
+      }
     }
   ]
 }
