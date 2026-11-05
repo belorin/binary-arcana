@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 523,
+  "edge_count": 528,
   "edges": [
     {
       "from": "welcome",
@@ -76,6 +76,24 @@
     {
       "from": "welcome",
       "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "hostile-beings",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "regional-threats",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -244,6 +262,18 @@
     {
       "from": "rulebook",
       "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "regional-threats",
       "type": "related_to",
       "basis": "manifest.related"
     },

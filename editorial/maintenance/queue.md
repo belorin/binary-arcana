@@ -4,7 +4,7 @@
 
 마지막 정비: **M002** (2026-11-04) · [보고서](reports/M002.md) · 다음 정비 버전: **M003**
 
-원고 68개 · 변경 문서 32 · 고립 0 · 한쪽 연결 134 · 보류 8 · 열린 교차 제안 0
+원고 68개 · 변경 문서 32 · 고립 0 · 한쪽 연결 139 · 보류 8 · 열린 교차 제안 0
 
 ## 1. 지난 정비 이후 변경된 문서 (32)
 
@@ -28,7 +28,7 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (134)
+## 3. 한쪽에서만 건 관련 문서 (139)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -39,12 +39,17 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 - `welcome` → `mission-seeds`
 - `welcome` → `hosumun-eleven-days`
 - `welcome` → `mission-salt-plain`
+- `welcome` → `hostile-beings`
+- `welcome` → `regional-life`
+- `welcome` → `regional-threats`
 - `open-routes-era` → `demon-epoch-chronicle`
 - `open-routes-era` → `magic-senses`
 - `open-routes-era` → `conceptual-relations`
 - `rulebook` → `magic-senses`
 - `rulebook` → `demon-epoch-chronicle`
 - `rulebook` → `conceptual-relations`
+- `rulebook` → `regional-life`
+- `rulebook` → `regional-threats`
 - `mission-lost-freighter` → `ships-and-gear`
 - `mission-lost-freighter` → `route-era-life`
 - `mission-lost-freighter` → `demon-epoch-chronicle`
@@ -210,7 +215,7 @@ manifest의 수정일이 2026-11-04 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (11): `rival-gc-t09-world` 19,396자, `rulebook` 15,860자, `rival-gc-t06-world` 15,310자, `hostile-beings` 13,425자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,793자, `regional-life` 11,213자, `rival-gc-t03-world` 10,529자, `magic-senses` 10,122자
+- 긴 문서 (11): `rival-gc-t09-world` 19,396자, `rulebook` 16,414자, `rival-gc-t06-world` 15,310자, `hostile-beings` 13,425자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,793자, `regional-life` 11,213자, `rival-gc-t03-world` 10,529자, `magic-senses` 10,122자
 - 짧은 문서 (1): `editing-guide` 763자
 
 ## 9. 분류 참고

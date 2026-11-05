@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `welcome` · 분류: 시작하기 · 공개 · 원고: [wiki/welcome.md](../../../wiki/welcome.md) · 5,574자 · 절 11개
+- id: `welcome` · 분류: 시작하기 · 공개 · 원고: [wiki/welcome.md](../../../wiki/welcome.md) · 6,195자 · 절 11개
 - 별칭: 입구, 시작하기, 처음
 - 요약: 처음 온 사람을 위한 입구. 세계를 쉬운 말로 읽는 문, 룰북을 AI에게 넣어 롤플레잉하는 문, 깊은 설정 문서의 서고로 가는 문.
 - 태그: 입구, 시작, 롤플레잉, AI
 - 수정일: 2026-11-05 · 실제 증보일: 2026-11-04 · 검토: unassessed
-- 관련 문서: `open-routes-era`, `rulebook`, `start-here`, `mission-lost-freighter`, `mission-breathing-forest`, `ships-and-gear`, `route-era-life`, `mission-seeds`, `hosumun-eleven-days`, `first-gate`, `mission-salt-plain`
+- 관련 문서: `open-routes-era`, `rulebook`, `start-here`, `mission-lost-freighter`, `mission-breathing-forest`, `ships-and-gear`, `route-era-life`, `mission-seeds`, `hosumun-eleven-days`, `first-gate`, `mission-salt-plain`, `hostile-beings`, `regional-life`, `regional-threats`
 
 ## 절 목차
 
@@ -19,12 +19,12 @@
 - 둘째 문 — AI와 롤플레잉을 한다 · L22–24 · 126자 · `85bdb3f2` — 탐사대 룰북 하나를 AI에게 주면, AI가 진행자가 되어 개척지 탐사 롤플레잉을 진행한다.
   - 시작하는 법 · L26–36 · 279자 · `a56661ab` — AI를 연다. Gemini(gemini.google.com), ChatGPT, Claude 무엇이든 된다.
   - AI에게 자료를 주는 세 가지 방법 · L38–44 · 455자 · `24494c9a` — (표)
-  - 저장소를 받아 놀기 · L46–74 · 1,210자 · `f126b0b5` — Claude Code(웹, 앱, 터미널)처럼 저장소를 열 수 있는 AI에서 belorin/binary-arcana 저장소를 연결하고 이렇게 시작한다.
-  - 따로 넣을 수 있는 파일 · L76–91 · 1,103자 · `51a30260` — 묶음 대신 필요한 것만 골라 넣어도 된다.
-  - 이어서 놀기 · L93–97 · 267자 · `3231526f` — 대화가 길어지거나 다음 날 이어 놀고 싶으면 AI에게 "저장"이라고 말한다.
-  - 진행이 흐트러질 때 · L99–111 · 343자 · `3e195cb0` — AI가 룰을 잊거나 말투가 바뀌면 이렇게 말하면 된다.
-  - 진짜 주사위가 없어도 된다 · L113–115 · 97자 · `61455ede` — 휴대폰에서 "주사위 굴리기"를 검색하면 바로 굴릴 수 있다.
-- 셋째 문 — 서고에서 깊이 읽는다 · L117–130 · 875자 · `79be5f54` — 항로 시대 이전, 이 세계가 처음 만들어질 때 쓴 설정 문서들이다.
+  - 저장소를 받아 놀기 · L46–75 · 1,439자 · `7c5f7e40` — Claude Code(웹, 앱, 터미널)처럼 저장소를 열 수 있는 AI에서 belorin/binary-arcana 저장소를 연결하고 이렇게 시작한다.
+  - 따로 넣을 수 있는 파일 · L77–95 · 1,495자 · `169b261f` — 묶음 대신 필요한 것만 골라 넣어도 된다.
+  - 이어서 놀기 · L97–101 · 267자 · `3231526f` — 대화가 길어지거나 다음 날 이어 놀고 싶으면 AI에게 "저장"이라고 말한다.
+  - 진행이 흐트러질 때 · L103–115 · 343자 · `3e195cb0` — AI가 룰을 잊거나 말투가 바뀌면 이렇게 말하면 된다.
+  - 진짜 주사위가 없어도 된다 · L117–119 · 97자 · `61455ede` — 휴대폰에서 "주사위 굴리기"를 검색하면 바로 굴릴 수 있다.
+- 셋째 문 — 서고에서 깊이 읽는다 · L121–134 · 875자 · `79be5f54` — 항로 시대 이전, 이 세계가 처음 만들어질 때 쓴 설정 문서들이다.
 
 ## 장부에 기록된 반영 지식
 

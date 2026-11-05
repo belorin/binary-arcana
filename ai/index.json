@@ -40,7 +40,10 @@
         "mission-seeds",
         "hosumun-eleven-days",
         "first-gate",
-        "mission-salt-plain"
+        "mission-salt-plain",
+        "hostile-beings",
+        "regional-life",
+        "regional-threats"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/welcome.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/welcome.md",
@@ -123,7 +126,9 @@
         "mission-seeds",
         "conceptual-relations",
         "hostile-beings",
-        "mission-salt-plain"
+        "mission-salt-plain",
+        "regional-life",
+        "regional-threats"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rulebook.md",
