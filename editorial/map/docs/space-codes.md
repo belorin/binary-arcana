@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `space-codes` · 분류: 천체 · 공개 · 원고: [wiki/space-codes.md](../../../wiki/space-codes.md) · 5,497자 · 절 9개
+- id: `space-codes` · 분류: 천체 · 공개 · 원고: [wiki/space-codes.md](../../../wiki/space-codes.md) · 6,058자 · 절 10개
 - 별칭: 공간 코드, 장소 코드
 - 요약: 행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 이름 붙이는 원칙. 다른 행성은 사람이 아는 곳에만 코드를 붙인다. 기존 장소의 대응과 일곱 마왕의 시대 영향권에 대한 제안.
 - 태그: 코드, 지리, 행성, 길, 대륙
-- 수정일: 2026-11-05 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `binary-system`, `sky-positions`, `scenario-great-crossing`, `low-cape`, `demon-epoch-framework`, `demon-epoch-chronicle`, `welcome`, `open-routes-era`
+- 수정일: 2026-11-05 · 실제 증보일: 2026-11-05 · 검토: unassessed
+- 관련 문서: `binary-system`, `sky-positions`, `scenario-great-crossing`, `low-cape`, `demon-epoch-framework`, `demon-epoch-chronicle`, `welcome`, `open-routes-era`, `regional-life`, `regional-threats`
 
 ## 절 목차
 
@@ -23,6 +23,7 @@
 - 기존 문서의 장소와 코드 · L84–93 · 238자 · `31ae4e56` — (표)
 - 일곱 마왕의 시대의 자리 · L95–104 · 408자 · `45451576` — 일곱 마왕의 시대는 영향권을 A·B·C와 "미배치"로 적었다.
 - 항로 시대의 자리 · L106–126 · 1,154자 · `39bcef66` — 항로 시대(T0에서 약 삼백 해 뒤)의 장소와 코드다.
+- 지역 생명 기록의 관찰 지점 · L128–139 · 539자 · `9791f7ca` — 지역과 시대의 생명들에서 쓰는 작은 지점들이다.
 
 ## 장부에 기록된 반영 지식
 
@@ -38,3 +39,9 @@
   - 옛 이름의 정리: 호수문과 서항, 고리운송, 바람고원 자유시, 큰 건넘의 완전한 닫힘 · `ing-20261104-open-routes-era`
   - 새 공간 코드 P4-B, P4-B1, P2-B1 · `ing-20261104-route-era-play`
   - 항로력 212년 별계 항로도와 해곁별 그늘 쪽 코드 P1-A · `ing-20261105-route-era-extras`
+- **지역 생명 기록의 관찰 지점**
+  - 여섯 국소 관찰 지점과 기존 공간 코드 · `ing-20261105-regional-life`
+
+## 확인된 의미 관계
+
+- ← `regional-life` · elaborates · 근거 절(regional-life): 여섯 관찰 범위

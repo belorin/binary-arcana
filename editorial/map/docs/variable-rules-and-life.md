@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `variable-rules-and-life` · 분류: 사물·개념 · 공개 · 원고: [wiki/variable-rules-and-life.md](../../../wiki/variable-rules-and-life.md) · 3,633자 · 절 7개
+- id: `variable-rules-and-life` · 분류: 사물·개념 · 공개 · 원고: [wiki/variable-rules-and-life.md](../../../wiki/variable-rules-and-life.md) · 4,038자 · 절 8개
 - 별칭: 변화하는 세계의 규칙, 규칙의 변동과 생활
 - 요약: 장기간 지속되는 자연적·마법적 관계도 변할 수 있는 우주에서, 마법적 생활 안정과 지성·비지성 생명의 적응이 공존한다는 배경 설정. 이야기의 단일한 중심 테제는 아니다. 적대적 존재의 변종·개체 변화와 마법적 요소의 비일률성을 포함한다.
 - 태그: 환경, 자연의 규칙, 세계의 불확실성, 마법적 일상, 생명, 적응, 지식
 - 수정일: 2026-11-05 · 실제 증보일: 2026-11-05 · 검토: unassessed
-- 관련 문서: `start-here`, `magic-as-practice`, `grand-questions`, `causal-roleplay`, `knowledge-horizons`, `magic-senses`, `reshaping`, `hostile-beings`
+- 관련 문서: `start-here`, `magic-as-practice`, `grand-questions`, `causal-roleplay`, `knowledge-horizons`, `magic-senses`, `reshaping`, `hostile-beings`, `regional-life`
 
 ## 절 목차
 
@@ -19,8 +19,9 @@
 - 생명이 택해 온 여러 대응 · L23–31 · 552자 · `9c6daaf6` — 오랜 시간 불안정한 조건을 경험한 생명에게는 변화에 대응하는 다양한 성질이 유리했을 가능성이 있다.
 - 적대적 존재의 변이와 마법적 요소 · L33–39 · 481자 · `18e4c94e` — 적대적 존재들도 이 변화에 속한다.
 - 이해를 추구하는 문명, 그렇지 않은 삶 · L41–47 · 445자 · `b829fc13` — 환경의 변화와 그것을 설명하는 지식은 문명에 중요한 자원이 될 수 있다.
-- 소설과 세계 진행에서의 쓰임 · L49–55 · 621자 · `4d443f6d` — 이 설정은 매 장면에 등장시켜야 할 주제나 사건 발생 장치가 아니다.
-- 이야기의 시대와 재편 · L58–60 · 100자 · `ed255a8a` — 이 문서의 일반 원칙이 이야기의 시대에 실제로 어떤 흐름이 되었는지는 재편에 있다.
+- 국소적인 기본종과 얽힌 생활 · L49–53 · 383자 · `7ed679a7` — 어느 지역에서 반복해 관찰되는 생물은 그곳의 생활과 변화의 기준이 될 수 있다.
+- 소설과 세계 진행에서의 쓰임 · L55–61 · 621자 · `4d443f6d` — 이 설정은 매 장면에 등장시켜야 할 주제나 사건 발생 장치가 아니다.
+- 이야기의 시대와 재편 · L64–66 · 100자 · `ed255a8a` — 이 문서의 일반 원칙이 이야기의 시대에 실제로 어떤 흐름이 되었는지는 재편에 있다.
 
 ## 장부에 기록된 반영 지식
 
@@ -35,8 +36,11 @@
   - 마법이 듣지 않을 때 원인을 가르는 법과 결바뀜 · `ing-20261103-magic-senses`
 - **적대적 존재의 변이와 마법적 요소**
   - 시대와 개변에 따른 변종·개체 변화와 다른 존재·규칙으로의 이행 · `ing-20261105-hostile-beings`
+- **국소적인 기본종과 얽힌 생활**
+  - 생물·지성체·사물·장소·집단의 복잡한 관계와 시간 · `ing-20261105-regional-life`
 
 ## 확인된 의미 관계
 
 - ← `magic-senses` · elaborates · 근거 절(magic-senses): 마법이 듣지 않을 때
 - ← `hostile-beings` · elaborates · 근거 절(hostile-beings): 시대·개변·변종과 개체 변이
+- ← `regional-life` · elaborates · 근거 절(regional-life): 옛 여울에서 항로력 212년까지

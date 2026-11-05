@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 173개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 219개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (8)
 
@@ -15,6 +15,77 @@
 - 비인간 지성의 선행 인지 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
 - 강력한 대마법사 개인의 세계사적 활동기와 행적 → 반영 위치 없음 · `ing-20261105-hosumun-canon` · pending — 시대 배치와 역할의 제안을 검토 중이며 구체적 역사적 사실은 아직 미승인
 - 마렌의 본명과 출신, 사건 연대, 마왕과의 실제 만남, 항로 시대 생존 여부 → 반영 위치 없음 · `ing-20261105-archmage-maren` · pending — 인물 문서에 가능한 서사와 미결 항목을 구분해 두었으며 개별 역사적 사건으로 아직 채택하지 않음
+
+## 사물·개념 (66)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 반복 가능한 규칙과 실제 규칙 변화 가능성의 공존 → `variable-rules-and-life` § 오래 지속되지만 영원하다고 보장되지 않는 질서 · `ing-20261103-variable-rules-and-life`
+- 마법적 생활 편의와 지역별 비대칭, 평범한 일상의 공존 → `variable-rules-and-life` § 풍요로울 수 있는 일상 · `ing-20261103-variable-rules-and-life`
+- 지성·비지성 생명의 탐색·견고함·변형이라는 서로 다른 대응 → `variable-rules-and-life` § 생명이 택해 온 여러 대응 · `ing-20261103-variable-rules-and-life`
+- 세계 이해는 배경적 압력이지 모든 이야기의 근본 주제가 아님 → `variable-rules-and-life` § 소설과 세계 진행에서의 쓰임 · `ing-20261103-variable-rules-and-life`
+- 위해체의 범위와 마왕·지성체와의 관계 → `hostile-beings` § 정의와 범위 · `ing-20261105-hostile-beings`
+- 1. 되밟이 → `hostile-beings` § 1. 되밟이 — 돌아가는 사람을 사냥하는 짐승 · `ing-20261105-hostile-beings`
+- 2. 손등벌레 → `hostile-beings` § 2. 손등벌레 — 귀한 도구에 붙는 기생체 · `ing-20261105-hostile-beings`
+- 3. 빈가죽 → `hostile-beings` § 3. 빈가죽 — 죽은 몸을 입고 걷는 군체 · `ing-20261105-hostile-beings`
+- 4. 잠빌림 → `hostile-beings` § 4. 잠빌림 — 꿈속에서 안전을 빌려주는 포식자 · `ing-20261105-hostile-beings`
+- 5. 집삼킴 → `hostile-beings` § 5. 집삼킴 — 살게 해 준 뒤 먹는 장소 · `ing-20261105-hostile-beings`
+- 6. 묵은파수 → `hostile-beings` § 6. 묵은파수 — 끝나지 않은 경비가 만든 사냥꾼 · `ing-20261105-hostile-beings`
+- 7. 빈당번 → `hostile-beings` § 7. 빈당번 — 공동 관리 속에 생기는 가짜 동료 · `ing-20261105-hostile-beings`
+- 8. 닻먹이 → `hostile-beings` § 8. 닻먹이 — 배를 붙잡는 틈의 포식자 · `ing-20261105-hostile-beings`
+- 9. 숨거둠 → `hostile-beings` § 9. 숨거둠 — 고향 공기를 훔치는 날짐승 · `ing-20261105-hostile-beings`
+- 10. 빌린입 → `hostile-beings` § 10. 빌린입 — 말을 옮길수록 자라는 이야기 · `ing-20261105-hostile-beings`
+- 11. 기르는 자들 → `hostile-beings` § 11. 기르는 자들 — 지성체를 사육하는 지성 · `ing-20261105-hostile-beings`
+- 12. 고요의 정원사들 → `hostile-beings` § 12. 고요의 정원사들 — 지성의 재발을 막으려는 존재들 · `ing-20261105-hostile-beings`
+- 시대와 개변에 따른 변종·개체 변화와 다른 존재·규칙으로의 이행 → `hostile-beings` § 시대·개변·변종과 개체 변이; `variable-rules-and-life` § 적대적 존재의 변이와 마법적 요소 · `ing-20261105-hostile-beings`
+- 종류와 개체에 따라 다른 마법적 요소의 조건과 한계 → `hostile-beings` § 일부가 지니는 마법적 요소 · `ing-20261105-hostile-beings`
+- 적대적 존재의 시대별 배치와 생존 지식의 단절·재발견 → `hostile-beings` § 역사에 놓는 방법 · `ing-20261105-hostile-beings`
+- 탐사대의 위협 준비와 공정한 변이 운영 → `hostile-beings` § 탐사대에서 쓰는 간단한 원칙; `hostile-beings` § 변이와 달라진 규칙을 쓰는 법; `rulebook` § 12. 선택 확장 — 적대적 존재와 변이 · `ing-20261105-hostile-beings`
+- 기존 수수께끼 보존과 미정인 기원·계통의 경계 → `hostile-beings` § 기존 수수께끼와의 경계; `hostile-beings` § 모순과 미정 · `ing-20261105-hostile-beings`
+- 국소 이미지와 생물 목록으로 넓은 세계를 환원하지 않는 원칙 → `regional-life` § 넓은 세계와 국소적인 기록; `start-here` § 넓은 세계와 얽힌 행위자들; `binary-system` § 행성은 하나의 그림이 아니다 · `ing-20261105-regional-life`
+- 기본종은 특정 시대·생활권의 일상 기준이며 원형종이나 세계 공통종이 아님 → `regional-life` § 기본종이라는 말의 범위 · `ing-20261105-regional-life`
+- 생물·지성체·사물·장소·집단의 복잡한 관계와 시간 → `regional-life` § 넓은 세계와 국소적인 기록; `variable-rules-and-life` § 국소적인 기본종과 얽힌 생활 · `ing-20261105-regional-life`
+- 여섯 국소 관찰 지점과 기존 공간 코드 → `regional-life` § 여섯 관찰 범위; `space-codes` § 지역 생명 기록의 관찰 지점 · `ing-20261105-regional-life`
+- 둥근갈대의 국소 기준 모습과 생활 관계 → `regional-life` § 이 여울에서 흔한 네 종류 · `ing-20261105-regional-life`
+- 은등물고기의 국소 기준 모습과 생활 관계 → `regional-life` § 이 여울에서 흔한 네 종류 · `ing-20261105-regional-life`
+- 진흙실벌레의 국소 기준 모습과 생활 관계 → `regional-life` § 이 여울에서 흔한 네 종류 · `ing-20261105-regional-life`
+- 물깃새의 국소 기준 모습과 생활 관계 → `regional-life` § 이 여울에서 흔한 네 종류 · `ing-20261105-regional-life`
+- 돌잎해초의 국소 기준 모습과 생활 관계 → `regional-life` § 돌과 물의 경계에서 흔한 네 종류 · `ing-20261105-regional-life`
+- 좁은발게의 국소 기준 모습과 생활 관계 → `regional-life` § 돌과 물의 경계에서 흔한 네 종류 · `ing-20261105-regional-life`
+- 주머니고둥의 국소 기준 모습과 생활 관계 → `regional-life` § 돌과 물의 경계에서 흔한 네 종류 · `ing-20261105-regional-life`
+- 소금벼룩의 국소 기준 모습과 생활 관계 → `regional-life` § 돌과 물의 경계에서 흔한 네 종류 · `ing-20261105-regional-life`
+- 접은풀의 국소 기준 모습과 생활 관계 → `regional-life` § 가까운 방목지의 네 기본종 · `ing-20261105-regional-life`
+- 판등짐승의 국소 기준 모습과 생활 관계 → `regional-life` § 가까운 방목지의 네 기본종 · `ing-20261105-regional-life`
+- 돌가루좀의 국소 기준 모습과 생활 관계 → `regional-life` § 가까운 방목지의 네 기본종 · `ing-20261105-regional-life`
+- 바늘날개의 국소 기준 모습과 생활 관계 → `regional-life` § 가까운 방목지의 네 기본종 · `ing-20261105-regional-life`
+- 기둥갓의 국소 기준 모습과 생활 관계 → `regional-life` § 채집길 주변의 네 기본종 · `ing-20261105-regional-life`
+- 붉은컵풀의 국소 기준 모습과 생활 관계 → `regional-life` § 채집길 주변의 네 기본종 · `ing-20261105-regional-life`
+- 넓적날개의 국소 기준 모습과 생활 관계 → `regional-life` § 채집길 주변의 네 기본종 · `ing-20261105-regional-life`
+- 종이등벌레의 국소 기준 모습과 생활 관계 → `regional-life` § 채집길 주변의 네 기본종 · `ing-20261105-regional-life`
+- 흰밑균의 국소 기준 모습과 생활 관계 → `regional-life` § 보호된 창고 안의 네 기본종 · `ing-20261105-regional-life`
+- 단추이끼의 국소 기준 모습과 생활 관계 → `regional-life` § 보호된 창고 안의 네 기본종 · `ing-20261105-regional-life`
+- 마루쥐의 국소 기준 모습과 생활 관계 → `regional-life` § 보호된 창고 안의 네 기본종 · `ing-20261105-regional-life`
+- 고리실충의 국소 기준 모습과 생활 관계 → `regional-life` § 보호된 창고 안의 네 기본종 · `ing-20261105-regional-life`
+- 비늘풀의 국소 기준 모습과 생활 관계 → `regional-life` § 현재 답사 범위의 네 기본종 · `ing-20261105-regional-life`
+- 세발뜀의 국소 기준 모습과 생활 관계 → `regional-life` § 현재 답사 범위의 네 기본종 · `ing-20261105-regional-life`
+- 돌눈꽃의 국소 기준 모습과 생활 관계 → `regional-life` § 현재 답사 범위의 네 기본종 · `ing-20261105-regional-life`
+- 얇은등의 국소 기준 모습과 생활 관계 → `regional-life` § 현재 답사 범위의 네 기본종 · `ing-20261105-regional-life`
+- 옛 여울과 항로 시대의 갈대 지역형·수로·공동체 변화 → `regional-life` § 옛 여울에서 항로력 212년까지 · `ing-20261105-regional-life`
+- 낮은곶의 확정된 샘 손상과 미정인 개체군 변화 구별 → `regional-life` § 이미 일어난 사건과 관찰할 수 있는 변화 · `ing-20261105-regional-life`
+- 고립기 바람골의 방목·흙·수분매개·시설 관계 → `regional-life` § 고립기를 버틴 관계 · `ing-20261105-regional-life`
+- 늪항 채집길의 국소 역사와 숨 쉬는 숲의 구별 → `regional-life` § 지역의 역사와 바깥의 사람들 · `ing-20261105-regional-life`
+- 그늘역 화물창 생물의 이주·정착과 시설 변화 → `regional-life` § 항로가 만든 이주와 단절 · `ing-20261105-regional-life`
+- 돌아온 별의 관찰 범위와 먼저 온 것들의 미정 정체 → `regional-life` § 서른 해의 항행으로 알 수 없는 것 · `ing-20261105-regional-life`
+- 갈대턱 — 물가의 큰 포식자 → `regional-threats` § 갈대턱 — 물가의 큰 포식자 · `ing-20261105-regional-life`
+- 잿모 — 불탄 줄기에서 번지는 위험한 막 → `regional-threats` § 잿모 — 불탄 줄기에서 번지는 위험한 막 · `ing-20261105-regional-life`
+- 모래등 — 돌선반의 틈을 차지하는 무리 → `regional-threats` § 모래등 — 돌선반의 틈을 차지하는 무리 · `ing-20261105-regional-life`
+- 뿔수레 — 방목지를 가로지르는 거대한 초식동물 → `regional-threats` § 뿔수레 — 방목지를 가로지르는 거대한 초식동물 · `ing-20261105-regional-life`
+- 투명밭 — 그늘 아래서 살아 있는 먹이를 묶는 군체 → `regional-threats` § 투명밭 — 그늘 아래서 살아 있는 먹이를 묶는 군체 · `ing-20261105-regional-life`
+- 돛진드기 — 배와 창고를 오가는 부착 생물 → `regional-threats` § 돛진드기 — 배와 창고를 오가는 부착 생물 · `ing-20261105-regional-life`
+- 닫힌 부두의 인양꾼들 — 사고를 만들어 먹고사는 무리 → `regional-threats` § 닫힌 부두의 인양꾼들 — 사고를 만들어 먹고사는 무리 · `ing-20261105-regional-life`
+- 곁문 — 북쪽 돌턱의 반복되는 샛길 → `regional-threats` § 곁문 — 북쪽 돌턱의 반복되는 샛길 · `ing-20261105-regional-life`
+- 행위자별 반응과 위협 변화의 미실현 인과 사례 → `regional-threats` § 지역의 관계가 바뀔 때 — 진행자용 사례 · `ing-20261105-regional-life`
+- 기존 위해체 목록의 비대표성과 새 계통·역사에 대한 개방 → `hostile-beings` § 이 목록이 세계를 채우지는 않는다; `regional-threats` § 이어서 정할 것 · `ing-20261105-regional-life`
 
 ## 운영 원칙 (26)
 
@@ -46,33 +117,6 @@
 - 선언 잠금은 공개 순서가 아니라 원문 지문으로 검증 → `rival-gc-retrospective` § 잠금은 순서가 아니라 지문으로 확인한다 · `ing-20261103-rival-gc-retrospective-claude`
 - 설명문 속 skip-ci 표기가 실제로 배포를 건너뛰게 함 → `rival-gc-retrospective` § 커밋 규칙을 설명한 커밋이 그 규칙에 걸렸다 · `ing-20261103-rival-gc-retrospective-claude`
 - 사이트가 그리지 못하는 상대 경로·절 링크를 빌드 검사로 막자는 제안 → `rival-gc-retrospective` § 사이트가 그리지 못하는 링크가 되풀이된다 · `ing-20261103-rival-gc-retrospective-claude`
-
-## 사물·개념 (22)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 반복 가능한 규칙과 실제 규칙 변화 가능성의 공존 → `variable-rules-and-life` § 오래 지속되지만 영원하다고 보장되지 않는 질서 · `ing-20261103-variable-rules-and-life`
-- 마법적 생활 편의와 지역별 비대칭, 평범한 일상의 공존 → `variable-rules-and-life` § 풍요로울 수 있는 일상 · `ing-20261103-variable-rules-and-life`
-- 지성·비지성 생명의 탐색·견고함·변형이라는 서로 다른 대응 → `variable-rules-and-life` § 생명이 택해 온 여러 대응 · `ing-20261103-variable-rules-and-life`
-- 세계 이해는 배경적 압력이지 모든 이야기의 근본 주제가 아님 → `variable-rules-and-life` § 소설과 세계 진행에서의 쓰임 · `ing-20261103-variable-rules-and-life`
-- 위해체의 범위와 마왕·지성체와의 관계 → `hostile-beings` § 정의와 범위 · `ing-20261105-hostile-beings`
-- 1. 되밟이 → `hostile-beings` § 1. 되밟이 — 돌아가는 사람을 사냥하는 짐승 · `ing-20261105-hostile-beings`
-- 2. 손등벌레 → `hostile-beings` § 2. 손등벌레 — 귀한 도구에 붙는 기생체 · `ing-20261105-hostile-beings`
-- 3. 빈가죽 → `hostile-beings` § 3. 빈가죽 — 죽은 몸을 입고 걷는 군체 · `ing-20261105-hostile-beings`
-- 4. 잠빌림 → `hostile-beings` § 4. 잠빌림 — 꿈속에서 안전을 빌려주는 포식자 · `ing-20261105-hostile-beings`
-- 5. 집삼킴 → `hostile-beings` § 5. 집삼킴 — 살게 해 준 뒤 먹는 장소 · `ing-20261105-hostile-beings`
-- 6. 묵은파수 → `hostile-beings` § 6. 묵은파수 — 끝나지 않은 경비가 만든 사냥꾼 · `ing-20261105-hostile-beings`
-- 7. 빈당번 → `hostile-beings` § 7. 빈당번 — 공동 관리 속에 생기는 가짜 동료 · `ing-20261105-hostile-beings`
-- 8. 닻먹이 → `hostile-beings` § 8. 닻먹이 — 배를 붙잡는 틈의 포식자 · `ing-20261105-hostile-beings`
-- 9. 숨거둠 → `hostile-beings` § 9. 숨거둠 — 고향 공기를 훔치는 날짐승 · `ing-20261105-hostile-beings`
-- 10. 빌린입 → `hostile-beings` § 10. 빌린입 — 말을 옮길수록 자라는 이야기 · `ing-20261105-hostile-beings`
-- 11. 기르는 자들 → `hostile-beings` § 11. 기르는 자들 — 지성체를 사육하는 지성 · `ing-20261105-hostile-beings`
-- 12. 고요의 정원사들 → `hostile-beings` § 12. 고요의 정원사들 — 지성의 재발을 막으려는 존재들 · `ing-20261105-hostile-beings`
-- 시대와 개변에 따른 변종·개체 변화와 다른 존재·규칙으로의 이행 → `hostile-beings` § 시대·개변·변종과 개체 변이; `variable-rules-and-life` § 적대적 존재의 변이와 마법적 요소 · `ing-20261105-hostile-beings`
-- 종류와 개체에 따라 다른 마법적 요소의 조건과 한계 → `hostile-beings` § 일부가 지니는 마법적 요소 · `ing-20261105-hostile-beings`
-- 적대적 존재의 시대별 배치와 생존 지식의 단절·재발견 → `hostile-beings` § 역사에 놓는 방법 · `ing-20261105-hostile-beings`
-- 탐사대의 위협 준비와 공정한 변이 운영 → `hostile-beings` § 탐사대에서 쓰는 간단한 원칙; `hostile-beings` § 변이와 달라진 규칙을 쓰는 법; `rulebook` § 12. 선택 확장 — 적대적 존재와 변이 · `ing-20261105-hostile-beings`
-- 기존 수수께끼 보존과 미정인 기원·계통의 경계 → `hostile-beings` § 기존 수수께끼와의 경계; `hostile-beings` § 모순과 미정 · `ing-20261105-hostile-beings`
 
 ## 사건 (19)
 
@@ -119,6 +163,27 @@
 - 누리에 비인간 지성 존재 공존 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261104-reshaping`
 - 세계의 규칙은 왜 바뀌는가 → `grand-questions` § 세계의 규칙은 왜 바뀌는가? · `ing-20261104-reshaping`
 
+## 시작하기 (16)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 항로 시대: T0에서 약 삼백 해 뒤, 항로력 212년. 정기 항로로 이어진 행성 간 문명 → `open-routes-era` § 한눈에 · `ing-20261104-open-routes-era`
+- 행성별 도시와 개척지, 돌아온 별(P6)의 귀환과 첫 항로 → `open-routes-era` § 행성들 · `ing-20261104-open-routes-era`
+- 항로, 건넘선, 문, 틈, 길잡이, 개척 항로 → `open-routes-era` § 배와 항로 · `ing-20261104-open-routes-era`
+- 생활 도구: 짝돌, 숨옷, 불돌, 등빛, 아물림 막, 결바늘, 묵힘 상자. 도구를 길들이는 문화 → `open-routes-era` § 생활과 도구 · `ing-20261104-open-routes-era`
+- 세력: 항로청, 고리운송, 결 학회, 맹약소(살아남은 옛 기관), 자유 길잡이들 → `open-routes-era` § 세력 · `ing-20261104-open-routes-era`
+- 사람 아닌 이웃: 켜사람, 함께 숨쉬는 사람들, 먼저 온 것들 → `open-routes-era` § 사람 아닌 이웃들 · `ing-20261104-open-routes-era`
+- 진행자용: 틈은 마왕 질서의 이음매, 맹약소 증인은 서약 일족, 돌아온 별의 매듭 → `open-routes-era` § 진행자용 — 인물들은 모름 · `ing-20261104-open-routes-era`
+- 룰북: 2d6 판정, 신탁, 시계, 하늘 굴림, 무작위 표, 마법과 값의 규칙 → `rulebook` § 2. 판정 — 주사위 두 개 · `ing-20261104-open-routes-era`
+- 첫 임무 돌아온 별, 조용한 우물 → `rulebook` § 9. 임무 · `ing-20261104-open-routes-era`
+- 처음 온 사람을 위한 입구와 서고 안내 → `welcome` § 셋째 문 — 서고에서 깊이 읽는다 · `ing-20261104-open-routes-era`
+- 지난 삼백 해: 닫힘의 세기, 새 자리, 항로청과 나눔 사이, 건너별 재접촉, 그늘역, 돌아온 별. 남은 것은 많지 않음 → `open-routes-era` § 지난 삼백 해 · `ing-20261104-open-routes-era`
+- 룰북: 함께 받은 파일, 새로 정한 것 표시, 저장 블록 → `rulebook` § 함께 받은 파일, 새로 정한 것, 저장 · `ing-20261104-route-era-play`
+- 룰북: 관념과의 사이를 대원의 사이로 고르는 선택지와 예 → `rulebook` § ③ 사이 두 개 정하기 · `ing-20261105-route-era-extras`
+- 전설 속의 무게의 대마법사와 진행자 지침 → `open-routes-era` § 전설 속의 사람 · `ing-20261105-route-era-extras`
+- 항로 시대 안내의 위해체와 변이 소개 → `open-routes-era` § 사람을 노리는 존재들 · `ing-20261105-hostile-beings`
+- 세계 안내에서 지역 기본종과 추가 위협으로의 연결 → `open-routes-era` § 사람을 노리는 존재들 · `ing-20261105-regional-life`
+
 ## 마법 (15)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -138,26 +203,6 @@
 - 마법이 듣지 않을 때 원인을 가르는 법과 결바뀜 → `magic-senses` § 마법이 듣지 않을 때; `variable-rules-and-life` § 소설과 세계 진행에서의 쓰임 · `ing-20261103-magic-senses`
 - 관념과의 사이가 물질적 상대와 함께 온 세계에 적용되며 약한 재능이 모두에게 있음 → `conceptual-relations` § 정의; `conceptual-relations` § 보편성과 편차; `magic-as-practice` § 관념과의 사이 — 세계 전체에 있는 재능 · `ing-20261105-archmage-maren`
 - 관념의 관계는 별도의 고정 속성 학파가 아니며 기존 관계 마법과 공존함 → `conceptual-relations` § 기존의 사이와의 관계; `magic-senses` § 관념이라는 상대도 있다 · `ing-20261105-archmage-maren`
-
-## 시작하기 (15)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 항로 시대: T0에서 약 삼백 해 뒤, 항로력 212년. 정기 항로로 이어진 행성 간 문명 → `open-routes-era` § 한눈에 · `ing-20261104-open-routes-era`
-- 행성별 도시와 개척지, 돌아온 별(P6)의 귀환과 첫 항로 → `open-routes-era` § 행성들 · `ing-20261104-open-routes-era`
-- 항로, 건넘선, 문, 틈, 길잡이, 개척 항로 → `open-routes-era` § 배와 항로 · `ing-20261104-open-routes-era`
-- 생활 도구: 짝돌, 숨옷, 불돌, 등빛, 아물림 막, 결바늘, 묵힘 상자. 도구를 길들이는 문화 → `open-routes-era` § 생활과 도구 · `ing-20261104-open-routes-era`
-- 세력: 항로청, 고리운송, 결 학회, 맹약소(살아남은 옛 기관), 자유 길잡이들 → `open-routes-era` § 세력 · `ing-20261104-open-routes-era`
-- 사람 아닌 이웃: 켜사람, 함께 숨쉬는 사람들, 먼저 온 것들 → `open-routes-era` § 사람 아닌 이웃들 · `ing-20261104-open-routes-era`
-- 진행자용: 틈은 마왕 질서의 이음매, 맹약소 증인은 서약 일족, 돌아온 별의 매듭 → `open-routes-era` § 진행자용 — 인물들은 모름 · `ing-20261104-open-routes-era`
-- 룰북: 2d6 판정, 신탁, 시계, 하늘 굴림, 무작위 표, 마법과 값의 규칙 → `rulebook` § 2. 판정 — 주사위 두 개 · `ing-20261104-open-routes-era`
-- 첫 임무 돌아온 별, 조용한 우물 → `rulebook` § 9. 임무 · `ing-20261104-open-routes-era`
-- 처음 온 사람을 위한 입구와 서고 안내 → `welcome` § 셋째 문 — 서고에서 깊이 읽는다 · `ing-20261104-open-routes-era`
-- 지난 삼백 해: 닫힘의 세기, 새 자리, 항로청과 나눔 사이, 건너별 재접촉, 그늘역, 돌아온 별. 남은 것은 많지 않음 → `open-routes-era` § 지난 삼백 해 · `ing-20261104-open-routes-era`
-- 룰북: 함께 받은 파일, 새로 정한 것 표시, 저장 블록 → `rulebook` § 함께 받은 파일, 새로 정한 것, 저장 · `ing-20261104-route-era-play`
-- 룰북: 관념과의 사이를 대원의 사이로 고르는 선택지와 예 → `rulebook` § ③ 사이 두 개 정하기 · `ing-20261105-route-era-extras`
-- 전설 속의 무게의 대마법사와 진행자 지침 → `open-routes-era` § 전설 속의 사람 · `ing-20261105-route-era-extras`
-- 항로 시대 안내의 위해체와 변이 소개 → `open-routes-era` § 사람을 노리는 존재들 · `ing-20261105-hostile-beings`
 
 ## 인물 (10)
 
@@ -243,15 +288,16 @@
 - 마법적 거리와 물리적 길의 공존, 행성 간 이동의 제약 → `magical-distance-and-passage` § 공간의 거리와 갈 수 있는 거리; `magical-distance-and-passage` § 물리적으로 길을 내야 하는 때; `magical-distance-and-passage` § 행성 사이의 통행은 여전히 어렵다 · `ing-20261103-magic-travel-worldturns`
 - 여섯 행성의 초기 설계와 나중에 드러나는 행성의 가능성 → `magical-distance-and-passage` § 첫 설계 범위와 미지의 행성 · `ing-20261103-magic-travel-worldturns`
 
+## 안내 (2)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 연표 사전 작성 금지와 상대적 세션 이력의 점진적 달력 편입 → `worldbuilding-guide` § 연대기와 달력; `start-here` § 연대의 기준 · `ing-20261103-low-cape-observer-session`
+- 지역 기본종과 위해체를 증보하는 집필 원칙 → `worldbuilding-guide` § 지역의 생명과 행위자를 추가할 때; `regional-life` § 기록을 더할 때 · `ing-20261105-regional-life`
+
 ## 장소 (2)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
 - 낮은곶의 소규모 해안 생활과 물턱 통행, 복잡한 마법적 물 공급 → `low-cape` § 사람들과 생활; `low-cape` § 통행과 지역 마법 · `ing-20261103-low-cape-observer-session`
 - 저인구 해안 정착지의 숙련된 마법적 물 공급 및 통행 봉합 → `low-cape` § 사람들과 생활; `low-cape` § 통행과 지역 마법 · `ing-20261103-aren-story-rewrite`
-
-## 안내 (1)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 연표 사전 작성 금지와 상대적 세션 이력의 점진적 달력 편입 → `worldbuilding-guide` § 연대기와 달력; `start-here` § 연대의 기준 · `ing-20261103-low-cape-observer-session`

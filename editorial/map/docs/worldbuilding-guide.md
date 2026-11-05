@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `worldbuilding-guide` · 분류: 안내 · 공개 · 원고: [wiki/worldbuilding-guide.md](../../../wiki/worldbuilding-guide.md) · 1,965자 · 절 7개
+- id: `worldbuilding-guide` · 분류: 안내 · 공개 · 원고: [wiki/worldbuilding-guide.md](../../../wiki/worldbuilding-guide.md) · 2,531자 · 절 8개
 - 별칭: 설정 쓰는 규칙
 - 요약: 설정의 정본·미정, 문서 유형, 연대기와 시점별 지식의 구분을 안내하는 편집 규칙.
 - 태그: 안내, 설정, 연대기
-- 수정일: 2026-11-04 · 실제 증보일: 2026-11-03 · 검토: reviewed
-- 관련 문서: `start-here`, `editing-guide`, `open-setting-questions`, `knowledge-horizons`, `causal-roleplay`, `magic-as-practice`, `variable-rules-and-life`
+- 수정일: 2026-11-05 · 실제 증보일: 2026-11-05 · 검토: reviewed
+- 관련 문서: `start-here`, `editing-guide`, `open-setting-questions`, `knowledge-horizons`, `causal-roleplay`, `magic-as-practice`, `variable-rules-and-life`, `regional-life`, `regional-threats`
 
 ## 절 목차
 
@@ -20,7 +20,8 @@
 - 마법과 통행에 관한 초안 · L19–21 · 236자 · `ab3504cd` — 마법은 모든 사람에게 동일하게 주어지는 주문 목록이 아니며, 개인의 가능성과 다른 행위자와의 관계가 중요하다.
 - 세계 진행의 인과와 시간 · L23–25 · 274자 · `d7e33cd2` — 소설과 롤플레잉에서 등장인물은 자신의 능력과 환경에서 가능한 일만 시도할 수 있다.
 - 연대기와 달력 · L27–35 · 469자 · `acad1074` — 이 설정집의 달력 보기(/#calendar)는 지구의 연·월·일을 쓰지 않는다.
-- 소설과 게임 · L37–39 · 147자 · `64a6365f` — 소설 작품과 롤플레잉 게임 문서는 설정을 쓰지만 정본을 직접 바꾸지 않는다.
+- 지역의 생명과 행위자를 추가할 때 · L37–43 · 541자 · `03f21826` — 행성의 다양성 원칙은 지역과 생물 목록에도 적용한다.
+- 소설과 게임 · L45–47 · 147자 · `64a6365f` — 소설 작품과 롤플레잉 게임 문서는 설정을 쓰지만 정본을 직접 바꾸지 않는다.
 
 ## 장부에 기록된 반영 지식
 
@@ -28,7 +29,10 @@
   - 정본 지식과 등장인물 지식의 구분 · `ing-20261103-knowledge-horizons`
 - **연대기와 달력**
   - 연표 사전 작성 금지와 상대적 세션 이력의 점진적 달력 편입 · `ing-20261103-low-cape-observer-session`
+- **지역의 생명과 행위자를 추가할 때**
+  - 지역 기본종과 위해체를 증보하는 집필 원칙 · `ing-20261105-regional-life`
 
 ## 확인된 의미 관계
 
 - → `editing-guide` · elaborates · 근거 절(worldbuilding-guide): 정본과 미정
+- → `regional-life` · introduces · 근거 절(worldbuilding-guide): 지역의 생명과 행위자를 추가할 때

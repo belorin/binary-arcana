@@ -56,7 +56,7 @@
 
 ## 천체
 
-- **[쌍성계와 여섯 행성](wiki/binary-system.md)** · 별칭: 행성 설정, 두 해 · 수정: 2026-11-04 · 상태: 임시 정본
+- **[쌍성계와 여섯 행성](wiki/binary-system.md)** · 별칭: 행성 설정, 두 해 · 수정: 2026-11-05 · 상태: 임시 정본
   - 두 해(큰 해·작은 해)의 겉모습과 40날의 공전, P3 기준의 날·물때·철·겹침철·해, 여섯 행성(해곁별·샛별·누리·건너별·느림별·빈자리)의 물리 조건과 사람이 아는 한 귀퉁이, 모르는 땅.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/binary-system/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/binary-system.md)
 - **[공간 코드표](wiki/space-codes.md)** · 별칭: 공간 코드, 장소 코드 · 수정: 2026-11-05 · 상태: 임시 정본
@@ -141,8 +141,14 @@
   - 장기간 지속되는 자연적·마법적 관계도 변할 수 있는 우주에서, 마법적 생활 안정과 지성·비지성 생명의 적응이 공존한다는 배경 설정. 이야기의 단일한 중심 테제는 아니다. 적대적 존재의 변종·개체 변화와 마법적 요소의 비일률성을 포함한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/variable-rules-and-life/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/variable-rules-and-life.md)
 - **[사람의 불빛을 따라오는 것들 — 적대적 존재들](wiki/hostile-beings.md)** · 별칭: 괴물 도감, 위해체, 적대적 행위자, 되밟이, 손등벌레, 빈가죽, 잠빌림, 집삼킴, 묵은파수, 빈당번, 닻먹이, 숨거둠, 빌린입, 기르는 자들, 고요의 정원사들 · 수정: 2026-11-05 · 상태: 정본
-  - 틈살이 시대부터 항로력 212년까지의 적대적 존재 열두 종류. 포식자·기생체·살아 있는 장소·침입자·사육 집단·절멸 세력의 징후와 대응, 시대와 개변에 따른 변종·개체 변화 및 마법적 요소를 다룬다.
+  - 틈살이 시대부터 항로력 212년까지의 적대적 존재 열두 종류. 포식자·기생체·살아 있는 장소·침입자·사육 집단·절멸 세력의 징후와 대응, 시대와 개변에 따른 변종·개체 변화 및 마법적 요소를 다룬다. 세계 전체를 대표하지 않는 국소 목록이며 지역 기본종과 추가 위협으로 연결된다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/hostile-beings/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/hostile-beings.md)
+- **[지역과 시대의 생명들 — 기본종과 얽힌 생활](wiki/regional-life.md)** · 별칭: 기본종, 지역 생태, 지역의 기본 종, 지역 행위자, 동쪽 바람골, 남쪽 얕은 여울, 둥근갈대, 판등짐승, 마루쥐 · 수정: 2026-11-05 · 상태: 정본
+  - 특정 지역·시대의 기본종 스물네 종류와 생물·지성체·사물·시설·집단의 얽힌 생활. 여섯 관찰 범위와 역사적 변화를 정하며 국소 목록을 세계 전체로 확대하지 않는다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/regional-life/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/regional-life.md)
+- **[지역에서 마주치는 위협 — 여덟 가지 접촉](wiki/regional-threats.md)** · 별칭: 지역별 괴물, 추가 위해체, 갈대턱, 잿모, 모래등, 뿔수레, 투명밭, 돛진드기, 닫힌 부두의 인양꾼들, 곁문 · 수정: 2026-11-05 · 상태: 정본
+  - 갈대턱·잿모·모래등·뿔수레·투명밭·돛진드기·닫힌 부두의 인양꾼들·곁문. 특정 지역과 역사의 생활에 연결된 여덟 위협과 징후·대응·한계.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/regional-threats/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/regional-threats.md)
 
 ## 소설
 
@@ -242,6 +248,6 @@
 - **[이 위키를 편집하는 방법](wiki/editing-guide.md)** · 별칭: 편집 방법 · 수정: 2026-11-03 · 상태: 운영 문서
   - 새 문서를 만들고 쓰고 게시하는 절차와 Markdown 규칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/editing-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/editing-guide.md)
-- **[설정을 쓰는 규칙](wiki/worldbuilding-guide.md)** · 별칭: 설정 쓰는 규칙 · 수정: 2026-11-04 · 상태: 운영 문서
+- **[설정을 쓰는 규칙](wiki/worldbuilding-guide.md)** · 별칭: 설정 쓰는 규칙 · 수정: 2026-11-05 · 상태: 운영 문서
   - 설정의 정본·미정, 문서 유형, 연대기와 시점별 지식의 구분을 안내하는 편집 규칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/worldbuilding-guide/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/worldbuilding-guide.md)

@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 472,
+  "edge_count": 509,
   "edges": [
     {
       "from": "welcome",
@@ -154,6 +154,18 @@
     {
       "from": "open-routes-era",
       "to": "hostile-beings",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "regional-threats",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -526,6 +538,18 @@
     {
       "from": "start-here",
       "to": "archmage-maren",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "start-here",
+      "to": "regional-threats",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -958,6 +982,18 @@
     {
       "from": "worldbuilding-guide",
       "to": "variable-rules-and-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "worldbuilding-guide",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "worldbuilding-guide",
+      "to": "regional-threats",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2330,6 +2366,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "variable-rules-and-life",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "binary-system",
       "to": "space-codes",
       "type": "related_to",
@@ -2378,6 +2420,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "binary-system",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "space-codes",
       "to": "binary-system",
       "type": "related_to",
@@ -2422,6 +2470,18 @@
     {
       "from": "space-codes",
       "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-codes",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "space-codes",
+      "to": "regional-threats",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2714,6 +2774,126 @@
       "basis": "manifest.related"
     },
     {
+      "from": "hostile-beings",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "hostile-beings",
+      "to": "regional-threats",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-life",
+      "to": "start-here",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-life",
+      "to": "binary-system",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-life",
+      "to": "space-codes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-life",
+      "to": "variable-rules-and-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-life",
+      "to": "hostile-beings",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-life",
+      "to": "regional-threats",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-life",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-life",
+      "to": "low-cape",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-life",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-life",
+      "to": "mission-breathing-forest",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-life",
+      "to": "mission-seeds",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-threats",
+      "to": "hostile-beings",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-threats",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-threats",
+      "to": "space-codes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-threats",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-threats",
+      "to": "variable-rules-and-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-threats",
+      "to": "knowledge-horizons",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "regional-threats",
+      "to": "low-cape",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "start-here",
       "to": "editing-guide",
       "type": "introduces",
@@ -2888,6 +3068,62 @@
       "basis": "curated",
       "evidence_section": "12. 선택 확장 — 적대적 존재와 변이",
       "reason": "선택 확장 도감과 공정한 변이 운영 원칙을 안내한다."
+    },
+    {
+      "from": "start-here",
+      "to": "regional-life",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "넓은 세계와 얽힌 행위자들",
+      "reason": "세계 전제의 다양성과 복잡한 관계를 지역 생명 기록으로 연결한다."
+    },
+    {
+      "from": "binary-system",
+      "to": "regional-life",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "행성은 하나의 그림이 아니다",
+      "reason": "행성의 국소 관찰 원칙을 생물과 행위자의 기록에 연결한다."
+    },
+    {
+      "from": "regional-life",
+      "to": "variable-rules-and-life",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "옛 여울에서 항로력 212년까지",
+      "reason": "같은 호안의 생물·시설·공동체 변화와 기록의 단절을 구체적으로 설명한다."
+    },
+    {
+      "from": "regional-life",
+      "to": "space-codes",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "여섯 관찰 범위",
+      "reason": "기존 지역 코드 안에서 생명 관찰의 국소 범위와 시기를 지정한다."
+    },
+    {
+      "from": "regional-threats",
+      "to": "regional-life",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "지역의 관계가 바뀔 때 — 진행자용 사례",
+      "reason": "기본종·시설·집단의 관계 변화가 위협과 접촉에 미치는 인과를 예시한다."
+    },
+    {
+      "from": "hostile-beings",
+      "to": "regional-threats",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "이 목록이 세계를 채우지는 않는다",
+      "reason": "열두 위해체 밖의 지역별 추가 사례로 안내한다."
+    },
+    {
+      "from": "worldbuilding-guide",
+      "to": "regional-life",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "지역의 생명과 행위자를 추가할 때",
+      "reason": "향후 집필에서 기본종의 지역성과 역사, 행위자 얽힘을 유지하도록 안내한다."
     }
   ]
 }
