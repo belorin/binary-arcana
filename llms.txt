@@ -28,6 +28,7 @@
 
 - [임무: 바람 끝의 손님들](https://belorin.github.io/binary-arcana/notes/mission-lost-freighter/): 사라진 고리운송 화물선 은실호를 찾는 중형 임무. 빼돌린 바람고원의 유물, 틈의 문그늘, 그늘 아래 백 해를 산 남쪽 행렬, 쫓기는 이만 나갈 수 있는 규칙.
 - [임무: 숨 쉬는 숲](https://belorin.github.io/binary-arcana/notes/mission-breathing-forest/): 샛별 균류 숲 깊은 곳의 마법 구조물을 찾는 중형 임무. 구조물은 마왕의 허물이고, 아들을 찾는 교수와 허물 조각을 노리는 회사와 아픔을 나누는 숨 쉬는 사람들이 얽힌다. 가장 큰 비밀은 그들이 누리에서 온 사람들의 후손이라는 것.
+- [짧은 의뢰 여섯](https://belorin.github.io/binary-arcana/notes/mission-seeds/): 한 세션에 끝나는 의뢰 여섯 개. 이름을 바꾼 배, 스무 해를 기다린 사람, 해곁별의 그늘 채굴단, 겹침날의 약속, 역서가 틀린 날, 주인을 잃은 걸음틀. 의뢰마다 숨은 사정과 꼬임과 이어지는 실이 있다.
 - [건넘선과 장비](https://belorin.github.io/binary-arcana/notes/ships-and-gear/): 건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.
 - [항로 시대의 생활](https://belorin.github.io/binary-arcana/notes/route-era-life/): 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
 

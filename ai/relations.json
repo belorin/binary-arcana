@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 423,
+  "edge_count": 437,
   "edges": [
     {
       "from": "welcome",
@@ -52,6 +52,18 @@
     {
       "from": "welcome",
       "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "mission-seeds",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "welcome",
+      "to": "hosumun-eleven-days",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -122,6 +134,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "open-routes-era",
+      "to": "conceptual-relations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "archmage-maren",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "rulebook",
       "to": "welcome",
       "type": "related_to",
@@ -166,6 +190,18 @@
     {
       "from": "rulebook",
       "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "mission-seeds",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "rulebook",
+      "to": "conceptual-relations",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1004,20 +1040,38 @@
       "basis": "manifest.related"
     },
     {
-      "from": "ships-and-gear",
+      "from": "mission-seeds",
       "to": "rulebook",
       "type": "related_to",
       "basis": "manifest.related"
     },
     {
-      "from": "ships-and-gear",
-      "to": "open-routes-era",
+      "from": "mission-seeds",
+      "to": "mission-lost-freighter",
       "type": "related_to",
       "basis": "manifest.related"
     },
     {
-      "from": "ships-and-gear",
+      "from": "mission-seeds",
+      "to": "mission-breathing-forest",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-seeds",
       "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-seeds",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-seeds",
+      "to": "conceptual-relations",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1118,26 +1172,20 @@
       "basis": "manifest.related"
     },
     {
-      "from": "route-era-life",
+      "from": "ships-and-gear",
       "to": "rulebook",
       "type": "related_to",
       "basis": "manifest.related"
     },
     {
-      "from": "route-era-life",
+      "from": "ships-and-gear",
       "to": "open-routes-era",
       "type": "related_to",
       "basis": "manifest.related"
     },
     {
-      "from": "route-era-life",
-      "to": "ships-and-gear",
-      "type": "related_to",
-      "basis": "manifest.related"
-    },
-    {
-      "from": "route-era-life",
-      "to": "hosumun-eleven-days",
+      "from": "ships-and-gear",
+      "to": "route-era-life",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1168,6 +1216,30 @@
     {
       "from": "story-state",
       "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "hosumun-eleven-days",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2582,6 +2654,22 @@
       "basis": "curated",
       "evidence_section": "더 넣을 수 있는 파일",
       "reason": "룰북과 함께 넣을 임무 파일을 안내한다."
+    },
+    {
+      "from": "mission-seeds",
+      "to": "rulebook",
+      "type": "elaborates",
+      "basis": "curated",
+      "evidence_section": "쓰는 법",
+      "reason": "룰북과 함께 쓰는 단편 임무 모음이다."
+    },
+    {
+      "from": "welcome",
+      "to": "hosumun-eleven-days",
+      "type": "introduces",
+      "basis": "curated",
+      "evidence_section": "첫째 문 — 세계를 읽는다",
+      "reason": "항로 시대의 일상을 보여 주는 소설로 안내한다."
     }
   ]
 }

@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 59,
+  "document_count": 60,
   "documents": [
     {
       "id": "welcome",
@@ -27,7 +27,7 @@
       "summary": "처음 온 사람을 위한 입구. 세계를 쉬운 말로 읽는 문, 룰북을 AI에게 넣어 롤플레잉하는 문, 깊은 설정 문서의 서고로 가는 문.",
       "review_state": "unassessed",
       "review_label": "입구",
-      "last_updated_on": "2026-11-04",
+      "last_updated_on": "2026-11-05",
       "last_enriched_on": "2026-11-04",
       "related_ids": [
         "open-routes-era",
@@ -36,7 +36,9 @@
         "mission-lost-freighter",
         "mission-breathing-forest",
         "ships-and-gear",
-        "route-era-life"
+        "route-era-life",
+        "mission-seeds",
+        "hosumun-eleven-days"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/welcome.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/welcome.md",
@@ -61,7 +63,7 @@
       "summary": "T0에서 약 삼백 해 뒤, 닫힘의 세기를 지나 행성들이 나눔 사이의 정기 항로로 다시 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 지난 삼백 해와 남은 것, 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지.",
       "review_state": "unassessed",
       "review_label": "임시 정본 · 쉬운 말 안내",
-      "last_updated_on": "2026-11-04",
+      "last_updated_on": "2026-11-05",
       "last_enriched_on": "2026-11-04",
       "related_ids": [
         "welcome",
@@ -74,7 +76,9 @@
         "mission-lost-freighter",
         "mission-breathing-forest",
         "ships-and-gear",
-        "route-era-life"
+        "route-era-life",
+        "conceptual-relations",
+        "archmage-maren"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-routes-era.md",
@@ -100,7 +104,7 @@
       "summary": "AI에게 통째로 주면 진행자가 되어 개척지 탐사 롤플레잉을 진행하는 한 파일짜리 룰북. 진행자 지침, 2d6 판정, 탐사대원 만들기, 마법과 값, 신탁·시계·하늘 굴림·무작위 표, 첫 임무 「돌아온 별, 조용한 우물」.",
       "review_state": "unassessed",
       "review_label": "룰북",
-      "last_updated_on": "2026-11-04",
+      "last_updated_on": "2026-11-05",
       "last_enriched_on": "2026-11-04",
       "related_ids": [
         "welcome",
@@ -110,7 +114,9 @@
         "mission-lost-freighter",
         "mission-breathing-forest",
         "ships-and-gear",
-        "route-era-life"
+        "route-era-life",
+        "mission-seeds",
+        "conceptual-relations"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rulebook.md",
@@ -715,35 +721,40 @@
       "app_url": "https://belorin.github.io/binary-arcana/#aren-session-01"
     },
     {
-      "id": "ships-and-gear",
-      "title": "건넘선과 장비",
+      "id": "mission-seeds",
+      "title": "짧은 의뢰 여섯",
       "aliases": [
-        "배의 부분",
-        "아이템",
-        "장비 목록"
+        "단편 임무",
+        "늙은갈매기호",
+        "푸른실호",
+        "겹침날의 약속",
+        "역서가 틀린 날"
       ],
       "category": "탐사대",
       "tags": [
-        "건넘선",
-        "장비",
-        "아이템",
-        "탈것",
-        "자금"
+        "임무",
+        "단편",
+        "관념 사이",
+        "맹약",
+        "재편"
       ],
-      "summary": "건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.",
+      "summary": "한 세션에 끝나는 의뢰 여섯 개. 이름을 바꾼 배, 스무 해를 기다린 사람, 해곁별의 그늘 채굴단, 겹침날의 약속, 역서가 틀린 날, 주인을 잃은 걸음틀. 의뢰마다 숨은 사정과 꼬임과 이어지는 실이 있다.",
       "review_state": "unassessed",
-      "review_label": "룰북용 사전",
-      "last_updated_on": "2026-11-04",
-      "last_enriched_on": "2026-11-04",
+      "review_label": "룰북용 단편 임무 · 진행자 전용",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
       "related_ids": [
         "rulebook",
-        "open-routes-era",
-        "route-era-life"
+        "mission-lost-freighter",
+        "mission-breathing-forest",
+        "route-era-life",
+        "ships-and-gear",
+        "conceptual-relations"
       ],
-      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/ships-and-gear.md",
-      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/ships-and-gear.md",
-      "page_url": "https://belorin.github.io/binary-arcana/notes/ships-and-gear/",
-      "app_url": "https://belorin.github.io/binary-arcana/#ships-and-gear"
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-seeds.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mission-seeds.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mission-seeds/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mission-seeds"
     },
     {
       "id": "knowledge-horizons",
@@ -823,36 +834,35 @@
       "app_url": "https://belorin.github.io/binary-arcana/#conceptual-relations"
     },
     {
-      "id": "route-era-life",
-      "title": "항로 시대의 생활",
+      "id": "ships-and-gear",
+      "title": "건넘선과 장비",
       "aliases": [
-        "항구 생활",
-        "겹침날",
-        "틈에나 빠져라"
+        "배의 부분",
+        "아이템",
+        "장비 목록"
       ],
       "category": "탐사대",
       "tags": [
-        "생활",
-        "음식",
-        "말버릇",
-        "축제",
-        "항구"
+        "건넘선",
+        "장비",
+        "아이템",
+        "탈것",
+        "자금"
       ],
-      "summary": "항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.",
+      "summary": "건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.",
       "review_state": "unassessed",
       "review_label": "룰북용 사전",
       "last_updated_on": "2026-11-05",
-      "last_enriched_on": "2026-11-05",
+      "last_enriched_on": "2026-11-04",
       "related_ids": [
         "rulebook",
         "open-routes-era",
-        "ships-and-gear",
-        "hosumun-eleven-days"
+        "route-era-life"
       ],
-      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md",
-      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-life.md",
-      "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-life/",
-      "app_url": "https://belorin.github.io/binary-arcana/#route-era-life"
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/ships-and-gear.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/ships-and-gear.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/ships-and-gear/",
+      "app_url": "https://belorin.github.io/binary-arcana/#ships-and-gear"
     },
     {
       "id": "story-state",
@@ -883,6 +893,38 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/story-state.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/story-state/",
       "app_url": "https://belorin.github.io/binary-arcana/#story-state"
+    },
+    {
+      "id": "route-era-life",
+      "title": "항로 시대의 생활",
+      "aliases": [
+        "항구 생활",
+        "겹침날",
+        "틈에나 빠져라"
+      ],
+      "category": "탐사대",
+      "tags": [
+        "생활",
+        "음식",
+        "말버릇",
+        "축제",
+        "항구"
+      ],
+      "summary": "항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.",
+      "review_state": "unassessed",
+      "review_label": "룰북용 사전",
+      "last_updated_on": "2026-11-05",
+      "last_enriched_on": "2026-11-05",
+      "related_ids": [
+        "rulebook",
+        "open-routes-era",
+        "ships-and-gear",
+        "hosumun-eleven-days"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-life.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-life/",
+      "app_url": "https://belorin.github.io/binary-arcana/#route-era-life"
     },
     {
       "id": "scenario-great-crossing",
@@ -1920,7 +1962,7 @@
       "summary": "행성(P), 큰 땅과 바다, 지역, 위성, 길(L), 시점(T)에 붙이는 고유 코드와 이름 붙이는 원칙. 다른 행성은 사람이 아는 곳에만 코드를 붙인다. 기존 장소의 대응과 일곱 마왕의 시대 영향권에 대한 제안.",
       "review_state": "unassessed",
       "review_label": "임시 정본",
-      "last_updated_on": "2026-11-04",
+      "last_updated_on": "2026-11-05",
       "last_enriched_on": "2026-11-03",
       "related_ids": [
         "binary-system",

@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 147개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 152개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (8)
 
@@ -112,7 +112,7 @@
 - 관념과의 사이가 물질적 상대와 함께 온 세계에 적용되며 약한 재능이 모두에게 있음 → `conceptual-relations` § 정의; `conceptual-relations` § 보편성과 편차; `magic-as-practice` § 관념과의 사이 — 세계 전체에 있는 재능 · `ing-20261105-archmage-maren`
 - 관념의 관계는 별도의 고정 속성 학파가 아니며 기존 관계 마법과 공존함 → `conceptual-relations` § 기존의 사이와의 관계; `magic-senses` § 관념이라는 상대도 있다 · `ing-20261105-archmage-maren`
 
-## 시작하기 (12)
+## 시작하기 (14)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -128,6 +128,8 @@
 - 처음 온 사람을 위한 입구와 서고 안내 → `welcome` § 셋째 문 — 서고에서 깊이 읽는다 · `ing-20261104-open-routes-era`
 - 지난 삼백 해: 닫힘의 세기, 새 자리, 항로청과 나눔 사이, 건너별 재접촉, 그늘역, 돌아온 별. 남은 것은 많지 않음 → `open-routes-era` § 지난 삼백 해 · `ing-20261104-open-routes-era`
 - 룰북: 함께 받은 파일, 새로 정한 것 표시, 저장 블록 → `rulebook` § 함께 받은 파일, 새로 정한 것, 저장 · `ing-20261104-route-era-play`
+- 룰북: 관념과의 사이를 대원의 사이로 고르는 선택지와 예 → `rulebook` § ③ 사이 두 개 정하기 · `ing-20261105-route-era-extras`
+- 전설 속의 무게의 대마법사와 진행자 지침 → `open-routes-era` § 전설 속의 사람 · `ing-20261105-route-era-extras`
 
 ## 인물 (10)
 
@@ -144,6 +146,36 @@
 - 부모의 직업과 건넘터 산을 옮긴 사건을 실제 역사와 구분한 서사 가안으로 보존 → `archmage-maren` § 사건 후보 — 건넘터와 산을 옮긴 날; `archmage-maren` § 부모와 고향 — 보통의 마법적 생활 · `ing-20261105-archmage-maren`
 - 마왕들과의 대면 및 항로 시대까지의 생존 가능성을 확정 사실과 구분 → `archmage-maren` § 마왕들과의 만남; `archmage-maren` § 동시대와 후대의 지식은 다르다 · `ing-20261105-archmage-maren`
 
+## 천체 (10)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 두 해는 40날에 서로 돌고 P3에서 늘 12도 안쪽에 붙어 보임 → `binary-system` § 두 해 · `ing-20261103-binary-system-codes`
+- 날·물때(11날)·철(44날)·겹침철(한 해 두 번)·해(440날)의 단위 → `binary-system` § P3에서 쓰는 시간의 단위 · `ing-20261103-binary-system-codes`
+- 여섯 행성의 궤도와 물리 조건, 행성마다 사람이 아는 곳은 한 귀퉁이뿐임 → `binary-system` § 여섯 행성; `binary-system` § 행성은 하나의 그림이 아니다 · `ing-20261103-binary-system-codes`
+- 행성·땅·지역·위성·길·시점의 고유 코드 규칙 → `space-codes` § 코드 규칙 · `ing-20261103-binary-system-codes`
+- P3의 알려진 큰 땅 넷과 바다 둘, 기존 장소의 코드 대응 → `space-codes` § P3 누리; `space-codes` § 기존 문서의 장소와 코드 · `ing-20261103-binary-system-codes`
+- T0에 큰 건넘의 건너편 P4는 두 해 바로 뒤에 숨어 있었음 → `sky-positions` § T0 — 큰 건넘 대국의 마지막 겹침 · `ing-20261103-binary-system-codes`
+- 새 공간 코드 P3-A5 기둥벌, P2-B 껍질땅, L05 문그늘 건넘, P3-A4의 옛 쓰임 → `space-codes` § 일곱 마왕의 시대의 자리 · `ing-20261104-demon-epoch-chronicle`
+- 옛 이름의 정리: 호수문과 서항, 고리운송, 바람고원 자유시, 큰 건넘의 완전한 닫힘 → `space-codes` § 항로 시대의 자리 · `ing-20261104-open-routes-era`
+- 새 공간 코드 P4-B, P4-B1, P2-B1 → `space-codes` § 항로 시대의 자리 · `ing-20261104-route-era-play`
+- 항로력 212년 별계 항로도와 해곁별 그늘 쪽 코드 P1-A → `space-codes` § 항로 시대의 자리 · `ing-20261105-route-era-extras`
+
+## 탐사대 (10)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 임무: 바람 끝의 손님들 — 은실호, 비엘라의 돌, 문그늘, 남쪽 행렬 → `mission-lost-freighter` § 진상 — 진행자만 · `ing-20261104-route-era-play`
+- 문그늘 아래의 규칙: 따뜻함, 쫓기는 이만 나감, 손님은 해치지 않음 → `mission-lost-freighter` § 넷째 겹: 그늘 아래의 규칙 · `ing-20261104-route-era-play`
+- 임무: 숨 쉬는 숲 — 허물, 레오와 이벨, 카렌과 허물 조각, 숨 쉬는 사람들 → `mission-breathing-forest` § 진상 — 진행자만 · `ing-20261104-route-era-play`
+- 숨 쉬는 사람들은 일곱 마왕의 시대에 샛별로 건너간 누리 사람들의 후손이다 → `mission-breathing-forest` § 여섯째 겹 — 가장 큰 비밀: 그들은 사람이다 · `ing-20261104-route-era-play`
+- 건넘선의 부분과 크기, 성깔, 손상 표 → `ships-and-gear` § 건넘선은 어떻게 생겼나 · `ing-20261104-route-era-play`
+- 자금 규칙과 장비 목록 → `ships-and-gear` § 돈 — 자금 · `ing-20261104-route-era-play`
+- 항구의 직업, 음식, 말버릇, 미신, 축제, 지역 분위기 → `route-era-life` § 항구의 하루 · `ing-20261104-route-era-play`
+- 열줄 받침 수리와 켜사람 수로 활동 등 지역 사건을 생활 설정에 반영 → `route-era-life` § 호수문 서쪽 시장의 한 물때 · `ing-20261105-hosumun-canon`
+- 단편 임무 여섯과 각 임무의 숨은 사정·꼬임·이어지는 실 → `mission-seeds` § 쓰는 법 · `ing-20261105-route-era-extras`
+- 돈(닢, 바람돈, 자금 환산), 지역별 이름 표, 항구 사건 표, 떠도는 소문 표 → `route-era-life` § 돈 · `ing-20261105-route-era-extras`
+
 ## 롤플레잉 (9)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -157,33 +189,6 @@
 - 맞섬: 관계의 힘으로 겨루며 장소·날·건 것이 승패를 가름 → `scenario-great-crossing` § 맞섬의 방식 · `ing-20261103-great-crossing-scenario`
 - 큰 건넘: 두 태양이 가장 가까워지는 철에만 넓게 열리는 행성 간 길 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
 - 길의 지기가 평생의 관계를 대를 이어 물려줌 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
-
-## 천체 (9)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 두 해는 40날에 서로 돌고 P3에서 늘 12도 안쪽에 붙어 보임 → `binary-system` § 두 해 · `ing-20261103-binary-system-codes`
-- 날·물때(11날)·철(44날)·겹침철(한 해 두 번)·해(440날)의 단위 → `binary-system` § P3에서 쓰는 시간의 단위 · `ing-20261103-binary-system-codes`
-- 여섯 행성의 궤도와 물리 조건, 행성마다 사람이 아는 곳은 한 귀퉁이뿐임 → `binary-system` § 여섯 행성; `binary-system` § 행성은 하나의 그림이 아니다 · `ing-20261103-binary-system-codes`
-- 행성·땅·지역·위성·길·시점의 고유 코드 규칙 → `space-codes` § 코드 규칙 · `ing-20261103-binary-system-codes`
-- P3의 알려진 큰 땅 넷과 바다 둘, 기존 장소의 코드 대응 → `space-codes` § P3 누리; `space-codes` § 기존 문서의 장소와 코드 · `ing-20261103-binary-system-codes`
-- T0에 큰 건넘의 건너편 P4는 두 해 바로 뒤에 숨어 있었음 → `sky-positions` § T0 — 큰 건넘 대국의 마지막 겹침 · `ing-20261103-binary-system-codes`
-- 새 공간 코드 P3-A5 기둥벌, P2-B 껍질땅, L05 문그늘 건넘, P3-A4의 옛 쓰임 → `space-codes` § 일곱 마왕의 시대의 자리 · `ing-20261104-demon-epoch-chronicle`
-- 옛 이름의 정리: 호수문과 서항, 고리운송, 바람고원 자유시, 큰 건넘의 완전한 닫힘 → `space-codes` § 항로 시대의 자리 · `ing-20261104-open-routes-era`
-- 새 공간 코드 P4-B, P4-B1, P2-B1 → `space-codes` § 항로 시대의 자리 · `ing-20261104-route-era-play`
-
-## 탐사대 (8)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 임무: 바람 끝의 손님들 — 은실호, 비엘라의 돌, 문그늘, 남쪽 행렬 → `mission-lost-freighter` § 진상 — 진행자만 · `ing-20261104-route-era-play`
-- 문그늘 아래의 규칙: 따뜻함, 쫓기는 이만 나감, 손님은 해치지 않음 → `mission-lost-freighter` § 넷째 겹: 그늘 아래의 규칙 · `ing-20261104-route-era-play`
-- 임무: 숨 쉬는 숲 — 허물, 레오와 이벨, 카렌과 허물 조각, 숨 쉬는 사람들 → `mission-breathing-forest` § 진상 — 진행자만 · `ing-20261104-route-era-play`
-- 숨 쉬는 사람들은 일곱 마왕의 시대에 샛별로 건너간 누리 사람들의 후손이다 → `mission-breathing-forest` § 여섯째 겹 — 가장 큰 비밀: 그들은 사람이다 · `ing-20261104-route-era-play`
-- 건넘선의 부분과 크기, 성깔, 손상 표 → `ships-and-gear` § 건넘선은 어떻게 생겼나 · `ing-20261104-route-era-play`
-- 자금 규칙과 장비 목록 → `ships-and-gear` § 돈 — 자금 · `ing-20261104-route-era-play`
-- 항구의 직업, 음식, 말버릇, 미신, 축제, 지역 분위기 → `route-era-life` § 항구의 하루 · `ing-20261104-route-era-play`
-- 열줄 받침 수리와 켜사람 수로 활동 등 지역 사건을 생활 설정에 반영 → `route-era-life` § 호수문 서쪽 시장의 한 물때 · `ing-20261105-hosumun-canon`
 
 ## 사물·개념 (4)
 
