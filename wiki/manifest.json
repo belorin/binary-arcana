@@ -52,7 +52,7 @@
       "title": "항로 시대 — 세계 안내",
       "category": "시작하기",
       "status": "임시 정본 · 쉬운 말 안내",
-      "updated": "2026-11-05",
+      "updated": "2026-11-06",
       "summary": "T0에서 약 삼백 해 뒤, 닫힘의 세기를 지나 행성들이 나눔 사이의 정기 항로로 다시 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 지난 삼백 해와 남은 것, 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지. 사람을 노리는 존재와 시대·개체별 변이를 안내한다.",
       "tags": [
         "항로 시대",
@@ -77,7 +77,8 @@
         "archmage-maren",
         "hostile-beings",
         "regional-life",
-        "regional-threats"
+        "regional-threats",
+        "soel-session-03"
       ],
       "aliases": [
         "항로 시대",
@@ -85,7 +86,7 @@
         "돌아온 별"
       ],
       "review_state": "unassessed",
-      "last_enriched_on": "2026-11-05"
+      "last_enriched_on": "2026-11-06"
     },
     {
       "path": "wiki/rulebook.md",
@@ -137,7 +138,7 @@
       "title": "임무: 바람 끝의 손님들",
       "category": "탐사대",
       "status": "룰북용 임무 · 진행자 전용",
-      "updated": "2026-11-04",
+      "updated": "2026-11-06",
       "summary": "사라진 고리운송 화물선 은실호를 찾는 중형 임무. 빼돌린 바람고원의 유물, 틈의 문그늘, 그늘 아래 백 해를 산 남쪽 행렬, 쫓기는 이만 나갈 수 있는 규칙.",
       "tags": [
         "임무",
@@ -163,7 +164,7 @@
         "비엘라의 돌"
       ],
       "review_state": "unassessed",
-      "last_enriched_on": "2026-11-04"
+      "last_enriched_on": "2026-11-06"
     },
     {
       "path": "wiki/mission-breathing-forest.md",
@@ -277,7 +278,7 @@
       "title": "항로 시대의 생활",
       "category": "탐사대",
       "status": "룰북용 사전",
-      "updated": "2026-11-05",
+      "updated": "2026-11-06",
       "summary": "항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.",
       "tags": [
         "생활",
@@ -291,7 +292,8 @@
         "rulebook",
         "open-routes-era",
         "ships-and-gear",
-        "hosumun-eleven-days"
+        "hosumun-eleven-days",
+        "soel-session-03"
       ],
       "aliases": [
         "항구 생활",
@@ -299,7 +301,7 @@
         "틈에나 빠져라"
       ],
       "review_state": "unassessed",
-      "last_enriched_on": "2026-11-05"
+      "last_enriched_on": "2026-11-06"
     },
     {
       "path": "wiki/grand-questions.md",
@@ -2353,7 +2355,7 @@
       "title": "방금 떠난 야영지 — 소금 평원의 기록",
       "category": "탐사대",
       "status": "룰북용 단편 임무 · 진행자 전용",
-      "updated": "2026-11-05",
+      "updated": "2026-11-06",
       "summary": "돌아온 별 남쪽 소금 평원에 스물몇 해 전 조사대의 야영지가 지금 막 나타났다. 머문 것을 소금에 새기고 늦게 읽어 주는 평원, 시간의 고리, 소금을 파는 자유 길잡이, 한가운데의 오래된 매듭.",
       "tags": [
         "임무",
@@ -2369,7 +2371,8 @@
         "mission-seeds",
         "soel-session-02",
         "soel-sheet",
-        "ships-and-gear"
+        "ships-and-gear",
+        "soel-session-03"
       ],
       "aliases": [
         "방금 떠난 야영지",
@@ -2378,7 +2381,7 @@
         "백로대"
       ],
       "review_state": "unassessed",
-      "last_enriched_on": null
+      "last_enriched_on": "2026-11-06"
     },
     {
       "path": "wiki/soel-session-02.md",
@@ -2443,7 +2446,7 @@
         "소엘 셋째 의뢰"
       ],
       "review_state": "unassessed",
-      "last_enriched_on": null
+      "last_enriched_on": "2026-11-06"
     }
   ]
 }

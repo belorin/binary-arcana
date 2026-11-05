@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 219개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 231개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (8)
 
@@ -118,6 +118,32 @@
 - 설명문 속 skip-ci 표기가 실제로 배포를 건너뛰게 함 → `rival-gc-retrospective` § 커밋 규칙을 설명한 커밋이 그 규칙에 걸렸다 · `ing-20261103-rival-gc-retrospective-claude`
 - 사이트가 그리지 못하는 상대 경로·절 링크를 빌드 검사로 막자는 제안 → `rival-gc-retrospective` § 사이트가 그리지 못하는 링크가 되풀이된다 · `ing-20261103-rival-gc-retrospective-claude`
 
+## 탐사대 (21)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 임무: 바람 끝의 손님들 — 은실호, 비엘라의 돌, 문그늘, 남쪽 행렬 → `mission-lost-freighter` § 진상 — 진행자만 · `ing-20261104-route-era-play`
+- 문그늘 아래의 규칙: 따뜻함, 쫓기는 이만 나감, 손님은 해치지 않음 → `mission-lost-freighter` § 넷째 겹: 그늘 아래의 규칙 · `ing-20261104-route-era-play`
+- 임무: 숨 쉬는 숲 — 허물, 레오와 이벨, 카렌과 허물 조각, 숨 쉬는 사람들 → `mission-breathing-forest` § 진상 — 진행자만 · `ing-20261104-route-era-play`
+- 숨 쉬는 사람들은 일곱 마왕의 시대에 샛별로 건너간 누리 사람들의 후손이다 → `mission-breathing-forest` § 여섯째 겹 — 가장 큰 비밀: 그들은 사람이다 · `ing-20261104-route-era-play`
+- 건넘선의 부분과 크기, 성깔, 손상 표 → `ships-and-gear` § 건넘선은 어떻게 생겼나 · `ing-20261104-route-era-play`
+- 자금 규칙과 장비 목록 → `ships-and-gear` § 돈 — 자금 · `ing-20261104-route-era-play`
+- 항구의 직업, 음식, 말버릇, 미신, 축제, 지역 분위기 → `route-era-life` § 항구의 하루 · `ing-20261104-route-era-play`
+- 열줄 받침 수리와 켜사람 수로 활동 등 지역 사건을 생활 설정에 반영 → `route-era-life` § 호수문 서쪽 시장의 한 물때 · `ing-20261105-hosumun-canon`
+- 단편 임무 여섯과 각 임무의 숨은 사정·꼬임·이어지는 실 → `mission-seeds` § 쓰는 법 · `ing-20261105-route-era-extras`
+- 돈(닢, 바람돈, 자금 환산), 지역별 이름 표, 항구 사건 표, 떠도는 소문 표 → `route-era-life` § 돈 · `ing-20261105-route-era-extras`
+- 작은 겹침의 시기 → `route-era-life` § 날과 축제 · `ing-20261106-soel-mission03-canon`
+- 그늘역 부두 기록관 연구회와 겹병 → `route-era-life` § 이미 정해진 사람들 · `ing-20261106-soel-mission03-canon`
+- 평원 밖에서도 기록하는 소금 → `mission-salt-plain` § 숨은 사정 · `ing-20261106-soel-mission03-canon`
+- 열 해 전 항로 역서의 숨음날 메모 → `mission-lost-freighter` § 단서 · `ing-20261106-soel-mission03-canon`
+- 맹약이 약속한 사람을 쫓는 판례 → `route-era-life` § 맹약소 계약의 문구와 대가 · `ing-20261106-soel-mission03-canon`
+- 맹약소 서기의 구체적 문구 요구 → `route-era-life` § 맹약소 계약의 문구와 대가 · `ing-20261106-soel-mission03-canon`
+- 페이와 회색 코트 세 사람 → `mission-lost-freighter` § 등장인물 · `ing-20261106-soel-mission03-canon`
+- 바르카와 정찰정 바람잎호 → `mission-lost-freighter` § 등장인물 · `ing-20261106-soel-mission03-canon`
+- 은실호 갑판원 벤 → `mission-lost-freighter` § 등장인물 · `ing-20261106-soel-mission03-canon`
+- 문그늘의 손님별 출구 판정 → `mission-lost-freighter` § 넷째 겹: 그늘 아래의 규칙 · `ing-20261106-soel-mission03-canon`
+- 소엘과 관념 맹약의 사이 → `soel-sheet` § 마법과 기술 · `ing-20261106-soel-mission03-canon`
+
 ## 사건 (19)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -142,6 +168,28 @@
 - 진행자용 진상: 기둥과 맹약을 지키는 이들, 잠든 둘레, 겹살이, 샛별의 후손, 틈이 굳은 까닭 → `demon-epoch-chronicle` § 진행자용 — 인물들은 모름 · `ing-20261104-demon-epoch-chronicle`
 - 대마법사 활동기의 시간적 배치를 재편의 별도 원인으로 만들지 않음 → `reshaping` § 검토 대기 제안 — 정본 아님; `exceptional-generations` § 예외적인 개인의 구체적 구상 — 마렌 · `ing-20261105-archmage-maren`
 
+## 시작하기 (17)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 항로 시대: T0에서 약 삼백 해 뒤, 항로력 212년. 정기 항로로 이어진 행성 간 문명 → `open-routes-era` § 한눈에 · `ing-20261104-open-routes-era`
+- 행성별 도시와 개척지, 돌아온 별(P6)의 귀환과 첫 항로 → `open-routes-era` § 행성들 · `ing-20261104-open-routes-era`
+- 항로, 건넘선, 문, 틈, 길잡이, 개척 항로 → `open-routes-era` § 배와 항로 · `ing-20261104-open-routes-era`
+- 생활 도구: 짝돌, 숨옷, 불돌, 등빛, 아물림 막, 결바늘, 묵힘 상자. 도구를 길들이는 문화 → `open-routes-era` § 생활과 도구 · `ing-20261104-open-routes-era`
+- 세력: 항로청, 고리운송, 결 학회, 맹약소(살아남은 옛 기관), 자유 길잡이들 → `open-routes-era` § 세력 · `ing-20261104-open-routes-era`
+- 사람 아닌 이웃: 켜사람, 함께 숨쉬는 사람들, 먼저 온 것들 → `open-routes-era` § 사람 아닌 이웃들 · `ing-20261104-open-routes-era`
+- 진행자용: 틈은 마왕 질서의 이음매, 맹약소 증인은 서약 일족, 돌아온 별의 매듭 → `open-routes-era` § 진행자용 — 인물들은 모름 · `ing-20261104-open-routes-era`
+- 룰북: 2d6 판정, 신탁, 시계, 하늘 굴림, 무작위 표, 마법과 값의 규칙 → `rulebook` § 2. 판정 — 주사위 두 개 · `ing-20261104-open-routes-era`
+- 첫 임무 돌아온 별, 조용한 우물 → `rulebook` § 9. 임무 · `ing-20261104-open-routes-era`
+- 처음 온 사람을 위한 입구와 서고 안내 → `welcome` § 셋째 문 — 서고에서 깊이 읽는다 · `ing-20261104-open-routes-era`
+- 지난 삼백 해: 닫힘의 세기, 새 자리, 항로청과 나눔 사이, 건너별 재접촉, 그늘역, 돌아온 별. 남은 것은 많지 않음 → `open-routes-era` § 지난 삼백 해 · `ing-20261104-open-routes-era`
+- 룰북: 함께 받은 파일, 새로 정한 것 표시, 저장 블록 → `rulebook` § 함께 받은 파일, 새로 정한 것, 저장 · `ing-20261104-route-era-play`
+- 룰북: 관념과의 사이를 대원의 사이로 고르는 선택지와 예 → `rulebook` § ③ 사이 두 개 정하기 · `ing-20261105-route-era-extras`
+- 전설 속의 무게의 대마법사와 진행자 지침 → `open-routes-era` § 전설 속의 사람 · `ing-20261105-route-era-extras`
+- 항로 시대 안내의 위해체와 변이 소개 → `open-routes-era` § 사람을 노리는 존재들 · `ing-20261105-hostile-beings`
+- 세계 안내에서 지역 기본종과 추가 위협으로의 연결 → `open-routes-era` § 사람을 노리는 존재들 · `ing-20261105-regional-life`
+- 결 학회 개척지 표본 신고 규정 → `open-routes-era` § 세력 · `ing-20261106-soel-mission03-canon`
+
 ## 개요 (16)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -162,27 +210,6 @@
 - 인류 수백만 명 임시 정본 → `open-setting-questions` § 인구와 종족의 미정 문제 · `ing-20261104-reshaping`
 - 누리에 비인간 지성 존재 공존 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261104-reshaping`
 - 세계의 규칙은 왜 바뀌는가 → `grand-questions` § 세계의 규칙은 왜 바뀌는가? · `ing-20261104-reshaping`
-
-## 시작하기 (16)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 항로 시대: T0에서 약 삼백 해 뒤, 항로력 212년. 정기 항로로 이어진 행성 간 문명 → `open-routes-era` § 한눈에 · `ing-20261104-open-routes-era`
-- 행성별 도시와 개척지, 돌아온 별(P6)의 귀환과 첫 항로 → `open-routes-era` § 행성들 · `ing-20261104-open-routes-era`
-- 항로, 건넘선, 문, 틈, 길잡이, 개척 항로 → `open-routes-era` § 배와 항로 · `ing-20261104-open-routes-era`
-- 생활 도구: 짝돌, 숨옷, 불돌, 등빛, 아물림 막, 결바늘, 묵힘 상자. 도구를 길들이는 문화 → `open-routes-era` § 생활과 도구 · `ing-20261104-open-routes-era`
-- 세력: 항로청, 고리운송, 결 학회, 맹약소(살아남은 옛 기관), 자유 길잡이들 → `open-routes-era` § 세력 · `ing-20261104-open-routes-era`
-- 사람 아닌 이웃: 켜사람, 함께 숨쉬는 사람들, 먼저 온 것들 → `open-routes-era` § 사람 아닌 이웃들 · `ing-20261104-open-routes-era`
-- 진행자용: 틈은 마왕 질서의 이음매, 맹약소 증인은 서약 일족, 돌아온 별의 매듭 → `open-routes-era` § 진행자용 — 인물들은 모름 · `ing-20261104-open-routes-era`
-- 룰북: 2d6 판정, 신탁, 시계, 하늘 굴림, 무작위 표, 마법과 값의 규칙 → `rulebook` § 2. 판정 — 주사위 두 개 · `ing-20261104-open-routes-era`
-- 첫 임무 돌아온 별, 조용한 우물 → `rulebook` § 9. 임무 · `ing-20261104-open-routes-era`
-- 처음 온 사람을 위한 입구와 서고 안내 → `welcome` § 셋째 문 — 서고에서 깊이 읽는다 · `ing-20261104-open-routes-era`
-- 지난 삼백 해: 닫힘의 세기, 새 자리, 항로청과 나눔 사이, 건너별 재접촉, 그늘역, 돌아온 별. 남은 것은 많지 않음 → `open-routes-era` § 지난 삼백 해 · `ing-20261104-open-routes-era`
-- 룰북: 함께 받은 파일, 새로 정한 것 표시, 저장 블록 → `rulebook` § 함께 받은 파일, 새로 정한 것, 저장 · `ing-20261104-route-era-play`
-- 룰북: 관념과의 사이를 대원의 사이로 고르는 선택지와 예 → `rulebook` § ③ 사이 두 개 정하기 · `ing-20261105-route-era-extras`
-- 전설 속의 무게의 대마법사와 진행자 지침 → `open-routes-era` § 전설 속의 사람 · `ing-20261105-route-era-extras`
-- 항로 시대 안내의 위해체와 변이 소개 → `open-routes-era` § 사람을 노리는 존재들 · `ing-20261105-hostile-beings`
-- 세계 안내에서 지역 기본종과 추가 위협으로의 연결 → `open-routes-era` § 사람을 노리는 존재들 · `ing-20261105-regional-life`
 
 ## 마법 (15)
 
@@ -233,21 +260,6 @@
 - 옛 이름의 정리: 호수문과 서항, 고리운송, 바람고원 자유시, 큰 건넘의 완전한 닫힘 → `space-codes` § 항로 시대의 자리 · `ing-20261104-open-routes-era`
 - 새 공간 코드 P4-B, P4-B1, P2-B1 → `space-codes` § 항로 시대의 자리 · `ing-20261104-route-era-play`
 - 항로력 212년 별계 항로도와 해곁별 그늘 쪽 코드 P1-A → `space-codes` § 항로 시대의 자리 · `ing-20261105-route-era-extras`
-
-## 탐사대 (10)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 임무: 바람 끝의 손님들 — 은실호, 비엘라의 돌, 문그늘, 남쪽 행렬 → `mission-lost-freighter` § 진상 — 진행자만 · `ing-20261104-route-era-play`
-- 문그늘 아래의 규칙: 따뜻함, 쫓기는 이만 나감, 손님은 해치지 않음 → `mission-lost-freighter` § 넷째 겹: 그늘 아래의 규칙 · `ing-20261104-route-era-play`
-- 임무: 숨 쉬는 숲 — 허물, 레오와 이벨, 카렌과 허물 조각, 숨 쉬는 사람들 → `mission-breathing-forest` § 진상 — 진행자만 · `ing-20261104-route-era-play`
-- 숨 쉬는 사람들은 일곱 마왕의 시대에 샛별로 건너간 누리 사람들의 후손이다 → `mission-breathing-forest` § 여섯째 겹 — 가장 큰 비밀: 그들은 사람이다 · `ing-20261104-route-era-play`
-- 건넘선의 부분과 크기, 성깔, 손상 표 → `ships-and-gear` § 건넘선은 어떻게 생겼나 · `ing-20261104-route-era-play`
-- 자금 규칙과 장비 목록 → `ships-and-gear` § 돈 — 자금 · `ing-20261104-route-era-play`
-- 항구의 직업, 음식, 말버릇, 미신, 축제, 지역 분위기 → `route-era-life` § 항구의 하루 · `ing-20261104-route-era-play`
-- 열줄 받침 수리와 켜사람 수로 활동 등 지역 사건을 생활 설정에 반영 → `route-era-life` § 호수문 서쪽 시장의 한 물때 · `ing-20261105-hosumun-canon`
-- 단편 임무 여섯과 각 임무의 숨은 사정·꼬임·이어지는 실 → `mission-seeds` § 쓰는 법 · `ing-20261105-route-era-extras`
-- 돈(닢, 바람돈, 자금 환산), 지역별 이름 표, 항구 사건 표, 떠도는 소문 표 → `route-era-life` § 돈 · `ing-20261105-route-era-extras`
 
 ## 롤플레잉 (9)
 

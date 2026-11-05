@@ -11,7 +11,7 @@
 - **[처음 오셨나요](wiki/welcome.md)** · 별칭: 입구, 시작하기, 처음 · 수정: 2026-11-05 · 상태: 입구
   - 처음 온 사람을 위한 입구. 세계를 쉬운 말로 읽는 문, 룰북을 AI에게 넣어 롤플레잉하는 문, 깊은 설정 문서의 서고로 가는 문.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/welcome/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/welcome.md)
-- **[항로 시대 — 세계 안내](wiki/open-routes-era.md)** · 별칭: 항로 시대, 항로력, 돌아온 별 · 수정: 2026-11-05 · 상태: 임시 정본 · 쉬운 말 안내
+- **[항로 시대 — 세계 안내](wiki/open-routes-era.md)** · 별칭: 항로 시대, 항로력, 돌아온 별 · 수정: 2026-11-06 · 상태: 임시 정본 · 쉬운 말 안내
   - T0에서 약 삼백 해 뒤, 닫힘의 세기를 지나 행성들이 나눔 사이의 정기 항로로 다시 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 지난 삼백 해와 남은 것, 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지. 사람을 노리는 존재와 시대·개체별 변이를 안내한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/open-routes-era/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md)
 - **[탐사대 룰북](wiki/rulebook.md)** · 별칭: 룰북, 탐사대, 조용한 우물 · 수정: 2026-11-05 · 상태: 룰북
@@ -20,7 +20,7 @@
 
 ## 탐사대
 
-- **[임무: 바람 끝의 손님들](wiki/mission-lost-freighter.md)** · 별칭: 잃어버린 수송선, 은실호, 남쪽 행렬, 비엘라의 돌 · 수정: 2026-11-04 · 상태: 룰북용 임무 · 진행자 전용
+- **[임무: 바람 끝의 손님들](wiki/mission-lost-freighter.md)** · 별칭: 잃어버린 수송선, 은실호, 남쪽 행렬, 비엘라의 돌 · 수정: 2026-11-06 · 상태: 룰북용 임무 · 진행자 전용
   - 사라진 고리운송 화물선 은실호를 찾는 중형 임무. 빼돌린 바람고원의 유물, 틈의 문그늘, 그늘 아래 백 해를 산 남쪽 행렬, 쫓기는 이만 나갈 수 있는 규칙.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mission-lost-freighter/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-lost-freighter.md)
 - **[임무: 숨 쉬는 숲](wiki/mission-breathing-forest.md)** · 별칭: 균류 숲 유적, 허물 조각, 숨 쉬는 사람들, 레오 · 수정: 2026-11-04 · 상태: 룰북용 임무 · 진행자 전용
@@ -29,13 +29,13 @@
 - **[짧은 의뢰 여섯](wiki/mission-seeds.md)** · 별칭: 단편 임무, 늙은갈매기호, 푸른실호, 겹침날의 약속, 역서가 틀린 날 · 수정: 2026-11-05 · 상태: 룰북용 단편 임무 · 진행자 전용
   - 한 세션에 끝나는 의뢰 여섯 개. 이름을 바꾼 배, 스무 해를 기다린 사람, 해곁별의 그늘 채굴단, 겹침날의 약속, 역서가 틀린 날, 주인을 잃은 걸음틀. 의뢰마다 숨은 사정과 꼬임과 이어지는 실이 있다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mission-seeds/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-seeds.md)
-- **[방금 떠난 야영지 — 소금 평원의 기록](wiki/mission-salt-plain.md)** · 별칭: 방금 떠난 야영지, 소금 평원, 기록 평원, 백로대 · 수정: 2026-11-05 · 상태: 룰북용 단편 임무 · 진행자 전용
+- **[방금 떠난 야영지 — 소금 평원의 기록](wiki/mission-salt-plain.md)** · 별칭: 방금 떠난 야영지, 소금 평원, 기록 평원, 백로대 · 수정: 2026-11-06 · 상태: 룰북용 단편 임무 · 진행자 전용
   - 돌아온 별 남쪽 소금 평원에 스물몇 해 전 조사대의 야영지가 지금 막 나타났다. 머문 것을 소금에 새기고 늦게 읽어 주는 평원, 시간의 고리, 소금을 파는 자유 길잡이, 한가운데의 오래된 매듭.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mission-salt-plain/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-salt-plain.md)
 - **[건넘선과 장비](wiki/ships-and-gear.md)** · 별칭: 배의 부분, 아이템, 장비 목록 · 수정: 2026-11-05 · 상태: 룰북용 사전
   - 건넘선의 부분(용골, 조종석, 길돌함, 물막 선체, 닻돌 등)과 크기, 배의 성깔 표와 손상 표, 개척지의 탈것, 자금 규칙, 생존·탐사·교섭·맞서기 장비와 귀한 것, 사이로 맺을 만한 것들.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/ships-and-gear/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/ships-and-gear.md)
-- **[항로 시대의 생활](wiki/route-era-life.md)** · 별칭: 항구 생활, 겹침날, 틈에나 빠져라 · 수정: 2026-11-05 · 상태: 룰북용 사전
+- **[항로 시대의 생활](wiki/route-era-life.md)** · 별칭: 항구 생활, 겹침날, 틈에나 빠져라 · 수정: 2026-11-06 · 상태: 룰북용 사전
   - 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-life/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md)
 - **[소엘 — 탐사대 기록관 시트](wiki/soel-sheet.md)** · 별칭: 소엘, 소엘 시트 · 수정: 2026-11-06 · 상태: 사용 중

@@ -1,0 +1,152 @@
+{
+  "id": "ing-20261106-soel-mission03-canon",
+  "processed_on": "2026-11-06",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "fact",
+      "title": "작은 겹침의 시기",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "route-era-life",
+          "section": "날과 축제"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "fact",
+      "title": "그늘역 부두 기록관 연구회와 겹병",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "route-era-life",
+          "section": "이미 정해진 사람들"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "fact",
+      "title": "평원 밖에서도 기록하는 소금",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mission-salt-plain",
+          "section": "숨은 사정"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "fact",
+      "title": "결 학회 개척지 표본 신고 규정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "open-routes-era",
+          "section": "세력"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "fact",
+      "title": "열 해 전 항로 역서의 숨음날 메모",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mission-lost-freighter",
+          "section": "단서"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "fact",
+      "title": "맹약이 약속한 사람을 쫓는 판례",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "route-era-life",
+          "section": "맹약소 계약의 문구와 대가"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "fact",
+      "title": "맹약소 서기의 구체적 문구 요구",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "route-era-life",
+          "section": "맹약소 계약의 문구와 대가"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "kind": "fact",
+      "title": "페이와 회색 코트 세 사람",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mission-lost-freighter",
+          "section": "등장인물"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "kind": "fact",
+      "title": "바르카와 정찰정 바람잎호",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mission-lost-freighter",
+          "section": "등장인물"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "kind": "fact",
+      "title": "은실호 갑판원 벤",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mission-lost-freighter",
+          "section": "등장인물"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "kind": "fact",
+      "title": "문그늘의 손님별 출구 판정",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mission-lost-freighter",
+          "section": "넷째 겹: 그늘 아래의 규칙"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "kind": "fact",
+      "title": "소엘과 관념 맹약의 사이",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "soel-sheet",
+          "section": "마법과 기술"
+        }
+      ]
+    }
+  ]
+}
