@@ -3554,7 +3554,7 @@
     {
       "path": "wiki/doors-and-passages.md",
       "publish": true,
-      "order": 1.5,
+      "order": 2,
       "id": "doors-and-passages",
       "title": "문과 통행의 여러 체계",
       "category": "마법 공예·항행",
