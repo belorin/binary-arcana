@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 102,
+  "document_count": 105,
   "documents": [
     {
       "id": "welcome",
@@ -3486,6 +3486,87 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-04.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-04/",
       "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-04"
+    },
+    {
+      "id": "mulsae-archivist-05",
+      "title": "물새호의 기록관 5장: 바람 끝",
+      "aliases": [],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "소엘",
+        "바람고원",
+        "오르 반",
+        "비엘라의 돌",
+        "문그늘"
+      ],
+      "summary": "은실호를 찾기 위해 바람고원에 도착한 소엘 일행은 오르 반의 정체와 비엘라의 돌을 알게 되고, 추격을 이용해 문그늘에 진입한다.",
+      "review_state": "unassessed",
+      "review_label": "개고 · 5장",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "mulsae-archivist",
+        "soel-session-03"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-05.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-05.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-05/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-05"
+    },
+    {
+      "id": "mulsae-archivist-06",
+      "title": "물새호의 기록관 6장: 쫓기는 손님들",
+      "aliases": [],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "소엘",
+        "문그늘",
+        "은실호",
+        "맹약",
+        "이든"
+      ],
+      "summary": "문그늘의 환대와 탈출 규칙을 알아낸 소엘은 맹약의 추격과 은실호를 이용해 일부 손님들을 구하고, 경비대의 눈을 피해 탈출을 시도한다.",
+      "review_state": "unassessed",
+      "review_label": "개고 · 6장",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "mulsae-archivist",
+        "soel-session-03"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-06.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-06.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-06/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-06"
+    },
+    {
+      "id": "mulsae-archivist-07",
+      "title": "물새호의 기록관 7장: 작업장의 밤",
+      "aliases": [],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "소엘",
+        "물새호",
+        "도하",
+        "작업장",
+        "마델"
+      ],
+      "summary": "그늘역에 돌아온 탐사대는 은실호 수색 계약을 마무리하고 물새호의 임대 계약을 재협상해 도하의 작업장 담보를 풀어낸 뒤 서로의 마음을 나눈다.",
+      "review_state": "unassessed",
+      "review_label": "개고 · 7장",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "mulsae-archivist",
+        "soel-session-03"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-07.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-07.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-07/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-07"
     }
   ]
 }

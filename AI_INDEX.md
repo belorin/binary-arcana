@@ -272,6 +272,15 @@
 - **[물새호의 기록관 4장: 맹약소](wiki/mulsae-archivist-04.md)** · 수정: 2026-11-06 · 상태: 개고 · 4장
   - 은실호 수색 의뢰를 받은 물새호 탐사대가 맹약소에서 계약을 맺고 정기 항로 7번의 틈에서 수상한 화물과 흔적을 발견한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-04/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-04.md)
+- **[물새호의 기록관 5장: 바람 끝](wiki/mulsae-archivist-05.md)** · 수정: 2026-11-06 · 상태: 개고 · 5장
+  - 은실호를 찾기 위해 바람고원에 도착한 소엘 일행은 오르 반의 정체와 비엘라의 돌을 알게 되고, 추격을 이용해 문그늘에 진입한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-05/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-05.md)
+- **[물새호의 기록관 6장: 쫓기는 손님들](wiki/mulsae-archivist-06.md)** · 수정: 2026-11-06 · 상태: 개고 · 6장
+  - 문그늘의 환대와 탈출 규칙을 알아낸 소엘은 맹약의 추격과 은실호를 이용해 일부 손님들을 구하고, 경비대의 눈을 피해 탈출을 시도한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-06/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-06.md)
+- **[물새호의 기록관 7장: 작업장의 밤](wiki/mulsae-archivist-07.md)** · 수정: 2026-11-06 · 상태: 개고 · 7장
+  - 그늘역에 돌아온 탐사대는 은실호 수색 계약을 마무리하고 물새호의 임대 계약을 재협상해 도하의 작업장 담보를 풀어낸 뒤 서로의 마음을 나눈다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-07/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-07.md)
 
 ## 롤플레잉
 

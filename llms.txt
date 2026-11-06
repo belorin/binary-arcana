@@ -142,6 +142,9 @@
 - [물새호의 기록관 2장: 방금 떠난 야영지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-02/): 자유 길잡이 토르바를 따라 돌아온 별 남쪽 소금 평원에 간 소엘이, 머문 것을 새기고 늦게 읽어 주는 평원의 규칙을 알아내고 한가운데의 오래된 매듭을 처음 읽는다.
 - [물새호의 기록관 3장: 작은 겹침](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-03/): 그늘역의 작은 겹침 장에서 소엘은 소금 표본을 부두 기록관 연구회에 맡기고, 리안과 닫힌 항로의 기록을 발견한다.
 - [물새호의 기록관 4장: 맹약소](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-04/): 은실호 수색 의뢰를 받은 물새호 탐사대가 맹약소에서 계약을 맺고 정기 항로 7번의 틈에서 수상한 화물과 흔적을 발견한다.
+- [물새호의 기록관 5장: 바람 끝](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-05/): 은실호를 찾기 위해 바람고원에 도착한 소엘 일행은 오르 반의 정체와 비엘라의 돌을 알게 되고, 추격을 이용해 문그늘에 진입한다.
+- [물새호의 기록관 6장: 쫓기는 손님들](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-06/): 문그늘의 환대와 탈출 규칙을 알아낸 소엘은 맹약의 추격과 은실호를 이용해 일부 손님들을 구하고, 경비대의 눈을 피해 탈출을 시도한다.
+- [물새호의 기록관 7장: 작업장의 밤](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-07/): 그늘역에 돌아온 탐사대는 은실호 수색 계약을 마무리하고 물새호의 임대 계약을 재협상해 도하의 작업장 담보를 풀어낸 뒤 서로의 마음을 나눈다.
 
 ### 롤플레잉
 

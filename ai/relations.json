@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 754,
+  "edge_count": 760,
   "edges": [
     {
       "from": "welcome",
@@ -4359,6 +4359,42 @@
     },
     {
       "from": "mulsae-archivist-04",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-05",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-05",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-06",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-06",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-07",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-07",
       "to": "soel-session-03",
       "type": "related_to",
       "basis": "manifest.related"
