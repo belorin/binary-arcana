@@ -2203,7 +2203,8 @@
         "soel-sheet",
         "mission-seeds",
         "rulebook",
-        "mission-lost-freighter"
+        "mission-lost-freighter",
+        "mulsae-archivist-01"
       ],
       "aliases": [
         "이름을 바꾼 배 세션",
@@ -3331,6 +3332,66 @@
         "outside-walking-sea"
       ],
       "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/mulsae-archivist.md",
+      "publish": true,
+      "order": 98,
+      "id": "mulsae-archivist",
+      "title": "물새호의 기록관",
+      "category": "소설",
+      "status": "연재 중 · 롤플레잉 개작",
+      "summary": "물새호의 기록관 소엘이 이름을 빼앗긴 배, 소리를 받아 적는 소금 평원, 쫓기는 것만 내보내는 문그늘을 지나며 약속의 무게를 배우는 항로 시대 탐사 소설. 탐사대 룰북 세션을 개고했다.",
+      "tags": [
+        "소설",
+        "항로 시대",
+        "소엘",
+        "물새호",
+        "탐사대"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "soel-sheet",
+        "soel-session-01",
+        "soel-session-02",
+        "soel-session-03",
+        "rulebook",
+        "mission-seeds"
+      ],
+      "aliases": [
+        "물새호 이야기",
+        "소엘의 이야기"
+      ],
+      "updated": "2026-11-06",
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/mulsae-archivist-01.md",
+      "publish": true,
+      "order": 99,
+      "id": "mulsae-archivist-01",
+      "title": "물새호의 기록관 1장: 이름을 바꾼 배",
+      "category": "소설",
+      "status": "개고 · 1장",
+      "summary": "그늘역 3번 부두, 이름을 빼앗기고 길잡이를 밀어내는 화물선 고리 7호. 소엘은 조종석의 재회 매듭과 갈린 용골의 옛 이름을 읽어 내고, 마흔 해 그 배를 몬 리나와 배를 짝돌로 다시 잇는다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "고리 7호",
+        "늙은갈매기호",
+        "재회",
+        "그늘역"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist",
+        "soel-session-01"
+      ],
+      "aliases": [],
+      "updated": "2026-11-06",
       "review_state": "unassessed",
       "last_enriched_on": null
     }
