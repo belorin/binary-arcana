@@ -263,6 +263,15 @@
 - **[물새호의 기록관 1장: 이름을 바꾼 배](wiki/mulsae-archivist-01.md)** · 수정: 2026-11-06 · 상태: 개고 · 1장
   - 그늘역 3번 부두, 이름을 빼앗기고 길잡이를 밀어내는 화물선 고리 7호. 소엘은 조종석의 재회 매듭과 갈린 용골의 옛 이름을 읽어 내고, 마흔 해 그 배를 몬 리나와 배를 짝돌로 다시 잇는다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-01/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-01.md)
+- **[물새호의 기록관 2장: 방금 떠난 야영지](wiki/mulsae-archivist-02.md)** · 수정: 2026-11-06 · 상태: 개고 · 2장
+  - 자유 길잡이 토르바를 따라 돌아온 별 남쪽 소금 평원에 간 소엘이, 머문 것을 새기고 늦게 읽어 주는 평원의 규칙을 알아내고 한가운데의 오래된 매듭을 처음 읽는다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-02/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-02.md)
+- **[물새호의 기록관 3장: 작은 겹침](wiki/mulsae-archivist-03.md)** · 수정: 2026-11-06 · 상태: 개고 · 3장
+  - 그늘역의 작은 겹침 장에서 소엘은 소금 표본을 부두 기록관 연구회에 맡기고, 리안과 닫힌 항로의 기록을 발견한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-03/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-03.md)
+- **[물새호의 기록관 4장: 맹약소](wiki/mulsae-archivist-04.md)** · 수정: 2026-11-06 · 상태: 개고 · 4장
+  - 은실호 수색 의뢰를 받은 물새호 탐사대가 맹약소에서 계약을 맺고 정기 항로 7번의 틈에서 수상한 화물과 흔적을 발견한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-04/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-04.md)
 
 ## 롤플레잉
 

@@ -7,7 +7,7 @@
 - 요약: 소엘이 돌아온 별 남쪽 소금 평원에서 머문 것을 새기고 늦게 읽어 주는 평원의 규칙을 알아내고, 한가운데의 오래된 늦게 옴 매듭과 백로대의 묻어 둠 매듭을 읽은 둘째 의뢰.
 - 태그: 소엘, 세션, 돌아온 별, 소금 평원, 늦게 옴, 오미르
 - 수정일: 2026-11-05 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `soel-sheet`, `soel-session-01`, `mission-salt-plain`, `rulebook`
+- 관련 문서: `soel-sheet`, `soel-session-01`, `mission-salt-plain`, `rulebook`, `mulsae-archivist-02`
 
 ## 절 목차
 

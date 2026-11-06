@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 99,
+  "document_count": 102,
   "documents": [
     {
       "id": "welcome",
@@ -2427,7 +2427,8 @@
         "soel-sheet",
         "soel-session-01",
         "mission-salt-plain",
-        "rulebook"
+        "rulebook",
+        "mulsae-archivist-02"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-02.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-02.md",
@@ -3369,7 +3370,8 @@
         "soel-session-02",
         "soel-session-03",
         "rulebook",
-        "mission-seeds"
+        "mission-seeds",
+        "mission-salt-plain"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist.md",
@@ -3402,6 +3404,88 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-01.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-01/",
       "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-01"
+    },
+    {
+      "id": "mulsae-archivist-02",
+      "title": "물새호의 기록관 2장: 방금 떠난 야영지",
+      "aliases": [],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "소엘",
+        "소금 평원",
+        "늦게 옴",
+        "토르바",
+        "돌아온 별"
+      ],
+      "summary": "자유 길잡이 토르바를 따라 돌아온 별 남쪽 소금 평원에 간 소엘이, 머문 것을 새기고 늦게 읽어 주는 평원의 규칙을 알아내고 한가운데의 오래된 매듭을 처음 읽는다.",
+      "review_state": "unassessed",
+      "review_label": "개고 · 2장",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "mulsae-archivist",
+        "soel-session-02",
+        "mission-salt-plain"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-02.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-02.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-02/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-02"
+    },
+    {
+      "id": "mulsae-archivist-03",
+      "title": "물새호의 기록관 3장: 작은 겹침",
+      "aliases": [],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "소엘",
+        "그늘역",
+        "작은 겹침",
+        "기록 소금",
+        "리안"
+      ],
+      "summary": "그늘역의 작은 겹침 장에서 소엘은 소금 표본을 부두 기록관 연구회에 맡기고, 리안과 닫힌 항로의 기록을 발견한다.",
+      "review_state": "unassessed",
+      "review_label": "개고 · 3장",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "mulsae-archivist",
+        "soel-session-03"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-03.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-03.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-03/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-03"
+    },
+    {
+      "id": "mulsae-archivist-04",
+      "title": "물새호의 기록관 4장: 맹약소",
+      "aliases": [],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "소엘",
+        "은실호",
+        "맹약소",
+        "고리운송",
+        "문그늘"
+      ],
+      "summary": "은실호 수색 의뢰를 받은 물새호 탐사대가 맹약소에서 계약을 맺고 정기 항로 7번의 틈에서 수상한 화물과 흔적을 발견한다.",
+      "review_state": "unassessed",
+      "review_label": "개고 · 4장",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "mulsae-archivist",
+        "soel-session-03"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-04.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-04.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-04/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-04"
     }
   ]
 }

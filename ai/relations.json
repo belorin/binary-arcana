@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 745,
+  "edge_count": 754,
   "edges": [
     {
       "from": "welcome",
@@ -3110,6 +3110,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "soel-session-02",
+      "to": "mulsae-archivist-02",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "soel-session-03",
       "to": "soel-sheet",
       "type": "related_to",
@@ -4298,6 +4304,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "mulsae-archivist",
+      "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "mulsae-archivist-01",
       "to": "mulsae-archivist",
       "type": "related_to",
@@ -4306,6 +4318,48 @@
     {
       "from": "mulsae-archivist-01",
       "to": "soel-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-02",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-02",
+      "to": "soel-session-02",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-02",
+      "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-03",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-03",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-04",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-04",
+      "to": "soel-session-03",
       "type": "related_to",
       "basis": "manifest.related"
     },

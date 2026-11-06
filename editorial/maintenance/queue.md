@@ -4,15 +4,15 @@
 
 마지막 정비: **M003** (2026-11-06) · [보고서](reports/M003.md) · 다음 정비 버전: **M004**
 
-원고 99개 · 변경 문서 39 · 고립 0 · 한쪽 연결 266 · 보류 8 · 열린 교차 제안 0
+원고 102개 · 변경 문서 42 · 고립 0 · 한쪽 연결 273 · 보류 8 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (39)
+## 1. 지난 정비 이후 변경된 문서 (42)
 
 manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **시대의 흐름** (27): `route-era-long-arcs`, `arc-seven-gates`, `arc-empty-shifts`, `arc-grey-promises`, `arc-drifting-routes`, `arc-quiet-harvest`, `route-era-outside-pressures`, `outside-nine-sails`, `outside-no-return-gate`, `outside-black-ice`, `outside-walking-sea`, `outside-returning-stone`, `route-era-seven-fractures`, `fracture-harmony`, `fracture-oath`, `fracture-resonance`, `fracture-shedding`, `fracture-branching`, `fracture-hospitality`, `fracture-dream`, `route-era-bright-turns`, `bright-maren`, `bright-craft-revolution`, `bright-hero`, `bright-open-knowledge`, `bright-many-neighbors`, `bright-living-harvest`
+- **소설** (5): `mulsae-archivist`, `mulsae-archivist-01`, `mulsae-archivist-02`, `mulsae-archivist-03`, `mulsae-archivist-04`
 - **탐사대** (5): `mission-lost-freighter`, `route-era-life`, `soel-sheet`, `mission-salt-plain`, `soel-session-03`
-- **소설** (2): `mulsae-archivist`, `mulsae-archivist-01`
 - **롤플레잉** (1): `route-era-compound-scenarios`
 - **세력** (1): `seven-demon-lords`
 - **시작하기** (1): `open-routes-era`
@@ -24,7 +24,7 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (266)
+## 3. 한쪽에서만 건 관련 문서 (273)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -293,7 +293,14 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `mulsae-archivist` → `soel-session-03`
 - `mulsae-archivist` → `rulebook`
 - `mulsae-archivist` → `mission-seeds`
+- `mulsae-archivist` → `mission-salt-plain`
 - `mulsae-archivist-01` → `mulsae-archivist`
+- `mulsae-archivist-02` → `mulsae-archivist`
+- `mulsae-archivist-02` → `mission-salt-plain`
+- `mulsae-archivist-03` → `mulsae-archivist`
+- `mulsae-archivist-03` → `soel-session-03`
+- `mulsae-archivist-04` → `mulsae-archivist`
+- `mulsae-archivist-04` → `soel-session-03`
 
 ## 4. 관련 문서가 없는 문서 (0)
 
@@ -338,10 +345,10 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (12): `mulsae-archivist-01` 21,401자, `rival-gc-t09-world` 19,396자, `rulebook` 16,414자, `rival-gc-t06-world` 15,310자, `hostile-beings` 13,425자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,953자, `regional-life` 11,213자, `rival-gc-t03-world` 10,529자, `magic-senses` 10,122자
-- 짧은 문서 (13): `editing-guide` 763자, `fracture-resonance` 1,107자, `fracture-branching` 1,130자, `fracture-shedding` 1,133자, `mulsae-archivist` 1,192자, `fracture-harmony` 1,215자, `fracture-hospitality` 1,233자, `fracture-dream` 1,240자, `fracture-oath` 1,276자, `bright-open-knowledge` 1,391자, `bright-living-harvest` 1,410자, `bright-many-neighbors` 1,447자, `bright-hero` 1,467자
+- 긴 문서 (12): `rival-gc-t09-world` 19,396자, `rulebook` 16,414자, `rival-gc-t06-world` 15,310자, `hostile-beings` 13,425자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,953자, `regional-life` 11,213자, `mulsae-archivist-01` 11,206자, `rival-gc-t03-world` 10,529자, `magic-senses` 10,122자
+- 짧은 문서 (13): `editing-guide` 763자, `fracture-resonance` 1,107자, `fracture-branching` 1,130자, `fracture-shedding` 1,133자, `fracture-harmony` 1,215자, `fracture-hospitality` 1,233자, `fracture-dream` 1,240자, `mulsae-archivist` 1,270자, `fracture-oath` 1,276자, `bright-open-knowledge` 1,391자, `bright-living-harvest` 1,410자, `bright-many-neighbors` 1,447자, `bright-hero` 1,467자
 
 ## 9. 분류 참고
 
-분류 17개: 시대의 흐름 27, 탐사대 10, 대국 기록 10, 롤플레잉 8, 인물 8, 운영 원칙 6, 소설 6, 사물·개념 4, 시작하기 3, 개요 3, 마법 3, 사건 3, 천체 3, 안내 2, 세력 1, 마법 공예·항행 1, 장소 1
+분류 17개: 시대의 흐름 27, 탐사대 10, 대국 기록 10, 소설 9, 롤플레잉 8, 인물 8, 운영 원칙 6, 사물·개념 4, 시작하기 3, 개요 3, 마법 3, 사건 3, 천체 3, 안내 2, 세력 1, 마법 공예·항행 1, 장소 1
 문서가 하나뿐인 분류 3개: 세력, 마법 공예·항행, 장소. 분류 체계 변경은 제안만 한다.
