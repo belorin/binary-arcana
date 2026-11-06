@@ -274,3 +274,6 @@ button.home-topic:hover{background:var(--light);border-color:color-mix(in srgb,v
  .prose .table-scroll{overflow:visible}
  .prose th,.prose td{min-width:0;padding:6px}
 }
+.original-text{margin:14px 0 22px;border:1px dashed var(--line);border-radius:8px;padding:0 14px;background:var(--paper)}
+.original-text summary{cursor:pointer;padding:9px 0;font-size:13px;color:var(--muted)}
+.original-body{color:var(--muted);padding-bottom:6px}
