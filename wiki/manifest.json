@@ -2417,7 +2417,8 @@
         "soel-sheet",
         "soel-session-01",
         "mission-salt-plain",
-        "rulebook"
+        "rulebook",
+        "mulsae-archivist-02"
       ],
       "aliases": [
         "방금 떠난 야영지 세션",
@@ -3358,7 +3359,8 @@
         "soel-session-02",
         "soel-session-03",
         "rulebook",
-        "mission-seeds"
+        "mission-seeds",
+        "mission-salt-plain"
       ],
       "aliases": [
         "물새호 이야기",
@@ -3394,6 +3396,31 @@
       "updated": "2026-11-06",
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "id": "mulsae-archivist-02",
+      "path": "wiki/mulsae-archivist-02.md",
+      "publish": true,
+      "order": 100,
+      "category": "소설",
+      "status": "개고 · 2장",
+      "summary": "자유 길잡이 토르바를 따라 돌아온 별 남쪽 소금 평원에 간 소엘이, 머문 것을 새기고 늦게 읽어 주는 평원의 규칙을 알아내고 한가운데의 오래된 매듭을 처음 읽는다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "소금 평원",
+        "늦게 옴",
+        "토르바",
+        "돌아온 별"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist",
+        "soel-session-02",
+        "mission-salt-plain"
+      ],
+      "aliases": [],
+      "updated": "2026-11-06"
     }
   ]
 }
