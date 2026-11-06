@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 844,
+  "edge_count": 906,
   "edges": [
     {
       "from": "welcome",
@@ -226,6 +226,30 @@
     {
       "from": "open-routes-era",
       "to": "doors-and-passages",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "route-era-organizations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "gori-transport",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "kyeol-society-and-research",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "route-era-places",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -544,6 +568,18 @@
     {
       "from": "mission-lost-freighter",
       "to": "baram-end-people",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "gori-transport",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "route-era-places",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -992,6 +1028,60 @@
       "basis": "manifest.related"
     },
     {
+      "from": "route-era-organizations",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-organizations",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-organizations",
+      "to": "gori-transport",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-organizations",
+      "to": "kyeol-society-and-research",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-organizations",
+      "to": "route-era-places",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-organizations",
+      "to": "promises-and-threads",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-organizations",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-organizations",
+      "to": "first-gate",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-organizations",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "mission-breathing-forest",
       "to": "rulebook",
       "type": "related_to",
@@ -1286,6 +1376,132 @@
       "basis": "manifest.related"
     },
     {
+      "from": "doors-and-passages",
+      "to": "route-era-places",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gori-transport",
+      "to": "route-era-organizations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gori-transport",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gori-transport",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gori-transport",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gori-transport",
+      "to": "soel-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gori-transport",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gori-transport",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gori-transport",
+      "to": "promises-and-threads",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gori-transport",
+      "to": "route-era-places",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "gori-transport",
+      "to": "baram-end-people",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-places",
+      "to": "space-codes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-places",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-places",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-places",
+      "to": "route-era-organizations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-places",
+      "to": "gori-transport",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-places",
+      "to": "kyeol-society-and-research",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-places",
+      "to": "doors-and-passages",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-places",
+      "to": "regional-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-places",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-places",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "mission-seeds",
       "to": "rulebook",
       "type": "related_to",
@@ -1514,6 +1730,66 @@
       "basis": "manifest.related"
     },
     {
+      "from": "kyeol-society-and-research",
+      "to": "route-era-organizations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kyeol-society-and-research",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kyeol-society-and-research",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kyeol-society-and-research",
+      "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kyeol-society-and-research",
+      "to": "mission-breathing-forest",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kyeol-society-and-research",
+      "to": "soel-session-02",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kyeol-society-and-research",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kyeol-society-and-research",
+      "to": "records-and-mediums",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kyeol-society-and-research",
+      "to": "route-era-places",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kyeol-society-and-research",
+      "to": "gori-transport",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ships-and-gear",
       "to": "rulebook",
       "type": "related_to",
@@ -1730,6 +2006,24 @@
       "basis": "manifest.related"
     },
     {
+      "from": "route-era-life",
+      "to": "route-era-organizations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "route-era-places",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "kyeol-society-and-research",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "scenario-great-crossing",
       "to": "causal-roleplay",
       "type": "related_to",
@@ -1888,6 +2182,18 @@
     {
       "from": "baram-end-people",
       "to": "doors-and-passages",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "baram-end-people",
+      "to": "gori-transport",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "baram-end-people",
+      "to": "route-era-places",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2978,6 +3284,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "space-codes",
+      "to": "route-era-places",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "sky-positions",
       "to": "binary-system",
       "type": "related_to",
@@ -3410,6 +3722,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "regional-life",
+      "to": "route-era-places",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "regional-threats",
       "to": "hostile-beings",
       "type": "related_to",
@@ -3506,6 +3824,30 @@
       "basis": "manifest.related"
     },
     {
+      "from": "soel-session-03",
+      "to": "route-era-organizations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-03",
+      "to": "gori-transport",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-03",
+      "to": "kyeol-society-and-research",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-03",
+      "to": "route-era-places",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "records-and-mediums",
       "to": "magic-senses",
       "type": "related_to",
@@ -3550,6 +3892,12 @@
     {
       "from": "records-and-mediums",
       "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "records-and-mediums",
+      "to": "kyeol-society-and-research",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -4810,6 +5158,30 @@
     {
       "from": "mulsae-archivist",
       "to": "records-and-mediums",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist",
+      "to": "route-era-places",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist",
+      "to": "route-era-organizations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist",
+      "to": "gori-transport",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist",
+      "to": "kyeol-society-and-research",
       "type": "related_to",
       "basis": "manifest.related"
     },

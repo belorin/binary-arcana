@@ -4,9 +4,9 @@
 
 마지막 정비: **M003** (2026-11-06) · [보고서](reports/M003.md) · 다음 정비 버전: **M004**
 
-원고 113개 · 변경 문서 53 · 고립 0 · 한쪽 연결 327 · 보류 8 · 열린 교차 제안 0
+원고 117개 · 변경 문서 57 · 고립 0 · 한쪽 연결 343 · 보류 8 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (53)
+## 1. 지난 정비 이후 변경된 문서 (57)
 
 manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -14,20 +14,21 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - **소설** (8): `mulsae-archivist`, `mulsae-archivist-01`, `mulsae-archivist-02`, `mulsae-archivist-03`, `mulsae-archivist-04`, `mulsae-archivist-05`, `mulsae-archivist-06`, `mulsae-archivist-07`
 - **탐사대** (6): `mission-lost-freighter`, `route-era-life`, `soel-sheet`, `mission-salt-plain`, `soel-session-03`, `mulsae-crew`
 - **인물** (5): `archmage-maren`, `lian`, `doha`, `kai`, `baram-end-people`
+- **세력** (4): `seven-demon-lords`, `route-era-organizations`, `gori-transport`, `kyeol-society-and-research`
 - **롤플레잉** (1): `route-era-compound-scenarios`
 - **마법** (1): `promises-and-threads`
 - **마법 공예·항행** (1): `doors-and-passages`
 - **사물·개념** (1): `records-and-mediums`
-- **세력** (1): `seven-demon-lords`
 - **시작하기** (1): `open-routes-era`
 - **운영 원칙** (1): `exceptional-generations`
+- **장소** (1): `route-era-places`
 
 ## 2. 들어오는 연결이 없는 문서 (0)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (327)
+## 3. 한쪽에서만 건 관련 문서 (343)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -56,6 +57,7 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `mission-lost-freighter` → `ships-and-gear`
 - `mission-lost-freighter` → `route-era-life`
 - `mission-lost-freighter` → `demon-epoch-chronicle`
+- `mission-lost-freighter` → `route-era-places`
 - `mission-breathing-forest` → `ships-and-gear`
 - `mission-breathing-forest` → `route-era-life`
 - `mission-breathing-forest` → `demon-epoch-chronicle`
@@ -309,6 +311,9 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `mulsae-archivist` → `mission-salt-plain`
 - `mulsae-archivist` → `promises-and-threads`
 - `mulsae-archivist` → `records-and-mediums`
+- `mulsae-archivist` → `route-era-organizations`
+- `mulsae-archivist` → `gori-transport`
+- `mulsae-archivist` → `kyeol-society-and-research`
 - `mulsae-archivist-01` → `mulsae-archivist`
 - `mulsae-archivist-02` → `mulsae-archivist`
 - `mulsae-archivist-02` → `mission-salt-plain`
@@ -350,6 +355,7 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `baram-end-people` → `soel-session-03`
 - `baram-end-people` → `mulsae-crew`
 - `baram-end-people` → `doors-and-passages`
+- `baram-end-people` → `route-era-places`
 - `promises-and-threads` → `soel-session-01`
 - `promises-and-threads` → `soel-session-03`
 - `promises-and-threads` → `mission-lost-freighter`
@@ -358,6 +364,17 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `records-and-mediums` → `soel-session-02`
 - `records-and-mediums` → `soel-session-03`
 - `records-and-mediums` → `mulsae-archivist-03`
+- `route-era-organizations` → `promises-and-threads`
+- `route-era-organizations` → `first-gate`
+- `route-era-organizations` → `mulsae-crew`
+- `gori-transport` → `route-era-life`
+- `gori-transport` → `soel-session-01`
+- `gori-transport` → `ships-and-gear`
+- `gori-transport` → `promises-and-threads`
+- `kyeol-society-and-research` → `mission-salt-plain`
+- `kyeol-society-and-research` → `mission-breathing-forest`
+- `kyeol-society-and-research` → `soel-session-02`
+- `kyeol-society-and-research` → `gori-transport`
 
 ## 4. 관련 문서가 없는 문서 (0)
 
@@ -402,10 +419,10 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (12): `rival-gc-t09-world` 19,396자, `rulebook` 16,619자, `rival-gc-t06-world` 15,310자, `hostile-beings` 13,425자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,953자, `regional-life` 11,213자, `mulsae-archivist-01` 11,206자, `rival-gc-t03-world` 10,529자, `magic-senses` 10,122자
+- 긴 문서 (13): `rival-gc-t09-world` 19,396자, `rulebook` 16,619자, `rival-gc-t06-world` 15,310자, `hostile-beings` 13,425자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,953자, `regional-life` 11,338자, `mulsae-archivist-01` 11,206자, `rival-gc-t03-world` 10,529자, `open-routes-era` 10,129자, `magic-senses` 10,122자
 - 짧은 문서 (15): `editing-guide` 763자, `fracture-resonance` 1,107자, `fracture-branching` 1,130자, `fracture-shedding` 1,133자, `fracture-harmony` 1,215자, `fracture-hospitality` 1,233자, `fracture-dream` 1,240자, `kai` 1,263자, `fracture-oath` 1,276자, `lian` 1,304자, `bright-open-knowledge` 1,391자, `bright-living-harvest` 1,410자, `bright-many-neighbors` 1,447자, `bright-hero` 1,467자, `doha` 1,489자
 
 ## 9. 분류 참고
 
-분류 17개: 시대의 흐름 27, 소설 12, 인물 12, 탐사대 11, 대국 기록 10, 롤플레잉 8, 운영 원칙 6, 사물·개념 5, 마법 4, 시작하기 3, 개요 3, 사건 3, 천체 3, 안내 2, 마법 공예·항행 2, 세력 1, 장소 1
-문서가 하나뿐인 분류 2개: 세력, 장소. 분류 체계 변경은 제안만 한다.
+분류 17개: 시대의 흐름 27, 소설 12, 인물 12, 탐사대 11, 대국 기록 10, 롤플레잉 8, 운영 원칙 6, 사물·개념 5, 세력 4, 마법 4, 시작하기 3, 개요 3, 사건 3, 천체 3, 안내 2, 마법 공예·항행 2, 장소 2
+문서가 하나뿐인 분류 0개. 분류 체계 변경은 제안만 한다.

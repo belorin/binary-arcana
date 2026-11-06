@@ -191,6 +191,15 @@
 - **[일곱 마왕과 그 일족](wiki/seven-demon-lords.md)** · 별칭: 칠마왕, 마왕 일족 · 수정: 2026-11-06 · 상태: 초안
   - 기원을 알 수 없는 마왕과 일족의 철학적 행동양식 초안. 일곱 호칭은 저자용이며 세계 내부 인물들의 지식이 아니다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/seven-demon-lords/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/seven-demon-lords.md)
+- **[항로 시대의 기관과 모임 — 서로 다른 권한이 만나는 곳](wiki/route-era-organizations.md)** · 수정: 2026-11-07 · 상태: 설정 증보 · 확인된 사실과 묘사·미정 구분
+  - 항로청, 고리운송, 결 학회, 맹약소, 지방 정부, 연구회·자유 길잡이의 서로 다른 권한과 항로에서의 관계를 정리한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-organizations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-organizations.md)
+- **[고리운송 — 배를 굴리는 회사, 배와 사이를 맺는 사람들](wiki/gori-transport.md)** · 수정: 2026-11-07 · 상태: 설정 증보 · 확인된 사실과 묘사·미정 구분
+  - 별계 최대 운송 회사의 임대·선박·화물·승무원·계약과 소엘 세션에서 드러난 회사의 다양한 얼굴을 구분한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/gori-transport/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/gori-transport.md)
+- **[결 학회와 부두의 연구 모임 — 지식을 모으는 서로 다른 손](wiki/kyeol-society-and-research.md)** · 수정: 2026-11-07 · 상태: 설정 증보 · 확인된 사실과 묘사·미정 구분
+  - 결 학회의 역서·서고·분소·연구소, 독립 부두 기록관 연구회와 기록 소금·백로대 관련 사례를 구별한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/kyeol-society-and-research/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/kyeol-society-and-research.md)
 
 ## 인물
 
@@ -236,6 +245,9 @@
 - **[낮은곶](wiki/low-cape.md)** · 별칭: 낮은곶 경유지 · 수정: 2026-11-04 · 상태: 초안
   - 낮은 인구에도 오래 축적된 물 공급과 마법적 통행 체계를 가진 해안 정착지. 샘 한 줄기가 손상되고 물턱을 봉합한 사건이 일어났다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/low-cape/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/low-cape.md)
+- **[항로 시대의 항구와 지역 — 문 앞의 일상, 문 밖의 땅](wiki/route-era-places.md)** · 수정: 2026-11-07 · 상태: 설정 증보 · 확인된 사실과 묘사·미정 구분
+  - 그늘역·호수문·서항·바람고원·늪항·첫발기지·기록 평원·바람 끝 등의 지형과 생활을 확인 사실과 묘사 예시로 증보한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-places/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-places.md)
 
 ## 사건
 

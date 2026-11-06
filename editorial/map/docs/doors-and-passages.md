@@ -7,7 +7,7 @@
 - 요약: 항로력 212년 정기 항로문, 옛 지기형 큰 건넘, 개척 항로, 겹쳐 보이는 문과 분기, 문그늘, 돌턱 곁문, 닫힌 문과 틈을 서로 구별하고 각 계통의 외형·동선·감각을 장면으로 상상한다. 물새호 비행 범위 충돌은 미정으로 보존한다.
 - 태그: 문, 항로, 건넘, 문그늘, 틈, 길돌, 항행, 시각적 묘사
 - 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `magical-distance-and-passage`, `open-routes-era`, `ships-and-gear`, `scenario-great-crossing`, `mission-lost-freighter`, `fracture-branching`, `regional-threats`, `first-gate`, `reshaping`
+- 관련 문서: `magical-distance-and-passage`, `open-routes-era`, `ships-and-gear`, `scenario-great-crossing`, `mission-lost-freighter`, `fracture-branching`, `regional-threats`, `first-gate`, `reshaping`, `route-era-places`
 
 ## 절 목차
 

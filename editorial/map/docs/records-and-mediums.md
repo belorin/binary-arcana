@@ -2,20 +2,20 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `records-and-mediums` · 분류: 사물·개념 · 공개 · 원고: [wiki/records-and-mediums.md](../../../wiki/records-and-mediums.md) · 1,913자 · 절 3개
+- id: `records-and-mediums` · 분류: 사물·개념 · 공개 · 원고: [wiki/records-and-mediums.md](../../../wiki/records-and-mediums.md) · 2,029자 · 절 3개
 - 요약: 매듭·용골·짝돌·기록 소금·겹병의 차이를 확인된 사례와 미해결 부분으로 정리
 - 태그: records-and-mediums, 탐사대, 인물, 개념
 - 수정일: 2026-11-07 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `magic-senses`, `ships-and-gear`, `mission-salt-plain`, `soel-session-02`, `soel-session-03`, `mulsae-archivist-03`, `mulsae-crew`, `route-era-life`
+- 관련 문서: `magic-senses`, `ships-and-gear`, `mission-salt-plain`, `soel-session-02`, `soel-session-03`, `mulsae-archivist-03`, `mulsae-crew`, `route-era-life`, `kyeol-society-and-research`
 
 ## 절 목차
 
 들여쓰기가 소제목 경로(상위 절 아래의 하위 절)다. `L시작–끝`은 원고 파일에서 그 절 고유 부분(하위 절 제외)의 줄 범위, 글자 수는 그 본문 분량, 8자리 해시는 그 줄들의 내용 지문으로 원고가 바뀌면 달라진다. 첫 문장은 위치 확인용이며 절의 내용을 대표하지 않는다.
 
-- (도입부) · L2–3 · 189자 · `4385f6f8` — 기록관의 작업을 위한 설정 보강.
-- 기록은 무엇에 남는가 · L5–17 · 666자 · `b8dceda8` — 매듭과 값줄. 오래전부터 쓰인 경고와 약속의 형태.
-- 기록 소금과 백로대 — 소엘이 만난 일 (스포일러) · L19–25 · 695자 · `a9f90828` — 돌아온 별 남쪽의 소금 평원은 그 위에 머문 것을 새기고 오랜 뒤 다시 읽어 준다.
-- 기록관에게 남는 문제 · L27–31 · 265자 · `1aa9d183` — 기록의 보존이 늘 정보의 공개와 같지는 않다.
+- (도입부) · L2–5 · 305자 · `dc0d9770` — 기록관의 작업을 위한 설정 보강.
+- 기록은 무엇에 남는가 · L7–19 · 666자 · `b8dceda8` — 매듭과 값줄. 오래전부터 쓰인 경고와 약속의 형태.
+- 기록 소금과 백로대 — 소엘이 만난 일 (스포일러) · L21–27 · 695자 · `a9f90828` — 돌아온 별 남쪽의 소금 평원은 그 위에 머문 것을 새기고 오랜 뒤 다시 읽어 준다.
+- 기록관에게 남는 문제 · L29–33 · 265자 · `1aa9d183` — 기록의 보존이 늘 정보의 공개와 같지는 않다.
 
 ## 장부에 기록된 반영 지식
 

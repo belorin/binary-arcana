@@ -6,7 +6,7 @@
 - 요약: 바람 끝 사건의 여러 인물과 선택을 진행자 진상·세션 결과·소설 묘사로 구분한 기록
 - 태그: baram-end-people, 탐사대, 인물, 개념
 - 수정일: 2026-11-07 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `mission-lost-freighter`, `soel-session-03`, `mulsae-archivist`, `mulsae-crew`, `doors-and-passages`
+- 관련 문서: `mission-lost-freighter`, `soel-session-03`, `mulsae-archivist`, `mulsae-crew`, `doors-and-passages`, `gori-transport`, `route-era-places`
 
 ## 절 목차
 

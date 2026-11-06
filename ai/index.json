@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 113,
+  "document_count": 117,
   "documents": [
     {
       "id": "welcome",
@@ -92,7 +92,11 @@
         "route-era-outside-pressures",
         "route-era-seven-fractures",
         "route-era-bright-turns",
-        "doors-and-passages"
+        "doors-and-passages",
+        "route-era-organizations",
+        "gori-transport",
+        "kyeol-society-and-research",
+        "route-era-places"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-routes-era.md",
@@ -284,7 +288,9 @@
         "demon-epoch-chronicle",
         "soel-session-03",
         "arc-seven-gates",
-        "baram-end-people"
+        "baram-end-people",
+        "gori-transport",
+        "route-era-places"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-lost-freighter.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mission-lost-freighter.md",
@@ -579,6 +585,39 @@
       "app_url": "https://belorin.github.io/binary-arcana/#archmage-maren"
     },
     {
+      "id": "route-era-organizations",
+      "title": "항로 시대의 기관과 모임 — 서로 다른 권한이 만나는 곳",
+      "aliases": [],
+      "category": "세력",
+      "tags": [
+        "기관",
+        "세력",
+        "항로청",
+        "맹약소",
+        "연구회"
+      ],
+      "summary": "항로청, 고리운송, 결 학회, 맹약소, 지방 정부, 연구회·자유 길잡이의 서로 다른 권한과 항로에서의 관계를 정리한다.",
+      "review_state": "unassessed",
+      "review_label": "설정 증보 · 확인된 사실과 묘사·미정 구분",
+      "last_updated_on": "2026-11-07",
+      "last_enriched_on": null,
+      "related_ids": [
+        "open-routes-era",
+        "route-era-life",
+        "gori-transport",
+        "kyeol-society-and-research",
+        "route-era-places",
+        "promises-and-threads",
+        "soel-session-03",
+        "first-gate",
+        "mulsae-crew"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-organizations.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-organizations.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-organizations/",
+      "app_url": "https://belorin.github.io/binary-arcana/#route-era-organizations"
+    },
+    {
       "id": "mission-breathing-forest",
       "title": "임무: 숨 쉬는 숲",
       "aliases": [
@@ -785,12 +824,84 @@
         "fracture-branching",
         "regional-threats",
         "first-gate",
-        "reshaping"
+        "reshaping",
+        "route-era-places"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/doors-and-passages.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/doors-and-passages.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/doors-and-passages/",
       "app_url": "https://belorin.github.io/binary-arcana/#doors-and-passages"
+    },
+    {
+      "id": "gori-transport",
+      "title": "고리운송 — 배를 굴리는 회사, 배와 사이를 맺는 사람들",
+      "aliases": [],
+      "category": "세력",
+      "tags": [
+        "고리운송",
+        "회사",
+        "운송",
+        "선박",
+        "계약"
+      ],
+      "summary": "별계 최대 운송 회사의 임대·선박·화물·승무원·계약과 소엘 세션에서 드러난 회사의 다양한 얼굴을 구분한다.",
+      "review_state": "unassessed",
+      "review_label": "설정 증보 · 확인된 사실과 묘사·미정 구분",
+      "last_updated_on": "2026-11-07",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-organizations",
+        "open-routes-era",
+        "route-era-life",
+        "mission-lost-freighter",
+        "soel-session-01",
+        "soel-session-03",
+        "ships-and-gear",
+        "promises-and-threads",
+        "route-era-places",
+        "baram-end-people"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/gori-transport.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/gori-transport.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/gori-transport/",
+      "app_url": "https://belorin.github.io/binary-arcana/#gori-transport"
+    },
+    {
+      "id": "route-era-places",
+      "title": "항로 시대의 항구와 지역 — 문 앞의 일상, 문 밖의 땅",
+      "aliases": [],
+      "category": "장소",
+      "tags": [
+        "그늘역",
+        "호수문",
+        "서항",
+        "바람고원",
+        "늪항",
+        "첫발기지",
+        "지역",
+        "풍경"
+      ],
+      "summary": "그늘역·호수문·서항·바람고원·늪항·첫발기지·기록 평원·바람 끝 등의 지형과 생활을 확인 사실과 묘사 예시로 증보한다.",
+      "review_state": "unassessed",
+      "review_label": "설정 증보 · 확인된 사실과 묘사·미정 구분",
+      "last_updated_on": "2026-11-07",
+      "last_enriched_on": null,
+      "related_ids": [
+        "space-codes",
+        "open-routes-era",
+        "route-era-life",
+        "route-era-organizations",
+        "gori-transport",
+        "kyeol-society-and-research",
+        "doors-and-passages",
+        "regional-life",
+        "soel-session-03",
+        "mulsae-archivist"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-places.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-places.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-places/",
+      "app_url": "https://belorin.github.io/binary-arcana/#route-era-places"
     },
     {
       "id": "mission-seeds",
@@ -975,6 +1086,40 @@
       "app_url": "https://belorin.github.io/binary-arcana/#lian"
     },
     {
+      "id": "kyeol-society-and-research",
+      "title": "결 학회와 부두의 연구 모임 — 지식을 모으는 서로 다른 손",
+      "aliases": [],
+      "category": "세력",
+      "tags": [
+        "결 학회",
+        "연구회",
+        "역서",
+        "백로대",
+        "연구"
+      ],
+      "summary": "결 학회의 역서·서고·분소·연구소, 독립 부두 기록관 연구회와 기록 소금·백로대 관련 사례를 구별한다.",
+      "review_state": "unassessed",
+      "review_label": "설정 증보 · 확인된 사실과 묘사·미정 구분",
+      "last_updated_on": "2026-11-07",
+      "last_enriched_on": null,
+      "related_ids": [
+        "route-era-organizations",
+        "open-routes-era",
+        "route-era-life",
+        "mission-salt-plain",
+        "mission-breathing-forest",
+        "soel-session-02",
+        "soel-session-03",
+        "records-and-mediums",
+        "route-era-places",
+        "gori-transport"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/kyeol-society-and-research.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/kyeol-society-and-research.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/kyeol-society-and-research/",
+      "app_url": "https://belorin.github.io/binary-arcana/#kyeol-society-and-research"
+    },
+    {
       "id": "ships-and-gear",
       "title": "건넘선과 장비",
       "aliases": [
@@ -1130,7 +1275,10 @@
         "doha",
         "kai",
         "promises-and-threads",
-        "records-and-mediums"
+        "records-and-mediums",
+        "route-era-organizations",
+        "route-era-places",
+        "kyeol-society-and-research"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-life.md",
@@ -1258,7 +1406,9 @@
         "soel-session-03",
         "mulsae-archivist",
         "mulsae-crew",
-        "doors-and-passages"
+        "doors-and-passages",
+        "gori-transport",
+        "route-era-places"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/baram-end-people.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/baram-end-people.md",
@@ -2245,7 +2395,8 @@
         "welcome",
         "open-routes-era",
         "regional-life",
-        "regional-threats"
+        "regional-threats",
+        "route-era-places"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/space-codes.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/space-codes.md",
@@ -2560,7 +2711,8 @@
         "low-cape",
         "demon-epoch-chronicle",
         "mission-breathing-forest",
-        "mission-seeds"
+        "mission-seeds",
+        "route-era-places"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/regional-life.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/regional-life.md",
@@ -2668,7 +2820,11 @@
         "soel-sheet",
         "soel-session-02",
         "mission-lost-freighter",
-        "rulebook"
+        "rulebook",
+        "route-era-organizations",
+        "gori-transport",
+        "kyeol-society-and-research",
+        "route-era-places"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-03.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-03.md",
@@ -2699,7 +2855,8 @@
         "soel-session-03",
         "mulsae-archivist-03",
         "mulsae-crew",
-        "route-era-life"
+        "route-era-life",
+        "kyeol-society-and-research"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/records-and-mediums.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/records-and-mediums.md",
@@ -3647,7 +3804,11 @@
         "mulsae-crew",
         "baram-end-people",
         "promises-and-threads",
-        "records-and-mediums"
+        "records-and-mediums",
+        "route-era-places",
+        "route-era-organizations",
+        "gori-transport",
+        "kyeol-society-and-research"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist.md",
