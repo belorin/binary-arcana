@@ -83,7 +83,11 @@
         "route-era-outside-pressures",
         "route-era-seven-fractures",
         "route-era-bright-turns",
-        "doors-and-passages"
+        "doors-and-passages",
+        "route-era-organizations",
+        "gori-transport",
+        "kyeol-society-and-research",
+        "route-era-places"
       ],
       "aliases": [
         "항로 시대",
@@ -163,7 +167,9 @@
         "demon-epoch-chronicle",
         "soel-session-03",
         "arc-seven-gates",
-        "baram-end-people"
+        "baram-end-people",
+        "gori-transport",
+        "route-era-places"
       ],
       "aliases": [
         "잃어버린 수송선",
@@ -311,7 +317,10 @@
         "doha",
         "kai",
         "promises-and-threads",
-        "records-and-mediums"
+        "records-and-mediums",
+        "route-era-organizations",
+        "route-era-places",
+        "kyeol-society-and-research"
       ],
       "aliases": [
         "항구 생활",
@@ -1931,7 +1940,8 @@
         "welcome",
         "open-routes-era",
         "regional-life",
-        "regional-threats"
+        "regional-threats",
+        "route-era-places"
       ],
       "aliases": [
         "공간 코드",
@@ -2321,7 +2331,8 @@
         "low-cape",
         "demon-epoch-chronicle",
         "mission-breathing-forest",
-        "mission-seeds"
+        "mission-seeds",
+        "route-era-places"
       ],
       "aliases": [
         "기본종",
@@ -2472,7 +2483,11 @@
         "soel-sheet",
         "soel-session-02",
         "mission-lost-freighter",
-        "rulebook"
+        "rulebook",
+        "route-era-organizations",
+        "gori-transport",
+        "kyeol-society-and-research",
+        "route-era-places"
       ],
       "aliases": [
         "바람 끝의 손님들 세션",
@@ -3385,7 +3400,11 @@
         "mulsae-crew",
         "baram-end-people",
         "promises-and-threads",
-        "records-and-mediums"
+        "records-and-mediums",
+        "route-era-places",
+        "route-era-organizations",
+        "gori-transport",
+        "kyeol-society-and-research"
       ],
       "aliases": [
         "물새호 이야기",
@@ -3603,7 +3622,8 @@
         "fracture-branching",
         "regional-threats",
         "first-gate",
-        "reshaping"
+        "reshaping",
+        "route-era-places"
       ],
       "aliases": [
         "문 설정",
@@ -3758,7 +3778,9 @@
         "soel-session-03",
         "mulsae-archivist",
         "mulsae-crew",
-        "doors-and-passages"
+        "doors-and-passages",
+        "gori-transport",
+        "route-era-places"
       ],
       "aliases": [],
       "review_state": "unassessed",
@@ -3818,7 +3840,146 @@
         "soel-session-03",
         "mulsae-archivist-03",
         "mulsae-crew",
-        "route-era-life"
+        "route-era-life",
+        "kyeol-society-and-research"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/route-era-organizations.md",
+      "publish": true,
+      "order": 1,
+      "id": "route-era-organizations",
+      "title": "항로 시대의 기관과 모임 — 서로 다른 권한이 만나는 곳",
+      "category": "세력",
+      "status": "설정 증보 · 확인된 사실과 묘사·미정 구분",
+      "updated": "2026-11-07",
+      "summary": "항로청, 고리운송, 결 학회, 맹약소, 지방 정부, 연구회·자유 길잡이의 서로 다른 권한과 항로에서의 관계를 정리한다.",
+      "tags": [
+        "기관",
+        "세력",
+        "항로청",
+        "맹약소",
+        "연구회"
+      ],
+      "source": "항로 시대 기존 정본, 소엘 세션 1~3과 물새호의 기록관 1~7장을 대조하여 증보한 요청 작업. 묘사 제안과 미정 표시는 별도 유지",
+      "related": [
+        "open-routes-era",
+        "route-era-life",
+        "gori-transport",
+        "kyeol-society-and-research",
+        "route-era-places",
+        "promises-and-threads",
+        "soel-session-03",
+        "first-gate",
+        "mulsae-crew"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/gori-transport.md",
+      "publish": true,
+      "order": 2,
+      "id": "gori-transport",
+      "title": "고리운송 — 배를 굴리는 회사, 배와 사이를 맺는 사람들",
+      "category": "세력",
+      "status": "설정 증보 · 확인된 사실과 묘사·미정 구분",
+      "updated": "2026-11-07",
+      "summary": "별계 최대 운송 회사의 임대·선박·화물·승무원·계약과 소엘 세션에서 드러난 회사의 다양한 얼굴을 구분한다.",
+      "tags": [
+        "고리운송",
+        "회사",
+        "운송",
+        "선박",
+        "계약"
+      ],
+      "source": "항로 시대 기존 정본, 소엘 세션 1~3과 물새호의 기록관 1~7장을 대조하여 증보한 요청 작업. 묘사 제안과 미정 표시는 별도 유지",
+      "related": [
+        "route-era-organizations",
+        "open-routes-era",
+        "route-era-life",
+        "mission-lost-freighter",
+        "soel-session-01",
+        "soel-session-03",
+        "ships-and-gear",
+        "promises-and-threads",
+        "route-era-places",
+        "baram-end-people"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/kyeol-society-and-research.md",
+      "publish": true,
+      "order": 3,
+      "id": "kyeol-society-and-research",
+      "title": "결 학회와 부두의 연구 모임 — 지식을 모으는 서로 다른 손",
+      "category": "세력",
+      "status": "설정 증보 · 확인된 사실과 묘사·미정 구분",
+      "updated": "2026-11-07",
+      "summary": "결 학회의 역서·서고·분소·연구소, 독립 부두 기록관 연구회와 기록 소금·백로대 관련 사례를 구별한다.",
+      "tags": [
+        "결 학회",
+        "연구회",
+        "역서",
+        "백로대",
+        "연구"
+      ],
+      "source": "항로 시대 기존 정본, 소엘 세션 1~3과 물새호의 기록관 1~7장을 대조하여 증보한 요청 작업. 묘사 제안과 미정 표시는 별도 유지",
+      "related": [
+        "route-era-organizations",
+        "open-routes-era",
+        "route-era-life",
+        "mission-salt-plain",
+        "mission-breathing-forest",
+        "soel-session-02",
+        "soel-session-03",
+        "records-and-mediums",
+        "route-era-places",
+        "gori-transport"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/route-era-places.md",
+      "publish": true,
+      "order": 2,
+      "id": "route-era-places",
+      "title": "항로 시대의 항구와 지역 — 문 앞의 일상, 문 밖의 땅",
+      "category": "장소",
+      "status": "설정 증보 · 확인된 사실과 묘사·미정 구분",
+      "updated": "2026-11-07",
+      "summary": "그늘역·호수문·서항·바람고원·늪항·첫발기지·기록 평원·바람 끝 등의 지형과 생활을 확인 사실과 묘사 예시로 증보한다.",
+      "tags": [
+        "그늘역",
+        "호수문",
+        "서항",
+        "바람고원",
+        "늪항",
+        "첫발기지",
+        "지역",
+        "풍경"
+      ],
+      "source": "항로 시대 기존 정본, 소엘 세션 1~3과 물새호의 기록관 1~7장을 대조하여 증보한 요청 작업. 묘사 제안과 미정 표시는 별도 유지",
+      "related": [
+        "space-codes",
+        "open-routes-era",
+        "route-era-life",
+        "route-era-organizations",
+        "gori-transport",
+        "kyeol-society-and-research",
+        "doors-and-passages",
+        "regional-life",
+        "soel-session-03",
+        "mulsae-archivist"
       ],
       "aliases": [],
       "review_state": "unassessed",
