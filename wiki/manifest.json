@@ -125,7 +125,8 @@
         "hostile-beings",
         "mission-salt-plain",
         "regional-life",
-        "regional-threats"
+        "regional-threats",
+        "mulsae-crew"
       ],
       "aliases": [
         "룰북",
@@ -161,7 +162,8 @@
         "mission-breathing-forest",
         "demon-epoch-chronicle",
         "soel-session-03",
-        "arc-seven-gates"
+        "arc-seven-gates",
+        "baram-end-people"
       ],
       "aliases": [
         "잃어버린 수송선",
@@ -267,7 +269,10 @@
         "rulebook",
         "open-routes-era",
         "route-era-life",
-        "doors-and-passages"
+        "doors-and-passages",
+        "mulsae-crew",
+        "promises-and-threads",
+        "records-and-mediums"
       ],
       "aliases": [
         "배의 부분",
@@ -300,7 +305,13 @@
         "open-routes-era",
         "ships-and-gear",
         "hosumun-eleven-days",
-        "soel-session-03"
+        "soel-session-03",
+        "mulsae-crew",
+        "lian",
+        "doha",
+        "kai",
+        "promises-and-threads",
+        "records-and-mediums"
       ],
       "aliases": [
         "항구 생활",
@@ -2139,7 +2150,8 @@
         "magic-senses",
         "exceptional-generations",
         "start-here",
-        "demon-epoch-oath"
+        "demon-epoch-oath",
+        "promises-and-threads"
       ],
       "aliases": [
         "관념과의 관계",
@@ -2174,7 +2186,13 @@
         "soel-session-02",
         "mission-salt-plain",
         "soel-session-03",
-        "mission-lost-freighter"
+        "mission-lost-freighter",
+        "mulsae-crew",
+        "lian",
+        "doha",
+        "kai",
+        "promises-and-threads",
+        "records-and-mediums"
       ],
       "aliases": [
         "소엘",
@@ -3363,7 +3381,11 @@
         "soel-session-03",
         "rulebook",
         "mission-seeds",
-        "mission-salt-plain"
+        "mission-salt-plain",
+        "mulsae-crew",
+        "baram-end-people",
+        "promises-and-threads",
+        "records-and-mediums"
       ],
       "aliases": [
         "물새호 이야기",
@@ -3588,6 +3610,217 @@
         "통행의 여러 체계",
         "문과 항로"
       ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "id": "mulsae-crew",
+      "path": "wiki/mulsae-crew.md",
+      "publish": true,
+      "order": 56,
+      "title": "물새호 탐사대 — 네 사람의 출발과 항해",
+      "category": "탐사대",
+      "status": "출발 설정과 세션 후 이력 구분",
+      "updated": "2026-11-07",
+      "summary": "초기 대원들의 출발 설정과 소엘 플레이 이후 이력을 구분한 안내",
+      "tags": [
+        "mulsae-crew",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "source": "탐사대 룰북, 소엘의 세션 1~3, 소설 『물새호의 기록관』 1~7장을 구분해 보강",
+      "related": [
+        "rulebook",
+        "soel-sheet",
+        "lian",
+        "doha",
+        "kai",
+        "soel-session-01",
+        "soel-session-02",
+        "soel-session-03",
+        "mulsae-archivist",
+        "promises-and-threads",
+        "records-and-mediums"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "id": "lian",
+      "path": "wiki/lian.md",
+      "publish": true,
+      "order": 3,
+      "title": "리안 — 물새호의 길잡이",
+      "category": "인물",
+      "status": "출발 설정과 세션 후 이력 구분",
+      "updated": "2026-11-07",
+      "summary": "젊은 길잡이 리안의 출발 상태와 세 차례 의뢰로 쌓인 이력 및 열린 질문",
+      "tags": [
+        "lian",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "source": "탐사대 룰북, 소엘의 세션 1~3, 소설 『물새호의 기록관』 1~7장을 구분해 보강",
+      "related": [
+        "rulebook",
+        "mulsae-crew",
+        "soel-sheet",
+        "soel-session-02",
+        "soel-session-03",
+        "mulsae-archivist-03",
+        "doors-and-passages"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "id": "doha",
+      "path": "wiki/doha.md",
+      "publish": true,
+      "order": 4,
+      "title": "도하 — 배와 작업장을 지키는 정비사",
+      "category": "인물",
+      "status": "출발 설정과 세션 후 이력 구분",
+      "updated": "2026-11-07",
+      "summary": "정비사 도하의 초기 능력과 배·작업장에 대한 관계, 진행 이후 이력을 구분한 기록",
+      "tags": [
+        "doha",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "source": "탐사대 룰북, 소엘의 세션 1~3, 소설 『물새호의 기록관』 1~7장을 구분해 보강",
+      "related": [
+        "rulebook",
+        "mulsae-crew",
+        "soel-session-01",
+        "soel-session-02",
+        "soel-session-03",
+        "mulsae-archivist-07",
+        "ships-and-gear"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "id": "kai",
+      "path": "wiki/kai.md",
+      "publish": true,
+      "order": 5,
+      "title": "카이 — 바람고원에서 온 경계원",
+      "category": "인물",
+      "status": "출발 설정과 세션 후 이력 구분",
+      "updated": "2026-11-07",
+      "summary": "카이의 출발 당시 동기, 고향과 가족사, 진행 중 드러난 역량과 아직 풀지 못한 일",
+      "tags": [
+        "kai",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "source": "탐사대 룰북, 소엘의 세션 1~3, 소설 『물새호의 기록관』 1~7장을 구분해 보강",
+      "related": [
+        "rulebook",
+        "mulsae-crew",
+        "soel-session-02",
+        "soel-session-03",
+        "baram-end-people",
+        "mulsae-archivist-07"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "id": "baram-end-people",
+      "path": "wiki/baram-end-people.md",
+      "publish": true,
+      "order": 6,
+      "title": "바람 끝 사건의 사람들 — 서로 다른 이유로 남고 떠나다",
+      "category": "인물",
+      "status": "진행자·기존 독자용 · 스포일러 포함",
+      "updated": "2026-11-07",
+      "summary": "바람 끝 사건의 여러 인물과 선택을 진행자 진상·세션 결과·소설 묘사로 구분한 기록",
+      "tags": [
+        "baram-end-people",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "source": "탐사대 룰북, 소엘의 세션 1~3, 소설 『물새호의 기록관』 1~7장을 구분해 보강",
+      "related": [
+        "mission-lost-freighter",
+        "soel-session-03",
+        "mulsae-archivist",
+        "mulsae-crew",
+        "doors-and-passages"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "id": "promises-and-threads",
+      "path": "wiki/promises-and-threads.md",
+      "publish": true,
+      "order": 4,
+      "title": "약속의 결 — 이름의 매듭, 서면 계약, 회색 증인",
+      "category": "마법",
+      "status": "확인 사례와 미정 구분",
+      "updated": "2026-11-07",
+      "summary": "일상의 약속과 배의 매듭, 서면 계약과 맹약소, 관념 맹약을 구별하는 사례 모음",
+      "tags": [
+        "promises-and-threads",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "source": "탐사대 룰북, 소엘의 세션 1~3, 소설 『물새호의 기록관』 1~7장을 구분해 보강",
+      "related": [
+        "conceptual-relations",
+        "route-era-life",
+        "soel-session-01",
+        "soel-session-03",
+        "mulsae-crew",
+        "mission-lost-freighter"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "id": "records-and-mediums",
+      "path": "wiki/records-and-mediums.md",
+      "publish": true,
+      "order": 55,
+      "title": "기록이 남는 재료들 — 매듭, 짝돌, 소금",
+      "category": "사물·개념",
+      "status": "확인 사례와 미정 구분",
+      "updated": "2026-11-07",
+      "summary": "매듭·용골·짝돌·기록 소금·겹병의 차이를 확인된 사례와 미해결 부분으로 정리",
+      "tags": [
+        "records-and-mediums",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "source": "탐사대 룰북, 소엘의 세션 1~3, 소설 『물새호의 기록관』 1~7장을 구분해 보강",
+      "related": [
+        "magic-senses",
+        "ships-and-gear",
+        "mission-salt-plain",
+        "soel-session-02",
+        "soel-session-03",
+        "mulsae-archivist-03",
+        "mulsae-crew",
+        "route-era-life"
+      ],
+      "aliases": [],
       "review_state": "unassessed",
       "last_enriched_on": null
     }
