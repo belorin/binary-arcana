@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 106,
+  "document_count": 113,
   "documents": [
     {
       "id": "welcome",
@@ -134,7 +134,8 @@
         "hostile-beings",
         "mission-salt-plain",
         "regional-life",
-        "regional-threats"
+        "regional-threats",
+        "mulsae-crew"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/rulebook.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rulebook.md",
@@ -282,7 +283,8 @@
         "mission-breathing-forest",
         "demon-epoch-chronicle",
         "soel-session-03",
-        "arc-seven-gates"
+        "arc-seven-gates",
+        "baram-end-people"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mission-lost-freighter.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mission-lost-freighter.md",
@@ -898,7 +900,8 @@
         "magic-senses",
         "exceptional-generations",
         "start-here",
-        "demon-epoch-oath"
+        "demon-epoch-oath",
+        "promises-and-threads"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/conceptual-relations.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/conceptual-relations.md",
@@ -942,6 +945,36 @@
       "app_url": "https://belorin.github.io/binary-arcana/#mission-salt-plain"
     },
     {
+      "id": "lian",
+      "title": "리안 — 물새호의 길잡이",
+      "aliases": [],
+      "category": "인물",
+      "tags": [
+        "lian",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "summary": "젊은 길잡이 리안의 출발 상태와 세 차례 의뢰로 쌓인 이력 및 열린 질문",
+      "review_state": "unassessed",
+      "review_label": "출발 설정과 세션 후 이력 구분",
+      "last_updated_on": "2026-11-07",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rulebook",
+        "mulsae-crew",
+        "soel-sheet",
+        "soel-session-02",
+        "soel-session-03",
+        "mulsae-archivist-03",
+        "doors-and-passages"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/lian.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/lian.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/lian/",
+      "app_url": "https://belorin.github.io/binary-arcana/#lian"
+    },
+    {
       "id": "ships-and-gear",
       "title": "건넘선과 장비",
       "aliases": [
@@ -966,7 +999,10 @@
         "rulebook",
         "open-routes-era",
         "route-era-life",
-        "doors-and-passages"
+        "doors-and-passages",
+        "mulsae-crew",
+        "promises-and-threads",
+        "records-and-mediums"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/ships-and-gear.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/ships-and-gear.md",
@@ -1004,6 +1040,65 @@
       "app_url": "https://belorin.github.io/binary-arcana/#story-state"
     },
     {
+      "id": "doha",
+      "title": "도하 — 배와 작업장을 지키는 정비사",
+      "aliases": [],
+      "category": "인물",
+      "tags": [
+        "doha",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "summary": "정비사 도하의 초기 능력과 배·작업장에 대한 관계, 진행 이후 이력을 구분한 기록",
+      "review_state": "unassessed",
+      "review_label": "출발 설정과 세션 후 이력 구분",
+      "last_updated_on": "2026-11-07",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rulebook",
+        "mulsae-crew",
+        "soel-session-01",
+        "soel-session-02",
+        "soel-session-03",
+        "mulsae-archivist-07",
+        "ships-and-gear"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/doha.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/doha.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/doha/",
+      "app_url": "https://belorin.github.io/binary-arcana/#doha"
+    },
+    {
+      "id": "promises-and-threads",
+      "title": "약속의 결 — 이름의 매듭, 서면 계약, 회색 증인",
+      "aliases": [],
+      "category": "마법",
+      "tags": [
+        "promises-and-threads",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "summary": "일상의 약속과 배의 매듭, 서면 계약과 맹약소, 관념 맹약을 구별하는 사례 모음",
+      "review_state": "unassessed",
+      "review_label": "확인 사례와 미정 구분",
+      "last_updated_on": "2026-11-07",
+      "last_enriched_on": null,
+      "related_ids": [
+        "conceptual-relations",
+        "route-era-life",
+        "soel-session-01",
+        "soel-session-03",
+        "mulsae-crew",
+        "mission-lost-freighter"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/promises-and-threads.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/promises-and-threads.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/promises-and-threads/",
+      "app_url": "https://belorin.github.io/binary-arcana/#promises-and-threads"
+    },
+    {
       "id": "route-era-life",
       "title": "항로 시대의 생활",
       "aliases": [
@@ -1029,7 +1124,13 @@
         "open-routes-era",
         "ships-and-gear",
         "hosumun-eleven-days",
-        "soel-session-03"
+        "soel-session-03",
+        "mulsae-crew",
+        "lian",
+        "doha",
+        "kai",
+        "promises-and-threads",
+        "records-and-mediums"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-life.md",
@@ -1074,6 +1175,35 @@
       "app_url": "https://belorin.github.io/binary-arcana/#scenario-great-crossing"
     },
     {
+      "id": "kai",
+      "title": "카이 — 바람고원에서 온 경계원",
+      "aliases": [],
+      "category": "인물",
+      "tags": [
+        "kai",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "summary": "카이의 출발 당시 동기, 고향과 가족사, 진행 중 드러난 역량과 아직 풀지 못한 일",
+      "review_state": "unassessed",
+      "review_label": "출발 설정과 세션 후 이력 구분",
+      "last_updated_on": "2026-11-07",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rulebook",
+        "mulsae-crew",
+        "soel-session-02",
+        "soel-session-03",
+        "baram-end-people",
+        "mulsae-archivist-07"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/kai.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/kai.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/kai/",
+      "app_url": "https://belorin.github.io/binary-arcana/#kai"
+    },
+    {
       "id": "rival-play",
       "title": "대결 — 두 AI가 맞서는 세력 대국",
       "aliases": [
@@ -1106,6 +1236,34 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/rival-play.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/rival-play/",
       "app_url": "https://belorin.github.io/binary-arcana/#rival-play"
+    },
+    {
+      "id": "baram-end-people",
+      "title": "바람 끝 사건의 사람들 — 서로 다른 이유로 남고 떠나다",
+      "aliases": [],
+      "category": "인물",
+      "tags": [
+        "baram-end-people",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "summary": "바람 끝 사건의 여러 인물과 선택을 진행자 진상·세션 결과·소설 묘사로 구분한 기록",
+      "review_state": "unassessed",
+      "review_label": "진행자·기존 독자용 · 스포일러 포함",
+      "last_updated_on": "2026-11-07",
+      "last_enriched_on": null,
+      "related_ids": [
+        "mission-lost-freighter",
+        "soel-session-03",
+        "mulsae-archivist",
+        "mulsae-crew",
+        "doors-and-passages"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/baram-end-people.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/baram-end-people.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/baram-end-people/",
+      "app_url": "https://belorin.github.io/binary-arcana/#baram-end-people"
     },
     {
       "id": "rival-gc-state",
@@ -2260,7 +2418,13 @@
         "soel-session-02",
         "mission-salt-plain",
         "soel-session-03",
-        "mission-lost-freighter"
+        "mission-lost-freighter",
+        "mulsae-crew",
+        "lian",
+        "doha",
+        "kai",
+        "promises-and-threads",
+        "records-and-mediums"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-sheet.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-sheet.md",
@@ -2512,6 +2676,37 @@
       "app_url": "https://belorin.github.io/binary-arcana/#soel-session-03"
     },
     {
+      "id": "records-and-mediums",
+      "title": "기록이 남는 재료들 — 매듭, 짝돌, 소금",
+      "aliases": [],
+      "category": "사물·개념",
+      "tags": [
+        "records-and-mediums",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "summary": "매듭·용골·짝돌·기록 소금·겹병의 차이를 확인된 사례와 미해결 부분으로 정리",
+      "review_state": "unassessed",
+      "review_label": "확인 사례와 미정 구분",
+      "last_updated_on": "2026-11-07",
+      "last_enriched_on": null,
+      "related_ids": [
+        "magic-senses",
+        "ships-and-gear",
+        "mission-salt-plain",
+        "soel-session-02",
+        "soel-session-03",
+        "mulsae-archivist-03",
+        "mulsae-crew",
+        "route-era-life"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/records-and-mediums.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/records-and-mediums.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/records-and-mediums/",
+      "app_url": "https://belorin.github.io/binary-arcana/#records-and-mediums"
+    },
+    {
       "id": "route-era-long-arcs",
       "title": "항로력 210년대의 다섯 장기 위기 — 진행자 지도",
       "aliases": [],
@@ -2547,6 +2742,40 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-long-arcs.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-long-arcs/",
       "app_url": "https://belorin.github.io/binary-arcana/#route-era-long-arcs"
+    },
+    {
+      "id": "mulsae-crew",
+      "title": "물새호 탐사대 — 네 사람의 출발과 항해",
+      "aliases": [],
+      "category": "탐사대",
+      "tags": [
+        "mulsae-crew",
+        "탐사대",
+        "인물",
+        "개념"
+      ],
+      "summary": "초기 대원들의 출발 설정과 소엘 플레이 이후 이력을 구분한 안내",
+      "review_state": "unassessed",
+      "review_label": "출발 설정과 세션 후 이력 구분",
+      "last_updated_on": "2026-11-07",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rulebook",
+        "soel-sheet",
+        "lian",
+        "doha",
+        "kai",
+        "soel-session-01",
+        "soel-session-02",
+        "soel-session-03",
+        "mulsae-archivist",
+        "promises-and-threads",
+        "records-and-mediums"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-crew.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-crew.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-crew/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mulsae-crew"
     },
     {
       "id": "arc-seven-gates",
@@ -3414,7 +3643,11 @@
         "soel-session-03",
         "rulebook",
         "mission-seeds",
-        "mission-salt-plain"
+        "mission-salt-plain",
+        "mulsae-crew",
+        "baram-end-people",
+        "promises-and-threads",
+        "records-and-mediums"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist.md",

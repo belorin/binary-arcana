@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 772,
+  "edge_count": 844,
   "edges": [
     {
       "from": "welcome",
@@ -314,6 +314,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "rulebook",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "grand-questions",
       "to": "start-here",
       "type": "related_to",
@@ -532,6 +538,12 @@
     {
       "from": "mission-lost-freighter",
       "to": "arc-seven-gates",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mission-lost-freighter",
+      "to": "baram-end-people",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1418,6 +1430,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "conceptual-relations",
+      "to": "promises-and-threads",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "mission-salt-plain",
       "to": "rulebook",
       "type": "related_to",
@@ -1454,6 +1472,48 @@
       "basis": "manifest.related"
     },
     {
+      "from": "lian",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lian",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lian",
+      "to": "soel-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lian",
+      "to": "soel-session-02",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lian",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lian",
+      "to": "mulsae-archivist-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "lian",
+      "to": "doors-and-passages",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "ships-and-gear",
       "to": "rulebook",
       "type": "related_to",
@@ -1474,6 +1534,24 @@
     {
       "from": "ships-and-gear",
       "to": "doors-and-passages",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ships-and-gear",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ships-and-gear",
+      "to": "promises-and-threads",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ships-and-gear",
+      "to": "records-and-mediums",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1508,6 +1586,84 @@
       "basis": "manifest.related"
     },
     {
+      "from": "doha",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doha",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doha",
+      "to": "soel-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doha",
+      "to": "soel-session-02",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doha",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doha",
+      "to": "mulsae-archivist-07",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doha",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "promises-and-threads",
+      "to": "conceptual-relations",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "promises-and-threads",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "promises-and-threads",
+      "to": "soel-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "promises-and-threads",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "promises-and-threads",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "promises-and-threads",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "route-era-life",
       "to": "rulebook",
       "type": "related_to",
@@ -1534,6 +1690,42 @@
     {
       "from": "route-era-life",
       "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "lian",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "doha",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "kai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "promises-and-threads",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "route-era-life",
+      "to": "records-and-mediums",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -1586,6 +1778,42 @@
       "basis": "manifest.related"
     },
     {
+      "from": "kai",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kai",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kai",
+      "to": "soel-session-02",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kai",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kai",
+      "to": "baram-end-people",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "kai",
+      "to": "mulsae-archivist-07",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "rival-play",
       "to": "scenario-great-crossing",
       "type": "related_to",
@@ -1630,6 +1858,36 @@
     {
       "from": "rival-play",
       "to": "scene-fiction-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "baram-end-people",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "baram-end-people",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "baram-end-people",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "baram-end-people",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "baram-end-people",
+      "to": "doors-and-passages",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -2936,6 +3194,42 @@
       "basis": "manifest.related"
     },
     {
+      "from": "soel-sheet",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-sheet",
+      "to": "lian",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-sheet",
+      "to": "doha",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-sheet",
+      "to": "kai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-sheet",
+      "to": "promises-and-threads",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-sheet",
+      "to": "records-and-mediums",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "soel-session-01",
       "to": "soel-sheet",
       "type": "related_to",
@@ -3212,6 +3506,54 @@
       "basis": "manifest.related"
     },
     {
+      "from": "records-and-mediums",
+      "to": "magic-senses",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "records-and-mediums",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "records-and-mediums",
+      "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "records-and-mediums",
+      "to": "soel-session-02",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "records-and-mediums",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "records-and-mediums",
+      "to": "mulsae-archivist-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "records-and-mediums",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "records-and-mediums",
+      "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "route-era-long-arcs",
       "to": "open-routes-era",
       "type": "related_to",
@@ -3286,6 +3628,72 @@
     {
       "from": "route-era-long-arcs",
       "to": "route-era-compound-scenarios",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-crew",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-crew",
+      "to": "soel-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-crew",
+      "to": "lian",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-crew",
+      "to": "doha",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-crew",
+      "to": "kai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-crew",
+      "to": "soel-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-crew",
+      "to": "soel-session-02",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-crew",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-crew",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-crew",
+      "to": "promises-and-threads",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-crew",
+      "to": "records-and-mediums",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -4378,6 +4786,30 @@
     {
       "from": "mulsae-archivist",
       "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist",
+      "to": "mulsae-crew",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist",
+      "to": "baram-end-people",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist",
+      "to": "promises-and-threads",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist",
+      "to": "records-and-mediums",
       "type": "related_to",
       "basis": "manifest.related"
     },

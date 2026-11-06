@@ -82,6 +82,7 @@
 - [소엘의 첫 의뢰 — 이름을 바꾼 배](https://belorin.github.io/binary-arcana/notes/soel-session-01/): 물새호의 기록관 소엘이 이름을 빼앗긴 화물선 늙은갈매기호의 용골 매듭을 되살리고, 옛 길잡이 리나가 짝돌로 배와 작별하게 해 새 길잡이를 받아들이게 한 첫 의뢰.
 - [소엘의 둘째 의뢰 — 방금 떠난 야영지](https://belorin.github.io/binary-arcana/notes/soel-session-02/): 소엘이 돌아온 별 남쪽 소금 평원에서 머문 것을 새기고 늦게 읽어 주는 평원의 규칙을 알아내고, 한가운데의 오래된 늦게 옴 매듭과 백로대의 묻어 둠 매듭을 읽은 둘째 의뢰.
 - [소엘의 셋째 의뢰 — 바람 끝의 손님들](https://belorin.github.io/binary-arcana/notes/soel-session-03/): 소엘이 맹약소 계약으로 은실호를 찾아 문그늘의 사람들을 구한 셋째 의뢰. 작은 겹침 막간, 물새호 임대 계약 수정과 작업장의 밤 막간, 각 판정 및 결정 대기 설정을 기록한다.
+- [물새호 탐사대 — 네 사람의 출발과 항해](https://belorin.github.io/binary-arcana/notes/mulsae-crew/): 초기 대원들의 출발 설정과 소엘 플레이 이후 이력을 구분한 안내
 
 ### 천체
 
@@ -94,6 +95,7 @@
 - [개인의 재능과 관계적 마법](https://belorin.github.io/binary-arcana/notes/magic-as-practice/): 마법의 폭넓은 가능성, 개인의 발견과 성장, 정형화되지 않은 전승과 공통마법의 조건, 나무와 돌 등의 관계적 참여.
 - [마법의 말과 감각](https://belorin.github.io/binary-arcana/notes/magic-senses/): 마법을 사이·알아봄·울림·결·매듭·값·엮음으로 설명하는 열두 여울과 낮은곶의 말. 받는 자리로 드러나는 재능, 바깥에서 보이는 모습, 공통마법의 예, 마법이 듣지 않을 때 원인을 가르는 법, 묘사 점검표.
 - [관념과의 사이 — 모든 사람에게 있는 또 하나의 관계](https://belorin.github.io/binary-arcana/notes/conceptual-relations/): 물질과 장소뿐 아니라 속담·무게·시간 등 관념과도 관계를 맺는 보편적인 마법. 모든 사람의 약한 재능, 개인별 깊이와 편차, 현실 개변의 소급성과 대가, 관계적 마법과의 연속성.
+- [약속의 결 — 이름의 매듭, 서면 계약, 회색 증인](https://belorin.github.io/binary-arcana/notes/promises-and-threads/): 일상의 약속과 배의 매듭, 서면 계약과 맹약소, 관념 맹약을 구별하는 사례 모음
 
 ### 마법 공예·항행
 
@@ -107,6 +109,10 @@
 ### 인물
 
 - [마렌 — 산의 무게를 바꾼 여성 대마법사](https://belorin.github.io/binary-arcana/notes/archmage-maren/): T0 이전에 태어난 여성 대마법사 마렌(가칭). 속담의 소급 현실 개변, 무게의 거대한 물리적 위업, 구체적 존재의 사이, 시간과 맺은 후천적 관계, 어린 시절의 사고와 세계적 마찰을 다룬 인물 설정.
+- [리안 — 물새호의 길잡이](https://belorin.github.io/binary-arcana/notes/lian/): 젊은 길잡이 리안의 출발 상태와 세 차례 의뢰로 쌓인 이력 및 열린 질문
+- [도하 — 배와 작업장을 지키는 정비사](https://belorin.github.io/binary-arcana/notes/doha/): 정비사 도하의 초기 능력과 배·작업장에 대한 관계, 진행 이후 이력을 구분한 기록
+- [카이 — 바람고원에서 온 경계원](https://belorin.github.io/binary-arcana/notes/kai/): 카이의 출발 당시 동기, 고향과 가족사, 진행 중 드러난 역량과 아직 풀지 못한 일
+- [바람 끝 사건의 사람들 — 서로 다른 이유로 남고 떠나다](https://belorin.github.io/binary-arcana/notes/baram-end-people/): 바람 끝 사건의 여러 인물과 선택을 진행자 진상·세션 결과·소설 묘사로 구분한 기록
 - [조화의 마왕 — 거시 대턴 인물 시트](https://belorin.github.io/binary-arcana/notes/demon-epoch-harmony/): 조화의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
 - [서약의 마왕 — 거시 대턴 인물 시트](https://belorin.github.io/binary-arcana/notes/demon-epoch-oath/): 서약의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
 - [공명의 마왕 — 거시 대턴 인물 시트](https://belorin.github.io/binary-arcana/notes/demon-epoch-resonance/): 공명의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
@@ -131,6 +137,7 @@
 - [사람의 불빛을 따라오는 것들 — 적대적 존재들](https://belorin.github.io/binary-arcana/notes/hostile-beings/): 틈살이 시대부터 항로력 212년까지의 적대적 존재 열두 종류. 포식자·기생체·살아 있는 장소·침입자·사육 집단·절멸 세력의 징후와 대응, 시대와 개변에 따른 변종·개체 변화 및 마법적 요소를 다룬다. 세계 전체를 대표하지 않는 국소 목록이며 지역 기본종과 추가 위협으로 연결된다.
 - [지역과 시대의 생명들 — 기본종과 얽힌 생활](https://belorin.github.io/binary-arcana/notes/regional-life/): 특정 지역·시대의 기본종 스물네 종류와 생물·지성체·사물·시설·집단의 얽힌 생활. 여섯 관찰 범위와 역사적 변화를 정하며 국소 목록을 세계 전체로 확대하지 않는다.
 - [지역에서 마주치는 위협 — 여덟 가지 접촉](https://belorin.github.io/binary-arcana/notes/regional-threats/): 갈대턱·잿모·모래등·뿔수레·투명밭·돛진드기·닫힌 부두의 인양꾼들·곁문. 특정 지역과 역사의 생활에 연결된 여덟 위협과 징후·대응·한계.
+- [기록이 남는 재료들 — 매듭, 짝돌, 소금](https://belorin.github.io/binary-arcana/notes/records-and-mediums/): 매듭·용골·짝돌·기록 소금·겹병의 차이를 확인된 사례와 미해결 부분으로 정리
 
 ### 소설
 

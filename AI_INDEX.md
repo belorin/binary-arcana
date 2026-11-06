@@ -146,6 +146,9 @@
 - **[소엘의 셋째 의뢰 — 바람 끝의 손님들](wiki/soel-session-03.md)** · 별칭: 바람 끝의 손님들 세션, 소엘 셋째 의뢰 · 수정: 2026-11-06 · 상태: 진행함
   - 소엘이 맹약소 계약으로 은실호를 찾아 문그늘의 사람들을 구한 셋째 의뢰. 작은 겹침 막간, 물새호 임대 계약 수정과 작업장의 밤 막간, 각 판정 및 결정 대기 설정을 기록한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-03/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-03.md)
+- **[물새호 탐사대 — 네 사람의 출발과 항해](wiki/mulsae-crew.md)** · 수정: 2026-11-07 · 상태: 출발 설정과 세션 후 이력 구분
+  - 초기 대원들의 출발 설정과 소엘 플레이 이후 이력을 구분한 안내
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-crew/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-crew.md)
 
 ## 천체
 
@@ -170,6 +173,9 @@
 - **[관념과의 사이 — 모든 사람에게 있는 또 하나의 관계](wiki/conceptual-relations.md)** · 별칭: 관념과의 관계, 개념 마법, 속담 마법 · 수정: 2026-11-05 · 상태: 정본 · 범세계적 원칙, 세부 작용 미정
   - 물질과 장소뿐 아니라 속담·무게·시간 등 관념과도 관계를 맺는 보편적인 마법. 모든 사람의 약한 재능, 개인별 깊이와 편차, 현실 개변의 소급성과 대가, 관계적 마법과의 연속성.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/conceptual-relations/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/conceptual-relations.md)
+- **[약속의 결 — 이름의 매듭, 서면 계약, 회색 증인](wiki/promises-and-threads.md)** · 수정: 2026-11-07 · 상태: 확인 사례와 미정 구분
+  - 일상의 약속과 배의 매듭, 서면 계약과 맹약소, 관념 맹약을 구별하는 사례 모음
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/promises-and-threads/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/promises-and-threads.md)
 
 ## 마법 공예·항행
 
@@ -191,6 +197,18 @@
 - **[마렌 — 산의 무게를 바꾼 여성 대마법사](wiki/archmage-maren.md)** · 별칭: 여성 대마법사, 마렌, 무게의 대마법사 · 수정: 2026-11-06 · 상태: 초안 · 핵심 설정 확정, 사건·이름 가안
   - T0 이전에 태어난 여성 대마법사 마렌(가칭). 속담의 소급 현실 개변, 무게의 거대한 물리적 위업, 구체적 존재의 사이, 시간과 맺은 후천적 관계, 어린 시절의 사고와 세계적 마찰을 다룬 인물 설정.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/archmage-maren/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/archmage-maren.md)
+- **[리안 — 물새호의 길잡이](wiki/lian.md)** · 수정: 2026-11-07 · 상태: 출발 설정과 세션 후 이력 구분
+  - 젊은 길잡이 리안의 출발 상태와 세 차례 의뢰로 쌓인 이력 및 열린 질문
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/lian/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/lian.md)
+- **[도하 — 배와 작업장을 지키는 정비사](wiki/doha.md)** · 수정: 2026-11-07 · 상태: 출발 설정과 세션 후 이력 구분
+  - 정비사 도하의 초기 능력과 배·작업장에 대한 관계, 진행 이후 이력을 구분한 기록
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/doha/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/doha.md)
+- **[카이 — 바람고원에서 온 경계원](wiki/kai.md)** · 수정: 2026-11-07 · 상태: 출발 설정과 세션 후 이력 구분
+  - 카이의 출발 당시 동기, 고향과 가족사, 진행 중 드러난 역량과 아직 풀지 못한 일
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/kai/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/kai.md)
+- **[바람 끝 사건의 사람들 — 서로 다른 이유로 남고 떠나다](wiki/baram-end-people.md)** · 수정: 2026-11-07 · 상태: 진행자·기존 독자용 · 스포일러 포함
+  - 바람 끝 사건의 여러 인물과 선택을 진행자 진상·세션 결과·소설 묘사로 구분한 기록
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/baram-end-people/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/baram-end-people.md)
 - **[조화의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-harmony.md)** · 별칭: 조화의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
   - 조화의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-harmony/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-harmony.md)
@@ -245,6 +263,9 @@
 - **[지역에서 마주치는 위협 — 여덟 가지 접촉](wiki/regional-threats.md)** · 별칭: 지역별 괴물, 추가 위해체, 갈대턱, 잿모, 모래등, 뿔수레, 투명밭, 돛진드기, 닫힌 부두의 인양꾼들, 곁문 · 수정: 2026-11-05 · 상태: 정본
   - 갈대턱·잿모·모래등·뿔수레·투명밭·돛진드기·닫힌 부두의 인양꾼들·곁문. 특정 지역과 역사의 생활에 연결된 여덟 위협과 징후·대응·한계.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/regional-threats/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/regional-threats.md)
+- **[기록이 남는 재료들 — 매듭, 짝돌, 소금](wiki/records-and-mediums.md)** · 수정: 2026-11-07 · 상태: 확인 사례와 미정 구분
+  - 매듭·용골·짝돌·기록 소금·겹병의 차이를 확인된 사례와 미해결 부분으로 정리
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/records-and-mediums/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/records-and-mediums.md)
 
 ## 소설
 

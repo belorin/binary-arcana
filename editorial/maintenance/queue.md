@@ -4,28 +4,30 @@
 
 마지막 정비: **M003** (2026-11-06) · [보고서](reports/M003.md) · 다음 정비 버전: **M004**
 
-원고 106개 · 변경 문서 46 · 고립 0 · 한쪽 연결 285 · 보류 8 · 열린 교차 제안 0
+원고 113개 · 변경 문서 53 · 고립 0 · 한쪽 연결 327 · 보류 8 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (46)
+## 1. 지난 정비 이후 변경된 문서 (53)
 
 manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **시대의 흐름** (27): `route-era-long-arcs`, `arc-seven-gates`, `arc-empty-shifts`, `arc-grey-promises`, `arc-drifting-routes`, `arc-quiet-harvest`, `route-era-outside-pressures`, `outside-nine-sails`, `outside-no-return-gate`, `outside-black-ice`, `outside-walking-sea`, `outside-returning-stone`, `route-era-seven-fractures`, `fracture-harmony`, `fracture-oath`, `fracture-resonance`, `fracture-shedding`, `fracture-branching`, `fracture-hospitality`, `fracture-dream`, `route-era-bright-turns`, `bright-maren`, `bright-craft-revolution`, `bright-hero`, `bright-open-knowledge`, `bright-many-neighbors`, `bright-living-harvest`
 - **소설** (8): `mulsae-archivist`, `mulsae-archivist-01`, `mulsae-archivist-02`, `mulsae-archivist-03`, `mulsae-archivist-04`, `mulsae-archivist-05`, `mulsae-archivist-06`, `mulsae-archivist-07`
-- **탐사대** (5): `mission-lost-freighter`, `route-era-life`, `soel-sheet`, `mission-salt-plain`, `soel-session-03`
+- **탐사대** (6): `mission-lost-freighter`, `route-era-life`, `soel-sheet`, `mission-salt-plain`, `soel-session-03`, `mulsae-crew`
+- **인물** (5): `archmage-maren`, `lian`, `doha`, `kai`, `baram-end-people`
 - **롤플레잉** (1): `route-era-compound-scenarios`
+- **마법** (1): `promises-and-threads`
 - **마법 공예·항행** (1): `doors-and-passages`
+- **사물·개념** (1): `records-and-mediums`
 - **세력** (1): `seven-demon-lords`
 - **시작하기** (1): `open-routes-era`
 - **운영 원칙** (1): `exceptional-generations`
-- **인물** (1): `archmage-maren`
 
 ## 2. 들어오는 연결이 없는 문서 (0)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (285)
+## 3. 한쪽에서만 건 관련 문서 (327)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -62,7 +64,13 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `mission-seeds` → `route-era-life`
 - `mission-seeds` → `ships-and-gear`
 - `mission-seeds` → `conceptual-relations`
+- `ships-and-gear` → `mulsae-crew`
+- `ships-and-gear` → `promises-and-threads`
 - `route-era-life` → `soel-session-03`
+- `route-era-life` → `mulsae-crew`
+- `route-era-life` → `lian`
+- `route-era-life` → `doha`
+- `route-era-life` → `kai`
 - `start-here` → `open-routes-era`
 - `start-here` → `archmage-maren`
 - `start-here` → `regional-threats`
@@ -154,6 +162,10 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `soel-sheet` → `rulebook`
 - `soel-sheet` → `mission-seeds`
 - `soel-sheet` → `mission-lost-freighter`
+- `soel-sheet` → `doha`
+- `soel-sheet` → `kai`
+- `soel-sheet` → `promises-and-threads`
+- `soel-sheet` → `records-and-mediums`
 - `soel-session-01` → `rulebook`
 - `soel-session-01` → `mission-lost-freighter`
 - `hostile-beings` → `seven-demon-lords`
@@ -295,6 +307,8 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `mulsae-archivist` → `rulebook`
 - `mulsae-archivist` → `mission-seeds`
 - `mulsae-archivist` → `mission-salt-plain`
+- `mulsae-archivist` → `promises-and-threads`
+- `mulsae-archivist` → `records-and-mediums`
 - `mulsae-archivist-01` → `mulsae-archivist`
 - `mulsae-archivist-02` → `mulsae-archivist`
 - `mulsae-archivist-02` → `mission-salt-plain`
@@ -314,6 +328,36 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `doors-and-passages` → `regional-threats`
 - `doors-and-passages` → `first-gate`
 - `doors-and-passages` → `reshaping`
+- `mulsae-crew` → `soel-session-01`
+- `mulsae-crew` → `soel-session-02`
+- `mulsae-crew` → `soel-session-03`
+- `lian` → `rulebook`
+- `lian` → `soel-session-02`
+- `lian` → `soel-session-03`
+- `lian` → `mulsae-archivist-03`
+- `lian` → `doors-and-passages`
+- `doha` → `rulebook`
+- `doha` → `soel-session-01`
+- `doha` → `soel-session-02`
+- `doha` → `soel-session-03`
+- `doha` → `mulsae-archivist-07`
+- `doha` → `ships-and-gear`
+- `kai` → `rulebook`
+- `kai` → `soel-session-02`
+- `kai` → `soel-session-03`
+- `kai` → `baram-end-people`
+- `kai` → `mulsae-archivist-07`
+- `baram-end-people` → `soel-session-03`
+- `baram-end-people` → `mulsae-crew`
+- `baram-end-people` → `doors-and-passages`
+- `promises-and-threads` → `soel-session-01`
+- `promises-and-threads` → `soel-session-03`
+- `promises-and-threads` → `mission-lost-freighter`
+- `records-and-mediums` → `magic-senses`
+- `records-and-mediums` → `mission-salt-plain`
+- `records-and-mediums` → `soel-session-02`
+- `records-and-mediums` → `soel-session-03`
+- `records-and-mediums` → `mulsae-archivist-03`
 
 ## 4. 관련 문서가 없는 문서 (0)
 
@@ -358,10 +402,10 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
-- 긴 문서 (12): `rival-gc-t09-world` 19,396자, `rulebook` 16,414자, `rival-gc-t06-world` 15,310자, `hostile-beings` 13,425자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,953자, `regional-life` 11,213자, `mulsae-archivist-01` 11,206자, `rival-gc-t03-world` 10,529자, `magic-senses` 10,122자
-- 짧은 문서 (13): `editing-guide` 763자, `fracture-resonance` 1,107자, `fracture-branching` 1,130자, `fracture-shedding` 1,133자, `fracture-harmony` 1,215자, `fracture-hospitality` 1,233자, `fracture-dream` 1,240자, `fracture-oath` 1,276자, `mulsae-archivist` 1,320자, `bright-open-knowledge` 1,391자, `bright-living-harvest` 1,410자, `bright-many-neighbors` 1,447자, `bright-hero` 1,467자
+- 긴 문서 (12): `rival-gc-t09-world` 19,396자, `rulebook` 16,619자, `rival-gc-t06-world` 15,310자, `hostile-beings` 13,425자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,953자, `regional-life` 11,213자, `mulsae-archivist-01` 11,206자, `rival-gc-t03-world` 10,529자, `magic-senses` 10,122자
+- 짧은 문서 (15): `editing-guide` 763자, `fracture-resonance` 1,107자, `fracture-branching` 1,130자, `fracture-shedding` 1,133자, `fracture-harmony` 1,215자, `fracture-hospitality` 1,233자, `fracture-dream` 1,240자, `kai` 1,263자, `fracture-oath` 1,276자, `lian` 1,304자, `bright-open-knowledge` 1,391자, `bright-living-harvest` 1,410자, `bright-many-neighbors` 1,447자, `bright-hero` 1,467자, `doha` 1,489자
 
 ## 9. 분류 참고
 
-분류 17개: 시대의 흐름 27, 소설 12, 탐사대 10, 대국 기록 10, 롤플레잉 8, 인물 8, 운영 원칙 6, 사물·개념 4, 시작하기 3, 개요 3, 마법 3, 사건 3, 천체 3, 안내 2, 마법 공예·항행 2, 세력 1, 장소 1
+분류 17개: 시대의 흐름 27, 소설 12, 인물 12, 탐사대 11, 대국 기록 10, 롤플레잉 8, 운영 원칙 6, 사물·개념 5, 마법 4, 시작하기 3, 개요 3, 사건 3, 천체 3, 안내 2, 마법 공예·항행 2, 세력 1, 장소 1
 문서가 하나뿐인 분류 2개: 세력, 장소. 분류 체계 변경은 제안만 한다.

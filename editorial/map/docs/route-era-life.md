@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `route-era-life` · 분류: 탐사대 · 공개 · 원고: [wiki/route-era-life.md](../../../wiki/route-era-life.md) · 8,328자 · 절 15개
+- id: `route-era-life` · 분류: 탐사대 · 공개 · 원고: [wiki/route-era-life.md](../../../wiki/route-era-life.md) · 8,474자 · 절 15개
 - 별칭: 항구 생활, 겹침날, 틈에나 빠져라
 - 요약: 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
 - 태그: 생활, 음식, 말버릇, 축제, 항구
 - 수정일: 2026-11-06 · 실제 증보일: 2026-11-06 · 검토: unassessed
-- 관련 문서: `rulebook`, `open-routes-era`, `ships-and-gear`, `hosumun-eleven-days`, `soel-session-03`
+- 관련 문서: `rulebook`, `open-routes-era`, `ships-and-gear`, `hosumun-eleven-days`, `soel-session-03`, `mulsae-crew`, `lian`, `doha`, `kai`, `promises-and-threads`, `records-and-mediums`
 
 ## 절 목차
 
@@ -28,7 +28,7 @@
 - 이름 · L107–121 · 450자 · `c7d34d6a` — 진행자가 인물 이름을 지을 때 쓴다.
 - 항구에서 벌어지는 일 — 2d6 · L123–139 · 492자 · `f50c2286` — 장면에 생활감이 필요할 때 굴린다.
 - 떠도는 소문 — 1d6 · L141–152 · 406자 · `6deb298b` — 어떤 소문은 진짜고, 어떤 소문은 아니다.
-- 이미 정해진 사람들 · L154–178 · 1,665자 · `e1bad261` — 소설과 세션에서 정본이 된 항로력 212년의 인물들이다.
+- 이미 정해진 사람들 · L154–180 · 1,811자 · `6f332576` — 물새호 대원의 출발 시점과 소엘 플레이 이후 이력은 물새호 탐사대에서 구분한다.
 
 ## 장부에 기록된 반영 지식
 
