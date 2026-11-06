@@ -7,7 +7,7 @@
 - 요약: 물새호의 기록관 소엘이 이름을 빼앗긴 화물선 늙은갈매기호의 용골 매듭을 되살리고, 옛 길잡이 리나가 짝돌로 배와 작별하게 해 새 길잡이를 받아들이게 한 첫 의뢰.
 - 태그: 소엘, 세션, 늙은갈매기호, 재회, 짝돌, 그늘역
 - 수정일: 2026-11-05 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `soel-sheet`, `mission-seeds`, `rulebook`, `mission-lost-freighter`
+- 관련 문서: `soel-sheet`, `mission-seeds`, `rulebook`, `mission-lost-freighter`, `mulsae-archivist-01`
 
 ## 절 목차
 

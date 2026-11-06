@@ -257,6 +257,12 @@
 - **[첫 문 — 길잡이 면허 시험](wiki/first-gate.md)** · 별칭: 길잡이 면허 시험, 참새호, 주아와 미르 · 수정: 2026-11-05 · 상태: 맛보기 소설 · 정본
   - 신참 길잡이 주아가 연습선 참새호로 그늘역에서 늪항까지 처음 항로를 열고, 틈에서 일 분을 버티는 면허 시험. 이름을 부르는 목소리와 등 꺼진 화물선.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/first-gate/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-gate.md)
+- **[물새호의 기록관](wiki/mulsae-archivist.md)** · 별칭: 물새호 이야기, 소엘의 이야기 · 수정: 2026-11-06 · 상태: 연재 중 · 롤플레잉 개작
+  - 물새호의 기록관 소엘이 이름을 빼앗긴 배, 소리를 받아 적는 소금 평원, 쫓기는 것만 내보내는 문그늘을 지나며 약속의 무게를 배우는 항로 시대 탐사 소설. 탐사대 룰북 세션을 개고했다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist.md)
+- **[물새호의 기록관 1장: 이름을 바꾼 배](wiki/mulsae-archivist-01.md)** · 수정: 2026-11-06 · 상태: 개고 · 1장
+  - 그늘역 3번 부두, 이름을 빼앗기고 길잡이를 밀어내는 화물선 고리 7호. 소엘은 조종석의 재회 매듭과 갈린 용골의 옛 이름을 읽어 내고, 마흔 해 그 배를 몬 리나와 배를 짝돌로 다시 잇는다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-01/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-01.md)
 
 ## 롤플레잉
 

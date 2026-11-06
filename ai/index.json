@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 97,
+  "document_count": 99,
   "documents": [
     {
       "id": "welcome",
@@ -2250,7 +2250,8 @@
         "soel-sheet",
         "mission-seeds",
         "rulebook",
-        "mission-lost-freighter"
+        "mission-lost-freighter",
+        "mulsae-archivist-01"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-01.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-01.md",
@@ -3341,6 +3342,66 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/route-era-compound-scenarios.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/route-era-compound-scenarios/",
       "app_url": "https://belorin.github.io/binary-arcana/#route-era-compound-scenarios"
+    },
+    {
+      "id": "mulsae-archivist",
+      "title": "물새호의 기록관",
+      "aliases": [
+        "물새호 이야기",
+        "소엘의 이야기"
+      ],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "항로 시대",
+        "소엘",
+        "물새호",
+        "탐사대"
+      ],
+      "summary": "물새호의 기록관 소엘이 이름을 빼앗긴 배, 소리를 받아 적는 소금 평원, 쫓기는 것만 내보내는 문그늘을 지나며 약속의 무게를 배우는 항로 시대 탐사 소설. 탐사대 룰북 세션을 개고했다.",
+      "review_state": "unassessed",
+      "review_label": "연재 중 · 롤플레잉 개작",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "soel-sheet",
+        "soel-session-01",
+        "soel-session-02",
+        "soel-session-03",
+        "rulebook",
+        "mission-seeds"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist"
+    },
+    {
+      "id": "mulsae-archivist-01",
+      "title": "물새호의 기록관 1장: 이름을 바꾼 배",
+      "aliases": [],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "소엘",
+        "고리 7호",
+        "늙은갈매기호",
+        "재회",
+        "그늘역"
+      ],
+      "summary": "그늘역 3번 부두, 이름을 빼앗기고 길잡이를 밀어내는 화물선 고리 7호. 소엘은 조종석의 재회 매듭과 갈린 용골의 옛 이름을 읽어 내고, 마흔 해 그 배를 몬 리나와 배를 짝돌로 다시 잇는다.",
+      "review_state": "unassessed",
+      "review_label": "개고 · 1장",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "mulsae-archivist",
+        "soel-session-01"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-01.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-01.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-01/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-01"
     }
   ]
 }
