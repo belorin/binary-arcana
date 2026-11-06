@@ -115,8 +115,20 @@ function renderMarkdown(markdown, docId) {
     quote = [];
   };
   const flushAll = () => { flushPara(); flushList(); flushQuote(); };
+  let originals = 0;
   for (let index = 0; index < lines.length; index++) {
     const value = lines[index].trim();
+    // :::원본 [label] … ::: keeps the pre-revision text of a fiction passage, folded.
+    const original = /^:::\s*원본(?:\s+(.*))?$/.exec(value);
+    if (original) {
+      flushAll();
+      const inner = [];
+      while (++index < lines.length && lines[index].trim() !== ':::') inner.push(lines[index]);
+      html += '<details class="original-text"><summary>' + (original[1] ? inline(original[1]) + ' — ' : '') +
+        '개고 전 원본 보기</summary><div class="original-body">' +
+        renderMarkdown(inner.join('\n'), docId + '-original-' + (++originals)).html + '</div></details>';
+      continue;
+    }
     const heading = /^(#{2,4})\s+(.+)$/.exec(value);
     // A line holding only ![설명](wiki/images/name.svg) becomes a figure with its caption.
     const image = /^!\[([^\]]*)\]\((wiki\/images\/[a-z0-9-]+\.(?:svg|png|jpe?g|webp))\)$/.exec(value);
