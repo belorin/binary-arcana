@@ -3420,6 +3420,57 @@
         "mission-salt-plain"
       ],
       "aliases": [],
+      "updated": "2026-11-06",
+      "title": "물새호의 기록관 2장: 방금 떠난 야영지"
+    },
+    {
+      "id": "mulsae-archivist-03",
+      "path": "wiki/mulsae-archivist-03.md",
+      "publish": true,
+      "order": 101,
+      "title": "물새호의 기록관 3장: 작은 겹침",
+      "category": "소설",
+      "status": "개고 · 3장",
+      "summary": "그늘역의 작은 겹침 장에서 소엘은 소금 표본을 부두 기록관 연구회에 맡기고, 리안과 닫힌 항로의 기록을 발견한다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "그늘역",
+        "작은 겹침",
+        "기록 소금",
+        "리안"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist",
+        "soel-session-03"
+      ],
+      "aliases": [],
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "mulsae-archivist-04",
+      "path": "wiki/mulsae-archivist-04.md",
+      "publish": true,
+      "order": 102,
+      "title": "물새호의 기록관 4장: 맹약소",
+      "category": "소설",
+      "status": "개고 · 4장",
+      "summary": "은실호 수색 의뢰를 받은 물새호 탐사대가 맹약소에서 계약을 맺고 정기 항로 7번의 틈에서 수상한 화물과 흔적을 발견한다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "은실호",
+        "맹약소",
+        "고리운송",
+        "문그늘"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist",
+        "soel-session-03"
+      ],
+      "aliases": [],
       "updated": "2026-11-06"
     }
   ]
