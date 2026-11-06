@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `magical-distance-and-passage` · 분류: 마법 공예·항행 · 공개 · 원고: [wiki/magical-distance-and-passage.md](../../../wiki/magical-distance-and-passage.md) · 2,396자 · 절 7개
+- id: `magical-distance-and-passage` · 분류: 마법 공예·항행 · 공개 · 원고: [wiki/magical-distance-and-passage.md](../../../wiki/magical-distance-and-passage.md) · 2,580자 · 절 8개
 - 별칭: 마법적 거리, 통행 관계
 - 요약: 마법적 연결로 규정되는 거리와 물리적 도로의 필요, 힘든 행성 간 이동, 초기 여섯 행성 설계 범위.
 - 태그: 마법적 거리, 통행, 행성, 경유지, 항행
 - 수정일: 2026-11-03 · 실제 증보일: 2026-11-03 · 검토: unassessed
-- 관련 문서: `start-here`, `magic-as-practice`, `causal-roleplay`, `low-cape`, `open-setting-questions`, `scenario-great-crossing`, `binary-system`
+- 관련 문서: `start-here`, `magic-as-practice`, `causal-roleplay`, `low-cape`, `open-setting-questions`, `scenario-great-crossing`, `binary-system`, `doors-and-passages`
 
 ## 절 목차
 
@@ -20,7 +20,8 @@
 - 행성 사이의 통행은 여전히 어렵다 · L28–32 · 251자 · `ea04427b` — 인류는 다른 행성으로 진출했으나, 그곳을 마음대로 지배하거나 다수 인구를 지속적으로 이주시킬 수 없다.
 - 첫 설계 범위와 미지의 행성 · L34–38 · 431자 · `37085a05` — 초기 세계 설계에서는 여섯 행성 정도를 계획의 범위로 잡는 안을 채택한다.
 - 지도도 행위와 시간에 따라 변한다 · L40–44 · 297자 · `64b513bc` — 마법적 통행 관계는 길을 유지하거나 이용하거나 방해하는 존재들에 따라 달라질 수 있다.
-- 열린 질문 · L46–48 · 128자 · `39f27e0e` — 통행이 실제로 이루어지는 모습, 영구적인 길의 가능성, 방향 비대칭, 통행에 필요한 관계의 조건, 개척 주체, 인간 외 존재의 이동, 길 유지의 비용, 이주 가능…
+- 여러 종류의 문을 실제로 볼 때 · L46–48 · 160자 · `85491f06` — 항구의 정기문, 옛 큰 건넘, 문그늘, 분기하는 길과 작은 곁문은 서로 같은 장치라고 전제하지 않는다.
+- 열린 질문 · L50–52 · 128자 · `39f27e0e` — 통행이 실제로 이루어지는 모습, 영구적인 길의 가능성, 방향 비대칭, 통행에 필요한 관계의 조건, 개척 주체, 인간 외 존재의 이동, 길 유지의 비용, 이주 가능…
 
 ## 장부에 기록된 반영 지식
 

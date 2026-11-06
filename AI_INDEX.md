@@ -176,6 +176,9 @@
 - **[마법적 거리와 통행의 경계](wiki/magical-distance-and-passage.md)** · 별칭: 마법적 거리, 통행 관계 · 수정: 2026-11-03 · 상태: 초안
   - 마법적 연결로 규정되는 거리와 물리적 도로의 필요, 힘든 행성 간 이동, 초기 여섯 행성 설계 범위.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/magical-distance-and-passage/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magical-distance-and-passage.md)
+- **[문과 통행의 여러 체계](wiki/doors-and-passages.md)** · 별칭: 문 설정, 통행의 여러 체계, 문과 항로 · 수정: 2026-11-06 · 상태: 설정 초안 · 확인 사례와 장면 묘사안 구별
+  - 항로력 212년 정기 항로문, 옛 지기형 큰 건넘, 개척 항로, 겹쳐 보이는 문과 분기, 문그늘, 돌턱 곁문, 닫힌 문과 틈을 서로 구별하고 각 계통의 외형·동선·감각을 장면으로 상상한다. 물새호 비행 범위 충돌은 미정으로 보존한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/doors-and-passages/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/doors-and-passages.md)
 
 ## 세력
 

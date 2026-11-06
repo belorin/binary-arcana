@@ -4,9 +4,9 @@
 
 마지막 정비: **M003** (2026-11-06) · [보고서](reports/M003.md) · 다음 정비 버전: **M004**
 
-원고 105개 · 변경 문서 45 · 고립 0 · 한쪽 연결 279 · 보류 8 · 열린 교차 제안 0
+원고 106개 · 변경 문서 46 · 고립 0 · 한쪽 연결 285 · 보류 8 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (45)
+## 1. 지난 정비 이후 변경된 문서 (46)
 
 manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
@@ -14,6 +14,7 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - **소설** (8): `mulsae-archivist`, `mulsae-archivist-01`, `mulsae-archivist-02`, `mulsae-archivist-03`, `mulsae-archivist-04`, `mulsae-archivist-05`, `mulsae-archivist-06`, `mulsae-archivist-07`
 - **탐사대** (5): `mission-lost-freighter`, `route-era-life`, `soel-sheet`, `mission-salt-plain`, `soel-session-03`
 - **롤플레잉** (1): `route-era-compound-scenarios`
+- **마법 공예·항행** (1): `doors-and-passages`
 - **세력** (1): `seven-demon-lords`
 - **시작하기** (1): `open-routes-era`
 - **운영 원칙** (1): `exceptional-generations`
@@ -24,7 +25,7 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
 
-## 3. 한쪽에서만 건 관련 문서 (279)
+## 3. 한쪽에서만 건 관련 문서 (285)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -307,6 +308,12 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `mulsae-archivist-06` → `soel-session-03`
 - `mulsae-archivist-07` → `mulsae-archivist`
 - `mulsae-archivist-07` → `soel-session-03`
+- `doors-and-passages` → `scenario-great-crossing`
+- `doors-and-passages` → `mission-lost-freighter`
+- `doors-and-passages` → `fracture-branching`
+- `doors-and-passages` → `regional-threats`
+- `doors-and-passages` → `first-gate`
+- `doors-and-passages` → `reshaping`
 
 ## 4. 관련 문서가 없는 문서 (0)
 
@@ -356,5 +363,5 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 17개: 시대의 흐름 27, 소설 12, 탐사대 10, 대국 기록 10, 롤플레잉 8, 인물 8, 운영 원칙 6, 사물·개념 4, 시작하기 3, 개요 3, 마법 3, 사건 3, 천체 3, 안내 2, 세력 1, 마법 공예·항행 1, 장소 1
-문서가 하나뿐인 분류 3개: 세력, 마법 공예·항행, 장소. 분류 체계 변경은 제안만 한다.
+분류 17개: 시대의 흐름 27, 소설 12, 탐사대 10, 대국 기록 10, 롤플레잉 8, 인물 8, 운영 원칙 6, 사물·개념 4, 시작하기 3, 개요 3, 마법 3, 사건 3, 천체 3, 안내 2, 마법 공예·항행 2, 세력 1, 장소 1
+문서가 하나뿐인 분류 2개: 세력, 장소. 분류 체계 변경은 제안만 한다.

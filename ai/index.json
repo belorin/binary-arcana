@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 105,
+  "document_count": 106,
   "documents": [
     {
       "id": "welcome",
@@ -91,7 +91,8 @@
         "route-era-long-arcs",
         "route-era-outside-pressures",
         "route-era-seven-fractures",
-        "route-era-bright-turns"
+        "route-era-bright-turns",
+        "doors-and-passages"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/open-routes-era.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/open-routes-era.md",
@@ -423,7 +424,8 @@
         "low-cape",
         "open-setting-questions",
         "scenario-great-crossing",
-        "binary-system"
+        "binary-system",
+        "doors-and-passages"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/magical-distance-and-passage.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/magical-distance-and-passage.md",
@@ -749,6 +751,46 @@
       "app_url": "https://belorin.github.io/binary-arcana/#aren-session-01"
     },
     {
+      "id": "doors-and-passages",
+      "title": "문과 통행의 여러 체계",
+      "aliases": [
+        "문 설정",
+        "통행의 여러 체계",
+        "문과 항로"
+      ],
+      "category": "마법 공예·항행",
+      "tags": [
+        "문",
+        "항로",
+        "건넘",
+        "문그늘",
+        "틈",
+        "길돌",
+        "항행",
+        "시각적 묘사"
+      ],
+      "summary": "항로력 212년 정기 항로문, 옛 지기형 큰 건넘, 개척 항로, 겹쳐 보이는 문과 분기, 문그늘, 돌턱 곁문, 닫힌 문과 틈을 서로 구별하고 각 계통의 외형·동선·감각을 장면으로 상상한다. 물새호 비행 범위 충돌은 미정으로 보존한다.",
+      "review_state": "unassessed",
+      "review_label": "설정 초안 · 확인 사례와 장면 묘사안 구별",
+      "last_updated_on": "2026-11-06",
+      "last_enriched_on": null,
+      "related_ids": [
+        "magical-distance-and-passage",
+        "open-routes-era",
+        "ships-and-gear",
+        "scenario-great-crossing",
+        "mission-lost-freighter",
+        "fracture-branching",
+        "regional-threats",
+        "first-gate",
+        "reshaping"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/doors-and-passages.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/doors-and-passages.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/doors-and-passages/",
+      "app_url": "https://belorin.github.io/binary-arcana/#doors-and-passages"
+    },
+    {
       "id": "mission-seeds",
       "title": "짧은 의뢰 여섯",
       "aliases": [
@@ -923,7 +965,8 @@
       "related_ids": [
         "rulebook",
         "open-routes-era",
-        "route-era-life"
+        "route-era-life",
+        "doors-and-passages"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/ships-and-gear.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/ships-and-gear.md",

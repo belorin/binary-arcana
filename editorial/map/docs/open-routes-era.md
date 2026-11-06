@@ -2,12 +2,12 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `open-routes-era` · 분류: 시작하기 · 공개 · 원고: [wiki/open-routes-era.md](../../../wiki/open-routes-era.md) · 9,621자 · 절 15개
+- id: `open-routes-era` · 분류: 시작하기 · 공개 · 원고: [wiki/open-routes-era.md](../../../wiki/open-routes-era.md) · 9,766자 · 절 15개
 - 별칭: 항로 시대, 항로력, 돌아온 별
 - 요약: T0에서 약 삼백 해 뒤, 닫힘의 세기를 지나 행성들이 나눔 사이의 정기 항로로 다시 이어진 항로력 212년의 세계를 쉬운 말로 정리한 안내. 지난 삼백 해와 남은 것, 행성, 배와 항로, 생활 도구, 세력, 사람 아닌 이웃, 마왕, 개척지. 사람을 노리는 존재와 시대·개체별 변이를 안내한다.
 - 태그: 항로 시대, SF 판타지, 개척, 세계 안내
 - 수정일: 2026-11-06 · 실제 증보일: 2026-11-06 · 검토: unassessed
-- 관련 문서: `welcome`, `rulebook`, `reshaping`, `demon-epoch-chronicle`, `space-codes`, `binary-system`, `magic-senses`, `mission-lost-freighter`, `mission-breathing-forest`, `ships-and-gear`, `route-era-life`, `conceptual-relations`, `archmage-maren`, `hostile-beings`, `regional-life`, `regional-threats`, `soel-session-03`, `route-era-long-arcs`, `route-era-outside-pressures`, `route-era-seven-fractures`, `route-era-bright-turns`
+- 관련 문서: `welcome`, `rulebook`, `reshaping`, `demon-epoch-chronicle`, `space-codes`, `binary-system`, `magic-senses`, `mission-lost-freighter`, `mission-breathing-forest`, `ships-and-gear`, `route-era-life`, `conceptual-relations`, `archmage-maren`, `hostile-beings`, `regional-life`, `regional-threats`, `soel-session-03`, `route-era-long-arcs`, `route-era-outside-pressures`, `route-era-seven-fractures`, `route-era-bright-turns`, `doors-and-passages`
 
 ## 절 목차
 
@@ -18,17 +18,17 @@
 - 하늘과 시간 · L13–18 · 385자 · `d7e31f5d` — 두 해. 크고 노란 해와 작고 흰 해가 하늘에 늘 가까이 붙어 있다.
 - 지난 삼백 해 · L20–43 · 1,095자 · `7eec24a9` — 지금 사람들에게 삼백 해 전은 먼 옛날이다.
 - 행성들 · L45–54 · 626자 · `4834f21d` — (표)
-- 배와 항로 · L56–64 · 678자 · `620418ea` — 항로력 212년 별계 항로도.
-- 생활과 도구 · L66–83 · 1,041자 · `32bb7ef2` — 마법은 "누구와 무엇이 오래 함께했는가"에서 나온다.
-- 세력 · L85–95 · 790자 · `8692b35e` — (표)
-- 사람 아닌 이웃들 · L97–101 · 325자 · `ecb6907c` — 켜사람. 누리의 호수와 샘에 오래 살아온, 조개껍데기 같은 켜를 몸에 쌓는 무리 생물이다.
-- 마왕 · L103–107 · 240자 · `2475d87c` — 아주 오래전부터 마왕이라 불리는 거대한 존재들이 있었다.
-- 사람을 노리는 존재들 · L109–117 · 707자 · `83fa46e8` — 마왕의 금지 구역 밖에도 위험은 있다.
-- 전설 속의 사람 · L119–123 · 395자 · `d7f4315e` — 항로 시대 사람들이 가장 많이 아는 옛사람은 무게의 대마법사다.
-- 지금 이 시대의 이야기 · L125–131 · 396자 · `87f6d2a7` — 돌아온 별의 개척.
-- 낱말 몇 개 · L133–145 · 510자 · `3023199c` — (표)
-- 다른 시대와의 관계 · L147–149 · 284자 · `f1e001d8` — 이 시대는 위키의 다른 문서들(일곱 마왕의 시대, 큰 건넘 대국, 재편)보다 뒤다.
-- 진행자용 — 인물들은 모름 · L151–165 · 1,274자 · `c2292256` — 틈의 정체. 먼 항로가 지나는 틈은 마왕들의 질서가 서로 맞물린 자리의 이음매다(틈살이의 연대기).
+- 배와 항로 · L56–66 · 823자 · `a4d76d78` — 항로력 212년 별계 항로도.
+- 생활과 도구 · L68–85 · 1,041자 · `32bb7ef2` — 마법은 "누구와 무엇이 오래 함께했는가"에서 나온다.
+- 세력 · L87–97 · 790자 · `8692b35e` — (표)
+- 사람 아닌 이웃들 · L99–103 · 325자 · `ecb6907c` — 켜사람. 누리의 호수와 샘에 오래 살아온, 조개껍데기 같은 켜를 몸에 쌓는 무리 생물이다.
+- 마왕 · L105–109 · 240자 · `2475d87c` — 아주 오래전부터 마왕이라 불리는 거대한 존재들이 있었다.
+- 사람을 노리는 존재들 · L111–119 · 707자 · `83fa46e8` — 마왕의 금지 구역 밖에도 위험은 있다.
+- 전설 속의 사람 · L121–125 · 395자 · `d7f4315e` — 항로 시대 사람들이 가장 많이 아는 옛사람은 무게의 대마법사다.
+- 지금 이 시대의 이야기 · L127–133 · 396자 · `87f6d2a7` — 돌아온 별의 개척.
+- 낱말 몇 개 · L135–147 · 510자 · `3023199c` — (표)
+- 다른 시대와의 관계 · L149–151 · 284자 · `f1e001d8` — 이 시대는 위키의 다른 문서들(일곱 마왕의 시대, 큰 건넘 대국, 재편)보다 뒤다.
+- 진행자용 — 인물들은 모름 · L153–167 · 1,274자 · `c2292256` — 틈의 정체. 먼 항로가 지나는 틈은 마왕들의 질서가 서로 맞물린 자리의 이음매다(틈살이의 연대기).
 
 ## 장부에 기록된 반영 지식
 

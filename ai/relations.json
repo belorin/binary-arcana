@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 760,
+  "edge_count": 772,
   "edges": [
     {
       "from": "welcome",
@@ -220,6 +220,12 @@
     {
       "from": "open-routes-era",
       "to": "route-era-bright-turns",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "open-routes-era",
+      "to": "doors-and-passages",
       "type": "related_to",
       "basis": "manifest.related"
     },
@@ -770,6 +776,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "magical-distance-and-passage",
+      "to": "doors-and-passages",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "exceptional-generations",
       "to": "causal-roleplay",
       "type": "related_to",
@@ -1208,6 +1220,60 @@
       "basis": "manifest.related"
     },
     {
+      "from": "doors-and-passages",
+      "to": "magical-distance-and-passage",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doors-and-passages",
+      "to": "open-routes-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doors-and-passages",
+      "to": "ships-and-gear",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doors-and-passages",
+      "to": "scenario-great-crossing",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doors-and-passages",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doors-and-passages",
+      "to": "fracture-branching",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doors-and-passages",
+      "to": "regional-threats",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doors-and-passages",
+      "to": "first-gate",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "doors-and-passages",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "mission-seeds",
       "to": "rulebook",
       "type": "related_to",
@@ -1402,6 +1468,12 @@
     {
       "from": "ships-and-gear",
       "to": "route-era-life",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "ships-and-gear",
+      "to": "doors-and-passages",
       "type": "related_to",
       "basis": "manifest.related"
     },
