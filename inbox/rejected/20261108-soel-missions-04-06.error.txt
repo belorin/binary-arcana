@@ -1,0 +1,2 @@
+2026-11-08
+20261108-soel-missions-04-06.md: front matter needs 'message: <commit message>'
