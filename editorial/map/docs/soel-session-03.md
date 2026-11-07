@@ -7,7 +7,7 @@
 - 요약: 소엘이 맹약소 계약으로 은실호를 찾아 문그늘의 사람들을 구한 셋째 의뢰. 작은 겹침 막간, 물새호 임대 계약 수정과 작업장의 밤 막간, 각 판정 및 결정 대기 설정을 기록한다.
 - 태그: 소엘, 세션, 문그늘, 맹약, 은실호, 바람고원, 남쪽 행렬
 - 수정일: 2026-11-06 · 실제 증보일: 2026-11-06 · 검토: unassessed
-- 관련 문서: `soel-sheet`, `soel-session-02`, `mission-lost-freighter`, `rulebook`, `route-era-organizations`, `gori-transport`, `kyeol-society-and-research`, `route-era-places`
+- 관련 문서: `soel-sheet`, `soel-session-02`, `mission-lost-freighter`, `rulebook`, `route-era-organizations`, `gori-transport`, `kyeol-society-and-research`, `route-era-places`, `soel-session-04`
 
 ## 절 목차
 

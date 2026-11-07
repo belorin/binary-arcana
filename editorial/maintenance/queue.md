@@ -4,15 +4,15 @@
 
 마지막 정비: **M003** (2026-11-06) · [보고서](reports/M003.md) · 다음 정비 버전: **M004**
 
-원고 120개 · 변경 문서 60 · 고립 3 · 한쪽 연결 346 · 보류 9 · 열린 교차 제안 0
+원고 121개 · 변경 문서 61 · 고립 2 · 한쪽 연결 353 · 보류 9 · 열린 교차 제안 0
 
-## 1. 지난 정비 이후 변경된 문서 (60)
+## 1. 지난 정비 이후 변경된 문서 (61)
 
 manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 없는 문서. 분류별로 묶었으며, 양이 많으면 분류 단위로 나누어 처리한다.
 
 - **시대의 흐름** (27): `route-era-long-arcs`, `arc-seven-gates`, `arc-empty-shifts`, `arc-grey-promises`, `arc-drifting-routes`, `arc-quiet-harvest`, `route-era-outside-pressures`, `outside-nine-sails`, `outside-no-return-gate`, `outside-black-ice`, `outside-walking-sea`, `outside-returning-stone`, `route-era-seven-fractures`, `fracture-harmony`, `fracture-oath`, `fracture-resonance`, `fracture-shedding`, `fracture-branching`, `fracture-hospitality`, `fracture-dream`, `route-era-bright-turns`, `bright-maren`, `bright-craft-revolution`, `bright-hero`, `bright-open-knowledge`, `bright-many-neighbors`, `bright-living-harvest`
 - **소설** (11): `mulsae-archivist`, `mulsae-archivist-01`, `mulsae-archivist-02`, `mulsae-archivist-03`, `mulsae-archivist-04`, `mulsae-archivist-05`, `mulsae-archivist-06`, `mulsae-archivist-07`, `mulsae-archivist-08`, `mulsae-archivist-09`, `mulsae-archivist-10`
-- **탐사대** (6): `mission-lost-freighter`, `route-era-life`, `soel-sheet`, `mission-salt-plain`, `soel-session-03`, `mulsae-crew`
+- **탐사대** (7): `mission-lost-freighter`, `route-era-life`, `soel-sheet`, `mission-salt-plain`, `soel-session-03`, `mulsae-crew`, `soel-session-04`
 - **인물** (5): `archmage-maren`, `lian`, `doha`, `kai`, `baram-end-people`
 - **세력** (4): `seven-demon-lords`, `route-era-organizations`, `gori-transport`, `kyeol-society-and-research`
 - **롤플레잉** (1): `route-era-compound-scenarios`
@@ -23,15 +23,14 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - **운영 원칙** (1): `exceptional-generations`
 - **장소** (1): `route-era-places`
 
-## 2. 들어오는 연결이 없는 문서 (3)
+## 2. 들어오는 연결이 없는 문서 (2)
 
 다른 문서의 관련 문서·본문 링크·확인된 관계 어디에도 등장하지 않는다. 직접 관련 문서가 있는지 본문을 읽고 확인한다.
 
-- `mulsae-archivist-08` 물새호의 기록관 8장: 기다리는 물
 - `mulsae-archivist-09` 물새호의 기록관 9장: 스무 해의 하루
 - `mulsae-archivist-10` 물새호의 기록관 10장: 숨길
 
-## 3. 한쪽에서만 건 관련 문서 (346)
+## 3. 한쪽에서만 건 관련 문서 (353)
 
 `A → B`는 A의 관련 문서에 B가 있으나 B에는 A가 없다는 뜻이다. 반대 방향도 직접 관련일 때만 맞춘다.
 
@@ -381,6 +380,13 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `mulsae-archivist-08` → `mulsae-archivist`
 - `mulsae-archivist-09` → `mulsae-archivist`
 - `mulsae-archivist-10` → `mulsae-archivist`
+- `soel-session-04` → `soel-sheet`
+- `soel-session-04` → `mission-lost-freighter`
+- `soel-session-04` → `mission-salt-plain`
+- `soel-session-04` → `rulebook`
+- `soel-session-04` → `gori-transport`
+- `soel-session-04` → `kyeol-society-and-research`
+- `soel-session-04` → `route-era-places`
 
 ## 4. 관련 문서가 없는 문서 (0)
 
@@ -431,5 +437,5 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 
 ## 9. 분류 참고
 
-분류 17개: 시대의 흐름 27, 소설 15, 인물 12, 탐사대 11, 대국 기록 10, 롤플레잉 8, 운영 원칙 6, 사물·개념 5, 세력 4, 마법 4, 시작하기 3, 개요 3, 사건 3, 천체 3, 안내 2, 마법 공예·항행 2, 장소 2
+분류 17개: 시대의 흐름 27, 소설 15, 탐사대 12, 인물 12, 대국 기록 10, 롤플레잉 8, 운영 원칙 6, 사물·개념 5, 세력 4, 마법 4, 시작하기 3, 개요 3, 사건 3, 천체 3, 안내 2, 마법 공예·항행 2, 장소 2
 문서가 하나뿐인 분류 0개. 분류 체계 변경은 제안만 한다.

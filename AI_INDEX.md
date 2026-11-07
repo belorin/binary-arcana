@@ -149,6 +149,9 @@
 - **[물새호 탐사대 — 네 사람이 함께 탄 배](wiki/mulsae-crew.md)** · 수정: 2026-11-08 · 상태: 출발 설정과 진행 후 이야기 구분
   - 네 사람의 출발 상태와 소엘 플레이에서 쌓인 관계를 연속된 팀 서사로 정리
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-crew/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-crew.md)
+- **[소엘의 넷째 의뢰 — 호수문의 옛 문터](wiki/soel-session-04.md)** · 별칭: 호수문의 옛 문터 세션, 소엘 넷째 의뢰 · 수정: 2026-11-08 · 상태: 진행함
+  - 소엘이 고리운송과 약정한 의뢰로 호수문 옛 문터의 결을 읽고, 오미르에게서 백로대가 평원을 묻은 이유를 듣고, 빚을 갚아 물새호를 탐사대 소유로 넘겨받은 넷째 의뢰.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-04/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-04.md)
 
 ## 천체
 

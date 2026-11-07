@@ -1,8 +1,3 @@
----
-message: story: 소엘 넷째 의뢰
----
-
-=== FILE wiki/soel-session-04.md ===
 # 소엘의 넷째 의뢰 — 호수문의 옛 문터
 
 > 세션 날짜: 2026-11-08 · 의뢰: 고리운송 그늘역 지점(셋째 의뢰 때 약정한 의뢰 하나) · 참가 캐릭터: [소엘](./soel-sheet.md)(플레이어), 리안·도하·카이(진행자) · 진행: Claude · 소설: [물새호의 기록관 8장](./mulsae-archivist-08.md) · **「진행자용」 절이 있다. 플레이어로 놀 사람은 그 절을 읽지 않는다.**
@@ -134,16 +129,3 @@ message: story: 소엘 넷째 의뢰
 알게 된 것: 문터의 결은 저쪽 끝을 아직 무언가가 쥐고 있다(학회 조사 묶음의 결론과 어긋남). 백로대는 첫 항로를 지키려 평원의 짜임을 묻었다. 유진의 초록에 후원처가 있다
 진행자 메모: 마델은 소금의 목소리를 들었다. 보호 수역 청원 진행 중. 페이가 문터를 따로 봄. 오미르의 소관 주장 제안은 소엘이 정할 일. 숨음날은 아직 한참 남음
 ```
-=== END ===
-
-=== MANIFEST soel-session-04 ===
-{"category": "탐사대", "status": "진행함", "summary": "소엘이 고리운송과 약정한 의뢰로 호수문 옛 문터의 결을 읽고, 오미르에게서 백로대가 평원을 묻은 이유를 듣고, 빚을 갚아 물새호를 탐사대 소유로 넘겨받은 넷째 의뢰.", "tags": ["소엘", "세션", "호수문", "옛 문터", "오미르", "백로대", "물새호"], "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)", "related": ["soel-sheet", "soel-session-03", "mulsae-archivist-08", "mission-lost-freighter", "mission-salt-plain", "rulebook", "gori-transport", "kyeol-society-and-research", "route-era-places"], "aliases": ["호수문의 옛 문터 세션", "소엘 넷째 의뢰"]}
-=== END ===
-
-=== MANIFEST mulsae-archivist-08 ===
-{"related+": ["soel-session-04"]}
-=== END ===
-
-=== MANIFEST soel-session-03 ===
-{"related+": ["soel-session-04"]}
-=== END ===

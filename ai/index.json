@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 120,
+  "document_count": 121,
   "documents": [
     {
       "id": "welcome",
@@ -2824,7 +2824,8 @@
         "route-era-organizations",
         "gori-transport",
         "kyeol-society-and-research",
-        "route-era-places"
+        "route-era-places",
+        "soel-session-04"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-03.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-03.md",
@@ -4024,7 +4025,8 @@
       "last_updated_on": "2026-11-08",
       "last_enriched_on": null,
       "related_ids": [
-        "mulsae-archivist"
+        "mulsae-archivist",
+        "soel-session-04"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-08.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-08.md",
@@ -4082,6 +4084,44 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-10.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-10/",
       "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-10"
+    },
+    {
+      "id": "soel-session-04",
+      "title": "소엘의 넷째 의뢰 — 호수문의 옛 문터",
+      "aliases": [
+        "호수문의 옛 문터 세션",
+        "소엘 넷째 의뢰"
+      ],
+      "category": "탐사대",
+      "tags": [
+        "소엘",
+        "세션",
+        "호수문",
+        "옛 문터",
+        "오미르",
+        "백로대",
+        "물새호"
+      ],
+      "summary": "소엘이 고리운송과 약정한 의뢰로 호수문 옛 문터의 결을 읽고, 오미르에게서 백로대가 평원을 묻은 이유를 듣고, 빚을 갚아 물새호를 탐사대 소유로 넘겨받은 넷째 의뢰.",
+      "review_state": "unassessed",
+      "review_label": "진행함",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "soel-sheet",
+        "soel-session-03",
+        "mulsae-archivist-08",
+        "mission-lost-freighter",
+        "mission-salt-plain",
+        "rulebook",
+        "gori-transport",
+        "kyeol-society-and-research",
+        "route-era-places"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-04.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-04.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/soel-session-04/",
+      "app_url": "https://belorin.github.io/binary-arcana/#soel-session-04"
     }
   ]
 }

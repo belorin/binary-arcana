@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 909,
+  "edge_count": 920,
   "edges": [
     {
       "from": "welcome",
@@ -3848,6 +3848,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "soel-session-03",
+      "to": "soel-session-04",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "records-and-mediums",
       "to": "magic-senses",
       "type": "related_to",
@@ -5282,6 +5288,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "mulsae-archivist-08",
+      "to": "soel-session-04",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "mulsae-archivist-09",
       "to": "mulsae-archivist",
       "type": "related_to",
@@ -5290,6 +5302,60 @@
     {
       "from": "mulsae-archivist-10",
       "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-04",
+      "to": "soel-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-04",
+      "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-04",
+      "to": "mulsae-archivist-08",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-04",
+      "to": "mission-lost-freighter",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-04",
+      "to": "mission-salt-plain",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-04",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-04",
+      "to": "gori-transport",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-04",
+      "to": "kyeol-society-and-research",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-04",
+      "to": "route-era-places",
       "type": "related_to",
       "basis": "manifest.related"
     },

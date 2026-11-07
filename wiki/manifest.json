@@ -2487,7 +2487,8 @@
         "route-era-organizations",
         "gori-transport",
         "kyeol-society-and-research",
-        "route-era-places"
+        "route-era-places",
+        "soel-session-04"
       ],
       "aliases": [
         "바람 끝의 손님들 세션",
@@ -4005,7 +4006,8 @@
       ],
       "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
       "related": [
-        "mulsae-archivist"
+        "mulsae-archivist",
+        "soel-session-04"
       ],
       "aliases": [],
       "review_state": "unassessed",
@@ -4060,6 +4062,44 @@
         "mulsae-archivist"
       ],
       "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/soel-session-04.md",
+      "publish": true,
+      "order": 109,
+      "id": "soel-session-04",
+      "title": "소엘의 넷째 의뢰 — 호수문의 옛 문터",
+      "category": "탐사대",
+      "status": "진행함",
+      "updated": "2026-11-08",
+      "summary": "소엘이 고리운송과 약정한 의뢰로 호수문 옛 문터의 결을 읽고, 오미르에게서 백로대가 평원을 묻은 이유를 듣고, 빚을 갚아 물새호를 탐사대 소유로 넘겨받은 넷째 의뢰.",
+      "tags": [
+        "소엘",
+        "세션",
+        "호수문",
+        "옛 문터",
+        "오미르",
+        "백로대",
+        "물새호"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)",
+      "related": [
+        "soel-sheet",
+        "soel-session-03",
+        "mulsae-archivist-08",
+        "mission-lost-freighter",
+        "mission-salt-plain",
+        "rulebook",
+        "gori-transport",
+        "kyeol-society-and-research",
+        "route-era-places"
+      ],
+      "aliases": [
+        "호수문의 옛 문터 세션",
+        "소엘 넷째 의뢰"
+      ],
       "review_state": "unassessed",
       "last_enriched_on": null
     }
