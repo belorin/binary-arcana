@@ -320,6 +320,9 @@
 - **[물새호의 기록관 8장: 기다리는 물](wiki/mulsae-archivist-08.md)** · 수정: 2026-11-08 · 상태: 개고 · 8장
   - 마델의 의뢰로 호수문에 간 소엘이 오미르에게서 백로대의 일을 듣고, 옛 문터의 결이 아직 쥐어져 있음을 알아낸 뒤, 빚을 갚아 물새호를 제 배로 넘겨받는다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-08/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-08.md)
+- **[물새호의 기록관 9장: 스무 해의 하루](wiki/mulsae-archivist-09.md)** · 수정: 2026-11-08 · 상태: 개고 · 9장
+  - 스무 해를 기다린 엘리와 함께 4번 틈 어귀로 간 탐사대가, 하루밖에 지나지 않은 푸른실호와 바스를 그녀의 기다림으로 끌어낸다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-09/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-09.md)
 
 ## 롤플레잉
 

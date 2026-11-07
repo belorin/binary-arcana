@@ -4010,6 +4010,32 @@
       "aliases": [],
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "path": "wiki/mulsae-archivist-09.md",
+      "publish": true,
+      "order": 107,
+      "id": "mulsae-archivist-09",
+      "title": "물새호의 기록관 9장: 스무 해의 하루",
+      "category": "소설",
+      "status": "개고 · 9장",
+      "updated": "2026-11-08",
+      "summary": "스무 해를 기다린 엘리와 함께 4번 틈 어귀로 간 탐사대가, 하루밖에 지나지 않은 푸른실호와 바스를 그녀의 기다림으로 끌어낸다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "엘리",
+        "바스",
+        "푸른실호",
+        "틈"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }
