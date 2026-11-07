@@ -2,23 +2,23 @@
 
 > 자동 생성 문서 카드. 직접 수정하지 않는다. 판단은 반드시 아래 원고의 해당 절 본문을 읽고 한다.
 
-- id: `mulsae-archivist` · 분류: 소설 · 공개 · 원고: [wiki/mulsae-archivist.md](../../../wiki/mulsae-archivist.md) · 2,048자 · 절 5개
+- id: `mulsae-archivist` · 분류: 소설 · 공개 · 원고: [wiki/mulsae-archivist.md](../../../wiki/mulsae-archivist.md) · 2,387자 · 절 5개
 - 별칭: 물새호 이야기, 소엘의 이야기
 - 요약: 물새호의 기록관 소엘이 이름을 빼앗긴 배, 소리를 받아 적는 소금 평원, 쫓기는 것만 내보내는 문그늘을 지나며 약속의 무게를 배우는 항로 시대 탐사 소설. 탐사대 룰북 세션을 개고했다.
 - 태그: 소설, 항로 시대, 소엘, 물새호, 탐사대
-- 수정일: 2026-11-06 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `soel-sheet`, `soel-session-01`, `soel-session-02`, `soel-session-03`, `rulebook`, `mission-seeds`, `mission-salt-plain`, `mulsae-crew`, `baram-end-people`, `promises-and-threads`, `records-and-mediums`, `route-era-places`, `route-era-organizations`, `gori-transport`, `kyeol-society-and-research`
+- 수정일: 2026-11-08 · 실제 증보일: 미확인 · 검토: unassessed
+- 관련 문서: `soel-sheet`, `soel-session-01`, `soel-session-02`, `soel-session-03`, `rulebook`, `mission-seeds`, `mission-salt-plain`, `mulsae-crew`, `baram-end-people`, `promises-and-threads`, `records-and-mediums`, `route-era-places`, `route-era-organizations`, `gori-transport`, `kyeol-society-and-research`, `soel-session-04`, `soel-session-05`
 
 ## 절 목차
 
 들여쓰기가 소제목 경로(상위 절 아래의 하위 절)다. `L시작–끝`은 원고 파일에서 그 절 고유 부분(하위 절 제외)의 줄 범위, 글자 수는 그 본문 분량, 8자리 해시는 그 줄들의 내용 지문으로 원고가 바뀌면 달라진다. 첫 문장은 위치 확인용이며 절의 내용을 대표하지 않는다.
 
-- (도입부) · L2–3 · 120자 · `885d8aa6` — 항로력 212년, 고리운송에서 빌린 작은 건넘선 물새호의 기록관 소엘이 동료 셋과 함께 이름을 빼앗긴 배, 소리를 받아 적는 소금 평원, 쫓기는 것만 내보내는 문…
-- 작품 노트 · L5–11 · 593자 · `5b0ed472` — 장르와 시점: 항로 시대 탐사 소설.
-- 목차 · L13–21 · 293자 · `bb2b7f65` — 1장: 이름을 바꾼 배
-- 인물과 반복되는 소재 · L23–27 · 372자 · `30158f67` — 탐사대: 물새호의 네 사람 · 소엘 · 리안 · 도하 · 카이.
-- 작품의 조직과 장소 · L29–31 · 321자 · `87d3c6e6` — 『물새호의 기록관』에서 되풀이되는 그늘역·바람고원 자유시·호수문·돌아온 별의 소금 평원은 항로 시대의 항구와 지역에, 고리운송·결 학회·부두 기록관 연구회·항로청…
-- 설정과의 관계 · L33–35 · 267자 · `86714bdf` — 이 작품에 나오는 즉흥 설정은 세션 문서마다 「새로 정해진 설정」 표에 결정 대기로 적혀 있다.
+- (도입부) · L2–3 · 171자 · `adc30043` — 항로력 212년, 고리운송에서 빌린 작은 건넘선 물새호의 기록관 소엘이 동료 셋과 함께 이름을 빼앗긴 배, 소리를 받아 적는 소금 평원, 쫓기는 것만 내보내는 문…
+- 작품 노트 · L5–11 · 755자 · `1fbaab2e` — 장르와 시점: 항로 시대 탐사 소설.
+- 목차 · L13–24 · 419자 · `839316f8` — 1장: 이름을 바꾼 배
+- 인물과 반복되는 소재 · L26–30 · 372자 · `30158f67` — 탐사대: 물새호의 네 사람 · 소엘 · 리안 · 도하 · 카이.
+- 작품의 조직과 장소 · L32–34 · 321자 · `87d3c6e6` — 『물새호의 기록관』에서 되풀이되는 그늘역·바람고원 자유시·호수문·돌아온 별의 소금 평원은 항로 시대의 항구와 지역에, 고리운송·결 학회·부두 기록관 연구회·항로청…
+- 설정과의 관계 · L36–38 · 267자 · `86714bdf` — 이 작품에 나오는 즉흥 설정은 세션 문서마다 「새로 정해진 설정」 표에 결정 대기로 적혀 있다.
 
 ## 장부에 기록된 반영 지식
 

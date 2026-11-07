@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 934,
+  "edge_count": 938,
   "edges": [
     {
       "from": "welcome",
@@ -3542,6 +3542,18 @@
       "basis": "manifest.related"
     },
     {
+      "from": "soel-sheet",
+      "to": "soel-session-04",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-sheet",
+      "to": "soel-session-05",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "soel-session-01",
       "to": "soel-sheet",
       "type": "related_to",
@@ -5188,6 +5200,18 @@
     {
       "from": "mulsae-archivist",
       "to": "kyeol-society-and-research",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist",
+      "to": "soel-session-04",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist",
+      "to": "soel-session-05",
       "type": "related_to",
       "basis": "manifest.related"
     },

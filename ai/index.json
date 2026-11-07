@@ -2575,7 +2575,9 @@
         "doha",
         "kai",
         "promises-and-threads",
-        "records-and-mediums"
+        "records-and-mediums",
+        "soel-session-04",
+        "soel-session-05"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-sheet.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-sheet.md",
@@ -3792,7 +3794,7 @@
       "summary": "물새호의 기록관 소엘이 이름을 빼앗긴 배, 소리를 받아 적는 소금 평원, 쫓기는 것만 내보내는 문그늘을 지나며 약속의 무게를 배우는 항로 시대 탐사 소설. 탐사대 룰북 세션을 개고했다.",
       "review_state": "unassessed",
       "review_label": "연재 중 · 롤플레잉 개작",
-      "last_updated_on": "2026-11-06",
+      "last_updated_on": "2026-11-08",
       "last_enriched_on": null,
       "related_ids": [
         "soel-sheet",
@@ -3809,7 +3811,9 @@
         "route-era-places",
         "route-era-organizations",
         "gori-transport",
-        "kyeol-society-and-research"
+        "kyeol-society-and-research",
+        "soel-session-04",
+        "soel-session-05"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist.md",

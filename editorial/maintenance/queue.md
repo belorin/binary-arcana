@@ -314,6 +314,8 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `mulsae-archivist` → `route-era-organizations`
 - `mulsae-archivist` → `gori-transport`
 - `mulsae-archivist` → `kyeol-society-and-research`
+- `mulsae-archivist` → `soel-session-04`
+- `mulsae-archivist` → `soel-session-05`
 - `mulsae-archivist-01` → `mulsae-archivist`
 - `mulsae-archivist-02` → `mulsae-archivist`
 - `mulsae-archivist-02` → `mission-salt-plain`
@@ -378,14 +380,12 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `mulsae-archivist-08` → `mulsae-archivist`
 - `mulsae-archivist-09` → `mulsae-archivist`
 - `mulsae-archivist-10` → `mulsae-archivist`
-- `soel-session-04` → `soel-sheet`
 - `soel-session-04` → `mission-lost-freighter`
 - `soel-session-04` → `mission-salt-plain`
 - `soel-session-04` → `rulebook`
 - `soel-session-04` → `gori-transport`
 - `soel-session-04` → `kyeol-society-and-research`
 - `soel-session-04` → `route-era-places`
-- `soel-session-05` → `soel-sheet`
 - `soel-session-05` → `mission-seeds`
 - `soel-session-05` → `rulebook`
 - `soel-session-05` → `kai`

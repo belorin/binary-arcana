@@ -2202,7 +2202,9 @@
         "doha",
         "kai",
         "promises-and-threads",
-        "records-and-mediums"
+        "records-and-mediums",
+        "soel-session-04",
+        "soel-session-05"
       ],
       "aliases": [
         "소엘",
@@ -3405,13 +3407,15 @@
         "route-era-places",
         "route-era-organizations",
         "gori-transport",
-        "kyeol-society-and-research"
+        "kyeol-society-and-research",
+        "soel-session-04",
+        "soel-session-05"
       ],
       "aliases": [
         "물새호 이야기",
         "소엘의 이야기"
       ],
-      "updated": "2026-11-06",
+      "updated": "2026-11-08",
       "review_state": "unassessed",
       "last_enriched_on": null
     },
