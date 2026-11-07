@@ -1,8 +1,3 @@
----
-message: story: 소엘 다섯째·여섯째 의뢰
----
-
-=== FILE wiki/soel-session-05.md ===
 # 소엘의 다섯째·여섯째 의뢰 — 스무 해의 하루, 고리밑 숨길
 
 > 세션 날짜: 2026-11-08 · 의뢰: ① 자유 길잡이 엘리(짧은 의뢰 「스무 해를 기다린 사람」) ② 항로청 개척과(진행자가 새로 짠 의뢰) · 참가 캐릭터: [소엘](./soel-sheet.md)(플레이어), 리안·도하·카이(진행자) · 진행: Claude · 소설: [물새호의 기록관 9장](./mulsae-archivist-09.md), [10장](./mulsae-archivist-10.md) · **「진행자용」 절이 있다. 플레이어로 놀 사람은 그 절을 읽지 않는다.**
@@ -107,20 +102,3 @@ message: story: 소엘 다섯째·여섯째 의뢰
 알게 된 것: 틈 깊은 곳에서는 시간이 거의 흐르지 않는다. 틈 한가운데에 열린 문과 닫힌 문이 포개져 있고, 닫혔는데 따뜻한 문이 하나 있다. 한 사람의 그리움이 문을 열고, 그 끝을 옮겨 묶어 여럿이 나눠 붙잡을 수 있다
 진행자 메모: 엘리의 병. 고리운송 봉인 상자. 숨길의 바람은 바람고원의 바람. 세반과 함께 온 둘
 ```
-=== END ===
-
-=== MANIFEST soel-session-05 ===
-{"category": "탐사대", "status": "진행함", "summary": "스무 해 동안 틈에 갇힌 푸른실호를 엘리의 기다림으로 끌어낸 다섯째 의뢰와, 카이의 형 세반이 붙잡던 고리밑의 문을 넷의 매듭으로 이어받아 숨길을 연 여섯째 의뢰.", "tags": ["소엘", "세션", "푸른실호", "엘리", "고리밑", "숨길", "세반", "카이"], "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)", "related": ["soel-sheet", "soel-session-04", "mulsae-archivist-09", "mulsae-archivist-10", "mission-seeds", "rulebook", "kai", "lian", "doha", "gori-transport", "route-era-places"], "aliases": ["스무 해의 하루 세션", "고리밑 숨길 세션", "소엘 다섯째 의뢰", "소엘 여섯째 의뢰"]}
-=== END ===
-
-=== MANIFEST mulsae-archivist-09 ===
-{"related+": ["soel-session-05"]}
-=== END ===
-
-=== MANIFEST mulsae-archivist-10 ===
-{"related+": ["soel-session-05"]}
-=== END ===
-
-=== MANIFEST soel-session-04 ===
-{"related+": ["soel-session-05"]}
-=== END ===

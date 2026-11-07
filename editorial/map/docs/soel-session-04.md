@@ -7,7 +7,7 @@
 - 요약: 소엘이 고리운송과 약정한 의뢰로 호수문 옛 문터의 결을 읽고, 오미르에게서 백로대가 평원을 묻은 이유를 듣고, 빚을 갚아 물새호를 탐사대 소유로 넘겨받은 넷째 의뢰.
 - 태그: 소엘, 세션, 호수문, 옛 문터, 오미르, 백로대, 물새호
 - 수정일: 2026-11-08 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `soel-sheet`, `soel-session-03`, `mulsae-archivist-08`, `mission-lost-freighter`, `mission-salt-plain`, `rulebook`, `gori-transport`, `kyeol-society-and-research`, `route-era-places`
+- 관련 문서: `soel-sheet`, `soel-session-03`, `mulsae-archivist-08`, `mission-lost-freighter`, `mission-salt-plain`, `rulebook`, `gori-transport`, `kyeol-society-and-research`, `route-era-places`, `soel-session-05`
 
 ## 절 목차
 

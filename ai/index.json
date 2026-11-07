@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 121,
+  "document_count": 122,
   "documents": [
     {
       "id": "welcome",
@@ -4052,7 +4052,8 @@
       "last_updated_on": "2026-11-08",
       "last_enriched_on": null,
       "related_ids": [
-        "mulsae-archivist"
+        "mulsae-archivist",
+        "soel-session-05"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-09.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-09.md",
@@ -4078,7 +4079,8 @@
       "last_updated_on": "2026-11-08",
       "last_enriched_on": null,
       "related_ids": [
-        "mulsae-archivist"
+        "mulsae-archivist",
+        "soel-session-05"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-10.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-10.md",
@@ -4116,12 +4118,56 @@
         "rulebook",
         "gori-transport",
         "kyeol-society-and-research",
-        "route-era-places"
+        "route-era-places",
+        "soel-session-05"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-04.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-04.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/soel-session-04/",
       "app_url": "https://belorin.github.io/binary-arcana/#soel-session-04"
+    },
+    {
+      "id": "soel-session-05",
+      "title": "소엘의 다섯째·여섯째 의뢰 — 스무 해의 하루, 고리밑 숨길",
+      "aliases": [
+        "스무 해의 하루 세션",
+        "고리밑 숨길 세션",
+        "소엘 다섯째 의뢰",
+        "소엘 여섯째 의뢰"
+      ],
+      "category": "탐사대",
+      "tags": [
+        "소엘",
+        "세션",
+        "푸른실호",
+        "엘리",
+        "고리밑",
+        "숨길",
+        "세반",
+        "카이"
+      ],
+      "summary": "스무 해 동안 틈에 갇힌 푸른실호를 엘리의 기다림으로 끌어낸 다섯째 의뢰와, 카이의 형 세반이 붙잡던 고리밑의 문을 넷의 매듭으로 이어받아 숨길을 연 여섯째 의뢰.",
+      "review_state": "unassessed",
+      "review_label": "진행함",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "soel-sheet",
+        "soel-session-04",
+        "mulsae-archivist-09",
+        "mulsae-archivist-10",
+        "mission-seeds",
+        "rulebook",
+        "kai",
+        "lian",
+        "doha",
+        "gori-transport",
+        "route-era-places"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-05.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-05.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/soel-session-05/",
+      "app_url": "https://belorin.github.io/binary-arcana/#soel-session-05"
     }
   ]
 }

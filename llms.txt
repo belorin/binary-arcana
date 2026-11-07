@@ -84,6 +84,7 @@
 - [소엘의 셋째 의뢰 — 바람 끝의 손님들](https://belorin.github.io/binary-arcana/notes/soel-session-03/): 소엘이 맹약소 계약으로 은실호를 찾아 문그늘의 사람들을 구한 셋째 의뢰. 작은 겹침 막간, 물새호 임대 계약 수정과 작업장의 밤 막간, 각 판정 및 결정 대기 설정을 기록한다.
 - [물새호 탐사대 — 네 사람이 함께 탄 배](https://belorin.github.io/binary-arcana/notes/mulsae-crew/): 네 사람의 출발 상태와 소엘 플레이에서 쌓인 관계를 연속된 팀 서사로 정리
 - [소엘의 넷째 의뢰 — 호수문의 옛 문터](https://belorin.github.io/binary-arcana/notes/soel-session-04/): 소엘이 고리운송과 약정한 의뢰로 호수문 옛 문터의 결을 읽고, 오미르에게서 백로대가 평원을 묻은 이유를 듣고, 빚을 갚아 물새호를 탐사대 소유로 넘겨받은 넷째 의뢰.
+- [소엘의 다섯째·여섯째 의뢰 — 스무 해의 하루, 고리밑 숨길](https://belorin.github.io/binary-arcana/notes/soel-session-05/): 스무 해 동안 틈에 갇힌 푸른실호를 엘리의 기다림으로 끌어낸 다섯째 의뢰와, 카이의 형 세반이 붙잡던 고리밑의 문을 넷의 매듭으로 이어받아 숨길을 연 여섯째 의뢰.
 
 ### 천체
 

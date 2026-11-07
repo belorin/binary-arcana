@@ -152,6 +152,9 @@
 - **[소엘의 넷째 의뢰 — 호수문의 옛 문터](wiki/soel-session-04.md)** · 별칭: 호수문의 옛 문터 세션, 소엘 넷째 의뢰 · 수정: 2026-11-08 · 상태: 진행함
   - 소엘이 고리운송과 약정한 의뢰로 호수문 옛 문터의 결을 읽고, 오미르에게서 백로대가 평원을 묻은 이유를 듣고, 빚을 갚아 물새호를 탐사대 소유로 넘겨받은 넷째 의뢰.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-04/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-04.md)
+- **[소엘의 다섯째·여섯째 의뢰 — 스무 해의 하루, 고리밑 숨길](wiki/soel-session-05.md)** · 별칭: 스무 해의 하루 세션, 고리밑 숨길 세션, 소엘 다섯째 의뢰, 소엘 여섯째 의뢰 · 수정: 2026-11-08 · 상태: 진행함
+  - 스무 해 동안 틈에 갇힌 푸른실호를 엘리의 기다림으로 끌어낸 다섯째 의뢰와, 카이의 형 세반이 붙잡던 고리밑의 문을 넷의 매듭으로 이어받아 숨길을 연 여섯째 의뢰.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-05/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-05.md)
 
 ## 천체
 
