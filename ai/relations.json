@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 906,
+  "edge_count": 907,
   "edges": [
     {
       "from": "welcome",
@@ -5272,6 +5272,12 @@
     {
       "from": "mulsae-archivist-07",
       "to": "soel-session-03",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-08",
+      "to": "mulsae-archivist",
       "type": "related_to",
       "basis": "manifest.related"
     },

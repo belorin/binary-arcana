@@ -317,6 +317,9 @@
 - **[물새호의 기록관 7장: 작업장의 밤](wiki/mulsae-archivist-07.md)** · 수정: 2026-11-06 · 상태: 개고 · 7장
   - 그늘역에 돌아온 탐사대는 은실호 수색 계약을 마무리하고 물새호의 임대 계약을 재협상해 도하의 작업장 담보를 풀어낸 뒤 서로의 마음을 나눈다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-07/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-07.md)
+- **[물새호의 기록관 8장: 기다리는 물](wiki/mulsae-archivist-08.md)** · 수정: 2026-11-08 · 상태: 개고 · 8장
+  - 마델의 의뢰로 호수문에 간 소엘이 오미르에게서 백로대의 일을 듣고, 옛 문터의 결이 아직 쥐어져 있음을 알아낸 뒤, 빚을 갚아 물새호를 제 배로 넘겨받는다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-08/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-08.md)
 
 ## 롤플레잉
 

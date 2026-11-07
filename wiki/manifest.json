@@ -3984,6 +3984,32 @@
       "aliases": [],
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "path": "wiki/mulsae-archivist-08.md",
+      "publish": true,
+      "order": 106,
+      "id": "mulsae-archivist-08",
+      "title": "물새호의 기록관 8장: 기다리는 물",
+      "category": "소설",
+      "status": "개고 · 8장",
+      "updated": "2026-11-08",
+      "summary": "마델의 의뢰로 호수문에 간 소엘이 오미르에게서 백로대의 일을 듣고, 옛 문터의 결이 아직 쥐어져 있음을 알아낸 뒤, 빚을 갚아 물새호를 제 배로 넘겨받는다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "호수문",
+        "옛 문터",
+        "오미르",
+        "물새호"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }

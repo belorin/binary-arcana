@@ -157,6 +157,7 @@
 - [물새호의 기록관 5장: 바람 끝](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-05/): 은실호를 찾기 위해 바람고원에 도착한 소엘 일행은 오르 반의 정체와 비엘라의 돌을 알게 되고, 추격을 이용해 문그늘에 진입한다.
 - [물새호의 기록관 6장: 쫓기는 손님들](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-06/): 문그늘의 환대와 탈출 규칙을 알아낸 소엘은 맹약의 추격과 은실호를 이용해 일부 손님들을 구하고, 경비대의 눈을 피해 탈출을 시도한다.
 - [물새호의 기록관 7장: 작업장의 밤](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-07/): 그늘역에 돌아온 탐사대는 은실호 수색 계약을 마무리하고 물새호의 임대 계약을 재협상해 도하의 작업장 담보를 풀어낸 뒤 서로의 마음을 나눈다.
+- [물새호의 기록관 8장: 기다리는 물](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-08/): 마델의 의뢰로 호수문에 간 소엘이 오미르에게서 백로대의 일을 듣고, 옛 문터의 결이 아직 쥐어져 있음을 알아낸 뒤, 빚을 갚아 물새호를 제 배로 넘겨받는다.
 
 ### 롤플레잉
 

@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 117,
+  "document_count": 118,
   "documents": [
     {
       "id": "welcome",
@@ -4004,6 +4004,32 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-07.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-07/",
       "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-07"
+    },
+    {
+      "id": "mulsae-archivist-08",
+      "title": "물새호의 기록관 8장: 기다리는 물",
+      "aliases": [],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "소엘",
+        "호수문",
+        "옛 문터",
+        "오미르",
+        "물새호"
+      ],
+      "summary": "마델의 의뢰로 호수문에 간 소엘이 오미르에게서 백로대의 일을 듣고, 옛 문터의 결이 아직 쥐어져 있음을 알아낸 뒤, 빚을 갚아 물새호를 제 배로 넘겨받는다.",
+      "review_state": "unassessed",
+      "review_label": "개고 · 8장",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "mulsae-archivist"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-08.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-08.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-08/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-08"
     }
   ]
 }
