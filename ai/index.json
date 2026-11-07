@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 119,
+  "document_count": 120,
   "documents": [
     {
       "id": "welcome",
@@ -4056,6 +4056,32 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-09.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-09/",
       "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-09"
+    },
+    {
+      "id": "mulsae-archivist-10",
+      "title": "물새호의 기록관 10장: 숨길",
+      "aliases": [],
+      "category": "소설",
+      "tags": [
+        "소설",
+        "소엘",
+        "고리밑",
+        "숨길",
+        "세반",
+        "카이"
+      ],
+      "summary": "고리밑에 첫 개척 항로를 연 탐사대가 여섯 해 동안 문을 붙잡아 온 카이의 형 세반을 찾아내고, 그 끝을 넷의 매듭으로 이어받아 숨길을 지도에 올린다.",
+      "review_state": "unassessed",
+      "review_label": "개고 · 10장",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "mulsae-archivist"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-10.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/mulsae-archivist-10.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/mulsae-archivist-10/",
+      "app_url": "https://belorin.github.io/binary-arcana/#mulsae-archivist-10"
     }
   ]
 }

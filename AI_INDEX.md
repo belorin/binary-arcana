@@ -323,6 +323,9 @@
 - **[물새호의 기록관 9장: 스무 해의 하루](wiki/mulsae-archivist-09.md)** · 수정: 2026-11-08 · 상태: 개고 · 9장
   - 스무 해를 기다린 엘리와 함께 4번 틈 어귀로 간 탐사대가, 하루밖에 지나지 않은 푸른실호와 바스를 그녀의 기다림으로 끌어낸다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-09/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-09.md)
+- **[물새호의 기록관 10장: 숨길](wiki/mulsae-archivist-10.md)** · 수정: 2026-11-08 · 상태: 개고 · 10장
+  - 고리밑에 첫 개척 항로를 연 탐사대가 여섯 해 동안 문을 붙잡아 온 카이의 형 세반을 찾아내고, 그 끝을 넷의 매듭으로 이어받아 숨길을 지도에 올린다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-10/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-10.md)
 
 ## 롤플레잉
 

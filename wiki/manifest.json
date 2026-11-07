@@ -4036,6 +4036,32 @@
       "aliases": [],
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "path": "wiki/mulsae-archivist-10.md",
+      "publish": true,
+      "order": 108,
+      "id": "mulsae-archivist-10",
+      "title": "물새호의 기록관 10장: 숨길",
+      "category": "소설",
+      "status": "개고 · 10장",
+      "updated": "2026-11-08",
+      "summary": "고리밑에 첫 개척 항로를 연 탐사대가 여섯 해 동안 문을 붙잡아 온 카이의 형 세반을 찾아내고, 그 끝을 넷의 매듭으로 이어받아 숨길을 지도에 올린다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "고리밑",
+        "숨길",
+        "세반",
+        "카이"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }
