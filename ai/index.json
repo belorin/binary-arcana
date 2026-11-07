@@ -1057,7 +1057,7 @@
     },
     {
       "id": "lian",
-      "title": "리안 — 물새호의 길잡이",
+      "title": "리안 — 아직 자기 길을 열지 못한 길잡이",
       "aliases": [],
       "category": "인물",
       "tags": [
@@ -1066,11 +1066,11 @@
         "인물",
         "개념"
       ],
-      "summary": "젊은 길잡이 리안의 출발 상태와 세 차례 의뢰로 쌓인 이력 및 열린 질문",
+      "summary": "할머니의 길돌을 지닌 젊은 길잡이의 출발 전 배경 초안과 소엘 세션 이후 성장의 인물 서사",
       "review_state": "unassessed",
-      "review_label": "출발 설정과 세션 후 이력 구분",
-      "last_updated_on": "2026-11-07",
-      "last_enriched_on": null,
+      "review_label": "초기 설정·과거 보강 초안·진행 후 서사 구분",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": "2026-11-08",
       "related_ids": [
         "rulebook",
         "mulsae-crew",
@@ -1186,7 +1186,7 @@
     },
     {
       "id": "doha",
-      "title": "도하 — 배와 작업장을 지키는 정비사",
+      "title": "도하 — 고칠 수 있는 것을 잃지 않으려는 사람",
       "aliases": [],
       "category": "인물",
       "tags": [
@@ -1195,11 +1195,11 @@
         "인물",
         "개념"
       ],
-      "summary": "정비사 도하의 초기 능력과 배·작업장에 대한 관계, 진행 이후 이력을 구분한 기록",
+      "summary": "도하의 작업장과 노동, 물새호의 임대 위험, 계약 수정과 동료 관계를 이어 쓴 인물 서사",
       "review_state": "unassessed",
-      "review_label": "출발 설정과 세션 후 이력 구분",
-      "last_updated_on": "2026-11-07",
-      "last_enriched_on": null,
+      "review_label": "초기 설정·과거 보강 초안·진행 후 서사 구분",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": "2026-11-08",
       "related_ids": [
         "rulebook",
         "mulsae-crew",
@@ -1324,7 +1324,7 @@
     },
     {
       "id": "kai",
-      "title": "카이 — 바람고원에서 온 경계원",
+      "title": "카이 — 바람고원을 떠났지만 바람을 놓지 않은 사람",
       "aliases": [],
       "category": "인물",
       "tags": [
@@ -1333,11 +1333,11 @@
         "인물",
         "개념"
       ],
-      "summary": "카이의 출발 당시 동기, 고향과 가족사, 진행 중 드러난 역량과 아직 풀지 못한 일",
+      "summary": "고향과 형의 기억을 지닌 경계원의 배경 초안과 스스로 선택하고 교섭한 항해 이력",
       "review_state": "unassessed",
-      "review_label": "출발 설정과 세션 후 이력 구분",
-      "last_updated_on": "2026-11-07",
-      "last_enriched_on": null,
+      "review_label": "초기 설정·과거 보강 초안·진행 후 서사 구분",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": "2026-11-08",
       "related_ids": [
         "rulebook",
         "mulsae-crew",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": "baram-end-people",
-      "title": "바람 끝 사건의 사람들 — 서로 다른 이유로 남고 떠나다",
+      "title": "바람 끝의 사람들 — 돌아가려는 사람과 남으려는 사람",
       "aliases": [],
       "category": "인물",
       "tags": [
@@ -1396,11 +1396,11 @@
         "인물",
         "개념"
       ],
-      "summary": "바람 끝 사건의 여러 인물과 선택을 진행자 진상·세션 결과·소설 묘사로 구분한 기록",
+      "summary": "마델·네아·오르 반·하멜·토비·이든·사라의 선택을 사건 요약이 아닌 인물 서사로 정리",
       "review_state": "unassessed",
       "review_label": "진행자·기존 독자용 · 스포일러 포함",
-      "last_updated_on": "2026-11-07",
-      "last_enriched_on": null,
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": "2026-11-08",
       "related_ids": [
         "mission-lost-freighter",
         "soel-session-03",
@@ -2557,11 +2557,11 @@
         "탐사대",
         "저장"
       ],
-      "summary": "물새호 탐사대 기록관 소엘의 시트. 매듭 읽기 책(깊음), 학회 서고, 관념 맹약과 사이가 있으며 셋째 의뢰와 계약 수정 뒤의 저장 상태(자금 3½, 남은 빚 6, 작업장 담보 해제)를 담았다.",
+      "summary": "소엘의 서고 생활과 배경 초안, 세션 이후의 서사를 덧붙이고 시작 수치와 최신 저장 상태를 보존한 시트",
       "review_state": "unassessed",
-      "review_label": "사용 중",
-      "last_updated_on": "2026-11-06",
-      "last_enriched_on": null,
+      "review_label": "사용 중 · 인물 서사와 현재 수치 병기",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": "2026-11-08",
       "related_ids": [
         "rulebook",
         "soel-session-01",
@@ -2902,7 +2902,7 @@
     },
     {
       "id": "mulsae-crew",
-      "title": "물새호 탐사대 — 네 사람의 출발과 항해",
+      "title": "물새호 탐사대 — 네 사람이 함께 탄 배",
       "aliases": [],
       "category": "탐사대",
       "tags": [
@@ -2911,11 +2911,11 @@
         "인물",
         "개념"
       ],
-      "summary": "초기 대원들의 출발 설정과 소엘 플레이 이후 이력을 구분한 안내",
+      "summary": "네 사람의 출발 상태와 소엘 플레이에서 쌓인 관계를 연속된 팀 서사로 정리",
       "review_state": "unassessed",
-      "review_label": "출발 설정과 세션 후 이력 구분",
-      "last_updated_on": "2026-11-07",
-      "last_enriched_on": null,
+      "review_label": "출발 설정과 진행 후 이야기 구분",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": "2026-11-08",
       "related_ids": [
         "rulebook",
         "soel-sheet",

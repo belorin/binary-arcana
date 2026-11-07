@@ -4,7 +4,7 @@
 
 마지막 정비: **M003** (2026-11-06) · [보고서](reports/M003.md) · 다음 정비 버전: **M004**
 
-원고 117개 · 변경 문서 57 · 고립 0 · 한쪽 연결 343 · 보류 8 · 열린 교차 제안 0
+원고 117개 · 변경 문서 57 · 고립 0 · 한쪽 연결 343 · 보류 9 · 열린 교차 제안 0
 
 ## 1. 지난 정비 이후 변경된 문서 (57)
 
@@ -399,7 +399,7 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - `demon-epoch-oath` ↔ `demon-epoch-shedding` · 0.93
 - `demon-epoch-resonance` ↔ `demon-epoch-branching` · 0.93
 
-## 6. 보류 항목 (8)
+## 6. 보류 항목 (9)
 
 - 오래된 사물이 새 자리를 먼저 알아봄 · `ing-20261104-reshaping` — Claude의 제안. 사용자 승인 전 정본 제외
 - 타는 건넘·고리의 그늘 전승 해석 · `ing-20261104-reshaping` — Claude의 제안. 사용자 승인 전 정본 제외
@@ -409,6 +409,7 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 - 비인간 지성의 선행 인지 · `ing-20261104-reshaping` — Claude의 제안. 사용자 승인 전 정본 제외
 - 강력한 대마법사 개인의 세계사적 활동기와 행적 · `ing-20261105-hosumun-canon` — 시대 배치와 역할의 제안을 검토 중이며 구체적 역사적 사실은 아직 미승인
 - 마렌의 본명과 출신, 사건 연대, 마왕과의 실제 만남, 항로 시대 생존 여부 · `ing-20261105-archmage-maren` — 인물 문서에 가능한 서사와 미결 항목을 구분해 두었으며 개별 역사적 사건으로 아직 채택하지 않음
+- 인물들의 새로 제안된 어린 시절 장면의 정본 채택 여부 · `ing-20261108-character-narratives` — 인물 해석을 풍부하게 하는 미확정 배경 초안으로 제시했으며 구체적 유년사와 가족사는 승인 전까지 확정하지 않는다
 
 ## 7. 열린 교차 편집 제안 (0)
 
@@ -420,7 +421,7 @@ manifest의 수정일이 2026-11-06 이후(당일 포함)이거나 수정일이 
 분량만으로 나누거나 합치지 않는다. 내용상 이유가 있을 때만 보고서에 제안한다. 기준: 10,000자 초과 / 1,500자 미만.
 
 - 긴 문서 (13): `rival-gc-t09-world` 19,396자, `rulebook` 16,619자, `rival-gc-t06-world` 15,310자, `hostile-beings` 13,425자, `rival-gc-retrospective` 13,071자, `rival-gc-finale-fiction` 12,998자, `rival-play` 12,302자, `archmage-maren` 11,953자, `regional-life` 11,338자, `mulsae-archivist-01` 11,206자, `rival-gc-t03-world` 10,529자, `open-routes-era` 10,129자, `magic-senses` 10,122자
-- 짧은 문서 (15): `editing-guide` 763자, `fracture-resonance` 1,107자, `fracture-branching` 1,130자, `fracture-shedding` 1,133자, `fracture-harmony` 1,215자, `fracture-hospitality` 1,233자, `fracture-dream` 1,240자, `kai` 1,263자, `fracture-oath` 1,276자, `lian` 1,304자, `bright-open-knowledge` 1,391자, `bright-living-harvest` 1,410자, `bright-many-neighbors` 1,447자, `bright-hero` 1,467자, `doha` 1,489자
+- 짧은 문서 (12): `editing-guide` 763자, `fracture-resonance` 1,107자, `fracture-branching` 1,130자, `fracture-shedding` 1,133자, `fracture-harmony` 1,215자, `fracture-hospitality` 1,233자, `fracture-dream` 1,240자, `fracture-oath` 1,276자, `bright-open-knowledge` 1,391자, `bright-living-harvest` 1,410자, `bright-many-neighbors` 1,447자, `bright-hero` 1,467자
 
 ## 9. 분류 참고
 

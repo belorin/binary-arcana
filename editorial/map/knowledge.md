@@ -3,9 +3,9 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 236개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 243개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
-## 보류 항목 (8)
+## 보류 항목 (9)
 
 - 오래된 사물이 새 자리를 먼저 알아봄 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
 - 타는 건넘·고리의 그늘 전승 해석 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
@@ -15,6 +15,7 @@
 - 비인간 지성의 선행 인지 → 반영 위치 없음 · `ing-20261104-reshaping` · pending — Claude의 제안. 사용자 승인 전 정본 제외
 - 강력한 대마법사 개인의 세계사적 활동기와 행적 → 반영 위치 없음 · `ing-20261105-hosumun-canon` · pending — 시대 배치와 역할의 제안을 검토 중이며 구체적 역사적 사실은 아직 미승인
 - 마렌의 본명과 출신, 사건 연대, 마왕과의 실제 만남, 항로 시대 생존 여부 → 반영 위치 없음 · `ing-20261105-archmage-maren` · pending — 인물 문서에 가능한 서사와 미결 항목을 구분해 두었으며 개별 역사적 사건으로 아직 채택하지 않음
+- 인물들의 새로 제안된 어린 시절 장면의 정본 채택 여부 → 반영 위치 없음 · `ing-20261108-character-narratives` · pending — 인물 해석을 풍부하게 하는 미확정 배경 초안으로 제시했으며 구체적 유년사와 가족사는 승인 전까지 확정하지 않는다
 
 ## 사물·개념 (66)
 
@@ -118,7 +119,7 @@
 - 설명문 속 skip-ci 표기가 실제로 배포를 건너뛰게 함 → `rival-gc-retrospective` § 커밋 규칙을 설명한 커밋이 그 규칙에 걸렸다 · `ing-20261103-rival-gc-retrospective-claude`
 - 사이트가 그리지 못하는 상대 경로·절 링크를 빌드 검사로 막자는 제안 → `rival-gc-retrospective` § 사이트가 그리지 못하는 링크가 되풀이된다 · `ing-20261103-rival-gc-retrospective-claude`
 
-## 탐사대 (21)
+## 탐사대 (23)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -143,6 +144,8 @@
 - 은실호 갑판원 벤 → `mission-lost-freighter` § 등장인물 · `ing-20261106-soel-mission03-canon`
 - 문그늘의 손님별 출구 판정 → `mission-lost-freighter` § 넷째 겹: 그늘 아래의 규칙 · `ing-20261106-soel-mission03-canon`
 - 소엘과 관념 맹약의 사이 → `soel-sheet` § 마법과 기술 · `ing-20261106-soel-mission03-canon`
+- 소엘의 서고 생활과 배경 초안, 세션 이후의 서사를 덧붙이고 시작 수치와 최신 저장 상태를 보존한 시트 → `soel-sheet` § 서고 밖으로 나오기 전; `soel-sheet` § 배를 타고 읽은 것들 · `ing-20261108-character-narratives`
+- 네 사람의 출발 상태와 소엘 플레이에서 쌓인 관계를 연속된 팀 서사로 정리 → `mulsae-crew` § 떠나기 전의 네 사람; `mulsae-crew` § 배에서 함께 보낸 시간 · `ing-20261108-character-narratives`
 
 ## 사건 (19)
 
@@ -231,6 +234,25 @@
 - 관념과의 사이가 물질적 상대와 함께 온 세계에 적용되며 약한 재능이 모두에게 있음 → `conceptual-relations` § 정의; `conceptual-relations` § 보편성과 편차; `magic-as-practice` § 관념과의 사이 — 세계 전체에 있는 재능 · `ing-20261105-archmage-maren`
 - 관념의 관계는 별도의 고정 속성 학파가 아니며 기존 관계 마법과 공존함 → `conceptual-relations` § 기존의 사이와의 관계; `magic-senses` § 관념이라는 상대도 있다 · `ing-20261105-archmage-maren`
 
+## 인물 (14)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 여성 대마법사 마렌의 성별과 역사적 시대 및 세 갈래 재능 → `archmage-maren` § 기본 정보; `archmage-maren` § 세 갈래의 재능 · `ing-20261105-archmage-maren`
+- 속담이 현실과 기억 및 과거를 소급해서 개변하고 없던 속담을 만들 수 있음 → `archmage-maren` § 세 갈래의 재능; `conceptual-relations` § 속담 — 세계가 오래 알고 있었던 말이 되다 · `ing-20261105-archmage-maren`
+- 속담 개변에 본인도 휘말리며 준비에 많은 힘과 책임이 필요함 → `archmage-maren` § 준비의 기술 — 개변 이후에도 자신을 잃지 않는 일; `conceptual-relations` § 속담의 준비, 값과 자기 개변 · `ing-20261105-archmage-maren`
+- 어린 시절 복수의 큰 개변 시행착오가 훗날의 책임감과 숙련을 낳음 → `archmage-maren` § 어린 시절 — 사고에서 배우는 책임 · `ing-20261105-archmage-maren`
+- 부모 또한 마법적 능력을 가진 사회 구성원으로서 딸의 성장을 대함 → `archmage-maren` § 부모와 고향 — 보통의 마법적 생활 · `ing-20261105-archmage-maren`
+- 대마법사의 공적 위엄은 무게가 보여주는 물리적 스펙터클에서 나옴 → `archmage-maren` § 세상이 기억하는 여인과 실제의 여인; `conceptual-relations` § 무게 — 눈으로 확인할 수 있는 관념 · `ing-20261105-archmage-maren`
+- 시간과의 사이는 후천적 성취이며 장수와 생존 가능성은 널리 알려지지 않음 → `archmage-maren` § 시간과의 사이 — 후천적으로 얻은 긴 생애; `conceptual-relations` § 시간 — 후천적으로 사귄 관념 · `ing-20261105-archmage-maren`
+- 대마법사는 강력한 능력을 지닌 인간이자 타인과 제도에 충돌하는 독립적인 행위자 → `archmage-maren` § 세계와의 마찰 — 왜 그녀가 위험해졌는가; `exceptional-generations` § 예외적인 개인의 구체적 구상 — 마렌 · `ing-20261105-archmage-maren`
+- 부모의 직업과 건넘터 산을 옮긴 사건을 실제 역사와 구분한 서사 가안으로 보존 → `archmage-maren` § 사건 후보 — 건넘터와 산을 옮긴 날; `archmage-maren` § 부모와 고향 — 보통의 마법적 생활 · `ing-20261105-archmage-maren`
+- 마왕들과의 대면 및 항로 시대까지의 생존 가능성을 확정 사실과 구분 → `archmage-maren` § 마왕들과의 만남; `archmage-maren` § 동시대와 후대의 지식은 다르다 · `ing-20261105-archmage-maren`
+- 할머니의 길돌을 지닌 젊은 길잡이의 출발 전 배경 초안과 소엘 세션 이후 성장의 인물 서사 → `lian` § 출발하기 전; `lian` § 물새호에서 보낸 날들 · `ing-20261108-character-narratives`
+- 도하의 작업장과 노동, 물새호의 임대 위험, 계약 수정과 동료 관계를 이어 쓴 인물 서사 → `doha` § 작업장을 갖기까지; `doha` § 남의 배와 자기 배 사이 · `ing-20261108-character-narratives`
+- 고향과 형의 기억을 지닌 경계원의 배경 초안과 스스로 선택하고 교섭한 항해 이력 → `kai` § 고향의 바람; `kai` § 돌아온 별에서 바람 끝까지 · `ing-20261108-character-narratives`
+- 마델·네아·오르 반·하멜·토비·이든·사라의 선택을 사건 요약이 아닌 인물 서사로 정리 → `baram-end-people` § 마델; `baram-end-people` § 남은 손님들 · `ing-20261108-character-narratives`
+
 ## 롤플레잉 (12)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -247,21 +269,6 @@
 - 악재와 호재가 만나는 네 복합 시나리오 → `route-era-compound-scenarios` § 진행자용 — 인물들은 모름 · `ing-20261106-compound-scenarios`
 - 악재 둘이 만나는 세 복합 시나리오 → `route-era-compound-scenarios` § 진행자용 — 인물들은 모름 · `ing-20261106-compound-scenarios`
 - 복합 사건에서 대세션과 소세션의 독립적 파생 → `route-era-compound-scenarios` § 샘플에서 실제 세션을 열기 전 · `ing-20261106-compound-scenarios`
-
-## 인물 (10)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 여성 대마법사 마렌의 성별과 역사적 시대 및 세 갈래 재능 → `archmage-maren` § 기본 정보; `archmage-maren` § 세 갈래의 재능 · `ing-20261105-archmage-maren`
-- 속담이 현실과 기억 및 과거를 소급해서 개변하고 없던 속담을 만들 수 있음 → `archmage-maren` § 세 갈래의 재능; `conceptual-relations` § 속담 — 세계가 오래 알고 있었던 말이 되다 · `ing-20261105-archmage-maren`
-- 속담 개변에 본인도 휘말리며 준비에 많은 힘과 책임이 필요함 → `archmage-maren` § 준비의 기술 — 개변 이후에도 자신을 잃지 않는 일; `conceptual-relations` § 속담의 준비, 값과 자기 개변 · `ing-20261105-archmage-maren`
-- 어린 시절 복수의 큰 개변 시행착오가 훗날의 책임감과 숙련을 낳음 → `archmage-maren` § 어린 시절 — 사고에서 배우는 책임 · `ing-20261105-archmage-maren`
-- 부모 또한 마법적 능력을 가진 사회 구성원으로서 딸의 성장을 대함 → `archmage-maren` § 부모와 고향 — 보통의 마법적 생활 · `ing-20261105-archmage-maren`
-- 대마법사의 공적 위엄은 무게가 보여주는 물리적 스펙터클에서 나옴 → `archmage-maren` § 세상이 기억하는 여인과 실제의 여인; `conceptual-relations` § 무게 — 눈으로 확인할 수 있는 관념 · `ing-20261105-archmage-maren`
-- 시간과의 사이는 후천적 성취이며 장수와 생존 가능성은 널리 알려지지 않음 → `archmage-maren` § 시간과의 사이 — 후천적으로 얻은 긴 생애; `conceptual-relations` § 시간 — 후천적으로 사귄 관념 · `ing-20261105-archmage-maren`
-- 대마법사는 강력한 능력을 지닌 인간이자 타인과 제도에 충돌하는 독립적인 행위자 → `archmage-maren` § 세계와의 마찰 — 왜 그녀가 위험해졌는가; `exceptional-generations` § 예외적인 개인의 구체적 구상 — 마렌 · `ing-20261105-archmage-maren`
-- 부모의 직업과 건넘터 산을 옮긴 사건을 실제 역사와 구분한 서사 가안으로 보존 → `archmage-maren` § 사건 후보 — 건넘터와 산을 옮긴 날; `archmage-maren` § 부모와 고향 — 보통의 마법적 생활 · `ing-20261105-archmage-maren`
-- 마왕들과의 대면 및 항로 시대까지의 생존 가능성을 확정 사실과 구분 → `archmage-maren` § 마왕들과의 만남; `archmage-maren` § 동시대와 후대의 지식은 다르다 · `ing-20261105-archmage-maren`
 
 ## 천체 (10)
 

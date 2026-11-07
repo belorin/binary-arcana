@@ -134,8 +134,8 @@
 - **[항로 시대의 생활](wiki/route-era-life.md)** · 별칭: 항구 생활, 겹침날, 틈에나 빠져라 · 수정: 2026-11-06 · 상태: 룰북용 사전
   - 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-life/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md)
-- **[소엘 — 탐사대 기록관 시트](wiki/soel-sheet.md)** · 별칭: 소엘, 소엘 시트 · 수정: 2026-11-06 · 상태: 사용 중
-  - 물새호 탐사대 기록관 소엘의 시트. 매듭 읽기 책(깊음), 학회 서고, 관념 맹약과 사이가 있으며 셋째 의뢰와 계약 수정 뒤의 저장 상태(자금 3½, 남은 빚 6, 작업장 담보 해제)를 담았다.
+- **[소엘 — 탐사대 기록관 시트](wiki/soel-sheet.md)** · 별칭: 소엘, 소엘 시트 · 수정: 2026-11-08 · 상태: 사용 중 · 인물 서사와 현재 수치 병기
+  - 소엘의 서고 생활과 배경 초안, 세션 이후의 서사를 덧붙이고 시작 수치와 최신 저장 상태를 보존한 시트
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-sheet/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-sheet.md)
 - **[소엘의 첫 의뢰 — 이름을 바꾼 배](wiki/soel-session-01.md)** · 별칭: 이름을 바꾼 배 세션, 소엘 첫 의뢰, 고리 7호 · 수정: 2026-11-05 · 상태: 진행함
   - 물새호의 기록관 소엘이 이름을 빼앗긴 화물선 늙은갈매기호의 용골 매듭을 되살리고, 옛 길잡이 리나가 짝돌로 배와 작별하게 해 새 길잡이를 받아들이게 한 첫 의뢰.
@@ -146,8 +146,8 @@
 - **[소엘의 셋째 의뢰 — 바람 끝의 손님들](wiki/soel-session-03.md)** · 별칭: 바람 끝의 손님들 세션, 소엘 셋째 의뢰 · 수정: 2026-11-06 · 상태: 진행함
   - 소엘이 맹약소 계약으로 은실호를 찾아 문그늘의 사람들을 구한 셋째 의뢰. 작은 겹침 막간, 물새호 임대 계약 수정과 작업장의 밤 막간, 각 판정 및 결정 대기 설정을 기록한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-03/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-03.md)
-- **[물새호 탐사대 — 네 사람의 출발과 항해](wiki/mulsae-crew.md)** · 수정: 2026-11-07 · 상태: 출발 설정과 세션 후 이력 구분
-  - 초기 대원들의 출발 설정과 소엘 플레이 이후 이력을 구분한 안내
+- **[물새호 탐사대 — 네 사람이 함께 탄 배](wiki/mulsae-crew.md)** · 수정: 2026-11-08 · 상태: 출발 설정과 진행 후 이야기 구분
+  - 네 사람의 출발 상태와 소엘 플레이에서 쌓인 관계를 연속된 팀 서사로 정리
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-crew/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-crew.md)
 
 ## 천체
@@ -206,17 +206,17 @@
 - **[마렌 — 산의 무게를 바꾼 여성 대마법사](wiki/archmage-maren.md)** · 별칭: 여성 대마법사, 마렌, 무게의 대마법사 · 수정: 2026-11-06 · 상태: 초안 · 핵심 설정 확정, 사건·이름 가안
   - T0 이전에 태어난 여성 대마법사 마렌(가칭). 속담의 소급 현실 개변, 무게의 거대한 물리적 위업, 구체적 존재의 사이, 시간과 맺은 후천적 관계, 어린 시절의 사고와 세계적 마찰을 다룬 인물 설정.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/archmage-maren/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/archmage-maren.md)
-- **[리안 — 물새호의 길잡이](wiki/lian.md)** · 수정: 2026-11-07 · 상태: 출발 설정과 세션 후 이력 구분
-  - 젊은 길잡이 리안의 출발 상태와 세 차례 의뢰로 쌓인 이력 및 열린 질문
+- **[리안 — 아직 자기 길을 열지 못한 길잡이](wiki/lian.md)** · 수정: 2026-11-08 · 상태: 초기 설정·과거 보강 초안·진행 후 서사 구분
+  - 할머니의 길돌을 지닌 젊은 길잡이의 출발 전 배경 초안과 소엘 세션 이후 성장의 인물 서사
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/lian/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/lian.md)
-- **[도하 — 배와 작업장을 지키는 정비사](wiki/doha.md)** · 수정: 2026-11-07 · 상태: 출발 설정과 세션 후 이력 구분
-  - 정비사 도하의 초기 능력과 배·작업장에 대한 관계, 진행 이후 이력을 구분한 기록
+- **[도하 — 고칠 수 있는 것을 잃지 않으려는 사람](wiki/doha.md)** · 수정: 2026-11-08 · 상태: 초기 설정·과거 보강 초안·진행 후 서사 구분
+  - 도하의 작업장과 노동, 물새호의 임대 위험, 계약 수정과 동료 관계를 이어 쓴 인물 서사
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/doha/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/doha.md)
-- **[카이 — 바람고원에서 온 경계원](wiki/kai.md)** · 수정: 2026-11-07 · 상태: 출발 설정과 세션 후 이력 구분
-  - 카이의 출발 당시 동기, 고향과 가족사, 진행 중 드러난 역량과 아직 풀지 못한 일
+- **[카이 — 바람고원을 떠났지만 바람을 놓지 않은 사람](wiki/kai.md)** · 수정: 2026-11-08 · 상태: 초기 설정·과거 보강 초안·진행 후 서사 구분
+  - 고향과 형의 기억을 지닌 경계원의 배경 초안과 스스로 선택하고 교섭한 항해 이력
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/kai/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/kai.md)
-- **[바람 끝 사건의 사람들 — 서로 다른 이유로 남고 떠나다](wiki/baram-end-people.md)** · 수정: 2026-11-07 · 상태: 진행자·기존 독자용 · 스포일러 포함
-  - 바람 끝 사건의 여러 인물과 선택을 진행자 진상·세션 결과·소설 묘사로 구분한 기록
+- **[바람 끝의 사람들 — 돌아가려는 사람과 남으려는 사람](wiki/baram-end-people.md)** · 수정: 2026-11-08 · 상태: 진행자·기존 독자용 · 스포일러 포함
+  - 마델·네아·오르 반·하멜·토비·이든·사라의 선택을 사건 요약이 아닌 인물 서사로 정리
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/baram-end-people/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/baram-end-people.md)
 - **[조화의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-harmony.md)** · 별칭: 조화의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
   - 조화의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
