@@ -155,6 +155,12 @@
 - **[소엘의 다섯째·여섯째 의뢰 — 스무 해의 하루, 고리밑 숨길](wiki/soel-session-05.md)** · 별칭: 스무 해의 하루 세션, 고리밑 숨길 세션, 소엘 다섯째 의뢰, 소엘 여섯째 의뢰 · 수정: 2026-11-08 · 상태: 진행함
   - 스무 해 동안 틈에 갇힌 푸른실호를 엘리의 기다림으로 끌어낸 다섯째 의뢰와, 카이의 형 세반이 붙잡던 고리밑의 문을 넷의 매듭으로 이어받아 숨길을 연 여섯째 의뢰.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-05/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-05.md)
+- **[시온의 첫 세션 — 기울문을 다시 열다](wiki/sion-session-01.md)** · 별칭: 시온 첫 세션, 기울문 복구 플레이 · 수정: 2026-11-08 · 상태: 진행함 · 중단
+  - 길잡이 시온이 새기국에서 의뢰받아 기울문을 조사하고, 문을 열어 통행인 셋을 건너게 한 뒤 새 당번 도린·새미에게 개문을 가르친 첫 세션.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/sion-session-01/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/sion-session-01.md)
+- **[시온 — 문턱골 길잡이 시트](wiki/sion-sheet.md)** · 별칭: 시온 시트 · 수정: 2026-11-08 · 상태: 진행함 · 중단
+  - 문턱골 길잡이 시온의 첫 기울문 수선 세션 후 능력치, 사이, 자원 및 재개용 저장 상태.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/sion-sheet/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/sion-sheet.md)
 
 ## 천체
 

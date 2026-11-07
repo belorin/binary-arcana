@@ -6,7 +6,7 @@
 - 요약: 실종자와 문, 군량 회수대, 인질 가족, 숲과 칼의 네 시나리오. 장면·시계·진상·결말 갈래.
 - 태그: 초기 임무, 문턱골, 진행자
 - 수정일: 2026-11-08 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `first-crowns-play`, `first-crowns-region`, `first-crowns-people`, `first-crowns-fronts`
+- 관련 문서: `first-crowns-play`, `first-crowns-region`, `first-crowns-people`, `first-crowns-fronts`, `sion-session-01`
 
 ## 절 목차
 

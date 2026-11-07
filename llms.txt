@@ -85,6 +85,8 @@
 - [물새호 탐사대 — 네 사람이 함께 탄 배](https://belorin.github.io/binary-arcana/notes/mulsae-crew/): 네 사람의 출발 상태와 소엘 플레이에서 쌓인 관계를 연속된 팀 서사로 정리
 - [소엘의 넷째 의뢰 — 호수문의 옛 문터](https://belorin.github.io/binary-arcana/notes/soel-session-04/): 소엘이 고리운송과 약정한 의뢰로 호수문 옛 문터의 결을 읽고, 오미르에게서 백로대가 평원을 묻은 이유를 듣고, 빚을 갚아 물새호를 탐사대 소유로 넘겨받은 넷째 의뢰.
 - [소엘의 다섯째·여섯째 의뢰 — 스무 해의 하루, 고리밑 숨길](https://belorin.github.io/binary-arcana/notes/soel-session-05/): 스무 해 동안 틈에 갇힌 푸른실호를 엘리의 기다림으로 끌어낸 다섯째 의뢰와, 카이의 형 세반이 붙잡던 고리밑의 문을 넷의 매듭으로 이어받아 숨길을 연 여섯째 의뢰.
+- [시온의 첫 세션 — 기울문을 다시 열다](https://belorin.github.io/binary-arcana/notes/sion-session-01/): 길잡이 시온이 새기국에서 의뢰받아 기울문을 조사하고, 문을 열어 통행인 셋을 건너게 한 뒤 새 당번 도린·새미에게 개문을 가르친 첫 세션.
+- [시온 — 문턱골 길잡이 시트](https://belorin.github.io/binary-arcana/notes/sion-sheet/): 문턱골 길잡이 시온의 첫 기울문 수선 세션 후 능력치, 사이, 자원 및 재개용 저장 상태.
 
 ### 천체
 

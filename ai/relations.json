@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 971,
+  "edge_count": 978,
   "edges": [
     {
       "from": "welcome",
@@ -5636,6 +5636,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "first-crowns-missions",
+      "to": "sion-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "first-crowns-fronts",
       "to": "first-crowns-era",
       "type": "related_to",
@@ -5662,6 +5668,42 @@
     {
       "from": "first-crowns-fronts",
       "to": "first-crowns-missions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sion-session-01",
+      "to": "sion-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sion-session-01",
+      "to": "first-crowns-play",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sion-session-01",
+      "to": "first-crowns-missions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sion-session-01",
+      "to": "first-crowns-region",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sion-sheet",
+      "to": "sion-session-01",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "sion-sheet",
+      "to": "first-crowns-play",
       "type": "related_to",
       "basis": "manifest.related"
     },

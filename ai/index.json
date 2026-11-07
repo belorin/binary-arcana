@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 128,
+  "document_count": 130,
   "documents": [
     {
       "id": "welcome",
@@ -4308,7 +4308,8 @@
         "first-crowns-play",
         "first-crowns-region",
         "first-crowns-people",
-        "first-crowns-fronts"
+        "first-crowns-fronts",
+        "sion-session-01"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-missions.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/first-crowns-missions.md",
@@ -4342,6 +4343,64 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/first-crowns-fronts.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/first-crowns-fronts/",
       "app_url": "https://belorin.github.io/binary-arcana/#first-crowns-fronts"
+    },
+    {
+      "id": "sion-session-01",
+      "title": "시온의 첫 세션 — 기울문을 다시 열다",
+      "aliases": [
+        "시온 첫 세션",
+        "기울문 복구 플레이"
+      ],
+      "category": "탐사대",
+      "tags": [
+        "시온",
+        "작은 관들의 시절",
+        "문턱골",
+        "기울문",
+        "세션"
+      ],
+      "summary": "길잡이 시온이 새기국에서 의뢰받아 기울문을 조사하고, 문을 열어 통행인 셋을 건너게 한 뒤 새 당번 도린·새미에게 개문을 가르친 첫 세션.",
+      "review_state": "unassessed",
+      "review_label": "진행함 · 중단",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "sion-sheet",
+        "first-crowns-play",
+        "first-crowns-missions",
+        "first-crowns-region"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/sion-session-01.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/sion-session-01.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/sion-session-01/",
+      "app_url": "https://belorin.github.io/binary-arcana/#sion-session-01"
+    },
+    {
+      "id": "sion-sheet",
+      "title": "시온 — 문턱골 길잡이 시트",
+      "aliases": [
+        "시온 시트"
+      ],
+      "category": "탐사대",
+      "tags": [
+        "시온",
+        "길잡이",
+        "문턱골",
+        "시트"
+      ],
+      "summary": "문턱골 길잡이 시온의 첫 기울문 수선 세션 후 능력치, 사이, 자원 및 재개용 저장 상태.",
+      "review_state": "unassessed",
+      "review_label": "진행함 · 중단",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "sion-session-01",
+        "first-crowns-play"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/sion-sheet.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/sion-sheet.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/sion-sheet/",
+      "app_url": "https://belorin.github.io/binary-arcana/#sion-sheet"
     }
   ]
 }
