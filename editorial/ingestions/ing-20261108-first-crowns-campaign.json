@@ -1,0 +1,120 @@
+{
+  "id": "ing-20261108-first-crowns-campaign",
+  "processed_on": "2026-11-08",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "concept",
+      "title": "소규모 왕국과 후대 마왕 호칭의 역사적 구분",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "first-crowns-era",
+          "section": "마왕이라는 호칭은 누구의 말인가"
+        },
+        {
+          "doc_id": "first-crowns-era",
+          "section": "시대와 역사적 위치"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "concept",
+      "title": "여섯 서사 포지션과 관념 마법의 비학파성",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "first-crowns-era",
+          "section": "여섯 포지션 — 전투 학파가 아닌 일의 자리"
+        },
+        {
+          "doc_id": "first-crowns-play",
+          "section": "포지션의 특기 — 기존 여섯 직업의 대응"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "curation",
+      "title": "문턱골의 네 생활권과 열한 장소 및 통행 규칙",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "first-crowns-region",
+          "section": "열한 장소의 쓰임새"
+        },
+        {
+          "doc_id": "first-crowns-region",
+          "section": "기울문 — 실제 작동 조건"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "curation",
+      "title": "다양한 동료·왕·적군·비인간 행위자의 욕망과 제한",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "first-crowns-people",
+          "section": "동료가 될 수도 있는 사람들"
+        },
+        {
+          "doc_id": "first-crowns-people",
+          "section": "사람이 아닌 행위자"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "argument",
+      "title": "소엘 세션 방식으로 진행하는 인물 중심 용사물",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "first-crowns-play",
+          "section": "누가 무엇을 움직이는가"
+        },
+        {
+          "doc_id": "first-crowns-era",
+          "section": "캠페인의 범위와 진행의 약속"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "curation",
+      "title": "연결되지만 강제 순서가 없는 네 초기 모험",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "first-crowns-missions",
+          "section": "1. 서쪽 지킴돌이 비었을 때"
+        },
+        {
+          "doc_id": "first-crowns-missions",
+          "section": "4. 숲이 돌려주지 않은 칼"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "argument",
+      "title": "진행자 비밀과 제3세력의 자율적 시계 및 발견 경로",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "first-crowns-fronts",
+          "section": "S0의 시점과 시작하기 전에 이미 일어난 일"
+        },
+        {
+          "doc_id": "first-crowns-fronts",
+          "section": "독립 세력의 목적·지식·행동 시계"
+        }
+      ]
+    }
+  ]
+}

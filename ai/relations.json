@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 938,
+  "edge_count": 971,
   "edges": [
     {
       "from": "welcome",
@@ -5464,6 +5464,204 @@
     {
       "from": "soel-session-05",
       "to": "route-era-places",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-era",
+      "to": "demon-epoch-chronicle",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-era",
+      "to": "seven-demon-lords",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-era",
+      "to": "reshaping",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-era",
+      "to": "first-crowns-region",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-era",
+      "to": "first-crowns-people",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-era",
+      "to": "first-crowns-play",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-era",
+      "to": "first-crowns-missions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-era",
+      "to": "first-crowns-fronts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-region",
+      "to": "first-crowns-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-region",
+      "to": "first-crowns-people",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-region",
+      "to": "first-crowns-missions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-region",
+      "to": "space-codes",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-region",
+      "to": "first-crowns-fronts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-people",
+      "to": "first-crowns-region",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-people",
+      "to": "first-crowns-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-people",
+      "to": "first-crowns-play",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-people",
+      "to": "first-crowns-fronts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-people",
+      "to": "rival-character-principles",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-play",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-play",
+      "to": "first-crowns-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-play",
+      "to": "first-crowns-region",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-play",
+      "to": "first-crowns-people",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-play",
+      "to": "first-crowns-missions",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-play",
+      "to": "first-crowns-fronts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-missions",
+      "to": "first-crowns-play",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-missions",
+      "to": "first-crowns-region",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-missions",
+      "to": "first-crowns-people",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-missions",
+      "to": "first-crowns-fronts",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-fronts",
+      "to": "first-crowns-era",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-fronts",
+      "to": "first-crowns-region",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-fronts",
+      "to": "first-crowns-people",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-fronts",
+      "to": "first-crowns-play",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "first-crowns-fronts",
+      "to": "first-crowns-missions",
       "type": "related_to",
       "basis": "manifest.related"
     },

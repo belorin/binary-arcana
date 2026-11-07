@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 122,
+  "document_count": 128,
   "documents": [
     {
       "id": "welcome",
@@ -4172,6 +4172,176 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-05.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/soel-session-05/",
       "app_url": "https://belorin.github.io/binary-arcana/#soel-session-05"
+    },
+    {
+      "id": "first-crowns-era",
+      "title": "작은 관들의 시절 — 문턱골의 마왕과 용사",
+      "aliases": [],
+      "category": "사건",
+      "tags": [
+        "작은 왕관",
+        "마왕",
+        "용사",
+        "시대"
+      ],
+      "summary": "틈살이 이후, 재편 이전에 놓는 소규모 왕국·마왕 호칭·영웅담의 지역적 역사. 여섯 포지션을 직업이 아닌 역할로 정리한다.",
+      "review_state": "unassessed",
+      "review_label": "캠페인 역사 단면 초안",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "demon-epoch-chronicle",
+        "seven-demon-lords",
+        "reshaping",
+        "first-crowns-region",
+        "first-crowns-people",
+        "first-crowns-play",
+        "first-crowns-missions",
+        "first-crowns-fronts"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-era.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/first-crowns-era.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/first-crowns-era/",
+      "app_url": "https://belorin.github.io/binary-arcana/#first-crowns-era"
+    },
+    {
+      "id": "first-crowns-region",
+      "title": "문턱골 — 문과 네 생활권, 열한 장소",
+      "aliases": [],
+      "category": "장소",
+      "tags": [
+        "문턱골",
+        "문",
+        "소국",
+        "지리"
+      ],
+      "summary": "누리의 미배정 내륙 문턱골. 네 작은 생활권, 열한 장소, 걸음길과 기울문의 독립적인 작동 조건.",
+      "review_state": "unassessed",
+      "review_label": "캠페인 출발 지역 초안",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "first-crowns-era",
+        "first-crowns-people",
+        "first-crowns-missions",
+        "space-codes",
+        "first-crowns-fronts"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-region.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/first-crowns-region.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/first-crowns-region/",
+      "app_url": "https://belorin.github.io/binary-arcana/#first-crowns-region"
+    },
+    {
+      "id": "first-crowns-people",
+      "title": "문턱골 사람들 — 여섯 자리와 서로 다른 의지",
+      "aliases": [],
+      "category": "인물",
+      "tags": [
+        "인물",
+        "용사",
+        "마왕군",
+        "사이"
+      ],
+      "summary": "여섯 포지션의 동료 후보와 통치자·마왕군·비인간 행위자의 재능, 욕망, 한계, 관계망.",
+      "review_state": "unassessed",
+      "review_label": "캠페인 인물 초안",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "first-crowns-region",
+        "first-crowns-era",
+        "first-crowns-play",
+        "first-crowns-fronts",
+        "rival-character-principles"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-people.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/first-crowns-people.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/first-crowns-people/",
+      "app_url": "https://belorin.github.io/binary-arcana/#first-crowns-people"
+    },
+    {
+      "id": "first-crowns-play",
+      "title": "작은 관들의 시절 — 용사물 플레이 시작 규칙",
+      "aliases": [],
+      "category": "롤플레잉",
+      "tags": [
+        "플레이 규칙",
+        "2d6",
+        "용사",
+        "캠페인"
+      ],
+      "summary": "소엘의 단일 플레이어·자율 동료 방식을 옛 시대의 용사물에 적용. 2d6, 여섯 역할, 네 후보, 저장과 판정 기준.",
+      "review_state": "unassessed",
+      "review_label": "캠페인 규칙 초안",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "rulebook",
+        "first-crowns-era",
+        "first-crowns-region",
+        "first-crowns-people",
+        "first-crowns-missions",
+        "first-crowns-fronts"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-play.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/first-crowns-play.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/first-crowns-play/",
+      "app_url": "https://belorin.github.io/binary-arcana/#first-crowns-play"
+    },
+    {
+      "id": "first-crowns-missions",
+      "title": "문턱골의 첫 의뢰들 — 용사가 되기 전 네 사건",
+      "aliases": [],
+      "category": "롤플레잉",
+      "tags": [
+        "초기 임무",
+        "문턱골",
+        "진행자"
+      ],
+      "summary": "실종자와 문, 군량 회수대, 인질 가족, 숲과 칼의 네 시나리오. 장면·시계·진상·결말 갈래.",
+      "review_state": "unassessed",
+      "review_label": "초기 의뢰 4편 · 진행자 전용",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "first-crowns-play",
+        "first-crowns-region",
+        "first-crowns-people",
+        "first-crowns-fronts"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-missions.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/first-crowns-missions.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/first-crowns-missions/",
+      "app_url": "https://belorin.github.io/binary-arcana/#first-crowns-missions"
+    },
+    {
+      "id": "first-crowns-fronts",
+      "title": "문턱골 캠페인의 움직이는 세력과 진상",
+      "aliases": [],
+      "category": "롤플레잉",
+      "tags": [
+        "진행자",
+        "스포일러",
+        "S0",
+        "마왕"
+      ],
+      "summary": "마왕 에른과 지역 행위자들의 숨은 사실, 시계, 독립 목적, 첫 장면과 정보 접근 경로.",
+      "review_state": "unassessed",
+      "review_label": "진행자 전용 · S0",
+      "last_updated_on": "2026-11-08",
+      "last_enriched_on": null,
+      "related_ids": [
+        "first-crowns-era",
+        "first-crowns-region",
+        "first-crowns-people",
+        "first-crowns-play",
+        "first-crowns-missions"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-fronts.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/first-crowns-fronts.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/first-crowns-fronts/",
+      "app_url": "https://belorin.github.io/binary-arcana/#first-crowns-fronts"
     }
   ]
 }

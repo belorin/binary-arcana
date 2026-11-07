@@ -3,7 +3,7 @@
 > 자동 생성(`scripts/build-wiki-map.mjs`). 직접 수정하지 않는다. 편집 장부(`editorial/ingestions/`)의 기록을 뒤집은 것이며 새 요약을 담지 않는다.
 > **통째로 읽지 말고 낱말로 검색한다.** 검색에 걸리지 않았다고 미반영이라고 단정하지 않는다. 장부 도입 이전 원고는 여기 없으므로 문서 카드의 절 목차로도 찾는다. 반영 여부의 최종 판정은 해당 절 본문을 읽고 한다.
 
-장부 지식 항목 243개 · 형식: 표제 → `문서` § 절 · `처리 배치`
+장부 지식 항목 250개 · 형식: 표제 → `문서` § 절 · `처리 배치`
 
 ## 보류 항목 (9)
 
@@ -147,7 +147,7 @@
 - 소엘의 서고 생활과 배경 초안, 세션 이후의 서사를 덧붙이고 시작 수치와 최신 저장 상태를 보존한 시트 → `soel-sheet` § 서고 밖으로 나오기 전; `soel-sheet` § 배를 타고 읽은 것들 · `ing-20261108-character-narratives`
 - 네 사람의 출발 상태와 소엘 플레이에서 쌓인 관계를 연속된 팀 서사로 정리 → `mulsae-crew` § 떠나기 전의 네 사람; `mulsae-crew` § 배에서 함께 보낸 시간 · `ing-20261108-character-narratives`
 
-## 사건 (19)
+## 사건 (21)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -170,6 +170,8 @@
 - 값줄: 피로 산 규칙과 T0 무렵 남은 관습. 틀린 규칙도 지우지 않음 → `demon-epoch-chronicle` § 값줄 — 피로 산 규칙 · `ing-20261104-demon-epoch-chronicle`
 - 진행자용 진상: 기둥과 맹약을 지키는 이들, 잠든 둘레, 겹살이, 샛별의 후손, 틈이 굳은 까닭 → `demon-epoch-chronicle` § 진행자용 — 인물들은 모름 · `ing-20261104-demon-epoch-chronicle`
 - 대마법사 활동기의 시간적 배치를 재편의 별도 원인으로 만들지 않음 → `reshaping` § 검토 대기 제안 — 정본 아님; `exceptional-generations` § 예외적인 개인의 구체적 구상 — 마렌 · `ing-20261105-archmage-maren`
+- 소규모 왕국과 후대 마왕 호칭의 역사적 구분 → `first-crowns-era` § 마왕이라는 호칭은 누구의 말인가; `first-crowns-era` § 시대와 역사적 위치 · `ing-20261108-first-crowns-campaign`
+- 여섯 서사 포지션과 관념 마법의 비학파성 → `first-crowns-era` § 여섯 포지션 — 전투 학파가 아닌 일의 자리; `first-crowns-play` § 포지션의 특기 — 기존 여섯 직업의 대응 · `ing-20261108-first-crowns-campaign`
 
 ## 시작하기 (17)
 
@@ -214,6 +216,26 @@
 - 누리에 비인간 지성 존재 공존 → `start-here` § 작은 인구와 다양하게 겹치는 삶의 방식 · `ing-20261104-reshaping`
 - 세계의 규칙은 왜 바뀌는가 → `grand-questions` § 세계의 규칙은 왜 바뀌는가? · `ing-20261104-reshaping`
 
+## 롤플레잉 (15)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 아렌의 초기 역량과 지식의 한계, 생업과 마법 → `aren-sheet` § 확인된 역량; `aren-sheet` § 인식 장부 · `ing-20261103-low-cape-observer-session`
+- 아렌 첫 시범 서사의 전면 개편에 따라 구조 선택과 샘 손실로 대체된 첫날 → `aren-session-01` § 진행 기록 — 소턴; `aren-session-01` § 세계의 다른 움직임 · `ing-20261103-low-cape-observer-session`
+- 두 해안 붕괴와 세 생존자의 갈등으로 시작하는 새 첫 장 → `aren-session-01` § 소설 — 닫아야 하는 바다 · `ing-20261103-aren-story-rewrite`
+- 자율적인 구조 시도가 남긴 개인의 부상과 마을의 물 손실 → `aren-session-01` § 진행 기록 — 소턴; `aren-sheet` § 성장 기록 · `ing-20261103-aren-story-rewrite`
+- 서로 독립적으로 판단하는 여러 행위자와 제한된 인식 → `aren-session-01` § 세계의 다른 움직임; `aren-sheet` § 인식 장부 · `ing-20261103-aren-story-rewrite`
+- 적은 인구 때문에 큰 다툼을 대리인의 겨룸과 맹약으로 좁히는 관습 → `scenario-great-crossing` § 왜 이 세계에서는 결투로 다투는가 · `ing-20261103-great-crossing-scenario`
+- 맞섬: 관계의 힘으로 겨루며 장소·날·건 것이 승패를 가름 → `scenario-great-crossing` § 맞섬의 방식 · `ing-20261103-great-crossing-scenario`
+- 큰 건넘: 두 태양이 가장 가까워지는 철에만 넓게 열리는 행성 간 길 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
+- 길의 지기가 평생의 관계를 대를 이어 물려줌 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
+- 악재와 호재가 만나는 네 복합 시나리오 → `route-era-compound-scenarios` § 진행자용 — 인물들은 모름 · `ing-20261106-compound-scenarios`
+- 악재 둘이 만나는 세 복합 시나리오 → `route-era-compound-scenarios` § 진행자용 — 인물들은 모름 · `ing-20261106-compound-scenarios`
+- 복합 사건에서 대세션과 소세션의 독립적 파생 → `route-era-compound-scenarios` § 샘플에서 실제 세션을 열기 전 · `ing-20261106-compound-scenarios`
+- 소엘 세션 방식으로 진행하는 인물 중심 용사물 → `first-crowns-play` § 누가 무엇을 움직이는가; `first-crowns-era` § 캠페인의 범위와 진행의 약속 · `ing-20261108-first-crowns-campaign`
+- 연결되지만 강제 순서가 없는 네 초기 모험 → `first-crowns-missions` § 1. 서쪽 지킴돌이 비었을 때; `first-crowns-missions` § 4. 숲이 돌려주지 않은 칼 · `ing-20261108-first-crowns-campaign`
+- 진행자 비밀과 제3세력의 자율적 시계 및 발견 경로 → `first-crowns-fronts` § S0의 시점과 시작하기 전에 이미 일어난 일; `first-crowns-fronts` § 독립 세력의 목적·지식·행동 시계 · `ing-20261108-first-crowns-campaign`
+
 ## 마법 (15)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -234,7 +256,7 @@
 - 관념과의 사이가 물질적 상대와 함께 온 세계에 적용되며 약한 재능이 모두에게 있음 → `conceptual-relations` § 정의; `conceptual-relations` § 보편성과 편차; `magic-as-practice` § 관념과의 사이 — 세계 전체에 있는 재능 · `ing-20261105-archmage-maren`
 - 관념의 관계는 별도의 고정 속성 학파가 아니며 기존 관계 마법과 공존함 → `conceptual-relations` § 기존의 사이와의 관계; `magic-senses` § 관념이라는 상대도 있다 · `ing-20261105-archmage-maren`
 
-## 인물 (14)
+## 인물 (15)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
 
@@ -252,23 +274,7 @@
 - 도하의 작업장과 노동, 물새호의 임대 위험, 계약 수정과 동료 관계를 이어 쓴 인물 서사 → `doha` § 작업장을 갖기까지; `doha` § 남의 배와 자기 배 사이 · `ing-20261108-character-narratives`
 - 고향과 형의 기억을 지닌 경계원의 배경 초안과 스스로 선택하고 교섭한 항해 이력 → `kai` § 고향의 바람; `kai` § 돌아온 별에서 바람 끝까지 · `ing-20261108-character-narratives`
 - 마델·네아·오르 반·하멜·토비·이든·사라의 선택을 사건 요약이 아닌 인물 서사로 정리 → `baram-end-people` § 마델; `baram-end-people` § 남은 손님들 · `ing-20261108-character-narratives`
-
-## 롤플레잉 (12)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 아렌의 초기 역량과 지식의 한계, 생업과 마법 → `aren-sheet` § 확인된 역량; `aren-sheet` § 인식 장부 · `ing-20261103-low-cape-observer-session`
-- 아렌 첫 시범 서사의 전면 개편에 따라 구조 선택과 샘 손실로 대체된 첫날 → `aren-session-01` § 진행 기록 — 소턴; `aren-session-01` § 세계의 다른 움직임 · `ing-20261103-low-cape-observer-session`
-- 두 해안 붕괴와 세 생존자의 갈등으로 시작하는 새 첫 장 → `aren-session-01` § 소설 — 닫아야 하는 바다 · `ing-20261103-aren-story-rewrite`
-- 자율적인 구조 시도가 남긴 개인의 부상과 마을의 물 손실 → `aren-session-01` § 진행 기록 — 소턴; `aren-sheet` § 성장 기록 · `ing-20261103-aren-story-rewrite`
-- 서로 독립적으로 판단하는 여러 행위자와 제한된 인식 → `aren-session-01` § 세계의 다른 움직임; `aren-sheet` § 인식 장부 · `ing-20261103-aren-story-rewrite`
-- 적은 인구 때문에 큰 다툼을 대리인의 겨룸과 맹약으로 좁히는 관습 → `scenario-great-crossing` § 왜 이 세계에서는 결투로 다투는가 · `ing-20261103-great-crossing-scenario`
-- 맞섬: 관계의 힘으로 겨루며 장소·날·건 것이 승패를 가름 → `scenario-great-crossing` § 맞섬의 방식 · `ing-20261103-great-crossing-scenario`
-- 큰 건넘: 두 태양이 가장 가까워지는 철에만 넓게 열리는 행성 간 길 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
-- 길의 지기가 평생의 관계를 대를 이어 물려줌 → `scenario-great-crossing` § 무대: 열두 여울과 큰 건넘 · `ing-20261103-great-crossing-scenario`
-- 악재와 호재가 만나는 네 복합 시나리오 → `route-era-compound-scenarios` § 진행자용 — 인물들은 모름 · `ing-20261106-compound-scenarios`
-- 악재 둘이 만나는 세 복합 시나리오 → `route-era-compound-scenarios` § 진행자용 — 인물들은 모름 · `ing-20261106-compound-scenarios`
-- 복합 사건에서 대세션과 소세션의 독립적 파생 → `route-era-compound-scenarios` § 샘플에서 실제 세션을 열기 전 · `ing-20261106-compound-scenarios`
+- 다양한 동료·왕·적군·비인간 행위자의 욕망과 제한 → `first-crowns-people` § 동료가 될 수도 있는 사람들; `first-crowns-people` § 사람이 아닌 행위자 · `ing-20261108-first-crowns-campaign`
 
 ## 천체 (10)
 
@@ -303,6 +309,14 @@
 - 길잡이 면허 실기 시험의 방식과 연습선 참새호, 시험관 미르, 신참 길잡이 주아 → `first-gate` § 정본의 범위 · `ing-20261105-first-gate`
 - 연습선은 여러 사람과 얕게 사이를 맺는다. 틈의 목소리는 듣는 사람마다 다르다. 길잡이들은 틈에서 본 것을 각자 수첩에 적는다 → `first-gate` § 정본의 범위 · `ing-20261105-first-gate`
 
+## 장소 (3)
+
+분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
+
+- 낮은곶의 소규모 해안 생활과 물턱 통행, 복잡한 마법적 물 공급 → `low-cape` § 사람들과 생활; `low-cape` § 통행과 지역 마법 · `ing-20261103-low-cape-observer-session`
+- 저인구 해안 정착지의 숙련된 마법적 물 공급 및 통행 봉합 → `low-cape` § 사람들과 생활; `low-cape` § 통행과 지역 마법 · `ing-20261103-aren-story-rewrite`
+- 문턱골의 네 생활권과 열한 장소 및 통행 규칙 → `first-crowns-region` § 열한 장소의 쓰임새; `first-crowns-region` § 기울문 — 실제 작동 조건 · `ing-20261108-first-crowns-campaign`
+
 ## 마법 공예·항행 (2)
 
 분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
@@ -323,10 +337,3 @@
 
 - 연표 사전 작성 금지와 상대적 세션 이력의 점진적 달력 편입 → `worldbuilding-guide` § 연대기와 달력; `start-here` § 연대의 기준 · `ing-20261103-low-cape-observer-session`
 - 지역 기본종과 위해체를 증보하는 집필 원칙 → `worldbuilding-guide` § 지역의 생명과 행위자를 추가할 때; `regional-life` § 기록을 더할 때 · `ing-20261105-regional-life`
-
-## 장소 (2)
-
-분류는 첫 반영 문서 기준이다. 여러 분야에 걸친 항목은 한 분류에만 실리므로 분류로 범위를 좁히지 말고 검색한다.
-
-- 낮은곶의 소규모 해안 생활과 물턱 통행, 복잡한 마법적 물 공급 → `low-cape` § 사람들과 생활; `low-cape` § 통행과 지역 마법 · `ing-20261103-low-cape-observer-session`
-- 저인구 해안 정착지의 숙련된 마법적 물 공급 및 통행 봉합 → `low-cape` § 사람들과 생활; `low-cape` § 통행과 지역 마법 · `ing-20261103-aren-story-rewrite`

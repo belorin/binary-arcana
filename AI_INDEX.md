@@ -245,6 +245,9 @@
 - **[몽환의 마왕 — 거시 대턴 인물 시트](wiki/demon-epoch-dream.md)** · 별칭: 몽환의 마왕 · 수정: 2026-11-03 · 상태: 마왕 시트 초안 · 미채택
   - 몽환의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/demon-epoch-dream/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/demon-epoch-dream.md)
+- **[문턱골 사람들 — 여섯 자리와 서로 다른 의지](wiki/first-crowns-people.md)** · 수정: 2026-11-08 · 상태: 캠페인 인물 초안
+  - 여섯 포지션의 동료 후보와 통치자·마왕군·비인간 행위자의 재능, 욕망, 한계, 관계망.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/first-crowns-people/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-people.md)
 
 ## 장소
 
@@ -254,6 +257,9 @@
 - **[항로 시대의 항구와 지역 — 문 앞의 일상, 문 밖의 땅](wiki/route-era-places.md)** · 수정: 2026-11-07 · 상태: 설정 증보 · 확인된 사실과 묘사·미정 구분
   - 그늘역·호수문·서항·바람고원·늪항·첫발기지·기록 평원·바람 끝 등의 지형과 생활을 확인 사실과 묘사 예시로 증보한다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-places/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-places.md)
+- **[문턱골 — 문과 네 생활권, 열한 장소](wiki/first-crowns-region.md)** · 수정: 2026-11-08 · 상태: 캠페인 출발 지역 초안
+  - 누리의 미배정 내륙 문턱골. 네 작은 생활권, 열한 장소, 걸음길과 기울문의 독립적인 작동 조건.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/first-crowns-region/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-region.md)
 
 ## 사건
 
@@ -266,6 +272,9 @@
 - **[재편 — 길이 닫히고 다시 열리는 시대](wiki/reshaping.md)** · 별칭: 재편, 이야기의 시대, 길이 줄어드는 시대 · 수정: 2026-11-05 · 상태: 임시 정본 · 진행자용 진상 포함
   - 길들이 줄어드는 가운데 새 길을 여는 이야기의 기본 시대. 세계 안에서 보이는 징후, 연대의 순서, 진행자용 진상과 검토 대기 제안.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/reshaping/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/reshaping.md)
+- **[작은 관들의 시절 — 문턱골의 마왕과 용사](wiki/first-crowns-era.md)** · 수정: 2026-11-08 · 상태: 캠페인 역사 단면 초안
+  - 틈살이 이후, 재편 이전에 놓는 소규모 왕국·마왕 호칭·영웅담의 지역적 역사. 여섯 포지션을 직업이 아닌 역할로 정리한다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/first-crowns-era/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-era.md)
 
 ## 사물·개념
 
@@ -359,6 +368,15 @@
 - **[두 사건이 만나는 자리 — 항로 시대 복합 시나리오 일곱 가지](wiki/route-era-compound-scenarios.md)** · 수정: 2026-11-06 · 상태: 복합 시나리오 샘플 · 진행자 전용
   - 장기 동인들의 악재+호재 네 조합과 악재+악재 세 조합에 대한 진행자용 대·소세션 발생 예시.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-compound-scenarios/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-compound-scenarios.md)
+- **[작은 관들의 시절 — 용사물 플레이 시작 규칙](wiki/first-crowns-play.md)** · 수정: 2026-11-08 · 상태: 캠페인 규칙 초안
+  - 소엘의 단일 플레이어·자율 동료 방식을 옛 시대의 용사물에 적용. 2d6, 여섯 역할, 네 후보, 저장과 판정 기준.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/first-crowns-play/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-play.md)
+- **[문턱골의 첫 의뢰들 — 용사가 되기 전 네 사건](wiki/first-crowns-missions.md)** · 수정: 2026-11-08 · 상태: 초기 의뢰 4편 · 진행자 전용
+  - 실종자와 문, 군량 회수대, 인질 가족, 숲과 칼의 네 시나리오. 장면·시계·진상·결말 갈래.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/first-crowns-missions/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-missions.md)
+- **[문턱골 캠페인의 움직이는 세력과 진상](wiki/first-crowns-fronts.md)** · 수정: 2026-11-08 · 상태: 진행자 전용 · S0
+  - 마왕 에른과 지역 행위자들의 숨은 사실, 시계, 독립 목적, 첫 장면과 정보 접근 경로.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/first-crowns-fronts/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-crowns-fronts.md)
 
 ## 대국 기록
 

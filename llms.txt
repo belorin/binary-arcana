@@ -125,17 +125,20 @@
 - [분기의 마왕 — 거시 대턴 인물 시트](https://belorin.github.io/binary-arcana/notes/demon-epoch-branching/): 분기의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
 - [환대의 마왕 — 거시 대턴 인물 시트](https://belorin.github.io/binary-arcana/notes/demon-epoch-hospitality/): 환대의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
 - [몽환의 마왕 — 거시 대턴 인물 시트](https://belorin.github.io/binary-arcana/notes/demon-epoch-dream/): 몽환의 거시 대턴용 시트. 현시의 외형·정서와 권능, 일족의 자율 활동, 역사적 파급과 실제 한계를 제안한다.
+- [문턱골 사람들 — 여섯 자리와 서로 다른 의지](https://belorin.github.io/binary-arcana/notes/first-crowns-people/): 여섯 포지션의 동료 후보와 통치자·마왕군·비인간 행위자의 재능, 욕망, 한계, 관계망.
 
 ### 장소
 
 - [낮은곶](https://belorin.github.io/binary-arcana/notes/low-cape/): 낮은 인구에도 오래 축적된 물 공급과 마법적 통행 체계를 가진 해안 정착지. 샘 한 줄기가 손상되고 물턱을 봉합한 사건이 일어났다.
 - [항로 시대의 항구와 지역 — 문 앞의 일상, 문 밖의 땅](https://belorin.github.io/binary-arcana/notes/route-era-places/): 그늘역·호수문·서항·바람고원·늪항·첫발기지·기록 평원·바람 끝 등의 지형과 생활을 확인 사실과 묘사 예시로 증보한다.
+- [문턱골 — 문과 네 생활권, 열한 장소](https://belorin.github.io/binary-arcana/notes/first-crowns-region/): 누리의 미배정 내륙 문턱골. 네 작은 생활권, 열한 장소, 걸음길과 기울문의 독립적인 작동 조건.
 
 ### 사건
 
 - [일곱 마왕의 시대 — 틈살이의 연대기](https://belorin.github.io/binary-arcana/notes/demon-epoch-chronicle/): 일곱 마왕의 질서가 맞닿는 틈에서 사람이 타협하고 저항하며 살아남은 시대를 세대 순으로 적은 연대기. 틈살이가 부른 일곱 질서의 이름, 사람 아닌 이웃, 세 무리, 피로 산 규칙(값줄)과 그것이 후대에 남긴 관습, 진행자용 진상, 생존물 진행 안내.
 - [일곱 마왕의 시대 — 대턴 시작 전 관측 단면 S00](https://belorin.github.io/binary-arcana/notes/demon-epoch-s00/): 마왕의 오래된 질서, 중간 현시, 모호한 관측을 배치한 대턴 시작 전 거시 세계 단면. 행성 위치와 시간표는 임시 배치다.
 - [재편 — 길이 닫히고 다시 열리는 시대](https://belorin.github.io/binary-arcana/notes/reshaping/): 길들이 줄어드는 가운데 새 길을 여는 이야기의 기본 시대. 세계 안에서 보이는 징후, 연대의 순서, 진행자용 진상과 검토 대기 제안.
+- [작은 관들의 시절 — 문턱골의 마왕과 용사](https://belorin.github.io/binary-arcana/notes/first-crowns-era/): 틈살이 이후, 재편 이전에 놓는 소규모 왕국·마왕 호칭·영웅담의 지역적 역사. 여섯 포지션을 직업이 아닌 역할로 정리한다.
 
 ### 사물·개념
 
@@ -173,6 +176,9 @@
 - [다수 AI 참여 롤플레잉 — 세계 진행과 합성 판정 규칙](https://belorin.github.io/binary-arcana/notes/multi-ai-roleplay/): 두 명 이상 AI 참가자의 독립 선언과 후반 세계 진행자의 창의적 총합 판정, 제3세력 자율성·감정 동기·실제 비용·독립 장면 소설을 규정한 차기 대국 운영 원칙.
 - [일곱 마왕의 시대 — 거시 서사 대턴 설계](https://belorin.github.io/binary-arcana/notes/demon-epoch-framework/): 일곱 마왕의 시대를 2·2·3 구도로 세 AI와 세계 진행자가 두세 대턴에 걸쳐 겹쳐 그리는 거시 서사 설계. 승패 대신 재사용 가능한 시대 단면을 만든다.
 - [두 사건이 만나는 자리 — 항로 시대 복합 시나리오 일곱 가지](https://belorin.github.io/binary-arcana/notes/route-era-compound-scenarios/): 장기 동인들의 악재+호재 네 조합과 악재+악재 세 조합에 대한 진행자용 대·소세션 발생 예시.
+- [작은 관들의 시절 — 용사물 플레이 시작 규칙](https://belorin.github.io/binary-arcana/notes/first-crowns-play/): 소엘의 단일 플레이어·자율 동료 방식을 옛 시대의 용사물에 적용. 2d6, 여섯 역할, 네 후보, 저장과 판정 기준.
+- [문턱골의 첫 의뢰들 — 용사가 되기 전 네 사건](https://belorin.github.io/binary-arcana/notes/first-crowns-missions/): 실종자와 문, 군량 회수대, 인질 가족, 숲과 칼의 네 시나리오. 장면·시계·진상·결말 갈래.
+- [문턱골 캠페인의 움직이는 세력과 진상](https://belorin.github.io/binary-arcana/notes/first-crowns-fronts/): 마왕 에른과 지역 행위자들의 숨은 사실, 시계, 독립 목적, 첫 장면과 정보 접근 경로.
 
 ### 대국 기록
 

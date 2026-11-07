@@ -4152,6 +4152,176 @@
       ],
       "review_state": "unassessed",
       "last_enriched_on": null
+    },
+    {
+      "path": "wiki/first-crowns-era.md",
+      "publish": true,
+      "order": 111,
+      "id": "first-crowns-era",
+      "title": "작은 관들의 시절 — 문턱골의 마왕과 용사",
+      "category": "사건",
+      "status": "캠페인 역사 단면 초안",
+      "updated": "2026-11-08",
+      "summary": "틈살이 이후, 재편 이전에 놓는 소규모 왕국·마왕 호칭·영웅담의 지역적 역사. 여섯 포지션을 직업이 아닌 역할로 정리한다.",
+      "tags": [
+        "작은 왕관",
+        "마왕",
+        "용사",
+        "시대"
+      ],
+      "source": "문턱골 용사물 캠페인 구상. 기존 항로 시대 탐사대 2d6와 소엘 세션 구조를 활용한 진행 준비 초안",
+      "related": [
+        "demon-epoch-chronicle",
+        "seven-demon-lords",
+        "reshaping",
+        "first-crowns-region",
+        "first-crowns-people",
+        "first-crowns-play",
+        "first-crowns-missions",
+        "first-crowns-fronts"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/first-crowns-region.md",
+      "publish": true,
+      "order": 112,
+      "id": "first-crowns-region",
+      "title": "문턱골 — 문과 네 생활권, 열한 장소",
+      "category": "장소",
+      "status": "캠페인 출발 지역 초안",
+      "updated": "2026-11-08",
+      "summary": "누리의 미배정 내륙 문턱골. 네 작은 생활권, 열한 장소, 걸음길과 기울문의 독립적인 작동 조건.",
+      "tags": [
+        "문턱골",
+        "문",
+        "소국",
+        "지리"
+      ],
+      "source": "문턱골 용사물 캠페인 구상. 기존 항로 시대 탐사대 2d6와 소엘 세션 구조를 활용한 진행 준비 초안",
+      "related": [
+        "first-crowns-era",
+        "first-crowns-people",
+        "first-crowns-missions",
+        "space-codes",
+        "first-crowns-fronts"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/first-crowns-people.md",
+      "publish": true,
+      "order": 113,
+      "id": "first-crowns-people",
+      "title": "문턱골 사람들 — 여섯 자리와 서로 다른 의지",
+      "category": "인물",
+      "status": "캠페인 인물 초안",
+      "updated": "2026-11-08",
+      "summary": "여섯 포지션의 동료 후보와 통치자·마왕군·비인간 행위자의 재능, 욕망, 한계, 관계망.",
+      "tags": [
+        "인물",
+        "용사",
+        "마왕군",
+        "사이"
+      ],
+      "source": "문턱골 용사물 캠페인 구상. 기존 항로 시대 탐사대 2d6와 소엘 세션 구조를 활용한 진행 준비 초안",
+      "related": [
+        "first-crowns-region",
+        "first-crowns-era",
+        "first-crowns-play",
+        "first-crowns-fronts",
+        "rival-character-principles"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/first-crowns-play.md",
+      "publish": true,
+      "order": 114,
+      "id": "first-crowns-play",
+      "title": "작은 관들의 시절 — 용사물 플레이 시작 규칙",
+      "category": "롤플레잉",
+      "status": "캠페인 규칙 초안",
+      "updated": "2026-11-08",
+      "summary": "소엘의 단일 플레이어·자율 동료 방식을 옛 시대의 용사물에 적용. 2d6, 여섯 역할, 네 후보, 저장과 판정 기준.",
+      "tags": [
+        "플레이 규칙",
+        "2d6",
+        "용사",
+        "캠페인"
+      ],
+      "source": "문턱골 용사물 캠페인 구상. 기존 항로 시대 탐사대 2d6와 소엘 세션 구조를 활용한 진행 준비 초안",
+      "related": [
+        "rulebook",
+        "first-crowns-era",
+        "first-crowns-region",
+        "first-crowns-people",
+        "first-crowns-missions",
+        "first-crowns-fronts"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/first-crowns-missions.md",
+      "publish": true,
+      "order": 115,
+      "id": "first-crowns-missions",
+      "title": "문턱골의 첫 의뢰들 — 용사가 되기 전 네 사건",
+      "category": "롤플레잉",
+      "status": "초기 의뢰 4편 · 진행자 전용",
+      "updated": "2026-11-08",
+      "summary": "실종자와 문, 군량 회수대, 인질 가족, 숲과 칼의 네 시나리오. 장면·시계·진상·결말 갈래.",
+      "tags": [
+        "초기 임무",
+        "문턱골",
+        "진행자"
+      ],
+      "source": "문턱골 용사물 캠페인 구상. 기존 항로 시대 탐사대 2d6와 소엘 세션 구조를 활용한 진행 준비 초안",
+      "related": [
+        "first-crowns-play",
+        "first-crowns-region",
+        "first-crowns-people",
+        "first-crowns-fronts"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/first-crowns-fronts.md",
+      "publish": true,
+      "order": 116,
+      "id": "first-crowns-fronts",
+      "title": "문턱골 캠페인의 움직이는 세력과 진상",
+      "category": "롤플레잉",
+      "status": "진행자 전용 · S0",
+      "updated": "2026-11-08",
+      "summary": "마왕 에른과 지역 행위자들의 숨은 사실, 시계, 독립 목적, 첫 장면과 정보 접근 경로.",
+      "tags": [
+        "진행자",
+        "스포일러",
+        "S0",
+        "마왕"
+      ],
+      "source": "문턱골 용사물 캠페인 구상. 기존 항로 시대 탐사대 2d6와 소엘 세션 구조를 활용한 진행 준비 초안",
+      "related": [
+        "first-crowns-era",
+        "first-crowns-region",
+        "first-crowns-people",
+        "first-crowns-play",
+        "first-crowns-missions"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
     }
   ]
 }
