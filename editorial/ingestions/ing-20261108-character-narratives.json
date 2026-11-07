@@ -1,0 +1,112 @@
+{
+  "id": "ing-20261108-character-narratives",
+  "processed_on": "2026-11-08",
+  "coverage": "visible-complete",
+  "withheld_count": 0,
+  "items": [
+    {
+      "id": "k01",
+      "kind": "curation",
+      "title": "할머니의 길돌을 지닌 젊은 길잡이의 출발 전 배경 초안과 소엘 세션 이후 성장의 인물 서사",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "lian",
+          "section": "출발하기 전"
+        },
+        {
+          "doc_id": "lian",
+          "section": "물새호에서 보낸 날들"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "kind": "curation",
+      "title": "도하의 작업장과 노동, 물새호의 임대 위험, 계약 수정과 동료 관계를 이어 쓴 인물 서사",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "doha",
+          "section": "작업장을 갖기까지"
+        },
+        {
+          "doc_id": "doha",
+          "section": "남의 배와 자기 배 사이"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "kind": "curation",
+      "title": "고향과 형의 기억을 지닌 경계원의 배경 초안과 스스로 선택하고 교섭한 항해 이력",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "kai",
+          "section": "고향의 바람"
+        },
+        {
+          "doc_id": "kai",
+          "section": "돌아온 별에서 바람 끝까지"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "kind": "curation",
+      "title": "소엘의 서고 생활과 배경 초안, 세션 이후의 서사를 덧붙이고 시작 수치와 최신 저장 상태를 보존한 시트",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "soel-sheet",
+          "section": "서고 밖으로 나오기 전"
+        },
+        {
+          "doc_id": "soel-sheet",
+          "section": "배를 타고 읽은 것들"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "kind": "curation",
+      "title": "네 사람의 출발 상태와 소엘 플레이에서 쌓인 관계를 연속된 팀 서사로 정리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "mulsae-crew",
+          "section": "떠나기 전의 네 사람"
+        },
+        {
+          "doc_id": "mulsae-crew",
+          "section": "배에서 함께 보낸 시간"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "kind": "curation",
+      "title": "마델·네아·오르 반·하멜·토비·이든·사라의 선택을 사건 요약이 아닌 인물 서사로 정리",
+      "status": "integrated",
+      "targets": [
+        {
+          "doc_id": "baram-end-people",
+          "section": "마델"
+        },
+        {
+          "doc_id": "baram-end-people",
+          "section": "남은 손님들"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "kind": "question",
+      "title": "인물들의 새로 제안된 어린 시절 장면의 정본 채택 여부",
+      "status": "pending",
+      "targets": [],
+      "reason": "인물 해석을 풍부하게 하는 미확정 배경 초안으로 제시했으며 구체적 유년사와 가족사는 승인 전까지 확정하지 않는다"
+    }
+  ]
+}
