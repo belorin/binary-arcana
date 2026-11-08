@@ -134,7 +134,7 @@
 - **[항로 시대의 생활](wiki/route-era-life.md)** · 별칭: 항구 생활, 겹침날, 틈에나 빠져라 · 수정: 2026-11-06 · 상태: 룰북용 사전
   - 항구의 하루와 직업, 지역 음식, 말버릇과 욕, 미신과 금기, 겹침날 같은 축제, 놀이와 옛이야기, 지역마다의 분위기.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/route-era-life/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/route-era-life.md)
-- **[소엘 — 탐사대 기록관 시트](wiki/soel-sheet.md)** · 별칭: 소엘, 소엘 시트 · 수정: 2026-11-08 · 상태: 사용 중 · 인물 서사와 현재 수치 병기
+- **[소엘 — 탐사대 기록관 시트](wiki/soel-sheet.md)** · 별칭: 소엘, 소엘 시트 · 수정: 2026-11-09 · 상태: 사용 중 · 인물 서사와 현재 수치 병기
   - 소엘의 서고 생활과 배경 초안, 세션 이후의 서사를 덧붙이고 시작 수치와 최신 저장 상태를 보존한 시트
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-sheet/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-sheet.md)
 - **[소엘의 첫 의뢰 — 이름을 바꾼 배](wiki/soel-session-01.md)** · 별칭: 이름을 바꾼 배 세션, 소엘 첫 의뢰, 고리 7호 · 수정: 2026-11-05 · 상태: 진행함
@@ -161,6 +161,9 @@
 - **[시온 — 문턱골 길잡이 시트](wiki/sion-sheet.md)** · 별칭: 시온 시트 · 수정: 2026-11-08 · 상태: 진행함 · 중단
   - 문턱골 길잡이 시온의 첫 기울문 수선 세션 후 능력치, 사이, 자원 및 재개용 저장 상태.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/sion-sheet/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/sion-sheet.md)
+- **[소엘의 일곱째 의뢰 — 숨길의 명부, 동쪽 비탈의 숨구멍](wiki/soel-session-06.md)** · 별칭: 동쪽 비탈의 숨구멍, 숨길의 명부, 소엘 일곱째 의뢰 · 수정: 2026-11-09 · 상태: 진행함
+  - 고리운송의 자리 잡는 매듭을 막으며 숨길을 항로청 명부의 길로 세우고, 바람고원 동쪽 비탈 열네 집을 당기던 숨구멍의 옛 밧줄을 돌려보내는 매듭으로 재운 일곱째 의뢰.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/soel-session-06/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-06.md)
 
 ## 천체
 

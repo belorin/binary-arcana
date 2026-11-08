@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 978,
+  "edge_count": 989,
   "edges": [
     {
       "from": "welcome",
@@ -3554,6 +3554,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "soel-sheet",
+      "to": "soel-session-06",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "soel-session-01",
       "to": "soel-sheet",
       "type": "related_to",
@@ -5468,6 +5474,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "soel-session-05",
+      "to": "soel-session-06",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "first-crowns-era",
       "to": "demon-epoch-chronicle",
       "type": "related_to",
@@ -5704,6 +5716,60 @@
     {
       "from": "sion-sheet",
       "to": "first-crowns-play",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "soel-sheet",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "soel-session-05",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "rulebook",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "kai",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "lian",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "doha",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "gori-transport",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "route-era-places",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "baram-end-people",
       "type": "related_to",
       "basis": "manifest.related"
     },

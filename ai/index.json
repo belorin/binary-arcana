@@ -7,7 +7,7 @@
     "wiki/manifest.json",
     "wiki/relations.json"
   ],
-  "document_count": 130,
+  "document_count": 131,
   "documents": [
     {
       "id": "welcome",
@@ -2560,7 +2560,7 @@
       "summary": "소엘의 서고 생활과 배경 초안, 세션 이후의 서사를 덧붙이고 시작 수치와 최신 저장 상태를 보존한 시트",
       "review_state": "unassessed",
       "review_label": "사용 중 · 인물 서사와 현재 수치 병기",
-      "last_updated_on": "2026-11-08",
+      "last_updated_on": "2026-11-09",
       "last_enriched_on": "2026-11-08",
       "related_ids": [
         "rulebook",
@@ -2577,7 +2577,8 @@
         "promises-and-threads",
         "records-and-mediums",
         "soel-session-04",
-        "soel-session-05"
+        "soel-session-05",
+        "soel-session-06"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-sheet.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-sheet.md",
@@ -4166,7 +4167,8 @@
         "lian",
         "doha",
         "gori-transport",
-        "route-era-places"
+        "route-era-places",
+        "soel-session-06"
       ],
       "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-05.md",
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-05.md",
@@ -4401,6 +4403,47 @@
       "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/sion-sheet.md",
       "page_url": "https://belorin.github.io/binary-arcana/notes/sion-sheet/",
       "app_url": "https://belorin.github.io/binary-arcana/#sion-sheet"
+    },
+    {
+      "id": "soel-session-06",
+      "title": "소엘의 일곱째 의뢰 — 숨길의 명부, 동쪽 비탈의 숨구멍",
+      "aliases": [
+        "동쪽 비탈의 숨구멍",
+        "숨길의 명부",
+        "소엘 일곱째 의뢰"
+      ],
+      "category": "탐사대",
+      "tags": [
+        "소엘",
+        "세션",
+        "숨길",
+        "바람고원",
+        "숨구멍",
+        "세반",
+        "카이",
+        "고리운송",
+        "명부"
+      ],
+      "summary": "고리운송의 자리 잡는 매듭을 막으며 숨길을 항로청 명부의 길로 세우고, 바람고원 동쪽 비탈 열네 집을 당기던 숨구멍의 옛 밧줄을 돌려보내는 매듭으로 재운 일곱째 의뢰.",
+      "review_state": "unassessed",
+      "review_label": "진행함",
+      "last_updated_on": "2026-11-09",
+      "last_enriched_on": null,
+      "related_ids": [
+        "soel-sheet",
+        "soel-session-05",
+        "rulebook",
+        "kai",
+        "lian",
+        "doha",
+        "gori-transport",
+        "route-era-places",
+        "baram-end-people"
+      ],
+      "markdown_url": "https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/soel-session-06.md",
+      "github_url": "https://github.com/belorin/binary-arcana/blob/main/wiki/soel-session-06.md",
+      "page_url": "https://belorin.github.io/binary-arcana/notes/soel-session-06/",
+      "app_url": "https://belorin.github.io/binary-arcana/#soel-session-06"
     }
   ]
 }

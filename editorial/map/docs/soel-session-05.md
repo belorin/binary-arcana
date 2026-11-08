@@ -7,7 +7,7 @@
 - 요약: 스무 해 동안 틈에 갇힌 푸른실호를 엘리의 기다림으로 끌어낸 다섯째 의뢰와, 카이의 형 세반이 붙잡던 고리밑의 문을 넷의 매듭으로 이어받아 숨길을 연 여섯째 의뢰.
 - 태그: 소엘, 세션, 푸른실호, 엘리, 고리밑, 숨길, 세반, 카이
 - 수정일: 2026-11-08 · 실제 증보일: 미확인 · 검토: unassessed
-- 관련 문서: `soel-sheet`, `soel-session-04`, `mulsae-archivist-09`, `mulsae-archivist-10`, `mission-seeds`, `rulebook`, `kai`, `lian`, `doha`, `gori-transport`, `route-era-places`
+- 관련 문서: `soel-sheet`, `soel-session-04`, `mulsae-archivist-09`, `mulsae-archivist-10`, `mission-seeds`, `rulebook`, `kai`, `lian`, `doha`, `gori-transport`, `route-era-places`, `soel-session-06`
 
 ## 절 목차
 
