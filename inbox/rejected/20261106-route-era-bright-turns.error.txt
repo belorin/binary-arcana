@@ -1,2 +1,0 @@
-2026-11-06
-20261106-route-era-bright-turns.md: wiki/archmage-maren.md: expected exactly one heading '채택을 기다리는 사건·세부', found 0
