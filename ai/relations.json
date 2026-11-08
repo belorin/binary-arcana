@@ -11,7 +11,7 @@
     "challenges": "반론 제기",
     "supports": "논거 제공"
   },
-  "edge_count": 989,
+  "edge_count": 1005,
   "edges": [
     {
       "from": "welcome",
@@ -5222,6 +5222,12 @@
       "basis": "manifest.related"
     },
     {
+      "from": "mulsae-archivist",
+      "to": "soel-session-06",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
       "from": "mulsae-archivist-01",
       "to": "mulsae-archivist",
       "type": "related_to",
@@ -5770,6 +5776,96 @@
     {
       "from": "soel-session-06",
       "to": "baram-end-people",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "mulsae-archivist-11",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "mulsae-archivist-12",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "mulsae-archivist-13",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "mulsae-archivist-14",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "soel-session-06",
+      "to": "mulsae-archivist-15",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-11",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-11",
+      "to": "soel-session-06",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-12",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-12",
+      "to": "soel-session-06",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-13",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-13",
+      "to": "soel-session-06",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-14",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-14",
+      "to": "soel-session-06",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-15",
+      "to": "mulsae-archivist",
+      "type": "related_to",
+      "basis": "manifest.related"
+    },
+    {
+      "from": "mulsae-archivist-15",
+      "to": "soel-session-06",
       "type": "related_to",
       "basis": "manifest.related"
     },

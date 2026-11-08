@@ -3410,13 +3410,14 @@
         "gori-transport",
         "kyeol-society-and-research",
         "soel-session-04",
-        "soel-session-05"
+        "soel-session-05",
+        "soel-session-06"
       ],
       "aliases": [
         "물새호 이야기",
         "소엘의 이야기"
       ],
-      "updated": "2026-11-08",
+      "updated": "2026-11-09",
       "review_state": "unassessed",
       "last_enriched_on": null
     },
@@ -4415,13 +4416,148 @@
         "doha",
         "gori-transport",
         "route-era-places",
-        "baram-end-people"
+        "baram-end-people",
+        "mulsae-archivist-11",
+        "mulsae-archivist-12",
+        "mulsae-archivist-13",
+        "mulsae-archivist-14",
+        "mulsae-archivist-15"
       ],
       "aliases": [
         "동쪽 비탈의 숨구멍",
         "숨길의 명부",
         "소엘 일곱째 의뢰"
       ],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/mulsae-archivist-11.md",
+      "publish": true,
+      "order": 120,
+      "id": "mulsae-archivist-11",
+      "title": "물새호의 기록관 11장: 명부",
+      "category": "소설",
+      "status": "개고 · 11장",
+      "updated": "2026-11-09",
+      "summary": "숨길을 연 사흘째, 소엘은 맹약으로 웅덩이 너머 바람고원의 집안 매듭들을 보고, 고리운송과 맞서 길을 소유하지 않는 길잡이 명부를 구상하며, 마렌의 창고에서 자리 잡는 매듭이 든 봉인 상자를 읽는다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "마렌",
+        "명부",
+        "자리 잡는 매듭"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist",
+        "soel-session-06"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/mulsae-archivist-12.md",
+      "publish": true,
+      "order": 121,
+      "id": "mulsae-archivist-12",
+      "title": "물새호의 기록관 12장: 청장실",
+      "category": "소설",
+      "status": "개고 · 12장",
+      "updated": "2026-11-09",
+      "summary": "표석의 듣는 매듭에 엉뚱한 소리를 남기고 미로를 매듭에 들인 탐사대가, 세라와 연구회 금고 기록으로 서류철을 엮어 청장실 면담에서 명부의 길을 인정받지만, 마렌은 닫힌 문 뒤에 남는다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "청장",
+        "세라",
+        "듣는 매듭"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist",
+        "soel-session-06"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/mulsae-archivist-13.md",
+      "publish": true,
+      "order": 122,
+      "id": "mulsae-archivist-13",
+      "title": "물새호의 기록관 13장: 동쪽 비탈",
+      "category": "소설",
+      "status": "개고 · 13장",
+      "updated": "2026-11-09",
+      "summary": "세반을 데리고 바람고원에 간 소엘은 늘어진 문설주 매듭과 동쪽 바위의 숨구멍을 찾아 잘못된 확신을 품고, 이든의 노래와 의회, 기록고의 옛 기록을 지나 고원의 의뢰를 맡는다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "바람고원",
+        "숨구멍",
+        "이든"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist",
+        "soel-session-06"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/mulsae-archivist-14.md",
+      "publish": true,
+      "order": 123,
+      "id": "mulsae-archivist-14",
+      "title": "물새호의 기록관 14장: 얼음벽",
+      "category": "소설",
+      "status": "개고 · 14장",
+      "updated": "2026-11-09",
+      "summary": "길잡이 다섯을 더해 열 가닥이 된 숨길의 매듭에서 레이의 맹약소 계약을 엿듣고, 얼음벽의 옛 밧줄이 열네 집을 당기던 까닭을 읽어 낸 소엘이 세반과 함께 첫 돌려보내는 매듭을 묶는다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "얼음벽",
+        "레이",
+        "세반"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist",
+        "soel-session-06"
+      ],
+      "aliases": [],
+      "review_state": "unassessed",
+      "last_enriched_on": null
+    },
+    {
+      "path": "wiki/mulsae-archivist-15.md",
+      "publish": true,
+      "order": 124,
+      "id": "mulsae-archivist-15",
+      "title": "물새호의 기록관 15장: 돌려보내는 매듭",
+      "category": "소설",
+      "status": "개고 · 15장",
+      "updated": "2026-11-09",
+      "summary": "굴을 오른 카이와 리안이 가져온 열네 집의 매듭으로 옛 밧줄을 재우고, 말을 빼앗긴 레이의 고갯짓과 계약 사본을 손에 쥔 채 고원의 의뢰를 마친다.",
+      "tags": [
+        "소설",
+        "소엘",
+        "돌려보내는 매듭",
+        "레이",
+        "바람고원"
+      ],
+      "source": "탐사대 룰북 세션(사용자가 소엘을 맡고 Claude가 진행)을 Claude가 소설로 개고",
+      "related": [
+        "mulsae-archivist",
+        "soel-session-06"
+      ],
+      "aliases": [],
       "review_state": "unassessed",
       "last_enriched_on": null
     }

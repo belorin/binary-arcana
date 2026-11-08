@@ -317,7 +317,7 @@
 - **[첫 문 — 길잡이 면허 시험](wiki/first-gate.md)** · 별칭: 길잡이 면허 시험, 참새호, 주아와 미르 · 수정: 2026-11-05 · 상태: 맛보기 소설 · 정본
   - 신참 길잡이 주아가 연습선 참새호로 그늘역에서 늪항까지 처음 항로를 열고, 틈에서 일 분을 버티는 면허 시험. 이름을 부르는 목소리와 등 꺼진 화물선.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/first-gate/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/first-gate.md)
-- **[물새호의 기록관](wiki/mulsae-archivist.md)** · 별칭: 물새호 이야기, 소엘의 이야기 · 수정: 2026-11-08 · 상태: 연재 중 · 롤플레잉 개작
+- **[물새호의 기록관](wiki/mulsae-archivist.md)** · 별칭: 물새호 이야기, 소엘의 이야기 · 수정: 2026-11-09 · 상태: 연재 중 · 롤플레잉 개작
   - 물새호의 기록관 소엘이 이름을 빼앗긴 배, 소리를 받아 적는 소금 평원, 쫓기는 것만 내보내는 문그늘을 지나며 약속의 무게를 배우는 항로 시대 탐사 소설. 탐사대 룰북 세션을 개고했다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist.md)
 - **[물새호의 기록관 1장: 이름을 바꾼 배](wiki/mulsae-archivist-01.md)** · 수정: 2026-11-06 · 상태: 개고 · 1장
@@ -350,6 +350,21 @@
 - **[물새호의 기록관 10장: 숨길](wiki/mulsae-archivist-10.md)** · 수정: 2026-11-08 · 상태: 개고 · 10장
   - 고리밑에 첫 개척 항로를 연 탐사대가 여섯 해 동안 문을 붙잡아 온 카이의 형 세반을 찾아내고, 그 끝을 넷의 매듭으로 이어받아 숨길을 지도에 올린다.
   - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-10/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-10.md)
+- **[물새호의 기록관 11장: 명부](wiki/mulsae-archivist-11.md)** · 수정: 2026-11-09 · 상태: 개고 · 11장
+  - 숨길을 연 사흘째, 소엘은 맹약으로 웅덩이 너머 바람고원의 집안 매듭들을 보고, 고리운송과 맞서 길을 소유하지 않는 길잡이 명부를 구상하며, 마렌의 창고에서 자리 잡는 매듭이 든 봉인 상자를 읽는다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-11/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-11.md)
+- **[물새호의 기록관 12장: 청장실](wiki/mulsae-archivist-12.md)** · 수정: 2026-11-09 · 상태: 개고 · 12장
+  - 표석의 듣는 매듭에 엉뚱한 소리를 남기고 미로를 매듭에 들인 탐사대가, 세라와 연구회 금고 기록으로 서류철을 엮어 청장실 면담에서 명부의 길을 인정받지만, 마렌은 닫힌 문 뒤에 남는다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-12/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-12.md)
+- **[물새호의 기록관 13장: 동쪽 비탈](wiki/mulsae-archivist-13.md)** · 수정: 2026-11-09 · 상태: 개고 · 13장
+  - 세반을 데리고 바람고원에 간 소엘은 늘어진 문설주 매듭과 동쪽 바위의 숨구멍을 찾아 잘못된 확신을 품고, 이든의 노래와 의회, 기록고의 옛 기록을 지나 고원의 의뢰를 맡는다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-13/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-13.md)
+- **[물새호의 기록관 14장: 얼음벽](wiki/mulsae-archivist-14.md)** · 수정: 2026-11-09 · 상태: 개고 · 14장
+  - 길잡이 다섯을 더해 열 가닥이 된 숨길의 매듭에서 레이의 맹약소 계약을 엿듣고, 얼음벽의 옛 밧줄이 열네 집을 당기던 까닭을 읽어 낸 소엘이 세반과 함께 첫 돌려보내는 매듭을 묶는다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-14/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-14.md)
+- **[물새호의 기록관 15장: 돌려보내는 매듭](wiki/mulsae-archivist-15.md)** · 수정: 2026-11-09 · 상태: 개고 · 15장
+  - 굴을 오른 카이와 리안이 가져온 열네 집의 매듭으로 옛 밧줄을 재우고, 말을 빼앗긴 레이의 고갯짓과 계약 사본을 손에 쥔 채 고원의 의뢰를 마친다.
+  - [문서 페이지](https://belorin.github.io/binary-arcana/notes/mulsae-archivist-15/) · [직접 Markdown](https://raw.githubusercontent.com/belorin/binary-arcana/main/wiki/mulsae-archivist-15.md)
 
 ## 롤플레잉
 
