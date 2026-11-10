@@ -55,8 +55,20 @@ assert.match(go("#b"), /연결된 글.*가 문서/s, "backlinks are shown");
 assert.match(go("#about"), /소개 제목.*안내 — 가 문서/s);
 assert.match(go("#calendar"), /달력을 쓸 수 없습니다/);
 search.value = "나 요약";
-assert.match(go("#all"), /1개 문서 · 검색어/);
+html = go("#all");
+assert.match(html, /2개 문서 · 검색어/, "every word must appear, anywhere in the document");
+assert.ok(html.indexOf("#b") < html.indexOf("#a"), "title and phrase hits rank first");
+assert.match(html, /<mark>나<\/mark> 문서/, "matches are marked");
+search.value = "코드 강조";
+html = go("#all");
+assert.match(html, /1개 문서/);
+assert.match(html, /list-snippet">[^<]*본문 나 링크와 <mark>강조<\/mark>\. &lt;<mark>코드<\/mark>&gt;/, "body hits show the passage, without Markdown marks");
+search.value = "없는말 요약";
+assert.match(go("#all"), /0개 문서/);
 search.value = "";
+assert.equal(context.document.title, "전체 문서 · 시험 위키", "the tab title follows the page");
+go("#a");
+assert.equal(context.document.title, "가 문서 · 시험 위키");
 assert.match(go("#nothing"), /문서를 찾을 수 없습니다/);
 // Configured home: hero, cards (missing ids skipped), topics with empty ones, recent.
 const homeSite = { ...site, home: { hero: { title: "세계", lead: "소개", actions: [{ href: "#a", label: "가" }, { href: "#nope", label: "없음" }] },
@@ -75,4 +87,18 @@ assert.match(html, /home-card-kicker">K<.*나 문서/s);
 assert.doesNotMatch(html, /missing/);
 assert.match(html, /data-topic="하나"/);
 assert.equal((html.match(/<li>/g) || []).length, 1, "recent honours its limit");
-console.log("OK: viewer renders home, topics, article, about, search and fallbacks");
+// Numbered chapters link to their neighbours and up to the work.
+const chapters = ["tale", "tale-01", "tale-02", "tale-03", "solo-01"].map(id => ({ id, title: id + " 제목", category: "하나", status: "초고",
+  updated: "2026-01-01", summary: "", tags: [], source: "", related: [], body: "본문" }));
+const view3 = element(), listeners3 = {};
+const location3 = { hash: "" };
+vm.runInNewContext(fs.readFileSync("app.js", "utf8"), { ...context, document: { ...context.document, querySelector: s => ({ ...nodes, "#view": view3, "#filters": element() })[s] },
+  window: { ...context.window, addEventListener: (k, f) => { listeners3[k] = f; } }, location: location3,
+  fetch: async () => ({ ok: true, json: async () => ({ site, notes: chapters }) }) }, { filename: "app.js", timeout: 5000 });
+await new Promise(resolve => setImmediate(resolve));
+const open = hash => { location3.hash = hash; listeners3.hashchange(); return view3.innerHTML; };
+assert.match(open("#tale-02"), /series-prev" href="#tale-01".*series-next" href="#tale-03".*series-up" href="#tale">tale 제목 · 2 \/ 3</s);
+assert.doesNotMatch(open("#tale-01"), /series-prev" href/, "the first chapter has no previous link");
+assert.doesNotMatch(open("#solo-01"), /series-nav/, "a lone numbered document is not a series");
+assert.doesNotMatch(open("#tale"), /series-nav/);
+console.log("OK: viewer renders home, topics, article, series, about, search and fallbacks");

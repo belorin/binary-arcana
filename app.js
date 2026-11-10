@@ -13,6 +13,14 @@ let site = {url: '/', repo: '', branch: 'main', categories: [], home: {}, about:
 let notes = [];
 let category = ALL;
 let randomPick = null;
+let shown = null, fresh = false;
+const scrolls = new Map();
+if (typeof history !== 'undefined') history.scrollRestoration = 'manual';
+function go(hash) {
+  if (location.hash === hash) return render();
+  fresh = true;
+  location.hash = hash;
+}
 
 const repoFile = (kind, id) => 'https://github.com/' + site.repo + '/' + kind + '/' + site.branch +
   '/wiki/' + encodeURIComponent(id) + '.md';
@@ -48,9 +56,76 @@ const permalink = id => '#' + encodeURIComponent(id);
 const sorted = items => items.slice().sort((a,b) =>
   b.updated.localeCompare(a.updated) || notes.indexOf(b) - notes.indexOf(a));
 const normalized = s => String(s ?? '').normalize('NFKC').toLocaleLowerCase('ko');
-const textMatch = note => normalized([
-  note.title, note.summary, note.body, note.category, ...(note.tags || [])
-].join(' ')).includes(normalized(search.value.trim()));
+// Search: every word of the query must appear somewhere in the document. Title
+// hits rank above summary/tag hits, those above body hits, and the whole phrase
+// above scattered words; ties fall back to the newest first.
+const searchCache = new Map();
+function searchFields(note) {
+  let f = searchCache.get(note);
+  if (!f) {
+    const plain = String(note.body ?? '').normalize('NFKC').replace(/```/g, ' ')
+      .replace(/!?\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/^\s*(?:#{1,6}|>|[-*+]|:::)\s*/gm, '')
+      .replace(/\*+|`/g, '').replace(/\||:?-{3,}:?/g, ' ').replace(/\s+/g, ' ').trim();
+    f = {title: normalized(note.title), meta: normalized([note.summary, note.category, ...(note.tags || [])].join(' ')),
+      plain, body: plain.toLocaleLowerCase('ko')};
+    searchCache.set(note, f);
+  }
+  return f;
+}
+const searchTerms = () => [...new Set(normalized(search.value).split(/\s+/).filter(Boolean))];
+function searchScore(note, terms) {
+  const f = searchFields(note);
+  let score = 0;
+  for (const t of terms) {
+    const s = (f.title.includes(t) ? 8 : 0) + (f.meta.includes(t) ? 3 : 0) + (f.body.includes(t) ? 1 : 0);
+    if (!s) return 0;
+    score += s;
+  }
+  const phrase = terms.join(' ');
+  if (terms.length > 1) score += f.title.includes(phrase) ? 8 : f.meta.includes(phrase) ? 3 : f.body.includes(phrase) ? 2 : 0;
+  return score;
+}
+function highlight(text, terms) {
+  const value = String(text ?? '');
+  if (!terms.length) return esc(value);
+  const matcher = new RegExp(terms.slice().sort((a, b) => b.length - a.length)
+    .map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|'), 'gi');
+  let result = '', cursor = 0, match;
+  while ((match = matcher.exec(value)) !== null && match[0]) {
+    result += esc(value.slice(cursor, match.index)) + '<mark>' + esc(match[0]) + '</mark>';
+    cursor = matcher.lastIndex;
+  }
+  return result + esc(value.slice(cursor));
+}
+// The passage of the body around the first word the title and summary do not show.
+function searchSnippet(note, terms) {
+  const f = searchFields(note);
+  if (f.body.length !== f.plain.length) return '';
+  const shown = normalized(note.title + ' ' + note.summary);
+  const term = terms.find(t => !shown.includes(t) && f.body.includes(t));
+  if (!term) return '';
+  const at = f.body.indexOf(term), from = Math.max(0, at - 40), to = Math.min(f.plain.length, at + term.length + 80);
+  return (from ? '… ' : '') + highlight(f.plain.slice(from, to), terms) + (to < f.plain.length ? ' …' : '');
+}
+// Chapters of one work share an id and end in a number (work-01, work-02 …):
+// they get previous/next links, and a link up when a document has the bare id.
+function seriesNav(note) {
+  const m = /^(.+)-(\d+)$/.exec(note.id);
+  if (!m) return '';
+  const number = n => Number(n.id.slice(m[1].length + 1));
+  const parts = notes.filter(n => n.id.startsWith(m[1] + '-') && /^\d+$/.test(n.id.slice(m[1].length + 1)))
+    .sort((a, b) => number(a) - number(b));
+  const at = parts.indexOf(note), up = byId(m[1]);
+  if (parts.length < 2 || at < 0) return '';
+  const cell = (n, kind, label) => n
+    ? '<a class="series-' + kind + '" href="' + permalink(n.id) + '"><span class="series-label">' + label +
+      '</span><span class="series-title">' + esc(n.title) + '</span></a>'
+    : '<span class="series-' + kind + '"></span>';
+  return '<nav class="series-nav" aria-label="이어 읽기">' + cell(parts[at - 1], 'prev', '← 이전') +
+    cell(parts[at + 1], 'next', '다음 →') +
+    (up ? '<a class="series-up" href="' + permalink(up.id) + '">' + esc(up.title) + ' · ' + (at + 1) + ' / ' + parts.length + '</a>' : '') +
+    '</nav>';
+}
 
 function plainInline(text) {
   return esc(text).replace(/`([^`]+)`/g,'<code>$1</code>')
@@ -203,7 +278,7 @@ function pickRandom(except) {
 function goRandom() {
   const current = validId(location.hash.slice(1)) ? location.hash.slice(1) : null;
   const chosen = pickRandom(current);
-  if (chosen) location.hash = permalink(chosen.id);
+  if (chosen) go(permalink(chosen.id));
 }
 // Topics follow the order in site.config.json "categories", then size.
 function categoryOrder(a, b, counts) {
@@ -226,8 +301,7 @@ function showFilters() {
     button.addEventListener('click', () => {
       category = name;
       showFilters();
-      if (location.hash !== '#all') location.hash = '#all';
-      else render();
+      go('#all');
     });
     filters.append(button);
   }
@@ -304,16 +378,21 @@ function home() {
     '</ul></section>';
 }
 function listing() {
-  const q = search.value.trim();
-  const matches = sorted(notes.filter(n => (category === ALL || n.category === category) && (!q || textMatch(n))));
+  const q = search.value.trim(), terms = searchTerms();
+  const pool = sorted(notes.filter(n => category === ALL || n.category === category));
+  const matches = terms.length
+    ? pool.map(n => [n, searchScore(n, terms)]).filter(([, s]) => s).sort((a, b) => b[1] - a[1]).map(([n]) => n)
+    : pool;
   view.innerHTML =
     '<div class="page-heading"><h1>' + (q ? '검색 결과' : category === ALL ? '전체 문서' : esc(category)) +
-    '</h1><p>' + matches.length + '개 문서' + (q ? ' · 검색어: ' + esc(q) : '') + '</p></div>' +
+    '</h1><p>' + matches.length + '개 문서' + (q ? ' · 검색어: ' + esc(q) : '') +
+    (q && category !== ALL ? ' · 주제: ' + esc(category) + ' <button type="button" class="link-button" data-topic="' + ALL + '">전체에서 찾기</button>' : '') + '</p></div>' +
     (matches.length
       ? matches.map(n => '<div class="list-item"><div class="meta">' + esc(n.category) +
         ' · ' + esc(n.updated) + '</div><h2><a href="' + permalink(n.id) + '">' +
-        esc(n.title) + '</a></h2><p>' + esc(n.summary) + '</p></div>').join('')
-      : '<div class="empty">해당하는 문서가 없습니다. 검색어나 주제를 변경해 보세요.</div>');
+        highlight(n.title, terms) + '</a></h2><p>' + highlight(n.summary, terms) + '</p>' +
+        (terms.length && searchSnippet(n, terms) ? '<p class="list-snippet">' + searchSnippet(n, terms) + '</p>' : '') + '</div>').join('')
+      : '<div class="empty">해당하는 문서가 없습니다. 검색어를 줄이거나 주제를 바꿔 보세요. 띄어 쓴 낱말은 모두 들어 있는 문서만 찾습니다.</div>');
 }
 function article(note) {
   const rendered = renderMarkdown(note.body, note.id);
@@ -345,7 +424,7 @@ function article(note) {
     '<a href="' + repoFile('commits', note.id) + '" target="_blank" rel="noopener noreferrer">개정 이력 ↗</a>' +
     '<a href="' + repoFile('edit', note.id) + '" target="_blank" rel="noopener noreferrer">고치기 ✎</a>' +
     '<button type="button" data-random>무작위 글 ↝</button></div></header>' +
-    toc + '<div class="prose">' + rendered.html + '</div>' + related +
+    toc + '<div class="prose">' + rendered.html + '</div>' + seriesNav(note) + related +
     (note.source ? '<p class="reader-source">자료·검토 표기: ' + esc(note.source) + '</p>' : '') +
     discussion + '</article>';
   loadComments();
@@ -372,7 +451,11 @@ function render() {
   }
   view.setAttribute('aria-busy','false');
   const hash = decodeURIComponent(location.hash.slice(1));
-  setExploreOpen(!byId(hash));
+  shown = location.hash;
+  // On phones the search panel opens with the listing; elsewhere it stays folded.
+  setExploreOpen(hash === 'all');
+  const heading = byId(hash)?.title || {all: '전체 문서', about: '소개', calendar: '달력'}[hash];
+  document.title = (heading ? heading + ' · ' : '') + site.name;
   document.body?.classList.toggle('wide', hash === 'calendar');
   if (!hash) home();
   else if (hash === 'all') listing();
@@ -391,7 +474,8 @@ view.addEventListener('click', event => {
   else if (target.hasAttribute('data-topic')) {
     category = target.getAttribute('data-topic');
     showFilters();
-    location.hash = '#all';
+    go('#all');
+    window.scrollTo({top:0,behavior:'instant'});
   }
   else if (target.hasAttribute('data-random')) goRandom();
   else if (target.hasAttribute('data-copy')) copyLink(target);
@@ -410,13 +494,24 @@ function copyLink(button) {
   else manual();
 }
 randomButton.addEventListener('click', goRandom);
-search.addEventListener('input', () => {
-  if (location.hash !== '#all') location.hash = '#all';
-  else render();
-});
+search.addEventListener('input', () => go('#all'));
+// A link or a control opens a page at its top; Back and Forward return to where
+// the reader was. Positions are remembered per address while the page is open.
+window.addEventListener('scroll', () => { if (location.hash === shown) scrolls.set(shown, window.scrollY); }, {passive: true});
+document.addEventListener('click', event => {
+  const link = event.target.closest?.('a[href^="#"]');
+  if (!link || event.button || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+  fresh = link.hash !== location.hash;
+  if (link.closest('.top-nav') && link.getAttribute('href') === '#all' && (category !== ALL || search.value)) {
+    category = ALL; search.value = ''; showFilters();
+    if (location.hash === '#all') render();
+  }
+}, true);
 window.addEventListener('hashchange', () => {
+  const top = fresh ? 0 : scrolls.get(location.hash) || 0;
+  fresh = false;
   render();
-  window.scrollTo({top:0,behavior:'instant'});
+  window.scrollTo({top,behavior:'instant'});
 });
 document.addEventListener('keydown', event => {
   if (event.key === '/' && !event.metaKey && !event.ctrlKey && !event.altKey &&

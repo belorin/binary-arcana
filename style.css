@@ -95,6 +95,9 @@ button.home-topic:hover{background:var(--light);border-color:color-mix(in srgb,v
 .list-item h2{font-size:19px;letter-spacing:-.4px;margin:5px 0;line-height:1.45}
 .list-item a:hover{text-decoration:underline}
 .list-item p{font-size:13px;margin:6px 0;color:var(--muted)}
+.list-item .list-snippet{font-size:12.5px;line-height:1.7;border-left:2px solid var(--line);padding-left:10px;margin-top:8px}
+mark{background:color-mix(in srgb,#f4d36b 55%,transparent);color:inherit;border-radius:2px;padding:0 1px}
+.page-heading .link-button{margin-left:4px}
 .empty{padding:30px 0;color:var(--muted);font-size:14px}
 .reader .back{display:inline-flex;align-items:center;gap:5px;font-size:12px;color:var(--muted);margin-bottom:17px}
 .reader .back:hover{text-decoration:underline}
@@ -108,9 +111,9 @@ button.home-topic:hover{background:var(--light);border-color:color-mix(in srgb,v
 .reader-tools a:hover,.reader-tools button:hover{text-decoration:underline}
 .toc{background:var(--soft);border:1px solid var(--line);border-radius:8px;margin:18px 0 29px;padding:0 15px}
 .toc summary{cursor:pointer;padding:10px 0;font-size:13px;font-weight:650;color:var(--ink)}
-.toc ol{columns:2;column-gap:28px;margin:0;padding:0 0 14px 21px;list-style:decimal}
+.toc ol{columns:2;column-gap:28px;margin:0;padding:0 0 14px 2px;list-style:none}
 .toc li{font-size:12px;line-height:1.6;break-inside:avoid;padding:3px 4px 3px 0}
-.toc li.nested{margin-left:12px}
+.toc li.nested{margin-left:14px}
 .toc button{border:0;background:none;text-align:left;font-size:12px;color:var(--muted);line-height:1.55;padding:0}
 .toc button:hover{color:var(--accent);text-decoration:underline}
 .prose{font-size:15px;line-height:1.95;overflow-wrap:anywhere}
@@ -141,6 +144,15 @@ button.home-topic:hover{background:var(--light);border-color:color-mix(in srgb,v
 .prose .align-left{text-align:left}
 .prose .align-center{text-align:center}
 .prose .align-right{text-align:right}
+.series-nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin-top:42px;padding-top:20px;border-top:1px solid var(--line)}
+.series-nav a{border:1px solid var(--line);background:var(--paper);border-radius:8px;padding:11px 14px;display:flex;flex-direction:column;gap:2px}
+.series-nav a:hover{background:var(--light);border-color:color-mix(in srgb,var(--accent) 35%,var(--line))}
+.series-nav .series-next{text-align:right}
+.series-label{font-size:11px;font-weight:700;color:var(--accent)}
+.series-title{font-size:13.5px;line-height:1.5;font-weight:600}
+.series-nav a.series-up{grid-column:1/-1;border:0;background:none;padding:2px 0;text-align:center;font-size:12px;color:var(--muted)}
+.series-nav a.series-up:hover{background:none;color:var(--accent);text-decoration:underline}
+.series-nav + .reader-bottom{margin-top:26px}
 .reader-bottom{margin-top:42px;padding-top:20px;border-top:1px solid var(--line)}
 .reader-bottom h2{font-size:15px;margin:0 0 13px}
 .comments .giscus{min-height:120px}
@@ -238,6 +250,7 @@ button.home-topic:hover{background:var(--light);border-color:color-mix(in srgb,v
  .toc button{min-height:44px;font-size:14px;padding:7px 0;width:100%}
  .toc ol{columns:1}
  .prose{font-size:16px;line-height:1.9}
+ .series-nav a.series-up{min-height:44px;justify-content:center}
  .link-strong{display:inline-flex;align-items:center;min-height:44px;font-size:14px}
  .outline-button{min-height:44px;font-size:14px}
 }
@@ -256,6 +269,7 @@ button.home-topic:hover{background:var(--light);border-color:color-mix(in srgb,v
  .random-card p{font-size:14px}
  .random-card .outline-button{align-self:flex-end}
  .related-grid{grid-template-columns:1fr}
+ .series-title{font-size:13px}
  .toc ol{columns:1}
  .reader-header h1{font-size:25px}
  .compact-list a{flex-direction:column;gap:4px;padding:14px 0}
@@ -266,7 +280,7 @@ button.home-topic:hover{background:var(--light);border-color:color-mix(in srgb,v
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 @media print{
- .site-header,.sidebar,.site-footer,.reader-tools,.reader .back,.toc{display:none!important}
+ .site-header,.sidebar,.site-footer,.reader-tools,.reader .back,.toc,.series-nav{display:none!important}
  .layout{display:block;padding:0;min-height:0}
  .main-view{max-width:none}
  .reader-header{break-after:avoid}
